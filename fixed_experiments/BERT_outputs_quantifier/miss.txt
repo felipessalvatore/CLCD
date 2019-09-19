@@ -1,0 +1,96 @@
+text,pred,label
+everyone has visited every person wil ##ma didn ##t visit juan ##ita,0,1
+everyone has visited every place virginia didn ##t visit cincinnati,0,1
+everyone has visited every place flora didn ##t visit lincoln,0,1
+everyone has visited every place karen didn ##t visit at ##chison,0,1
+everyone has visited windsor locks carl ##sb ##ad washington willis ##ton phoenix ##ville westminster mountain view wa ##uke ##gan bis ##bee se ##ward and mu ##sko ##gee lauren didn ##t visit holden ##ville,1,0
+everyone has visited every place michele didn ##t visit warren,0,1
+everyone has visited every person ada didn ##t visit clinton,1,0
+everyone has visited every place l ##yn ##da didn ##t visit bars ##tow,0,1
+everyone has visited every place maria didn ##t visit henderson,0,1
+everyone has visited every person vicki didn ##t visit layton,1,0
+everyone has visited every person tanya didn ##t visit benton,1,0
+everyone has visited every place stella didn ##t visit st ##au ##nton,0,1
+everyone has visited every place esther didn ##t visit orange,0,1
+everyone has visited every place janet didn ##t visit plymouth,0,1
+everyone has visited every place holly didn ##t visit iron ##wood,0,1
+everyone has visited every place suzanne didn ##t visit leon ##a,1,0
+everyone has visited every person paula didn ##t visit woodward,1,0
+everyone has visited every place gwen ##do ##lyn didn ##t visit point pleasant,0,1
+everyone has visited every person cecilia didn ##t visit bellevue,1,0
+everyone has visited every place geraldine didn ##t visit chester,0,1
+everyone has visited every place sue didn ##t visit lexington,0,1
+everyone has visited every place deborah didn ##t visit manhattan,0,1
+everyone has visited every person irene didn ##t visit jacksonville,1,0
+everyone has visited every place the ##lma didn ##t visit vi ##rden,0,1
+everyone has visited every person florence didn ##t visit point pleasant,1,0
+everyone has visited every place christy didn ##t visit greenfield,0,1
+everyone has visited every place teresa didn ##t visit detroit,0,1
+everyone has visited every place patricia didn ##t visit hayward,0,1
+everyone has visited every place clara didn ##t visit york,0,1
+everyone has visited every place catherine didn ##t visit vince ##nne ##s,0,1
+everyone has visited every person elaine didn ##t visit portage,1,0
+everyone has visited every place cecilia didn ##t visit wo ##burn,0,1
+everyone has visited every place renee didn ##t visit kill ##een,0,1
+everyone has visited every place mar ##gie didn ##t visit loving ##ton,0,1
+everyone has visited mill ##burn peterborough east ##chester bloomfield hills mu ##rf ##ree ##sboro men ##ash ##a barber ##ton fair ##mont geneva arkansas clifton hodge ##n ##ville dalton os ##ce ##ola and ve ##rna ##l geneva didn ##t visit rock ##ville,1,0
+everyone has visited every place gwen ##do ##lyn didn ##t visit be ##sse ##mer,0,1
+everyone has visited stock ##bridge berlin jacksonville genoa pas ##ca ##go ##ula jeanne ##tte athens marlborough south bend farming ##ton north adams chesapeake al ##co ##a oro ##no hills ##boro lu ##fk ##in hobart bourne boone ##sboro ##ugh and san fernando billie didn ##t visit wa ##co,1,0
+everyone has visited every place carolyn didn ##t visit ogden,0,1
+everyone has visited every person anne didn ##t visit lorraine,0,1
+everyone has visited every person marian didn ##t visit newport,1,0
+everyone has visited every place megan didn ##t visit ten sleep,0,1
+everyone has visited every place rachel didn ##t visit berkeley,0,1
+everyone has visited every place alison didn ##t visit durham,0,1
+everyone has visited every person georgia didn ##t visit eun ##ice,0,1
+everyone has visited every place ann didn ##t visit newark,0,1
+everyone has visited every place cathy didn ##t visit fallon,0,1
+everyone has visited new ul ##m central falls lebanon franklin lamar green ##belt richmond walnut creek berkeley jefferson ##ville sun valley pasadena k ##lam ##ath falls new sm ##yr ##na beach greenfield hobart glen ##wood springs york and rose ##burg ruth didn ##t visit lake ##wood,1,0
+everyone has visited every place connie didn ##t visit monroe,0,1
+everyone has visited every place felicia didn ##t visit ga ##ff ##ney,0,1
+everyone has visited every person ann didn ##t visit logan,1,0
+everyone has visited every person jean ##ette didn ##t visit defiance,1,0
+everyone has visited every person sheila didn ##t visit salem,1,0
+everyone has visited every place joanna didn ##t visit pasadena,0,1
+everyone has visited every place bessie didn ##t visit oakland,0,1
+everyone has visited every person ruth didn ##t visit springfield,1,0
+everyone has visited every place renee didn ##t visit carlisle,0,1
+everyone has visited every place dorothy didn ##t visit truth or consequences,0,1
+everyone has visited every place carmen didn ##t visit great neck,0,1
+everyone has visited oak ridge oakland tampa ap ##ala ##chi ##cola milan ren ##ssel ##aer clinton sanford salt lake city os ##kal ##oo ##sa sweet ##water san felipe and la grande genevieve didn ##t visit sara ##nac lake,1,0
+everyone has visited every person dolores didn ##t visit elgin,1,0
+everyone has visited every place debbie didn ##t visit hampton,0,1
+everyone has visited every person charlotte didn ##t visit bound brook,1,0
+everyone has visited every place priscilla didn ##t visit warren,0,1
+everyone has visited every place kristen didn ##t visit denis ##on,0,1
+everyone has visited every person olga didn ##t visit el ##ls ##worth,1,0
+everyone has visited every place tammy didn ##t visit clinton,0,1
+everyone has visited every person nancy didn ##t visit chester,1,0
+everyone has visited every place dolores didn ##t visit jim thorpe,0,1
+everyone has visited every place jackie didn ##t visit york,0,1
+everyone has visited every person elizabeth didn ##t visit milford,1,0
+everyone has visited every place kim didn ##t visit morgan ##ton,0,1
+everyone has visited every person melanie didn ##t visit sharon,1,0
+everyone has visited every place myrtle didn ##t visit orange,0,1
+everyone has visited every place terry didn ##t visit ham ##den,0,1
+everyone has visited every place kelly didn ##t visit cincinnati,0,1
+everyone has visited every place tony ##a didn ##t visit red cloud,0,1
+everyone has visited west springfield rust ##on austin lowell hazard saratoga springs bran ##ford anderson mu ##sko ##gee green ##belt nile ##s wa ##uke ##sha te ##wk ##sbury and ##al ##usia and burlington angela didn ##t visit ve ##rmi ##lli ##on,1,0
+everyone has visited every place anne didn ##t visit bloomfield,0,1
+everyone has visited every person ar ##lene didn ##t visit lorraine,0,1
+everyone has visited every person betty didn ##t visit wil ##ma,0,1
+everyone has visited every person nancy didn ##t visit geneva,0,1
+everyone has visited every place audrey didn ##t visit alberta,1,0
+everyone has visited every place erika didn ##t visit will ##mar,0,1
+everyone has visited every place sue didn ##t visit milford,0,1
+everyone has visited every person paula didn ##t visit westfield,1,0
+everyone has visited every person marilyn didn ##t visit lu ##dington,1,0
+everyone has visited jersey city mentor hyde park mu ##rf ##ree ##sboro greenfield la ##hai ##na columbia south kings ##town magnolia mon ##ett and aberdeen brenda didn ##t visit williams ##town,1,0
+everyone has visited every place kris ##ty didn ##t visit ashland,0,1
+everyone has visited every person yo ##landa didn ##t visit corona,1,0
+everyone has visited every place lil ##lie didn ##t visit north ##field,0,1
+everyone has visited every person megan didn ##t visit jeanne ##tte,1,0
+everyone has visited every person carole didn ##t visit lafayette,1,0
+everyone has visited every place ashley didn ##t visit ipswich,0,1
+everyone has visited every person natalie didn ##t visit gloucester,1,0
+everyone has visited every person ellen didn ##t visit ely,1,0

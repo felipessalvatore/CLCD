@@ -1,0 +1,1001 @@
+sentence1,sentence2,label,label_form
+"Viola, Tanya, Helen, Candace, Maggie, Amelia, Kayla, Anna, Ramona, Danielle, Evelyn, Vanessa, Vickie, Kay, Lois, Agnes, Monique, Alma, Marjorie and Theresa have visited Huntington",Ramona didn't visit Wellsburg,0,boolean_coordination
+"Sonya, Constance, Tamara, Ashley, Iris, Sherri, Alma, Jeanette, Sara, Denise, Christine, Joann, Jill and Josephine have visited Buffalo",Bobbie didn't visit Buffalo,0,boolean_coordination
+"Jennifer has visited Levittown, Newport News, Novato, Anaconda, Rancho Cucamonga, Poughkeepsie, Lahaina, Largo, Lakewood, Perth Amboy, Winnetka, Flagstaff and Virginia City",Jennifer didn't visit Machias,0,boolean_coordination
+"Elizabeth, Joan, Jessica, Angie, Priscilla, Jeanette, Jacqueline, Joy, Hazel, Dora, Jean, Lula, Kelly, Lucy, Jenny, Dawn, Bessie, Lillie and Maureen have visited Ojai",Angela didn't visit Ojai,0,boolean_coordination
+"Brittany, Rosa, Theresa, Marilyn, Geneva, Jennifer, Erica, Barbara, Heidi, Yvette, Debra, Amelia, Molly, Allison, Lynda and Joanna have visited Alta",Allison didn't visit Alta,1,boolean_coordination
+"Roberta has visited Piqua, Haverhill, Walpi, Ponca City, Weirton, Harmony, Greenwood, Bridgeport, Corona, North Adams, Reno, Cheektowaga, Saratoga Springs, New Smyrna Beach, Annapolis, Carlisle, Hastings, Carlsbad and Homer",Roberta didn't visit Piqua,1,boolean_coordination
+"Lynda has visited Wausau, Harrodsburg, Roselle, Chelmsford, Huron, Gary, Orange, Silver Spring, Gettysburg, Ames, Pauls Valley, Waukesha, Newport, Keyser, New Castle, Pottsville, Vail, Fredonia and Park Forest",Lynda didn't visit Bath,0,boolean_coordination
+"Joy, Ashley, Bertha, Wilma, Kelly, Guadalupe, Tina, Rachel, Anne, Katrina, Gladys, Sonia, Lois, Felicia, Lola, Sara, Julia, Viola and Brenda have visited Massachusetts",Veronica didn't visit Massachusetts,0,boolean_coordination
+"Louise, Margarita, Marion, Marlene, Vera and Caroline have visited Anaconda",Marlene didn't visit Anaconda,1,boolean_coordination
+"Kathryn has visited Riverside, Antioch, Red Cloud, Bartlesville, Holly Springs, Monterey, New Market, Castine, Aberdeen, Martinsville, Del Rio, Greenwood, Canton, Ypsilanti and Pacific Grove",Kathryn didn't visit West Seneca,0,boolean_coordination
+"Michele, Pearl, Felicia, Leah, Lauren, Pauline, Eileen, Marsha, Iris, Sherry, Stephanie, Lorraine, Marie, Patsy, Laurie, Olivia, Naomi, Marian and Candace have visited Belen",Olivia didn't visit Belen,1,boolean_coordination
+Megan has visited Biddeford and Southampton,Betty didn't visit Southampton,0,boolean_coordination
+"Stacy, Marian, Clara and Tamara have visited Lower Southampton",Stacy didn't visit Lower Southampton,1,boolean_coordination
+"Nora has visited Windham, Plymouth and Salem",Nora didn't visit Buena Park,0,boolean_coordination
+"Melody, Penny, Misty, Connie, Joanna, Elizabeth, Janie, Shelly, Cindy, Victoria, Melinda, Natasha, Pauline, Ana, Candice, Tammy, Jamie and Sylvia have visited Palmyra",Audrey didn't visit Palmyra,0,boolean_coordination
+"Robin has visited Avondale, Delaware, Corinth and Shawneetown",Geraldine didn't visit Avondale,0,boolean_coordination
+"Anna has visited Watts, Hoboken, Bound Brook, Layton, Buckhannon, Clanton, Ontario, Englewood, Sweetwater, Hillsboro, Provincetown, Idaho City, East Hampton, Richmond, Dunkirk, Sallisaw, Lakeview, Enfield, Avondale and Conway",Anna didn't visit Tacoma,0,boolean_coordination
+"Nora, Donna, Anita, Jacqueline, Arlene, Glenda and Joyce have visited Rancho Cucamonga",Jacqueline didn't visit Rancho Cucamonga,1,boolean_coordination
+"Olga, Miriam, Sonia, Eva, Eileen, Tiffany, Vickie, Beverly and Jamie have visited Morristown",Beverly didn't visit Redding,0,boolean_coordination
+"Renee has visited Huntsville, Phoenixville, Fort Scott, Saugus, Lafayette, Glassboro, Tullahoma, Berkeley, Tarrytown, Redwood City, Brighton, Norman and Denison",Renee didn't visit Charles City,0,boolean_coordination
+"Madeline, Phyllis, Beatrice, Beverly, Kristy, Yolanda and Bonnie have visited Grosse Pointe",Phyllis didn't visit Grosse Pointe,1,boolean_coordination
+"Sandra has visited Forrest City, Des Plaines, Silverton, Sarasota, Homer, Redding, La Grange, Rochester and Osceola",Sandra didn't visit Boothbay Harbor,0,boolean_coordination
+"Alicia has visited Woods Hole, Shaker Heights, Livonia, Fort Kent, Pontiac, Vicksburg, Honesdale, Charles Town, Newark, Westerly, Hallandale Beach, Huron and Salinas",Alicia didn't visit Monterey,0,boolean_coordination
+"Kayla has visited York, Madison, Overland Park, Brookings, Stevens Point and Watkins Glen",Kayla didn't visit Brookings,1,boolean_coordination
+"Iris, Gina, Leah, Amelia, Sarah, Stephanie, Michele, Vera, Sylvia, Joy, Maria, Tiffany and Karen have visited Ossining",Joy didn't visit Midwest City,0,boolean_coordination
+"Jean has visited Sallisaw, Lynchburg, Cuyahoga Falls, San Rafael, Silver City, Lexington, Chickasha, Richland, Louisiana, South San Francisco, Brownsville, El Cerrito, Findlay, Willimantic, Carlisle and Dartmouth",Jean didn't visit Nanticoke,0,boolean_coordination
+"Ruth, Irma, Pamela, Sheila, Brittany, Tracey, Janet, Kristine, Valerie, Dorothy, Sylvia, Christine, Laura, Betty and Ellen have visited Redmond",Janet didn't visit Redmond,1,boolean_coordination
+Carrie has visited Chadron and Lynchburg,Carrie didn't visit Lynchburg,1,boolean_coordination
+"Lindsay, Amber, Christy, Lynda, Sheila, Nancy, Virginia and Alicia have visited Manitowoc",Paula didn't visit Manitowoc,0,boolean_coordination
+"Myrtle, Heidi, Terri and Courtney have visited Meriden",Heidi didn't visit Meriden,1,boolean_coordination
+"Beulah has visited Texas City, Keyser, New Orleans and Beatrice",Beulah didn't visit Texas City,1,boolean_coordination
+"Betty, Yvonne, Regina, Annette, Marilyn, Amber, Kay, Crystal, Leslie, Kimberly and Gertrude have visited Kettering",Crystal didn't visit Kettering,1,boolean_coordination
+"Lee has visited Braintree, Sturbridge, Abbeville, Lexington, Grants, Tucson, Morehead City, Canton, Zion, Warren, Bound Brook, Anaheim, Mentor, California, Montrose, Palmer, Palm Bay, Hillsborough and Norwalk",Lee didn't visit Sturbridge,1,boolean_coordination
+"Lorraine has visited Grosse Pointe, Sandusky, Phoenixville, Binghamton, Needles, Hempstead, Columbus, Winooski, Fairhaven, Westminster, Marion, Cleveland, Clinton, Bogalusa, Plainfield, Calais, Mackinaw City and Baraboo",Lorraine didn't visit Santa Claus,0,boolean_coordination
+"Terri has visited Greeneville, Sheffield, Rochester, Camden, Barnstable, Nevada, Shiprock, Gillette, East Liverpool, Ipswich, Spanish Fork, Cleveland, Oceanside, Geneva, Belfast, Paris, Northampton, Sausalito, Evanston and Laredo",Terri didn't visit Belfast,1,boolean_coordination
+"Leona, Debbie, Gloria, Miriam, Kelly, Alice, Brenda, Edith, Evelyn, Lillie, Juana, Ruth, Patricia, Samantha, Jodi, Joy and Louise have visited Greensburg",Louise didn't visit Greensburg,1,boolean_coordination
+"Felicia has visited Nashua, Jeannette, Reston, New Iberia, Coventry, Great Bend, Salisbury, Kankakee, Sun Valley, Tuscumbia, El Monte, Stony Point, Dillon and Kentucky",Hazel didn't visit Salisbury,0,boolean_coordination
+"Marion, Ann, Opal, Tanya, Melissa, Kathy, Jamie, Wendy, Diana, Rose, Heather, Jo, Sara and Joyce have visited Bourne",Diana didn't visit Bourne,1,boolean_coordination
+"Marsha has visited Pontiac, Moses Lake, Payson, Fairbanks, Oregon, Petaluma, Cherokee, Lexington, Royal Oak, Wayne, Burlington, Clifton, Valdez, Lincoln, Park Ridge and Newark",Betty didn't visit Lexington,0,boolean_coordination
+"Carole, Gina, Susie, Pearl, Teresa, Josephine, Carol, Katherine and Agnes have visited Ecorse",Gina didn't visit Powell,0,boolean_coordination
+"Juana has visited Laurel, Springville, Santa Clara, Revere, Peabody, Nevada, New London, Ponca City, Lumberton, Buffalo, Corvallis, Davis, Eastham and Des Moines",Juana didn't visit Weston,0,boolean_coordination
+"Violet has visited Ogdensburg, Junction City, West Orange, Mobile, Holdenville, San Bernardino and Oneida",Violet didn't visit Mobile,1,boolean_coordination
+"Edna has visited Fernandina Beach, Ticonderoga, Hollywood, Bath, Ketchikan, Salem, Miles City, Monmouth, Las Cruces, Oak Park, Deming, Eau Claire and Bridgeport",Debra didn't visit Oak Park,0,boolean_coordination
+"Dora, Sandra, Annie, Jodi, Janice and Lee have visited Charleston",Janice didn't visit Salem,0,boolean_coordination
+"Sandra, Stacy, Lillie, Misty, Stacey, Yvette, Marlene, Allison, Blanche, Kathy, Dana and Lindsay have visited Philadelphia",Allison didn't visit Philadelphia,1,boolean_coordination
+"Stacey has visited Columbia, San Fernando, Orange, Fort Lee, Vicksburg, Washington, Kelso, West Bridgewater, Findlay, Lincoln, Bremerton and Beaverton",Stacey didn't visit San Fernando,1,boolean_coordination
+Gladys has visited Franklin and Findlay,Shirley didn't visit Franklin,0,boolean_coordination
+"Suzanne has visited Manchester, Mystic, Waimea, Summersville, Springfield, Junction City, Boca Raton, Saint Marys City, Kansas City, Morrilton, Anniston, Cumberland, Torrington, Butte, Brookings, Fort Pierce, Poughkeepsie, Greenville and Orange",Suzanne didn't visit Fort Pierce,1,boolean_coordination
+"Catherine has visited West Hartford, Yellow Springs, Amherst and Halifax",Carrie didn't visit West Hartford,0,boolean_coordination
+Alberta and Vanessa have visited Alcoa,Vanessa didn't visit Alcoa,1,boolean_coordination
+"Marsha has visited Peekskill, Goshen, Hamden, Massachusetts, Littleton, Rochester, Layton, Carlisle, Madison, Irvine, Lake Charles, Selma, New Rochelle, Barbourville and Mount Vernon",Marsha didn't visit Norton,0,boolean_coordination
+"Brittany has visited Owatonna, Antioch, Largo, Chicago, Laie, Dover and San Luis Obispo",Brittany didn't visit Winter Haven,0,boolean_coordination
+"Tiffany, Violet, Leona, Florence, Jeanne and Annie have visited Nauvoo",Violet didn't visit Sylacauga,0,boolean_coordination
+"Jessie has visited Morristown, Oakland, Newark, Livingston, Chicago, Turlock and Woodstock",Jessie didn't visit Gary,0,boolean_coordination
+"Amelia, Geneva, Pauline, Julia, Verna, Renee, Blanche, Melinda, Jacqueline, Doris, Connie, Laura, Toni, Judy and Elsie have visited Bloomfield",Julia didn't visit Groton,0,boolean_coordination
+"Lynn, Stella, Jo, Margarita, Iris, Hilda, Edith, Kristen, Beverly, Glenda, Monica, Juana, Kathryn and Cassandra have visited Greenville",Juana didn't visit Fort Pierce,0,boolean_coordination
+"Gina has visited Oak Ridge, Millburn, Saint Joseph, Adams, Peoria, Arlington Heights, Hillsborough, Hillsboro, Virginia, Logan, Raton, Harrisburg, Redwood City, Maryville, Beaufort, Monmouth, Bound Brook, Sidney and Hilo",Gina didn't visit Beaufort,1,boolean_coordination
+Jeanne has visited Sainte Genevieve and Bonners Ferry,Jeanne didn't visit Sainte Genevieve,1,boolean_coordination
+"Carmen has visited Salem, Price, Biloxi, Palmer and Wickford",Carmen didn't visit Price,1,boolean_coordination
+"Geraldine has visited El Centro, West Lafayette and Burns",Geraldine didn't visit West Lafayette,1,boolean_coordination
+"Kathleen, Dorothy, Patricia, Faye, Iris, Ashley, Amanda, Ruby, Edith, Misty, Tina, Dianne, Carmen, Belinda, Samantha, Cynthia, Laura, Lena, Vicki and Angela have visited Jeffersonville",Regina didn't visit Jeffersonville,0,boolean_coordination
+"Patricia has visited West Haven, Pawtucket, Germantown, Rancho Cucamonga, Steubenville, San Francisco, Orange, Whitman and Hamilton",Patricia didn't visit San Marino,0,boolean_coordination
+"Shelley, Eileen, Gloria, Catherine, Minnie, Beth, Penny, Marsha, Mabel, Kristin, Lori, Leslie, Kristen, Dorothy, Loretta, Jamie, Iris, Stacy and Blanche have visited Edenton",Ana didn't visit Edenton,0,boolean_coordination
+"Constance, Amanda, Cynthia, Monica, Juana, Bobbie, Thelma, Isabel, Kathleen, Dawn, Verna, Kim, Cathy, Belinda, Claire, Jenny and Megan have visited Dartmouth",Belinda didn't visit Dartmouth,1,boolean_coordination
+Bertha has visited Devils Lake and Eufaula,Bertha didn't visit Old Saybrook,0,boolean_coordination
+"Dianne, Juana, Carolyn, Carla, Jennie and Barbara have visited Glenview",Dianne didn't visit Glenview,1,boolean_coordination
+"Sherry has visited Rhode Island, Rockford, Apalachicola, Vandalia and Bound Brook",Sherry didn't visit Altoona,0,boolean_coordination
+"Sylvia has visited Pullman, Wichita, Franklin, New York City, Nahant, Manchester, Sault Sainte Marie, Parma, Ozark, Holdenville, Waukegan, Cheboygan, Greenville, Fort Kent, Cripple Creek and Walla Walla",Sylvia didn't visit Cheboygan,1,boolean_coordination
+"Leslie has visited Riverton, Cheboygan, Oil City, Joliet, Ashland, Binghamton, Mundelein, Hastings, Palatka, Rutland, Madison and Wilmington",Olivia didn't visit Hastings,0,boolean_coordination
+"Kristen, Terri, Lena, Fannie, Denise, Amber, Rose, Olivia, Paula, Penny, Maria, Janet, Minnie, Gertrude, Cynthia, Emily, Blanche and Loretta have visited Moab",Minnie didn't visit Moab,1,boolean_coordination
+"Erica, Velma, Beatrice, Nora, Tamara, Rosie, Donna, Janie, Karen, Jodi, Pamela, Vickie and Georgia have visited Baltimore",Jodi didn't visit Baltimore,1,boolean_coordination
+"Diane, Janet, Luz, Genevieve, Amber, Suzanne, Sara, Lena, April, Anna, Faye, Susan, Candice, Terri and Melinda have visited Effingham",Grace didn't visit Effingham,0,boolean_coordination
+"Susie has visited Columbia, Salinas, Arlington, Springfield, Carlsbad, Clovis, Coventry, Abilene, Rutherford, Pierre, Charles City, Kapaa, Grand Haven, Torrington, Brookline, Bellows Falls, Hazleton, New Philadelphia and Kaskaskia",Susie didn't visit Torrington,1,boolean_coordination
+"Marjorie has visited Freeport, Bloomington and Montgomery",Nicole didn't visit Montgomery,0,boolean_coordination
+"Sheryl, Margie and Colleen have visited Priest River",Sheryl didn't visit Priest River,1,boolean_coordination
+"Carolyn has visited Venice, Virginia City, Longview, Fallon, Dickinson, McAlester, Decatur, Painesville, Hazard, Skokie, Ontario, Madison, Carlisle, Glassboro, Salem and Eau Claire",Carolyn didn't visit Skokie,1,boolean_coordination
+"Christine has visited Durham, Memphis, Flint, Cairo, American Fork and Carlsbad",Linda didn't visit Cairo,0,boolean_coordination
+"Regina, Maxine, Lindsay, Lola, Lynn and Veronica have visited Centralia",Lola didn't visit Centralia,1,boolean_coordination
+"Katie has visited Redding, Narragansett, Dennis, Mamaroneck, McCook, Tulsa, White Springs, Laurel, Portage, Sumter, Ashtabula, Salem, Anaheim, Fernandina Beach, Kingman and Eufaula",Katie didn't visit Hanalei,0,boolean_coordination
+"Martha has visited Renton, Scarsdale, Smith Center, Pocatello and Camden",Martha didn't visit Scarsdale,1,boolean_coordination
+"Luz has visited Springfield, Salisbury, Kearney, Garden City, Harlingen, West Springfield, Danville, Olathe, Aiken, Bessemer and Hallandale Beach",Luz didn't visit Silver City,0,boolean_coordination
+Jeanette has visited Manhattan and Greenville,Kay didn't visit Manhattan,0,boolean_coordination
+"Candice has visited Alexandria, Lake Placid, Camden, Wilson, Stuttgart, Holland, Mount Vernon, Chillicothe, Lake Havasu City, Ottawa, Philippi, Grosse Pointe, Bristol, Woods Hole and Coral Gables",Candice didn't visit Little Falls,0,boolean_coordination
+"Lillie, Tracey and Jo have visited Shawneetown",Tracey didn't visit Meadville,0,boolean_coordination
+"Louise, Vera, Elaine, Sally, Beulah, Pamela, Mildred, Mattie, Erika, Olga, April, Ida, Linda, Judy, Lillian, Rosemary and Beatrice have visited Johnstown",Madeline didn't visit Johnstown,0,boolean_coordination
+"Connie has visited Bartow, Cadillac, Deerfield Beach, Smyrna, Bardstown, Lakewood, Pittsburg, Richardson, Holly Springs, Greeneville, Arcadia and Jacksonville",Connie didn't visit Holly Springs,1,boolean_coordination
+"Yvonne, June and Judy have visited Morristown",Yvonne didn't visit Morristown,1,boolean_coordination
+"Sue has visited Bethany, Whittier, Schenectady, Oneida, Charlevoix, Alameda, Ruston, San Marcos, Northampton, Baltimore, Charlestown, Elizabethtown, Newburyport, Ticonderoga, Cordova, Newark, Seaside, Greeneville, Norfolk and Chapel Hill",Sue didn't visit Oneida,1,boolean_coordination
+"Lydia, Dorothy, Fannie, Cecilia, Dana, Tina, Maggie, Vera, Angie, Jodi, Terry, Jenny and Marcia have visited Kitty Hawk",Jenny didn't visit Kitty Hawk,1,boolean_coordination
+"Cassandra has visited Sierra Vista, Rome, Paducah, Canton, Oneida, Portland, Anaconda, Chester, Silverton, Valparaiso, Abington, Olean, Brainerd, Fort Payne, Sainte Genevieve and Brookline",Eileen didn't visit Portland,0,boolean_coordination
+"Debbie has visited Cushing, Keene, Middlebury, Tombstone, Garden City and Bloomington",Debbie didn't visit Keene,1,boolean_coordination
+"Jessie has visited Wyoming, New Brunswick, Jacksonville, Campbellsville, Norwalk, Salem, Acoma, Durango, Canyon, New Ulm, Coventry, McMinnville, Xenia, Princeton, Falmouth and Woodward",Jessie didn't visit Jacksonville,1,boolean_coordination
+"Stacey has visited Bedford, Wellsburg and Rockland",Stacey didn't visit Rockland,1,boolean_coordination
+"Victoria, Brenda, Guadalupe, Jacqueline, Jodi, Doris, Shelly, Wendy, Suzanne, Genevieve, Tanya, Misty, Ellen and Bobbie have visited Hot Springs",Tanya didn't visit Hot Springs,1,boolean_coordination
+Flora and Nicole have visited Laie,Nicole didn't visit Laie,1,boolean_coordination
+"Nellie has visited Wewoka, South Holland, Central Falls, Fairhaven, Laurel, Bradenton, West Lafayette, Lakewood and Honaunau",Nellie didn't visit Laurel,1,boolean_coordination
+"Courtney, Kathryn, Tina, Jennifer, Rhonda, Anna, Valerie, Billie and Sandy have visited Salem",Jennifer didn't visit Salem,1,boolean_coordination
+"Julie has visited Newburgh, New Hope, Enid, Canton, New Glarus, Devils Lake, Park City, Pasco, Grand Haven, Wausau, Duxbury, Pittsburgh, Mount Pleasant, Birmingham, Hanalei, Ilion, Keokuk, Mentor and Pasadena",Julie didn't visit Chicago,0,boolean_coordination
+"Jill, Joyce, Leah, Juanita, Janie, Annette, Vicki, Madeline, Yolanda, Beatrice, Crystal, Frances, Jo, Billie and Vivian have visited Henderson",Joyce didn't visit Henderson,1,boolean_coordination
+"Harriet has visited San Mateo, Saginaw, Jefferson City, Marblehead, Council Grove, Milbank, Rochester, Aurora, Biloxi, Grand Haven, Nashville, Saranac Lake, Concord, Independence, Edmond and Boise",Harriet didn't visit Boise,1,boolean_coordination
+"Felicia has visited Groton, Norris, Shreveport, Richardson, Springfield, Duxbury, Willmar, York, Canton, Laramie, Concord, Johnson City, Derby, Fredonia, Leavenworth, Monmouth, Auburn, Indio, Eureka and Oklahoma City",Felicia didn't visit Norris,1,boolean_coordination
+"Marjorie, Elizabeth, Lorraine and Claire have visited Yazoo City",Elizabeth didn't visit Rumford,0,boolean_coordination
+"Cindy has visited Brockton, Marysville, Williamsburg and Oregon",Cindy didn't visit Williamsburg,1,boolean_coordination
+"Erin, Margie, Isabel, Juana, Lynda, Willie, Doris and Guadalupe have visited Pompano Beach",Anne didn't visit Pompano Beach,0,boolean_coordination
+Jeanette and Robin have visited Jacksonville,Jeanette didn't visit Jacksonville,1,boolean_coordination
+"Charlotte, Faye, Alison, Dora, Jeanette, Catherine, Bessie, Ellen, Janie and Gwendolyn have visited Tampa",Catherine didn't visit Overland Park,0,boolean_coordination
+Sherri has visited Newport and New Paltz,Sherri didn't visit Newport,1,boolean_coordination
+"Lee, Blanche, Elizabeth, Bessie, Maryann, Bertha, Christine, Hazel, Alison, Cassandra, Sherry, Jane, Stacey, Vera, Annette and Ruth have visited Roseville",Elizabeth didn't visit Worcester,0,boolean_coordination
+"Arlene, Ramona, Alberta, Harriet, Jennifer, Sherry, Margarita, Delores and Kim have visited Norfolk",Ramona didn't visit Princeton,0,boolean_coordination
+"Diane, Lindsay, Sherri, Gloria, Kristi, Mattie, Gwendolyn, Elsie, Georgia and Jamie have visited Trenton",Jamie didn't visit Trenton,1,boolean_coordination
+"Jeanette, Terri, Sheryl and Marian have visited Ecorse",Marian didn't visit Willmar,0,boolean_coordination
+"Ada, Glenda, Lauren, Joanna, Molly, Erika, Marie, Rosa, Erin, Joanne, Tracey, Misty, Katherine, Ruby, Penny, Margie, Maureen and Ann have visited Park City",Penny didn't visit Park City,1,boolean_coordination
+"Peggy, Heidi, Annie, Rosie, Jacqueline, Geneva, Bertha, Tracey, Marsha, Eileen, Vivian, Nina, Norma, Juana, Ethel, June, Alicia and Leslie have visited Williamstown",June didn't visit Williamstown,1,boolean_coordination
+"Roberta, Joanna, Marjorie, Gertrude, Wanda, Carole and Arlene have visited Winsted",Joanna didn't visit Winsted,1,boolean_coordination
+"Helen has visited Lakeview, Bloomington, High Point, Wausau, Westport, Norristown, Dothan, Red Wing, Decatur and Fort Walton Beach",Helen didn't visit Westport,1,boolean_coordination
+Joy has visited Alma and McAllen,Jessie didn't visit McAllen,0,boolean_coordination
+"Brenda has visited Marysville, Waimea, Chicopee, Apalachicola, Dallas, Dixon, Spartanburg, Plainview, Hollywood, Pecos and Parsippany–Troy Hills",Brenda didn't visit Oxnard,0,boolean_coordination
+"Bessie, Shelley, Andrea, Lucy, Arlene, Sonia, Christina, Brenda, Kristi, Tina, Erin, Carla, Eileen, Agnes, Priscilla, Diana, Jeanne, Janice and Juana have visited Muskegon",Andrea didn't visit Tiffin,0,boolean_coordination
+"Billie, Diana, Rhonda, Isabel, Janie, Brandi and Erika have visited Tallahassee",Tamara didn't visit Tallahassee,0,boolean_coordination
+"Jill has visited Abbeville, Thibodaux, Hickory, Fremont, New Market, Holly Springs, Franklin and Irving",Jill didn't visit Franklin,1,boolean_coordination
+"Gloria has visited Ojai, Palm Beach, Farmington, Springville, Harrodsburg, Adams, Adrian, Georgetown, Tennessee, Lebanon, Odessa, White Plains, Guilford and Stillwater",Gloria didn't visit White Plains,1,boolean_coordination
+"Kristina, Jodi, Belinda, Jane, Betty, Alma, Bonnie, Erika, Crystal, Susan, Deanna, Rosie, Kathy, Monique, Tanya, Shelley, Marie, Denise, Erin and Valerie have visited Bedford",Belinda didn't visit Bedford,1,boolean_coordination
+"Maryann has visited Kelso, New Hope, Fitchburg, Ocala, Aurora, Lockport, Mount Vernon, Canton, Manti, Niles, Raleigh, Manhattan, Dartmouth, Port Orford, Rotterdam, Allentown, Weirton, Granite City, Belen and Rumford",Kristine didn't visit Canton,0,boolean_coordination
+"Ashley has visited Washington, Pasco, Jamestown, Faribault, Saint Martinville, Orange, Bellows Falls, Plattsburgh, Wailuku, Fayetteville, Palm Springs, Watkins Glen, Wahiawa, Ocala, Muscatine, New Market, Tiffin, Port Gibson and South San Francisco",Pearl didn't visit New Market,0,boolean_coordination
+"Christina, Margarita, Amber, Lisa, Margie, Nina, Kristin, Jean, Eleanor, Hilda and Jamie have visited Muncie",Eleanor didn't visit Muncie,1,boolean_coordination
+"Joy has visited Manitowoc, Chanute, Romney, Lake Charles, Chadron, Bessemer, Superior and Devils Lake",Joy didn't visit Manitowoc,1,boolean_coordination
+"Karen, Shelley, Esther, Candace, Tracey, Kimberly, Shelly, Kelly, Dolores, Evelyn, Wilma, Wanda, Brandi, Ella, Ashley, Sally, Kayla, Eunice and Olga have visited Worcester",Sherri didn't visit Worcester,0,boolean_coordination
+"Veronica has visited Amsterdam, Marquette, Okmulgee, Virginia City, Greenville, Harrisburg, Ely, Irvington, Mackinaw City, Milbank, Novato, Saint Marys City, Gulfport, Globe, West Haven and Jacksonville",Carolyn didn't visit Marquette,0,boolean_coordination
+"Dawn, Pauline, Kim, Irene, Natalie, Hazel, Lucy, Jennie, Maryann, Tamara, Charlotte, Mabel, Marsha, Betty and Laurie have visited Goshen",Jennie didn't visit Goshen,1,boolean_coordination
+"Nellie has visited Lisle, Winter Park, Livermore, Winooski, Woodbridge, Brigham City, Bloomington, Wahpeton, Olathe, Laredo, Lead, Findlay, Fort Morgan, Easton, Monroe, Dubuque, East Point, Beckley, Michigan City and Monmouth",Hazel didn't visit Woodbridge,0,boolean_coordination
+"Jean, Constance, Crystal, Ana, Kay, Sherry and Tammy have visited Benton Harbor",Constance didn't visit Benton Harbor,1,boolean_coordination
+"Leona has visited Fort Wayne, Port Gibson, Chester, Manchester, Goliad, Montclair, Franklin, Hamilton, Grand Rapids, Eastpointe, Cicero, Saint Cloud and Compton",Leona didn't visit McKinney,0,boolean_coordination
+"Rebecca has visited Clifton, Ithaca, Moses Lake, Walsenburg, Alamogordo, Barre, Minneapolis, La Salle, Willingboro, Torrance, Southampton, West Lafayette, Lakewood, Clearwater and Waukegan",Rebecca didn't visit Southampton,1,boolean_coordination
+"Caroline has visited Ticonderoga, Lake Wales, East Hartford, Herrin, Orem, Fayetteville, Port Hueneme, Southington and Belmont",Caroline didn't visit Oraibi,0,boolean_coordination
+"Delores has visited Collinsville, New Madrid, White Plains, Morristown, South Saint Paul, Abingdon, Martinez, Eagle Pass, Pekin, Saint Petersburg, Florissant, Shelbyville, Virginia Beach and Barre",Delores didn't visit Eagle Pass,1,boolean_coordination
+"Molly has visited Sumter, Hanover, Lander, Duncan, Longview, Las Vegas, Cranford and New London",Belinda didn't visit New London,0,boolean_coordination
+Beverly has visited East Liverpool and Hopkinsville,Beverly didn't visit Hopkinsville,1,boolean_coordination
+"Marlene has visited West Chester, Palm Beach, Torrance, Irvington, Nephi, Somerville, Newburyport, Geneva, New Rochelle, Grand Haven, Palatine, Beaumont, Grand Rapids, Tempe, Stroudsburg and Wausau",Marlene didn't visit Midland,0,boolean_coordination
+"Monica has visited Ottawa, Ishpeming, Peshtigo, Hillsboro, Elko, Port Lavaca, Central City, Longview, Morganton, Prichard, Valdez, La Junta, Kingman, Rock Hill, Honaunau and Bellows Falls",Monica didn't visit Prichard,1,boolean_coordination
+"Kristen has visited Carthage, Redwood City, Virginia City, Virginia Beach, Coulee Dam, Athol, Guntersville, Lowell, South San Francisco, Nyack, Vandalia, West Allis, Johnson City, West Memphis, East Orange, Edmond, Jacksonville and Bastrop",Kristen didn't visit Wellfleet,0,boolean_coordination
+"Susan has visited Victorville, Roanoke, Turlock, Bayonne, Seymour, West Bridgewater, West Chester, Calhoun, Princeton, Harwich, Greensboro, Dillon, Laramie, Shelbyville, Arkansas, Elizabethtown and Augusta",Susan didn't visit Greensboro,1,boolean_coordination
+"Ana, Gladys, Holly, Lauren, Kathryn, Cora, Ida, Kristen, Leona, Ann, Tina, Carrie, Roberta, Theresa, Jodi, Sylvia, Ella, Bertha and Amelia have visited Moorhead",Kristen didn't visit Altoona,0,boolean_coordination
+"Linda, Rhonda, Jennifer, Holly, Miriam, Alicia, Mildred and Geraldine have visited Eau Claire",Miriam didn't visit Jonesborough,0,boolean_coordination
+"Fannie, Willie, Ellen, Lee, Janice, Sandra, Shirley, Mamie, Vivian, Gina, Annie, Theresa and Jessica have visited Boca Raton",Ellen didn't visit Woburn,0,boolean_coordination
+"Georgia has visited Livonia, Opelousas, Sag Harbor, Goshen, Pennsylvania, Hoquiam, Corinth, Newport Beach, Hudson, Neosho, Winooski, Huntington, Stuttgart and Columbus",Georgia didn't visit Anadarko,0,boolean_coordination
+"Nancy has visited Youngstown, Medford, Akron, La Crosse, Royal Oak, Huntington, Hattiesburg, Fairfax, Kingsville, Machias, Alliance, Lackawanna, French Lick, Cairo, Richmond, Wenatchee, Rapid City and Bloomington",Nancy didn't visit Hattiesburg,1,boolean_coordination
+"Madeline has visited Long Branch, Winter Park, Roseburg and Saugus",Madeline didn't visit Winter Park,1,boolean_coordination
+"Ana has visited Guntersville, Normal, Kenosha, Royal Oak and Mackinaw City",Ana didn't visit Indio,0,boolean_coordination
+"Stacey, Carolyn, Patricia, Alicia, Olga, Beulah, Priscilla, Elaine, Heidi, Clara, Ethel, Candace, Julia, Flora, Denise, Gina, Sandy, Delores, Susie and Maxine have visited Golden",Susie didn't visit Atmore,0,boolean_coordination
+"Judith has visited Port Arthur, Thousand Oaks, Santa Fe, Swarthmore and Shepherdstown",Marguerite didn't visit Thousand Oaks,0,boolean_coordination
+"Mattie, Vivian, Theresa, Minnie, Gail, Norma, Margarita, Julia, Valerie, Brandy, Gladys, Yolanda, Loretta, June and Belinda have visited Middlesboro",Julia didn't visit Middlesboro,1,boolean_coordination
+Antoinette and Dawn have visited Glendive,Beth didn't visit Glendive,0,boolean_coordination
+"Kathleen has visited Portsmouth, Seattle, Cherokee, Bridgeport, Plattsmouth, Defiance, Newark, Lakewood, West Des Moines and Victorville",Kathleen didn't visit Portsmouth,1,boolean_coordination
+"June has visited Lancaster, Chelmsford, Paris, Lakeland, Aberdeen, Pass Christian, Henderson, Pagosa Springs, Sonoma, Cheektowaga, De Land, Ventura, Eufaula, Coupeville, Royal Oak and Red Bluff",June didn't visit Pass Christian,1,boolean_coordination
+"Melissa has visited Portsmouth, Sag Harbor, Lewiston and Priest River",Melissa didn't visit Trinidad,0,boolean_coordination
+"Marie, Janie, Frances, Madeline, Ellen, Michele, Luz, Tonya, Nellie, Connie, Cathy, Joy, Pamela, Genevieve, Kristi, Emily and Rose have visited Goliad",Kristi didn't visit Goliad,1,boolean_coordination
+"Priscilla has visited Greenville, Michigan, Rock Springs, Vallejo, Chelmsford, Elizabethton, Webster, Montgomery and Crown Point",Priscilla didn't visit Chelmsford,1,boolean_coordination
+"Julie, Colleen, Pearl, Lindsay, Annie, Anita, Melinda, Shirley, Elsie, Bobbie, Judith and Emily have visited Batesville",Lindsay didn't visit Camden,0,boolean_coordination
+"Cynthia, Willie, Madeline, Allison, Margie, Louise, Rose, Leah, Deanna, Claire, Geraldine, Sandy, Sherri, Rebecca and Denise have visited Clinton",Rebecca didn't visit Clinton,1,boolean_coordination
+"Viola has visited Jacksonville, Kingston, Cheyenne, Paris, Seaside, Campbellsville, Gulfport, Las Vegas, Jackson and West Bend",Priscilla didn't visit Paris,0,boolean_coordination
+"Carrie, Gertrude, Joyce, Stephanie, Debra, Faye, Vivian, Agnes, Marilyn, Lynda, Erin, Joan, Misty, Edith, Joanne, Marjorie, June, Stella, Heather and Genevieve have visited Albany",Marilyn didn't visit Belle Fourche,0,boolean_coordination
+"Tanya has visited Cleburne, Myrtle Beach, Westerly, New Castle, Columbus, Bozeman, Fremont, Hartsville, Stoughton, Greenville, Guilford, Weymouth, Palmdale, Germantown, Inglewood, Hyattsville, Culver City and Orange",Tanya didn't visit Westerly,1,boolean_coordination
+"Sara, Jessie, Lynda, Josephine and Susan have visited Hyde Park",Yvette didn't visit Hyde Park,0,boolean_coordination
+"Marie, Betty, Natasha, Ida and Tiffany have visited Alcoa",Kay didn't visit Alcoa,0,boolean_coordination
+"Megan has visited Pascagoula, Chesapeake, North Kingstown, Champaign, Ironwood, Mesquite, Hagerstown, Palmyra, Kent, Kodiak, Albany and Stevens Point",Megan didn't visit Torrington,0,boolean_coordination
+Rachel and Dana have visited Edmond,Tracey didn't visit Edmond,0,boolean_coordination
+"Beatrice has visited Richmond, Oskaloosa, Vinita, Redondo Beach, Greenville, Marion, Warrensburg, Marinette, Arkansas Post, Port Lavaca, Irvington, Clarksdale, Calais, Ithaca and Lock Haven",Beatrice didn't visit Vinita,1,boolean_coordination
+"Genevieve has visited Lock Haven, Sonoma, Grand Junction, Manchester, Corona, Hackensack, Cairo and Washington",Genevieve didn't visit Lake City,0,boolean_coordination
+"Leslie has visited Sumter, Cumberland, Moab and Bend",Leslie didn't visit Vincennes,0,boolean_coordination
+Terri and Kristen have visited Gallipolis,Samantha didn't visit Gallipolis,0,boolean_coordination
+"Vicki has visited Santa Clara, Anaheim, Lynchburg, Bowling Green, Mandan, Gloucester, Cleveland, California, Haines, Colorado Springs, Edison, Moab, Shaker Heights, Ocean City, Wellsburg, West Covina, Palo Alto, Salem, Susanville and San Gabriel",Vicki didn't visit East Aurora,0,boolean_coordination
+"Susie has visited Olean, West Orange, Anniston, Mount Vernon, Waimea, East Haven, Lincoln, Perry, Coeur d’Alene, Blairsville, Weston, Brea, Amana Colonies and Nauvoo",Susie didn't visit Weston,1,boolean_coordination
+"Nancy, Kelly and Ida have visited Charlottesville",Ida didn't visit Charlottesville,1,boolean_coordination
+"Eva has visited Lahaina, Palm Springs, Norfolk, Menasha, Uniontown, Okmulgee and Birmingham",Eva didn't visit Evanston,0,boolean_coordination
+"Laura has visited Lisle, Coeur d’Alene, McKeesport, Winnetka, Marshall, Boys Town, Abilene, Salisbury, Columbia, Brockton, Fairhaven, Port Lavaca, Lancaster and Wilkes-Barre",Laura didn't visit Winnetka,1,boolean_coordination
+"Rita has visited Ames, Newburyport, Pottsville, Grand Junction, Stratford, Buffalo, Del Rio, Hobart, Monticello, Arlington, Kennewick, Hyattsville, Rotterdam, Shelbyville, Jackson and Cripple Creek",Rita didn't visit Rotterdam,1,boolean_coordination
+"Joann, Katherine, Ruth, Marsha, Suzanne, Hattie, Lynda, Gertrude, Luz, Juana and Amy have visited Newport",Jennie didn't visit Newport,0,boolean_coordination
+"Bonnie has visited Saco, West Chester, Stuttgart, Bath, Alliance, Lake Placid, Athens, Centralia, Ada, Wisconsin Dells, West Bend, Ouray, South Saint Paul, Dennis, Dothan and Kennebunkport",Bonnie didn't visit Dothan,1,boolean_coordination
+"Bobbie has visited Milledgeville, Deadwood, Asheville, Monmouth, Independence, Suffolk, Chesapeake, Northampton, Gulfport, Petoskey and Chester",Bobbie didn't visit Chester,1,boolean_coordination
+"Sherry has visited Fredericksburg, Naugatuck, Saratoga Springs, Anadarko, Oxford, Yankton, Columbus, Elyria, Durham, Dallas, West Des Moines, Morgan City, North Kingstown, Elkhart, Gretna, Vernal, Indiana and Saco",Sherry didn't visit Saratoga Springs,1,boolean_coordination
+"Agnes, Joanne, Anita and Charlene have visited Rexburg",Agnes didn't visit Rexburg,1,boolean_coordination
+"Rita has visited West Hartford, Estes Park, Bismarck, Belen, Fort Myers, Laredo, Great Neck, Shelbyville, Santa Clarita, High Point, Cushing, Lake Havasu City, Saint Cloud and Lansing",Rita didn't visit Estes Park,1,boolean_coordination
+"Nina has visited Carson City, West Orange, Milledgeville, Morganton, Salem, Demopolis, Cincinnati, Youngstown, Central City and Washington",Nina didn't visit West Orange,1,boolean_coordination
+"Heidi has visited Newport, Buckhannon, Port Gibson, Acoma, Stuttgart, Ojai, Searcy, Rensselaer, Hastings, Wooster and Amarillo",Mattie didn't visit Ojai,0,boolean_coordination
+"Cassandra, Margarita, Geneva, Cathy, Esther, Mildred, Gina, Lula, Lindsey, Marsha, Florence, Samantha, Melody, Carmen, Katie, Mabel and Anne have visited South Carolina",Lula didn't visit South Carolina,1,boolean_coordination
+"Kristi has visited East Lansing, Tennessee, Salem, Buffalo, New Bern, Sarasota, Corinth, Adrian, Bartlesville, Batesville, Magnolia, Totowa, Newport, Kellogg, Exeter, Shreveport and Logan",Pauline didn't visit Salem,0,boolean_coordination
+Annie has visited Easton and New Albany,Annie didn't visit New Albany,1,boolean_coordination
+"Brandy has visited Somerville, Jacksonville, Redding and Brighton",Brandy didn't visit Jacksonville,1,boolean_coordination
+"Josephine has visited Cordova, New London, Hanover, Lancaster, Hyde Park, Maysville, Bedford, Palo Alto, Panguitch, Uvalde, Bourne, Potsdam and Brookings",Josephine didn't visit Palo Alto,1,boolean_coordination
+"Regina has visited Salt Lake City, San Marino, Norman, Sitka, Atmore, High Point, Seneca Falls, Shamokin, Acoma and Maryville",Regina didn't visit Atmore,1,boolean_coordination
+"Yolanda has visited Laguna Beach, Rome and Coeur d’Alene",Yolanda didn't visit Laguna Beach,1,boolean_coordination
+"Sara, Joyce, Louise, Bertha, Heidi, Marguerite, Emily, Lauren, Sarah, Fannie, Judy, Martha, Michelle, Christy, Jo, Georgia, Doris and Tanya have visited Fayetteville",Doris didn't visit Fayetteville,1,boolean_coordination
+"Joanna, Marion, Glenda, Vicki, Toni, Joanne, Olga, Courtney, Suzanne, Rosa, Marian, Marie, Harriet and Frances have visited Freeport",Toni didn't visit Alaska,0,boolean_coordination
+"Michele has visited Boston, Oak Harbor, Cohasset, Monett, Powell, Dover, Auburn, Susanville, Jeffersonville, Mount Clemens, Concord, Ogdensburg, Saint Albans, McCook, Honesdale, Beacon and Wallingford",Faye didn't visit Monett,0,boolean_coordination
+"Toni has visited North Little Rock, Boise, Hopkinsville, New York City, Arthur, Spring Green, Niles, Rochester, Hallandale Beach and Fremont",Toni didn't visit Niles,1,boolean_coordination
+"Jacqueline, Robin, Ashley, Mabel, Suzanne, Josephine, Pauline, Esther, Tonya, Grace, Connie, Angela, Tracey, Jane, Tara, Joan, Kay and Deanna have visited Lamar",Tonya didn't visit Winslow,0,boolean_coordination
+"Nina, Erin, Bonnie, Bertha, Pamela, Kathryn, Kristy, Geraldine, Janet and Olga have visited Kaskaskia",Geraldine didn't visit Kaskaskia,1,boolean_coordination
+"Cheryl, Joanna, Amanda, Clara, Courtney, Bonnie, Lauren and Wilma have visited Lancaster",Eleanor didn't visit Lancaster,0,boolean_coordination
+"Ruby, Rita, Amelia, Mamie, Irene, Dolores and Brittany have visited Seneca Falls",Ruby didn't visit Seneca Falls,1,boolean_coordination
+"Joyce has visited Manhattan, Eufaula, Carson City, Hudson, Tamaqua, Stamford, Panguitch, Crossett, Mesquite, Boone, Atmore, Tampa, Valdosta, Virginia, Pharr and Pocatello",Joyce didn't visit Grants Pass,0,boolean_coordination
+"Erica has visited Fond du Lac, Albert Lea, West Bridgewater, Brea, Kankakee, Charleston, Augusta, Bismarck, Batesville, Trinidad and Frederick",Erica didn't visit Jefferson City,0,boolean_coordination
+"Ruby has visited Lufkin, Albuquerque, Park Forest, Rocky Mount, Oakland, Ketchikan, Ocean Springs, Arlington, Bristol, Albert Lea, Moline, Newton, New Kensington, Oceanside, Woodland, Coney Island and Yorba Linda",Ruby didn't visit Eastham,0,boolean_coordination
+"Doris, Megan, Annie, Audrey, Marguerite, Carolyn, Terry, Naomi, Mamie, Wilma, Katie and Kelly have visited Florence",Allison didn't visit Florence,0,boolean_coordination
+"Brandy, Pearl, Mary, Juana, Nicole, Lori, Christy, Victoria, Lindsay, Debbie, Joann, Tanya, Faye, Jill, Belinda and Sandy have visited Manhattan",Lori didn't visit Manhattan,1,boolean_coordination
+"Denise has visited Lisle, Delaware, Charles City, Springfield, Clarksville, Lead, Elmhurst, Fresno, Bedford, Kalispell, Manhattan, Gainesville, Garden City, Mandan, Eugene, Lansing, Culver City, Pass Christian, Poughkeepsie and Hugo",Denise didn't visit Gainesville,1,boolean_coordination
+"Kristen has visited Hutchinson, New Milford, Bloomfield Hills, Lake Placid, Scottsdale, Meadville, Eastport, Sanford, State College, Tiverton, Nags Head, Ossining, Wauwatosa, Barnstable, Powell, Cambridge, Bedford and Douglas",Kristen didn't visit Eastport,1,boolean_coordination
+"Maggie has visited Waynesboro, Kentucky, Corydon, Yonkers, Emmitsburg, Payson, Springfield, Warrensburg, Bound Brook and Cuyahoga Falls",Maggie didn't visit Bronx,0,boolean_coordination
+"Grace, Eileen, Kathleen, Joyce, Gertrude, Samantha, Nora and Donna have visited Georgia",Eileen didn't visit Georgia,1,boolean_coordination
+"Jacqueline has visited Mount Holly, Harlem, Saint Marys City, Bloomfield Hills, Downey, Peshtigo, Goliad, Garden City, Window Rock, Oklahoma City, Elmira, Middletown, Virden and San Fernando",Jacqueline didn't visit Peshtigo,1,boolean_coordination
+"Tamara has visited Daly City, Green River, Chicago, Hastings, Maryville, Boone, Kapaa, New Britain, Alma, Elizabeth City and Utica",Tamara didn't visit Dothan,0,boolean_coordination
+"Tracy has visited Kelso, Virginia Beach, Hazleton, Thermopolis, Elwood, Central City and Mystic",Tracy didn't visit Mystic,1,boolean_coordination
+"Fannie, Nina, Melinda, Audrey, Marjorie, Ruth, Tonya, Lynn, Stephanie, Kristina, Martha, Charlotte, Kayla, Maggie, Shirley, Cynthia, Kim and Marian have visited Lowell",Ruth didn't visit Lowell,1,boolean_coordination
+"Claire, Marcia, Dora, Constance, Jan, Angela, Jacqueline, Hazel, Sue, Ida, Marjorie, Terry, Anne, Brenda, Joyce and Grace have visited Lincoln",Luz didn't visit Lincoln,0,boolean_coordination
+"Priscilla has visited Fontana, Haddonfield, Forrest City, Goshen, Brookings, Burlington, Port Orford, Monroe, Camden, Owensboro, Deming, White Springs, Brookline, Wayne, Lake Havasu City, Bristol, Midwest City, Bath, Rockland and Garden City",Becky didn't visit Brookings,0,boolean_coordination
+"Ruby, Harriet, Joann, Isabel, Emma, Maureen, Victoria, Sharon, Anita, Karen, Melinda, Bessie, Vanessa and Lee have visited Franklin",Lee didn't visit Franklin,1,boolean_coordination
+"Tracey, Marcia, Diane, Andrea, Katie, Cindy and Melanie have visited McMinnville",Marcia didn't visit McMinnville,1,boolean_coordination
+"Ruby, Joyce, Pauline, Tracey and Myrtle have visited Camden",Viola didn't visit Camden,0,boolean_coordination
+"Ellen, Pauline, Heidi, April, Roberta and Jennifer have visited Fairfax",Heidi didn't visit Fairfax,1,boolean_coordination
+"Brenda has visited Santa Cruz, New Bedford, Swarthmore and Perry",Brenda didn't visit Big Spring,0,boolean_coordination
+"Erica has visited Wellesley, Charlotte, Grand Haven, Santa Rosa, Wilmington, Payson, Redmond, Belle Fourche, Virginia, Maryville, Rutland, Bend and Thibodaux",Belinda didn't visit Bend,0,boolean_coordination
+"Heidi has visited Boone, East Lansing, Reno and Ocala",Heidi didn't visit Boone,1,boolean_coordination
+"Sonya, Sherry, Terry, Julie, Nancy, Becky, Gail, Jennie, Cora, Molly, Joann, Geraldine, Marion, Jill, Claudia and Paula have visited Norristown",Becky didn't visit Norristown,1,boolean_coordination
+"Maryann, Katherine, Carole, Sara, Inez, Jane, Eleanor, Genevieve, Charlene, Geraldine, Dianne, Allison, Nellie, Eileen, Beulah, Yvette, Alice, Amy and Penny have visited Harrodsburg",Jane didn't visit Santa Monica,0,boolean_coordination
+"Alberta has visited Torrington, Norman, Weston, Indiana, Enfield, Hawaii, Perry, Oak Harbor, Cheboygan, Manhattan, Manchester, Cedar City, Laguna Beach, Kennebunkport and Princeton",Margaret didn't visit Princeton,0,boolean_coordination
+"Maxine, Christine, Juanita, Wanda, Amanda, Charlene, Annette, Diane, Viola, Natalie, Rosemary, Melissa, Sonia and Melanie have visited Wooster",Amanda didn't visit Wooster,1,boolean_coordination
+"Phyllis has visited Baton Rouge, Plymouth and Biddeford",Phyllis didn't visit Plymouth,1,boolean_coordination
+"Janie has visited Bluefield, Panguitch, Alexander City and Ukiah",Janie didn't visit Cicero,0,boolean_coordination
+"Charlotte has visited Washington, West Hartford, Randolph, Boulder City, Lenox, Pinehurst, Boone, Abington and South Orange Village",Charlotte didn't visit Maysville,0,boolean_coordination
+"Samantha, Amelia, Sheryl, Melinda, Shelley and Debbie have visited Tucson",Shelley didn't visit Tucson,1,boolean_coordination
+"Kristina, Charlotte, Ruby, Marcia, Melody, Debra, Darlene, Esther, Joanne, Irma, Sonia, Shannon, Candice, Ethel, Vickie and Victoria have visited Moscow",Victoria didn't visit Moscow,1,boolean_coordination
+"Wendy, Gloria, Angela, Candace, Anne, Bobbie, Bertha, Rachel, Rosa, Jamie, Lindsey, Valerie, Suzanne, Jennifer and Denise have visited Oraibi",Jennifer didn't visit Bossier City,0,boolean_coordination
+"Heather has visited Plattsburgh, Rolla, Palo Alto, Hartford, Lebanon, Eureka, Bellingham, McKinney, Littleton, Goldfield, Weston, Norfolk and Bangor",Heather didn't visit Goldfield,1,boolean_coordination
+"Jan has visited Kirksville, Roseville and Brunswick",Jan didn't visit Brunswick,1,boolean_coordination
+"Mattie has visited Wilson, Virginia Beach, Ilion, Morristown, Ann Arbor, Vineland, Joliet, Kittery, Santa Clarita, Benton, Omaha, Westport, Miami Beach and Leadville",Mattie didn't visit Miami Beach,1,boolean_coordination
+"Vickie has visited Taos, Marion, Salina, Chapel Hill, Sweetwater, Kittery, Scarborough, Richmond, Williamsburg, Warwick, Hillsborough, Adrian, Stillwater, Shiprock, Lynchburg, Norfolk, Joplin and Palm Springs",Vickie didn't visit Adrian,1,boolean_coordination
+"Loretta has visited Minden, Talladega, Fort Dodge, Aspen, Conneaut, Newport Beach, Norris, Bonners Ferry, Asheboro and Woodstock",Loretta didn't visit South Holland,0,boolean_coordination
+"Agnes has visited Pharr, Tulsa, Brunswick, Southampton, Virden, Opelika, Ukiah, Bloomington, Milbank, Lynchburg, Abington, Gainesville, Cullman, Eveleth, Wenatchee, Utah, Perth Amboy and Hopkinsville",Agnes didn't visit Artesia,0,boolean_coordination
+"Leslie has visited Sebring, Seminole, San Diego, Ilion, New Glarus, Milan, Virginia City, Merced, Salina, Chester, Ticonderoga, Goshen, Lake Geneva, Greenwich and Millville",Leslie didn't visit Fort Lauderdale,0,boolean_coordination
+"Eunice has visited Shreveport, Cookeville, Seward, Trenton, Machias, Bath, South Charleston, Largo, Ilion and Meridian",Eunice didn't visit Midland,0,boolean_coordination
+"Sonya has visited Alabama, Lincoln, Rock Island, Neosho, Heber City, Tuskegee, Artesia and Rotterdam",Sonya didn't visit Tuskegee,1,boolean_coordination
+"Olivia, Charlotte, Sue, Lena and Kristen have visited Bogalusa",Sue didn't visit Seymour,0,boolean_coordination
+"Inez has visited Macomb, Smyrna, Yankton, Hot Springs, La Grange, Braintree, Melbourne, Fernandina Beach, McAlester, Demopolis, Atchison, Fayetteville, Sapulpa and Lahaina",Holly didn't visit Smyrna,0,boolean_coordination
+"Nina has visited Wilmington, Bay Saint Louis, Osawatomie, Louisville, Goliad, South San Francisco, West Lafayette and Clanton",Nina didn't visit Bay Saint Louis,1,boolean_coordination
+"Vera, Billie, Annette, Cindy, Sheila, Michele, Erica, Mary, Sandy, Maureen and Grace have visited Truro",Sheila didn't visit Truro,1,boolean_coordination
+"April, Yvette, Rosa, Samantha, Clara, Luz, Lee, Dianne, Melanie and Jennifer have visited Bethlehem",Veronica didn't visit Bethlehem,0,boolean_coordination
+Marion and Ashley have visited Cocoa-Rockledge,Kathleen didn't visit Cocoa-Rockledge,0,boolean_coordination
+"Rosie has visited Petaluma, Murray, Muncie, New Madrid, Warren, Hialeah, Laurel and Darien",Rosie didn't visit Laurel,1,boolean_coordination
+"Phyllis has visited Reston, Saint Albans, Bath, Montpelier, Summit, Morehead City, Caldwell, Mesquite, Vincennes, East Hampton, Bloomington, Sallisaw and Laconia",Phyllis didn't visit Lander,0,boolean_coordination
+"Tracy, Katherine, Alice, Phyllis, Beverly, Wanda, Yvette, Claudia, Jo, Ellen, Brenda, Virginia, Rosemary and Shelly have visited Catonsville",Yvette didn't visit Midland,0,boolean_coordination
+Christine and Elizabeth have visited Greeley,Elizabeth didn't visit Windsor Locks,0,boolean_coordination
+"Rose has visited Oceanside, Moore, Window Rock, Seymour, Ocala, San Angelo, Ojai, Payson, Livermore, Chicopee, Redlands, Lexington and Lahaina",Vanessa didn't visit Oceanside,0,boolean_coordination
+"Judy has visited Buffalo, Port Huron, Montrose, Old Saybrook, Sault Sainte Marie, Sand Springs, Long Branch, Canton, West Bridgewater, Maryville and Brighton",Judy didn't visit Port Huron,1,boolean_coordination
+"Colleen, Pearl, Kristine, Kathy, Maria, Karen, Lisa, Mamie, Gloria, Stephanie, Mae and Natalie have visited Pascagoula",Gloria didn't visit Sandusky,0,boolean_coordination
+"Loretta has visited Mount Vernon, Old Saybrook and Takoma Park",Loretta didn't visit Takoma Park,1,boolean_coordination
+"Naomi, Annie, Myrtle, Luz, Marilyn, Amelia, Jessica, Pauline, Carole, Catherine, Robin, Caroline and Shelly have visited Indianola",Robin didn't visit Indianola,1,boolean_coordination
+"Angie, Kathryn, Tina, Michele, April, Cindy, Arlene, Guadalupe, Amber, Gloria, Lillian, Yvonne, Brandy, Natasha, Roberta and Ruby have visited Artesia",Michele didn't visit Artesia,1,boolean_coordination
+"Belinda, Lynn, Roberta, Lorraine, Cynthia, Erin, Deborah and Natalie have visited Cairo",Deborah didn't visit Cairo,1,boolean_coordination
+"Patsy, Sonia and Shirley have visited Garden Grove",Patsy didn't visit Garden Grove,1,boolean_coordination
+"Elsie has visited Berlin, Virginia, Fresno, Torrance, Mansfield, Hillsboro, Dartmouth, Anaheim, Goldfield, Norman, New Market, Morganton, Fort Dodge, Rockland, Hanover, Amarillo and Newport",Elsie didn't visit Anaheim,1,boolean_coordination
+"Laura, Tiffany and Caroline have visited Guymon",Tiffany didn't visit Guymon,1,boolean_coordination
+"Antoinette has visited Lakeland, Laurel, Kettering, Peekskill, Freeport and High Point",Antoinette didn't visit Kettering,1,boolean_coordination
+"Brandy, Kristina and Alma have visited Laramie",Alma didn't visit Laramie,1,boolean_coordination
+"Linda, Thelma, Viola, Olga, Joanne, Shelly, Monique, Kay, Angela, Deanna, Rachel, Carolyn, Danielle and Jeanne have visited Fredericksburg",Carolyn didn't visit Fredericksburg,1,boolean_coordination
+"Esther, Felicia, Carolyn, Melanie, Brandi and Lorraine have visited Orange",Carolyn didn't visit Orange,1,boolean_coordination
+"Terri, Margie, Bobbie, Rhonda, Yvette, Katie, Maxine, Debra, Charlotte, Sara, Geraldine, Cassandra, Allison and Cheryl have visited Malibu",Lynda didn't visit Malibu,0,boolean_coordination
+"Lindsey, Colleen, Deborah, Joann, Maggie, Courtney, Lisa, Miriam, Opal, Debra, Leslie, Catherine, Rebecca and Brandy have visited Bessemer",Myrtle didn't visit Bessemer,0,boolean_coordination
+"Edith has visited Omaha, Columbia, Rhinelander, Iowa, Calhoun, Minot, Hillsboro, Kankakee, Barre, Victorville, Smith Center, Keokuk, Rhode Island, Norman, Manchester and Powell",Edith didn't visit Plainfield,0,boolean_coordination
+"Amber has visited Temple, Rotterdam, Harlingen, Biloxi, Saint Joseph, Nahant, Plains, Garland, Vermont, Lynchburg, Coeur d’Alene, Cedar Falls, Tillamook, Kinston, San Bernardino, Waynesboro, Fort Kent, Sarasota and Charleston",Amber didn't visit Coeur d’Alene,1,boolean_coordination
+"Shirley has visited Lorain, Newport, York, Coos Bay, Glendale, Chillicothe and Grand Island",Shirley didn't visit Chillicothe,1,boolean_coordination
+Frances and Margie have visited South Dakota,Margie didn't visit South Dakota,1,boolean_coordination
+"Sheila, Tara, Sharon, Ella, Audrey, Annette, Jeanne and Mae have visited Nogales",Audrey didn't visit Nogales,1,boolean_coordination
+"Faye, Crystal, Megan, Bonnie, Naomi, Anne, Harriet and Theresa have visited Jefferson City",Jennifer didn't visit Jefferson City,0,boolean_coordination
+"Shannon, Toni, Teresa, Irma, Geneva, Shirley, Tonya, Debbie, Shelly, Helen, Angela, Hattie, Penny, Pamela, Gina, Dora, Stella and Tina have visited Rome",Hattie didn't visit Auburn,0,boolean_coordination
+"Norma, Leona, Luz, Jennie, Maureen, Elsie, Dawn, Marie, Jeanette, Jennifer, Debbie, Esther, Holly and Olivia have visited Sapulpa",Debbie didn't visit Moorhead,0,boolean_coordination
+"Dawn has visited Cairo, Opelika, Hyattsville, Millville and Mason City",Dawn didn't visit Mason City,1,boolean_coordination
+"Megan has visited Frankfort, Salem, Passaic, Milford, Kingman, Prairie du Chien, Ardmore, San Antonio, Brighton, Hattiesburg and Rapid City",Megan didn't visit Salem,1,boolean_coordination
+"Ethel has visited Janesville, Sun Valley, Fernandina Beach, Jasper, Oskaloosa, Hancock, Redwood City, Abingdon, Midland, Casper, Freeport and Deming",Yvonne didn't visit Deming,0,boolean_coordination
+"Shannon has visited Lafayette, Harmony, Herrin, Muskegon, Georgetown, Newark, Waterbury, New Bern, Hamden, Kansas City, Sterling, Grosse Pointe, Danville and Iowa City",Shannon didn't visit Harmony,1,boolean_coordination
+"Cynthia has visited Point Roberts, Pecos, Sarasota, Summit, Pocatello, Venice, Cairo and Wenatchee",Jessie didn't visit Wenatchee,0,boolean_coordination
+Amelia and Elsie have visited Valdosta,Amelia didn't visit Valdosta,1,boolean_coordination
+"Darlene, Maria, Lauren, Irma and Madeline have visited Georgetown",Heather didn't visit Georgetown,0,boolean_coordination
+"Cassandra, Dianne, Terri, Carolyn, Agnes, Sharon, Lori, Michele, Dorothy, Penny, Cathy, Wendy, Yvette, Stacy, Sherry, Maria, Vanessa, Linda, Jennifer and Allison have visited West Plains",Faye didn't visit West Plains,0,boolean_coordination
+"Stella has visited Highland Park, Martinsburg, Darlington and Lansing",Stella didn't visit Grosse Pointe,0,boolean_coordination
+"Lucy has visited Glendale, Montrose, Bloomfield, Ajo, Prineville, Missouri, Mount Pleasant, Manchester, Virginia, Silverton, Sierra Vista, Swarthmore and San Gabriel",Roberta didn't visit Bloomfield,0,boolean_coordination
+"Marie has visited Goldsboro, Bogalusa and Pennsylvania",Marie didn't visit Bogalusa,1,boolean_coordination
+Kristine has visited La Crosse and Queens,Kristine didn't visit White Springs,0,boolean_coordination
+"Ramona, Ruby, Joan, Jennifer, Lori, Courtney, Lois, Donna and Sue have visited Saint Johnsbury",Ramona didn't visit Tahlequah,0,boolean_coordination
+"Violet has visited Elizabethtown, Moscow, Newberg, Raton, Ames, Grand Forks, Fairfield, Wellfleet, Englewood, Cumberland, Detroit and Salinas",Violet didn't visit Newberg,1,boolean_coordination
+"Tanya has visited Ames, Belen, Hamden, Tucumcari, Caldwell, Panguitch, Maryville, Uniontown, Ocean City, Lufkin, Fort Myers, Belvidere, Grand Haven and The Dalles",Tanya didn't visit Belvidere,1,boolean_coordination
+"Veronica has visited Hopewell, Yazoo City, Utah, Bryan, Del Rio, Cody and Fort Dodge",Veronica didn't visit Cody,1,boolean_coordination
+"Emily has visited Inglewood, Pottsville and Ashland",Emily didn't visit Portsmouth,0,boolean_coordination
+"Dora, Lindsey, Ida, Candace, Mae, Ramona, Sherri, Kimberly, Rita, Toni, Jan, Tracey, Barbara, Melissa, Jane, Frances, Judith, Joy and Lucy have visited Petersburg",Julia didn't visit Petersburg,0,boolean_coordination
+"Donna, Kristina, Emily, Nina, Renee, Loretta, Delores and Vickie have visited Freeport",Renee didn't visit Freeport,1,boolean_coordination
+"Katie has visited Canton, Lake Geneva, Bedford and Ashland",Katie didn't visit Walpi,0,boolean_coordination
+"Shannon, Delores, Lynda, Theresa, Mae, Suzanne, Harriet, Allison, Edith, Amy, Edna, Sheryl, Josephine, Rita, Melody and Sonia have visited Palmdale",Rita didn't visit Warren,0,boolean_coordination
+"Mary, Debbie, Beulah, Tracey, Linda, Thelma, Amy, Tina, Alicia, Harriet, Stacy, Yvonne, Bobbie, Mattie, Yolanda, Sonia, Lori, Kim, Crystal and Elaine have visited Honolulu",Lori didn't visit Honolulu,1,boolean_coordination
+"Maggie has visited Faribault, Iowa City, Watertown, Rapid City, Queens and Arkadelphia",Angela didn't visit Watertown,0,boolean_coordination
+"Stella has visited Charlevoix, Durant, South San Francisco, Maine, Thousand Oaks, Jim Thorpe, Panama City, Ann Arbor, Moses Lake and Helena",Bobbie didn't visit Durant,0,boolean_coordination
+"Gloria has visited Deadwood, Marion, Pauls Valley, Mobile, Athens, Connecticut, Borger and Brookfield",Gloria didn't visit Borger,1,boolean_coordination
+"Alberta, Bessie, Willie, Tamara, Lydia, Hattie, Minnie and Audrey have visited Lewes",Lydia didn't visit Columbia,0,boolean_coordination
+"Penny has visited Buckhannon, Tucson, Meridian, Bainbridge, Columbia, Palmdale, Plainview, Crookston, Caribou, Belfast, Ashland, Mystic, Fort Kent and Chester",Penny didn't visit South Hadley,0,boolean_coordination
+"Marsha has visited Bellevue, El Paso, West Plains, Troy, Monroeville, Savannah, South Dakota, Grants, Texas, Kansas City, Nevada, Park Ridge, Woodbridge, Eveleth, Charlestown and Dartmouth",Marsha didn't visit Laie,0,boolean_coordination
+"Sarah has visited Silver Spring, Hobart, West Chester, Everett, Normal, Utah, Portland, Beacon, Eagle Pass, Easton, Chandler, Florence and Valdez",Joann didn't visit Florence,0,boolean_coordination
+"Sandy has visited New Smyrna Beach, West Bridgewater, Goliad, Goldsboro, Fremont, Cedar City, Fairmont, Orono, Randolph, Nephi, Fernandina Beach, Columbus, Bellefontaine, Alamosa and Elyria",Sandy didn't visit Ishpeming,0,boolean_coordination
+"Lois has visited Columbia, Weirton, Taos, Plymouth, La Habra and Riverside",Lois didn't visit Plymouth,1,boolean_coordination
+"Ann has visited Nahant, Meadville, Vicksburg, Bowie, Chelmsford, Goldfield, Kingsport, Pontiac, Canyon, Edenton, Oil City, Virginia City, Midwest City, Downey and Puyallup",Ann didn't visit Edenton,1,boolean_coordination
+"Violet has visited Las Cruces, Helena, Harrison, Fremont, Brockton, Toledo, Steubenville, Manitowoc, Fort Kent, Guilford, West Seneca, New Castle, Windsor Locks, Bogalusa, Cedar Falls, Chicopee, Asheville and Buffalo",Violet didn't visit North Adams,0,boolean_coordination
+"Willie, Joy, Melinda, Toni, Christy, Jamie, Jean, Joann, Jenny, Ida, Denise, Tara, Olivia, Tanya, Lorraine, Sharon, Kathleen, Geraldine, Lori and Clara have visited Prescott",Maryann didn't visit Prescott,0,boolean_coordination
+Lillian has visited East Greenwich and Nebraska City,Anne didn't visit Nebraska City,0,boolean_coordination
+"Dianne has visited Binghamton, Grand Rapids, Branson and Hayward",Dianne didn't visit Cedar Rapids,0,boolean_coordination
+"Stacy has visited Pittsburg, South Dakota, Virginia Beach, Braintree, Beaumont, Ambridge, Iowa City, Fredericksburg, Belle Glade, Sonoma and College Station",June didn't visit Sonoma,0,boolean_coordination
+"Dolores, Marie, Beulah, Tina, Allison, Maxine, Jessica, Charlotte, Jennie, Christine, Holly, Alison, Gina, Harriet and Marjorie have visited Blackfoot",Beulah didn't visit Alma,0,boolean_coordination
+"Crystal, Debbie, Genevieve, Daisy, Juana, Audrey, Helen, Ruby, Karen, Joanna, Grace, Becky, Doris and Claudia have visited Huntington Beach",Mamie didn't visit Huntington Beach,0,boolean_coordination
+"Shelly has visited Grand Island, Cleveland, Oak Harbor, Boulder City, Coffeyville, Portland, Tillamook, Green River and Nappanee",Shelly didn't visit Tillamook,1,boolean_coordination
+"Betty has visited Yazoo City, Andover, Alta, Jeffersonville, Sand Springs, Monroe, Worland, McPherson, Garland, Ventura, Brea and Danbury",Betty didn't visit Ventura,1,boolean_coordination
+"Julia has visited Kalispell, Westerly, Idaho, Irving, Barbourville, Canon City, Maryland and Springfield",Julia didn't visit Westerly,1,boolean_coordination
+Angie and Eva have visited Rye,Angie didn't visit Coney Island,0,boolean_coordination
+"Verna, Misty and Juanita have visited South Orange Village",Verna didn't visit South Orange Village,1,boolean_coordination
+"Gail has visited Lumberton, Anniston, Indio, Las Cruces, Johnstown, Calais and Ansonia",Bonnie didn't visit Indio,0,boolean_coordination
+"Rebecca, Crystal, Tina, Deanna, Marguerite, Susie, Elizabeth, Lucy, Opal, Emily, Sharon, Rita and Dana have visited Bath",Dana didn't visit Harlingen,0,boolean_coordination
+"Misty has visited Harlem, Orono, White Sulphur Springs, Waynesboro, Lexington, Paris, Dubuque, Boone, Oxnard, Saint Ignace, Pine Bluff, Oakland, Long Beach and West Lafayette",Madeline didn't visit Paris,0,boolean_coordination
+Holly and Brenda have visited La Crosse,Holly didn't visit La Crosse,1,boolean_coordination
+"Gail has visited Sturgeon Bay, Great Barrington, Huntington, Asheville, Lead, Williamsport and Sweetwater",Ramona didn't visit Great Barrington,0,boolean_coordination
+"Willie, Tiffany, Naomi, Mabel, Arlene, Peggy, Dora, Lori, Jennifer, Dorothy, Jenny and Kristen have visited Rumford",Willie didn't visit Mineola,0,boolean_coordination
+"Penny has visited Fairmont, East Hartford, Rumford, Saint Petersburg and Kingston",Penny didn't visit Rumford,1,boolean_coordination
+"Jane has visited Fairmont, Seneca Falls, Seward, Exeter, Salem, Chicopee, Manhattan, Mentor and Moab",Jane didn't visit Seward,1,boolean_coordination
+"Jo, Jean, Yvonne, Alicia, Elizabeth, Billie, Cora, Maureen, Virginia, Terri, Monica, Alice, Elaine, Ida and Samantha have visited Olean",Monica didn't visit Norwalk,0,boolean_coordination
+"Elizabeth has visited Bryan, Cocoa Beach, Bedford and Butte",Megan didn't visit Cocoa Beach,0,boolean_coordination
+"Beatrice, Leona, Ruth, Janice, Tracy, Jo, Sabrina, Elaine, Rosie, Cora, Kristina, Belinda, Tracey, Lillie, Debbie, Eileen, Ann and Tamara have visited Truth or Consequences",Jo didn't visit American Fork,0,boolean_coordination
+"Thelma, Kayla, Laurie and Janet have visited Ecorse",Robin didn't visit Ecorse,0,boolean_coordination
+"Thelma has visited Natchitoches, Lenox and Duncan",Thelma didn't visit Bisbee,0,boolean_coordination
+"Jennifer, Eileen, Alma, Delores, Cindy, April, Carolyn, Glenda, Amanda, Nora, Lola, Katrina, Gina, Josephine, Maggie, Joanna, Daisy and Carmen have visited Vernal",Katrina didn't visit Vernal,1,boolean_coordination
+"Gertrude, Blanche, Wilma, Grace, Kelly, Wanda and Alice have visited Jacksonville",Wilma didn't visit Jacksonville,1,boolean_coordination
+"Lynn, Dianne, Nora, Emma, Joanne, Olivia, Kathleen, Marsha, Michelle, Andrea, Rhonda, Ida, Verna, Georgia and Judy have visited Watts",Verna didn't visit Walnut Creek,0,boolean_coordination
+"Elsie, Katrina, Maryann, Monique, Lindsey, Sheila, Jan, Erika, Sarah and Roberta have visited Warm Springs",Roberta didn't visit Wisconsin Dells,0,boolean_coordination
+"Sarah has visited Lafayette, Charles City, Quincy, Boonesborough, Lansing, Kawaihae, Portales, Lovington, Mackinaw City and Battle Creek",Sarah didn't visit Lansing,1,boolean_coordination
+"Shelley, Lillian, Dorothy, Melissa, Bessie, Geneva, Gladys, Heather, Eva, Danielle, Madeline, Vera, Arlene and Carol have visited Layton",Tiffany didn't visit Layton,0,boolean_coordination
+"Vivian, Bobbie, Erika, Ruby, Rosie, Stacey, Mae, Darlene, Beatrice, Willie and Janet have visited Beaumont",Willie didn't visit Beaumont,1,boolean_coordination
+"Deanna, Connie, Pamela, Melanie, Bonnie, Charlotte and Gina have visited Raton",April didn't visit Raton,0,boolean_coordination
+"Charlene, Robin, Erin, Anna, Anne, Judith, Crystal, Sheryl, Jeanne, Connie, Kim, Dana, Molly and Lucy have visited Plymouth",Crystal didn't visit Willingboro,0,boolean_coordination
+"Julie has visited Morrilton, Atlantic City, Cohoes, Scranton, Seneca Falls, Mystic, Petersburg, Long Beach, Jamestown, Auburn, Brighton, Daly City, Brooklyn, Florence, Costa Mesa and Amarillo",Julie didn't visit Long Beach,1,boolean_coordination
+"Laura, Mary, Lauren, Joanna, Olga, Tara, Bobbie, Kristine, Tiffany and Danielle have visited Battle Creek",Patricia didn't visit Battle Creek,0,boolean_coordination
+"Edna has visited Joliet, Renton, Palmdale, Maine, Murfreesboro, Castine, Chapel Hill, Huntington, Norman, Mexico, Greenfield, Bellingham, Santa Clara, Huntsville, Charleston, Gulfport, Devils Lake, Greenville, Saint Johnsbury and Woodstock",Edna didn't visit Norman,1,boolean_coordination
+"Christine has visited Florence, Thibodaux, Harwich, Millburn and Hartsville",Christine didn't visit Mount Pleasant,0,boolean_coordination
+"Brandi, Marjorie, Jamie, Christine, Faye, Flora, Eva and Jessie have visited Auburn",Brandi didn't visit Auburn,1,boolean_coordination
+"Lena, Nora, Leona, Carolyn, Virginia, Terry, Ruby, Tina, Nina, Jenny, Barbara and Betty have visited Bemidji",Bernice didn't visit Bemidji,0,boolean_coordination
+"Cora has visited Derry, Osawatomie, Plattsmouth, Greeley, Fredonia, Milledgeville, Brigham City, Arthur, Los Angeles and Lake Forest",Cora didn't visit Los Angeles,1,boolean_coordination
+"Judy, Brittany, Victoria, Christy, Wendy, Claudia, Andrea, Lucille, Katie, Carolyn, Dawn and Sue have visited Bronx",Claudia didn't visit Roswell,0,boolean_coordination
+"Mabel, Christina, Heidi, Ruth and Candace have visited Cranford",Ruth didn't visit Cranford,1,boolean_coordination
+"Rosie, Amelia, Jessie, Alma, Jodi, Monique, Bobbie, Pauline, Joan, Melody, Lena, Felicia, Sarah, Geraldine, Heidi and Esther have visited Frankfort",Jessie didn't visit Frankfort,1,boolean_coordination
+"Flora has visited Windsor Locks, Centralia, Sierra Vista, Mount Clemens, Lexington, Salisbury, Lewiston and Pennsylvania",Flora didn't visit Mount Clemens,1,boolean_coordination
+"Ellen, Virginia, Beth and Danielle have visited Wewoka",Ellen didn't visit Alcoa,0,boolean_coordination
+"Ida has visited Martinez, Sebring, Virginia, Dalton, Price, Conneaut, Custer, Columbia, Dover, Hanover, West Haven, Niagara Falls, New Castle, Des Moines, Worthington, Albany and Hickory",Ida didn't visit Des Moines,1,boolean_coordination
+"Evelyn, Betty, June, Shelly, Kristine, Roberta, Guadalupe, Jennie, Valerie and Frances have visited Neosho",Guadalupe didn't visit Neosho,1,boolean_coordination
+Shannon has visited Indio and Charlotte,Shannon didn't visit Salisbury,0,boolean_coordination
+"Doris, Joann, Kristen, Juana, Constance, Ida, Jessie, Jamie, Jo, Ann, Tammy, Pearl, Gail, Lorraine and Yvette have visited Manhattan",Tammy didn't visit Manhattan,1,boolean_coordination
+"Audrey has visited Wyoming, Bonners Ferry, Wisconsin Dells, Cohoes, Bethlehem, Moline, Danville, Yonkers, Stuttgart, Tamaqua, Sonoma, Perry, Sun Valley, Waimea and Nome",Audrey didn't visit Waimea,1,boolean_coordination
+"Katherine has visited College Station, Susanville, Hillsboro, Tempe, Aliquippa, Oskaloosa, Salinas, Boys Town, Logan, Georgetown, Parsippany–Troy Hills, Lakeland, San Juan Capistrano and Youngstown",Katherine didn't visit Salinas,1,boolean_coordination
+"Fannie, Allison and Loretta have visited Westminster",Stella didn't visit Westminster,0,boolean_coordination
+"Josephine has visited San Diego, Berkeley and Orangeburg",Josephine didn't visit Orangeburg,1,boolean_coordination
+"Bonnie has visited Alexandria, New Mexico, Kalamazoo, Belle Glade, Princeton and Bridgeport",Pearl didn't visit Belle Glade,0,boolean_coordination
+"Luz, Colleen, Olivia, Monica, Marsha, Suzanne, Dora, Karen, Kristy, Lillie, Eva, Melanie, Alison, Rosemary, Genevieve, Maxine, Vanessa, Kristina, Marlene and Sabrina have visited Ely",Suzanne didn't visit Hempstead,0,boolean_coordination
+"Tamara, Yolanda, Yvonne, Dawn, Opal, Jamie, Joyce, Sonya, Lauren and Maggie have visited Centralia",Connie didn't visit Centralia,0,boolean_coordination
+"Julia has visited Woodstock, Arlington, Yakima, Layton, McMinnville, Scarsdale, East Haven, Taunton, Liberal, Crookston, Corpus Christi, Whittier, Summit and Cheektowaga",Julia didn't visit Corpus Christi,1,boolean_coordination
+"Ida, Patricia, Audrey, Nina, Fannie, Margaret, Andrea, Amelia and Janie have visited Darlington",Janie didn't visit Darlington,1,boolean_coordination
+"Sheryl has visited Lenox, Macon, Billings, Roswell, Redmond, Fernandina Beach, Greenwood, Indio, Paris, Findlay, New Bedford, Flushing, Antioch, Dunkirk, Germantown, Wabash, Emporia, Bennington and Cranston",Sheryl didn't visit Emporia,1,boolean_coordination
+"Bessie, Samantha, Delores, Violet, Hilda, Marsha, Jacqueline, Veronica, Leah, Carolyn, Kelly, Jeanette, Patsy, Cindy, Ellen, Erica, Charlotte and Nellie have visited Chicago",Hilda didn't visit Chicago,1,boolean_coordination
+"Alison has visited Columbia, Sitka, Wisconsin, Kittery, Lexington, Alma, Oregon, Moses Lake, Danville, Harlem, Athens, Moorhead, Oklahoma, Hood River, Auburn, Boulder City, Hannibal, Euclid and Providence",Lucille didn't visit Alma,0,boolean_coordination
+"Minnie, Lorraine, Sabrina, Louise and Terri have visited Brainerd",Louise didn't visit Brainerd,1,boolean_coordination
+"Geraldine, Stacey, Felicia, Rachel, Lucille, Deanna, Courtney, Joan, Judy, April, Erica, Ruby and Candace have visited Rensselaer",Stacey didn't visit Rensselaer,1,boolean_coordination
+"Olivia, Vicki, Sheryl, Joy, Lynn, Lillie, Kimberly, Audrey, Mildred, Beatrice and Betty have visited Bend",Emma didn't visit Bend,0,boolean_coordination
+"Gloria has visited Niagara Falls, Coventry, Exeter, Tillamook, Truth or Consequences, Pocatello, Sunbury, Clinton, Warren, Farmington and Richland",Gloria didn't visit Lima,0,boolean_coordination
+"Nellie has visited Bar Harbor, White Springs, Smith Center, Clarksdale, Vail, Bellingham, Greeley, Lake Oswego, Bethesda-Chevy Chase, Hartford, Denver, Hammond, Tombstone, Jacksonville, Janesville, Panguitch, Menominee, Superior and Cedar Falls",Daisy didn't visit Hammond,0,boolean_coordination
+"Betty, Judith and Erin have visited Grayling",Judith didn't visit Grayling,1,boolean_coordination
+"Antoinette, Faye, Mae, Jessie, Belinda, Judy, Willie, Susan, Amber, Heather, Ashley, Jodi, Daisy and Kristen have visited Bloomfield Hills",Susan didn't visit Toledo,0,boolean_coordination
+"Marion has visited Orem, Elizabeth City, Bethlehem, Palmyra, Milton, Ocala, The Dalles, Pontiac, Fernandina Beach, Manchester, Bartow, Vallejo, Laguna Beach, Columbia, Iron Mountain and Bedford",Marion didn't visit Pontiac,1,boolean_coordination
+"Sally, Agnes, Melinda, Sharon, Terry, Brenda, Louise, Marguerite, Terri, Joan, Edith, Audrey, Linda, Christina, Jane, Monique, Karen and Crystal have visited Belle Glade",Terri didn't visit Ogden,0,boolean_coordination
+"Jennifer, Kristin, Marion, Margie, Danielle, Beth, Alison and Pearl have visited Weehawken",Jennifer didn't visit Tahlequah,0,boolean_coordination
+"Cathy has visited Milbank, Gaffney, Bristol, La Junta, Nanticoke, Douglas, Winnemucca, Oconto, Park City, Torrington, Alabama, Steubenville, Jackson and Sarasota",Cathy didn't visit Milbank,1,boolean_coordination
+"Elizabeth, Thelma, Victoria, Luz, Christy, Ada, Bertha, Amanda, Esther and Valerie have visited Baltimore",Christy didn't visit Albany,0,boolean_coordination
+"Vivian has visited Fairmont, Nacogdoches, McAllen, El Cerrito, Opelika, Wahpeton, Waterloo, Saint Martinville, Meridian, Salinas, Massachusetts, Hollywood and Bossier City",Beverly didn't visit Opelika,0,boolean_coordination
+"Stephanie, Annie, Marlene, Olivia, Melinda, Beverly, Viola, Jacqueline, Joanne and Rosie have visited Calumet City",Joanne didn't visit Calumet City,1,boolean_coordination
+"Jamie, Lola, Agnes, Andrea, Allison, Nora, Christine, Dana, Robin, Toni, Kim, Rebecca, Jennie, Kristin, Anita and Isabel have visited Fulton",Robin didn't visit Watervliet,0,boolean_coordination
+"Rita, Irene, Lydia, Shelly, Georgia, Daisy, Marcia, Carla, Susan, Katie, Ada, Arlene, Shannon, Patricia, Eunice, Tracy, Claudia, Maxine, Holly and Jan have visited Weirton",Claudia didn't visit Atchison,0,boolean_coordination
+"Opal has visited Elizabeth, Harlem, Genoa, Pampa, Duxbury, Hackensack, Warwick and San Simeon",Tiffany didn't visit San Simeon,0,boolean_coordination
+"Beth, Renee, Maryann, Ashley, Loretta, Lindsay, Elizabeth and Brenda have visited Crossett",Fannie didn't visit Crossett,0,boolean_coordination
+"Ann, Joy, Beatrice, Janice, Robin, Leslie, Heather, Amy, Candice, Marguerite, Natalie, Sonya, Shelley, Sheryl, Marilyn and Terri have visited Wichita",Evelyn didn't visit Wichita,0,boolean_coordination
+Edith and Tara have visited Beaverton,Kristi didn't visit Beaverton,0,boolean_coordination
+"June, Carla, Georgia, Sherry, Shelley, Victoria, Carol, Debbie, Amber, Melanie, Sarah, Jan, Norma, Christine, Kay, Eileen, Marjorie, Annie, Viola and Julie have visited Hallandale Beach",Julie didn't visit Pierre,0,boolean_coordination
+"Natasha has visited Carbondale, Marysville, Bristol, Las Vegas, Athens, Sunbury and East Greenwich",Rhonda didn't visit Marysville,0,boolean_coordination
+"Harriet has visited Chautauqua, Cumberland, Anderson, San Angelo, Los Angeles, Kingsville, Silver City, New London, Artesia, Logan, Moore, Abingdon, Crawfordsville, Highland Park, San Antonio, Middletown, Sebring, Massillon, San Luis Obispo and Excelsior Springs",Harriet didn't visit New London,1,boolean_coordination
+"Carolyn, Juana, Joan, Roberta, Wilma, Katie, Mae and Toni have visited Union City",Mae didn't visit Bisbee,0,boolean_coordination
+"Amanda has visited Denison, Belen, Bremerton, Towson and South Orange Village",Amanda didn't visit Towson,1,boolean_coordination
+"Eva, Wendy, Opal, Tamara, Sarah, Glenda, Darlene, Candace, Stella, Maureen, Vickie, Margarita, Helen, Beulah, Clara, Vanessa and Hilda have visited McMinnville",Opal didn't visit Connersville,0,boolean_coordination
+"Priscilla has visited Edinburg, Worthington, Mount Vernon, Bay City, Long Branch, New Haven, Marlborough and Nashville",Priscilla didn't visit Mount Vernon,1,boolean_coordination
+"Emily has visited New Castle, Deming, Mitchell, Pawtucket, Wellfleet, Cripple Creek, Laredo, Wichita, Lebanon, Jackson, Bloomfield, Newark, Hampton, Southington and Shamokin",Emily didn't visit Wichita,1,boolean_coordination
+"Isabel, Denise, Geraldine, Renee, Betty, Pamela, Janet, Willie, Pauline, Norma and Victoria have visited Lewistown",Janet didn't visit Lewistown,1,boolean_coordination
+"Janie, Natasha, Cassandra, Deanna, Tammy, Deborah, Sandra, Jodi, Mildred, Renee, Erika, Donna, Ada, Gladys, Penny, Patsy, Marlene, Catherine and Samantha have visited Ontario",Penny didn't visit East Hartford,0,boolean_coordination
+Jodi has visited Chicago Heights and Salem,Jodi didn't visit Chicago Heights,1,boolean_coordination
+"Stella, Joy, Clara, Peggy, Rebecca and Eleanor have visited Belmont",Eleanor didn't visit Belmont,1,boolean_coordination
+"Blanche, Jeanette, Frances, Emma, Bernice, Connie, Charlene, Nellie, June, Juanita, Dolores, Rita and Clara have visited Crookston",Jeanette didn't visit Willimantic,0,boolean_coordination
+"Opal, Sandy and Miriam have visited Palmer",Nora didn't visit Palmer,0,boolean_coordination
+"Samantha has visited American Fork, Union, Branson, Grand Junction, Coupeville, Streator, Monmouth, Santa Rosa and Missoula",Constance didn't visit Missoula,0,boolean_coordination
+"Jodi, Clara, Anne, Judy, Julie, Ana, Myrtle, Ida, Belinda, Tamara, Frances, Dawn, Leona and Monique have visited Nappanee",Ida didn't visit Grinnell,0,boolean_coordination
+"Mamie has visited Westfield, Crown Point, Rome, Bayonne and Whittier",Mamie didn't visit Rome,1,boolean_coordination
+"Inez, Velma, Cecilia, Terry, Gertrude, Lindsey, Elsie, Beverly, Annie and Mildred have visited Massena",Inez didn't visit Massena,1,boolean_coordination
+"Clara has visited Eugene, Ironwood, Plano, Sunbury, Ventura, Daytona Beach, Monroe and Wellsburg",Gina didn't visit Eugene,0,boolean_coordination
+"Ida, Maureen, Ruth, Nina, Lorraine, Vicki, Sue, Elsie, Maria, Wilma, Janet and Shelley have visited South Kingstown",Janet didn't visit South Kingstown,1,boolean_coordination
+"Tamara has visited Danville, Colorado, Los Angeles, Lynchburg and Woburn",Tamara didn't visit Bremerton,0,boolean_coordination
+"Lynda, Gloria, Delores, Angela, Lori, Terri, Beulah, Florence, Grace, Melissa, Courtney, Iris, Leona, Nellie, Joanne, Vivian, Geraldine, Jennifer and Angie have visited Boothbay Harbor",Jennifer didn't visit Natchitoches,0,boolean_coordination
+"Valerie has visited Santa Rosa, John Day, Johnson City, Hammondsport, West Palm Beach, Monroeville, Farmington, Yonkers, Grand Haven, Norwood, Valdez, Whitman, Mason City, Coos Bay, Fort Lee, Shamokin, Duxbury, West Bridgewater, Natchez and Antioch",Valerie didn't visit Duxbury,1,boolean_coordination
+"Miriam has visited Delray Beach, Baker City, Hoquiam, Waterford, Tahlequah, Santa Cruz, Montclair, Concord, Savannah, Bogalusa, Naperville, Fort Lee, Springfield, Rugby, Peekskill and Weymouth",Miriam didn't visit Montclair,1,boolean_coordination
+"Kelly, Frances, Ada, Nellie, Cindy, Verna, Irene, Dorothy, Susie, Kristi, Lindsey, Miriam, Roberta, Debbie, Deborah and Tanya have visited Tulsa",Kelly didn't visit Tulsa,1,boolean_coordination
+"Marion, Kathy, Yvette, Shelley, Cora, Ashley, Lynn, Tamara, Janice, Christy, Michele, Bobbie, Melissa, Eunice, Yolanda and Josephine have visited Truth or Consequences",Janice didn't visit Truth or Consequences,1,boolean_coordination
+"Nicole has visited Hialeah, Newport, Gunnison, Tillamook, Hays, Parma, Iron Mountain, Springfield, Clinton, Oregon City, Murray, Spartanburg, Edenton, Harrodsburg, Carbondale, Grants, Calexico, Andalusia and Kirksville",Brandy didn't visit Calexico,0,boolean_coordination
+"Sandra has visited Exeter, Uvalde, Franklin, Pagosa Springs, Amsterdam, Randolph and Kalamazoo",Sandra didn't visit Randolph,1,boolean_coordination
+"Jessica has visited Bryan, Lawrence and Virginia Beach",Jessica didn't visit Adams,0,boolean_coordination
+"Inez, Ann, Juanita, Angela, Barbara, Naomi, Mattie, Pearl and Lorraine have visited Rye",Sherri didn't visit Rye,0,boolean_coordination
+"Kelly, Audrey, Helen, Pauline, Diana, Sabrina, Peggy, Janie, Tiffany, Cheryl and Agnes have visited Mount Pleasant",Cheryl didn't visit Mount Pleasant,1,boolean_coordination
+"Dorothy, Victoria, Sonya, Carole, Jessica, Maureen, Pamela, Ethel, Courtney, Darlene, Allison, Rhonda, Fannie, Thelma and Rachel have visited Dover",Valerie didn't visit Dover,0,boolean_coordination
+"Candace has visited Ansonia, International Falls, Sanford, New Jersey, Breckenridge, Alexandria, Wilmette and Cleveland",Eleanor didn't visit International Falls,0,boolean_coordination
+"Joanna, Joyce, Danielle, Nellie, Bonnie, Amber, Sheryl, Rosa and Kelly have visited Hanover",Sheryl didn't visit Hanover,1,boolean_coordination
+"Linda has visited Delray Beach, Long Branch, Canon City, Morgantown, Tiffin, Springfield, Wilmington, Yankton, Harrisburg, Osceola, Sallisaw and Saratoga Springs",Linda didn't visit Sallisaw,1,boolean_coordination
+"Danielle, Felicia, Geneva, Shannon, Hattie, Lillie, Susan, Kristine, Regina, Joanne, Caroline, Dawn, Kayla, Marian, Norma and Bertha have visited Anadarko",Beth didn't visit Anadarko,0,boolean_coordination
+"Mattie has visited Plymouth, Rumford, Gatlinburg and La Grange",Mattie didn't visit La Grange,1,boolean_coordination
+"Alma, Leslie, Deborah, Lindsay, Tamara, April, Megan, Cora, Marilyn, Kristi, Lula, Sandra, Katrina, Joyce, Vanessa, Bertha, Alberta, Josephine, Carla and Ellen have visited West Memphis",Kristi didn't visit Los Angeles,0,boolean_coordination
+"Stacey has visited Pottsville, Madison, Great Barrington, Burns and Clayton",Stacey didn't visit Madison,1,boolean_coordination
+"Kimberly, Harriet, Carmen, Amanda and Deborah have visited Opelousas",Kimberly didn't visit Opelousas,1,boolean_coordination
+"Lynn, Christina, Candace, June, Jennie, Kimberly, Natasha and Joan have visited Homestead",Lynn didn't visit Homestead,1,boolean_coordination
+"Joyce, Juanita, Marion, Connie, Thelma, Amanda, Stacy, Barbara, Dorothy, Sharon, Brandi, Irma, Ella, Bertha, Alma, Beth and Dawn have visited Mankato",Annette didn't visit Mankato,0,boolean_coordination
+Sandra and Nina have visited Fort Valley,Nina didn't visit Fort Valley,1,boolean_coordination
+"Lydia, Susan, Bonnie and Jane have visited Gallipolis",Jane didn't visit Towson,0,boolean_coordination
+"Anne has visited Port Orford, Vicksburg, Texas City, Abingdon, Glassboro, Fairbanks, Monett, Estherville, Shawnee and Valparaiso",Anne didn't visit Valparaiso,1,boolean_coordination
+"Shelly has visited New Bedford, Sunbury, Macomb, Columbia, French Lick, Kapaa, Moline, Swarthmore, Winona, Glassboro, Grafton, Waimea, Frederick, Logan, Mamaroneck, New Smyrna Beach, Colorado and Easton",Shelly didn't visit Temple,0,boolean_coordination
+"Nancy, Natasha, Linda, Penny, Erika, Gail, Natalie, Vanessa and Alison have visited Morganton",Amy didn't visit Morganton,0,boolean_coordination
+"Melinda has visited Rocky Mount, Ottumwa, Gillette, Alamosa, Marlborough, Huntsville and Tampa",Melinda didn't visit Manchester,0,boolean_coordination
+"Carrie, Valerie, Connie, Veronica, Tina, Myrtle, Kimberly, Ramona, Toni, Kayla, Joyce, Guadalupe, Cassandra and Michelle have visited Bemidji",Miriam didn't visit Bemidji,0,boolean_coordination
+"Stacy has visited Lompoc, Fresno, Carthage and Virginia Beach",Stacy didn't visit Lompoc,1,boolean_coordination
+"Vicki has visited Kentucky, Ticonderoga, Pendleton, Laconia, Hastings, Barrington, Dalton, Janesville, Leavenworth, Interlochen, Pullman, Watertown, East Lansing, Alpine, Trenton, Nashua, Plymouth, Meridian and Bradenton",Vicki didn't visit Victorville,0,boolean_coordination
+"Vanessa, Felicia and Carole have visited Lewiston",Vanessa didn't visit Lock Haven,0,boolean_coordination
+"Christine has visited Seminole, College Park, Delray Beach, Ashland, Marietta, Gloucester, Madison, Lafayette, Carmel, Greensburg, Elmira, Hyattsville, Modesto and Oil City",Christine didn't visit Gloucester,1,boolean_coordination
+"Roberta, Connie, Carmen, Cathy, Olivia, Renee, Genevieve, Maria, Mae, Martha, Rhonda, Erica, Christine, Cynthia, Candace, Catherine, Michelle and Maxine have visited Huntsville",Amber didn't visit Huntsville,0,boolean_coordination
+"Constance has visited Englewood, Tyler, Hopkinsville, Miami, Wethersfield, East Chicago, Ishpeming, Mesquite, Dennis, Tooele, Rensselaer, Xenia, Jefferson City, Tombstone, Williamson, Mishawaka and Nebraska City",Constance didn't visit Miami,1,boolean_coordination
+"Carole, Susie, Nellie, Sarah, Stacy, Mamie, Patricia, Betty, Brandi, Jennie, Megan, Allison, Alberta, Colleen, Alice, Claire, Lindsey, Sherry, Charlotte and Lucille have visited Oceanside",Sarah didn't visit Belle Fourche,0,boolean_coordination
+"Lola, Beulah, Olga, Melinda, Pauline, Kayla, Grace, Shirley and Dorothy have visited Gunnison",Melinda didn't visit Gunnison,1,boolean_coordination
+Kay has visited Easton and New Haven,Kay didn't visit Easton,1,boolean_coordination
+"Vanessa has visited Claremore, Nashville, Sault Sainte Marie and East Liverpool",Vanessa didn't visit Saratoga Springs,0,boolean_coordination
+"Kristy, Jo, Jane, Rosemary and Marian have visited Deming",Kristy didn't visit Orangeburg,0,boolean_coordination
+"Jenny has visited Iowa, Middletown, Wilmette, Niles, Oberlin, Chapel Hill, Boulder, Brunswick, Altus, Phenix City, Reedsport, Kenosha, Rugby, Charleston, Jackson, Ohio and Opelika",Jenny didn't visit Ohio,1,boolean_coordination
+"Karen has visited Claremont, San Jose, Marietta, Enfield, Enterprise, Glendive, Port Lavaca, Martins Ferry and Janesville",Jacqueline didn't visit Glendive,0,boolean_coordination
+"Cathy, Velma, Ada, Iris, Dolores, Allison, Thelma, Julia, Tina, Tanya, Edith, Ida, Janice, Charlene, Josephine, Sheila, Brittany, Marsha, Julie and Antoinette have visited Kingston",Josephine didn't visit Kingston,1,boolean_coordination
+"Cindy has visited Sudbury, Aberdeen, Willmar, West Orange, Farmington, Huron, Niles, Bedford, Virden, Glendive, Lake Geneva, Sturgis, Port Arthur, Orange, Watervliet, Casa Grande and Eveleth",Cindy didn't visit Lake Geneva,1,boolean_coordination
+"Judy, Molly, Melody, Shelly, Betty, Joanna, Hazel, Amy, Elaine, Beth, Jo, Lee, Nellie, Olivia, Tracy, Sally, Jackie, Patricia and Robin have visited New Milford",Betty didn't visit Reading,0,boolean_coordination
+"Darlene, Wendy, Blanche, Christine, Kristin, Jane, Claire and Shannon have visited Ormond Beach",Gloria didn't visit Ormond Beach,0,boolean_coordination
+"Gertrude has visited New Market, Rutherford, Erie, Big Spring, Coffeyville, Steamboat Springs, Suffolk, Holyoke, Clarksdale, Price, Chanute, Lodi, Burlington, Nacogdoches, Cedar Rapids, Alexander City and Kelso",Gertrude didn't visit Edmond,0,boolean_coordination
+"Christine, Rita, Amber, Robin, Stephanie, Yolanda, Judith, Rosemary, Kristen, Gina and Vivian have visited Darlington",Grace didn't visit Darlington,0,boolean_coordination
+"Melanie, Jeanne, Mildred, Deborah, Elsie, Elaine, Joan, Laurie, Valerie, Opal, Dora, Cathy, Mae, Yvonne, Lori, Iris, Annette, Dana, Margarita and Katie have visited Beacon",Dana didn't visit Beacon,1,boolean_coordination
+"Joyce, Paula, Rhonda, Cheryl, Angela and Brittany have visited Salina",Bessie didn't visit Salina,0,boolean_coordination
+"Emily, Erin, Thelma, Edna, Samantha, Leona, Carolyn, Rosemary, Rose, Candice and Leah have visited Ukiah",Carolyn didn't visit Ukiah,1,boolean_coordination
+"Heather, Tara, Kristin, Marjorie, Jennifer, Kimberly, Gladys, Alison, Daisy, Lynn, Shirley, Ellen, Kathleen, Stella, Lisa, Roberta, Kayla and Lena have visited Evanston",Lisa didn't visit Evanston,1,boolean_coordination
+"Phyllis, Jessie, Joy and Beatrice have visited Riverton",Jessie didn't visit Riverton,1,boolean_coordination
+"Carmen, Esther, Jo, Monique, Brittany and Melinda have visited Saint Cloud",Jo didn't visit Saint Cloud,1,boolean_coordination
+"Christy, Melinda, Samantha, Loretta, Lillie and Ruth have visited Salem",Loretta didn't visit Salem,1,boolean_coordination
+"Diana has visited Goldsboro, Philadelphia, Laurel, Oceanside, Lebanon, Kodiak, Talladega and Norton",Lucy didn't visit Laurel,0,boolean_coordination
+"Helen has visited Palm Springs, Winchester, Amarillo, Burlington and Alta",Helen didn't visit Alta,1,boolean_coordination
+"Janie, Stella, Naomi, Lois, Sarah and Dolores have visited Alva",Sarah didn't visit Lancaster,0,boolean_coordination
+"Mary has visited Pawhuska, Bennington, Jacksonville, Peterborough, North Little Rock, Excelsior Springs, Tullahoma, Opelika, Clarksburg, Needles, Boulder City, Lebanon, Menlo Park, Sebring, Anadarko and Chicopee",Mary didn't visit Lebanon,1,boolean_coordination
+"Erika has visited Anderson, Huntington, Johnstown, Keokuk, Ottumwa, New Harmony, Killeen, Middletown, San Antonio and Davenport",Erika didn't visit New Harmony,1,boolean_coordination
+"Nora has visited Fillmore, Dallas, Greenville, Merced, Sausalito, Casa Grande and Lima",Nora didn't visit Ely,0,boolean_coordination
+"Hattie has visited Abilene, Grand Forks, Park Ridge, Stamford, Queens, Mesa, Terre Haute and Dunkirk",Lorraine didn't visit Queens,0,boolean_coordination
+"Priscilla has visited Lake Wales, Ticonderoga, Utah, Sheboygan, Ten Sleep, Hayward, North College Hill, Glendale, Hancock, Peoria and Bristol",Christine didn't visit Hancock,0,boolean_coordination
+"Doris has visited Bismarck, New Mexico, Kansas City, Cairo, Caldwell, McKeesport, Minot, Tacoma, Aurora, Painesville, Columbus, Hialeah, Yorba Linda, Wahpeton, Providence and Borger",Gertrude didn't visit Painesville,0,boolean_coordination
+"Katie has visited Mountain View, Powell, Lewiston, Pampa, Put-in-Bay, Killeen, McCook, Wilson, Sturgeon Bay, Erie and Barrington",Katie didn't visit Marion,0,boolean_coordination
+"Nina, Eva, Alison and Maria have visited East Greenwich",Wanda didn't visit East Greenwich,0,boolean_coordination
+"Beulah has visited Florence, Lowell, Eureka, Sturgis, Marysville, Gainesville, Presque Isle, Montpelier, Alliance, Olympia, Coupeville, Clovis and Rutland",Sheila didn't visit Coupeville,0,boolean_coordination
+"Leona has visited Mount Vernon, Indiana, Ontario and Dixon",Leona didn't visit Indiana,1,boolean_coordination
+"Toni has visited Augusta, Dennis, Norfolk, Chico, Morrilton, Babylon, Pocatello, Delray Beach, Pottsville, Boonesborough, Williamsburg, Fort Scott and Pass Christian",Toni didn't visit Boonesborough,1,boolean_coordination
+"Katie, Marcia, Mildred, Kristy, Thelma, Misty, Sara, Charlene, Maria, Charlotte, Jeanne, Alberta, Rebecca, Christine and Debbie have visited Valdez",Mildred didn't visit Valdez,1,boolean_coordination
+"Lynda, Nicole, Geraldine, Anne, Blanche, Darlene, Kristy, Christina, Opal, Katie, Debbie, Wilma, Sabrina, Candice, Monica, Samantha and Jenny have visited Parkersburg",Miriam didn't visit Parkersburg,0,boolean_coordination
+"Rachel, Megan and Geraldine have visited Shelbyville",Rachel didn't visit Shelbyville,1,boolean_coordination
+"Joanna has visited Fort Scott, Yuba City, Moses Lake, Philadelphia, Batavia, Trenton, Rogers, Columbus, Charlestown, Hawaii, Coos Bay, Weston, Port Gibson, Sanford, Hudson and Bellefontaine",Judy didn't visit Columbus,0,boolean_coordination
+"Bobbie, Cynthia, Faye, Doris, Lucy, April, Jodi, Melanie, Stacey, Janice and Danielle have visited Bardstown",Janice didn't visit Bardstown,1,boolean_coordination
+Sharon and Michelle have visited Ann Arbor,Sharon didn't visit Ann Arbor,1,boolean_coordination
+"Lori, Melinda, Lucy, Loretta, Jacqueline, Carole, Sonia, Theresa, Maggie, Alicia, Michelle, Vickie and Jill have visited Madison",Carrie didn't visit Madison,0,boolean_coordination
+"Kristy, Edna, Elizabeth, Opal, Michelle and Wilma have visited Machias",Wilma didn't visit Machias,1,boolean_coordination
+"Robin has visited Darlington, Hackensack, Palo Alto, Bowie, Red Bluff, Fort Dodge, Calumet City, New London, East Orange and Lewes",Robin didn't visit North Las Vegas,0,boolean_coordination
+"Lynn, Ana, Lola, Jeanette, Kimberly, Betty, Lorraine, Pauline, Tracey and Penny have visited White Springs",Candace didn't visit White Springs,0,boolean_coordination
+"Joanne, April, Alison, Cora, Gail, Beverly, Olivia, Diane, Annie, Brandy, Kay, Stephanie and Janice have visited John Day",Marcia didn't visit John Day,0,boolean_coordination
+"Pearl has visited State College, Rotterdam, Lamar, Florissant, Panguitch, Fort Dodge, Osceola, Shelbyville and Bremerton",Terri didn't visit State College,0,boolean_coordination
+"Carole has visited Durham, Canon City, Chelmsford, Virginia and Rome",Carole didn't visit Virginia,1,boolean_coordination
+"Mamie has visited Brunswick, Pryor, Los Alamos, Lakeview, Chickasaw, Grand Haven, Middlesboro, Morgan City, Oraibi, Woburn, Zanesville, Saugus, Defiance, Poughkeepsie, Bountiful and Monterey",Sandy didn't visit Monterey,0,boolean_coordination
+"Nina has visited Oregon City, Madison, Alton, Middletown, Bedford, Hudson and New Glarus",Nina didn't visit Hudson,1,boolean_coordination
+"Melody has visited Weston, New Windsor, Oceanside, Greeley, Perth Amboy, Cicero, Ashland, North College Hill, Mamaroneck and The Dalles",Kay didn't visit Perth Amboy,0,boolean_coordination
+"Peggy, Virginia, Guadalupe, Evelyn, Ethel, Shelly and Regina have visited Clinton",Peggy didn't visit Hanover,0,boolean_coordination
+"Harriet, Susie, Delores, Tonya, Cheryl and Lucille have visited Kahului",Delores didn't visit Arkansas City,0,boolean_coordination
+"Shirley, Vickie and Stella have visited Bayonne",Stella didn't visit Austin,0,boolean_coordination
+"Olga has visited Bridgeport, Peekskill, Memphis, Atlantic City, Spring Green, Eastpointe, Denver, Santa Clarita and Dedham",Olga didn't visit Lebanon,0,boolean_coordination
+"Lucille has visited Frederick, Kennewick, Erie, Bountiful, Illinois, Glenwood Springs, Olathe, Stamford, Eufaula, Shreveport, Joliet, Longview, Titusville and Marion",Lucille didn't visit De Smet,0,boolean_coordination
+"Clara, Patricia, Robin and Sabrina have visited Frederick",Patricia didn't visit Frederick,1,boolean_coordination
+"Ashley has visited Boys Town, Cincinnati, Evanston, Plains, Illinois, Augusta, Virginia, El Dorado, Fort Wayne, Osawatomie, Sterling and Boston",Ashley didn't visit Sterling,1,boolean_coordination
+"Kristine has visited Jersey City, Boothbay Harbor, Cullman, Parma, Port Washington, Pullman and Bedford",Kristine didn't visit Cullman,1,boolean_coordination
+"Stacey has visited Laredo, Macon, Watertown, Lakeview, Manistee, Cincinnati, Bronx, Ephrata, Breckenridge, Saint Martinville, Winnemucca, Royal Oak, Kennewick, Des Moines, The Village, Goliad, Ojai, Nanticoke, Cedar Falls and Gaffney",Stacey didn't visit Laredo,1,boolean_coordination
+"Clara has visited Easton, Moorhead, Orderville, Guthrie, Tempe, Pontiac, Williamson, Morristown, Amherst, San Marino and Cranford",Clara didn't visit Titusville,0,boolean_coordination
+"Sally, Veronica, Courtney, Lillie, Heather, Ida, Doris, Thelma, Gail, Alma, Jan, Grace, Norma, Kristi, Debra, Rosie, Marian and Nicole have visited Atlanta",Ida didn't visit Piqua,0,boolean_coordination
+"Jacqueline, Emily, Lucille, Lindsey, Shelly, Billie, Charlotte, Nancy, Ashley, Carol, Carla and Phyllis have visited Andersonville",Emily didn't visit Andersonville,1,boolean_coordination
+"Sarah has visited Norwalk, Weatherford, Charleston and Silver Spring",Sarah didn't visit Ames,0,boolean_coordination
+"Phyllis, Kathy, Kathryn, Lorraine, Iris, Jennie, Jane, Katie, Heather, Sabrina, Theresa, Cindy, Ada, Grace and Alice have visited Bisbee",Ada didn't visit Moscow,0,boolean_coordination
+"Rose has visited Petersburg, Weehawken, Greenwood, Jonesborough, San Francisco, Lockport, Idaho City, Belmont and Morehead City",Rose didn't visit Idaho City,1,boolean_coordination
+"Belinda, Vivian and Anita have visited Orem",Vivian didn't visit Orem,1,boolean_coordination
+"Mildred, Verna, Ellen, Sandra, Denise, Eileen, Marie, Lula, Alice, Anne, Belinda, Velma, Lillian, Deanna, Eva and Jo have visited Elk City",Mildred didn't visit Gainesville,0,boolean_coordination
+"Danielle, Carol, Luz, Tiffany, Susan, Dora, Lindsey, Irma, Laura, Kayla, Gertrude and Jenny have visited Park City",Irma didn't visit Cleveland,0,boolean_coordination
+"Monica has visited Queens, Manistee, Greenwood, West New York, East Saint Louis, Caldwell, Guilford, Macon, Stuttgart and Manchester",Monica didn't visit Queens,1,boolean_coordination
+"Lindsey, Claudia, Rosie, Courtney and Charlene have visited Orange",Claudia didn't visit Orange,1,boolean_coordination
+"Kristi has visited Hot Springs, Nogales, Mobridge, Greenville, San Bernardino and Reno",Kristi didn't visit Nogales,1,boolean_coordination
+"Gloria has visited Merced, North Las Vegas, Moscow, Woburn, Northfield, Las Vegas, Myrtle Beach, Northampton, Houlton, Hood River, Sierra Vista, Wallingford, Poughkeepsie, Brookline and Amesbury",Gloria didn't visit Talladega,0,boolean_coordination
+"Amelia has visited Montpelier, Canyon, Bowie, Olathe, Ludlow, Las Vegas, Austin, Uniontown, Jackson, Warren, Gila Bend, East Point, Red Wing, Torrington and Lafayette",Amelia didn't visit Gila Bend,1,boolean_coordination
+"Lola has visited Saugus, Summersville, Hanalei and Newberg",Lola didn't visit Calistoga,0,boolean_coordination
+"Erin, Nancy, Nicole, Miriam, Sandy, Dora, Sheryl, Kim, Pamela and Monica have visited Hempstead",Nancy didn't visit Hempstead,1,boolean_coordination
+"Joanne has visited Alabama, Cooperstown, Ormond Beach, Millburn, Newport, Biddeford, Smith Center, San Marcos, Tuscaloosa, Seattle, Amherst, Portsmouth, Saratoga Springs, Novato, Mankato, Medford, Mundelein and Warren",Barbara didn't visit Saratoga Springs,0,boolean_coordination
+"Marilyn has visited Hollywood, Saint Louis, West Hartford, Fort Lee, Richmond and West Chester",Olga didn't visit West Chester,0,boolean_coordination
+"Molly has visited Indio, Leominster, Arkansas City, Dalton, Houlton, Portland, Independence, Great Neck, Sunbury, Smith Center, Summersville, Waterloo, Casa Grande, Gadsden, Stratford, Casper, Englewood, Union and Halifax",Molly didn't visit Casa Grande,1,boolean_coordination
+"Cassandra has visited Evanston, Pullman, Traverse City, Montpelier, Utah, Long Beach, Lenox, Newburgh and Stevens Point",Cassandra didn't visit Long Beach,1,boolean_coordination
+"Maryann, Deborah and Monica have visited Oroville",Maggie didn't visit Oroville,0,boolean_coordination
+"Alberta, Ella, Carla, Kathryn and Lindsey have visited Blackfoot",Alberta didn't visit Blackfoot,1,boolean_coordination
+"Audrey, Sara, Velma, Kathleen, Vivian, Tina, Amelia, Misty, Cheryl and Ana have visited Lenox",Ana didn't visit Lewisburg,0,boolean_coordination
+"Kristen has visited Newton, Eveleth, Melbourne, Lewiston, Hackensack, Ponca City, Kodiak, Eureka, West Seneca, Helena and Saint Marys City",Shirley didn't visit Ponca City,0,boolean_coordination
+"Yolanda has visited Eufaula, West Des Moines, Florence, Lexington, Kent, Weehawken, Portland, Hattiesburg, Kearney, Clinton, Andalusia, Nacogdoches, Mineola and Brea",Yolanda didn't visit Brea,1,boolean_coordination
+"Charlene has visited Bennington, Lakeland, Venice, San Jose and Dalton",Charlene didn't visit Dalton,1,boolean_coordination
+Christy has visited Winooski and Colorado,Christy didn't visit Colorado,1,boolean_coordination
+"Anne, Katie, Regina, Glenda, Doris, Heather, Luz, Judith, Rosemary, Jessie and Connie have visited Kaneohe",Sherry didn't visit Kaneohe,0,boolean_coordination
+Yvonne and Kristine have visited Glen Ellyn,Yvonne didn't visit Glen Ellyn,1,boolean_coordination
+"Viola has visited Salinas, Barrington and Seward",Sheila didn't visit Salinas,0,boolean_coordination
+"Marlene, Diana, Angie, Edna, Virginia, Yvonne, Sue, Stacey, Lee, Madeline, Violet and Carrie have visited Cordova",Dianne didn't visit Cordova,0,boolean_coordination
+"Olivia, Annie, Cecilia, Cathy, Sonya, Cheryl, Ella, Gwendolyn, Cassandra, Miriam and Jennifer have visited Boulder City",Terry didn't visit Boulder City,0,boolean_coordination
+"Yolanda has visited Caldwell, Norfolk, Kennebunkport, Lenox, Clovis, Bar Harbor, Saint Albans, Nevada and Hampton",Yolanda didn't visit Nevada,1,boolean_coordination
+"Ruby has visited Highland Park, Gallipolis, Bennington, Alliance, Rogers, Aliquippa, Wailuku, McAllen, Put-in-Bay, Cookeville, Hazleton, Bellingham, Fredericksburg, Santa Fe and Harrisburg",Ruby didn't visit Put-in-Bay,1,boolean_coordination
+"Candace has visited Manchester, Hood River and Brooklyn",Candace didn't visit Brooklyn,1,boolean_coordination
+"Naomi, Lena, Kayla, Jeanne, Beverly, Victoria, Courtney, Penny, Jennifer and Irene have visited Tuskegee",Jeanne didn't visit Greenville,0,boolean_coordination
+Flora has visited Deadwood and New Haven,Flora didn't visit New Haven,1,boolean_coordination
+"Carol, Heather, Marlene and Lola have visited New Windsor",Pamela didn't visit New Windsor,0,boolean_coordination
+"Lorraine, Josephine, Alicia, Teresa, Lucy, Ana, Velma and Beverly have visited Boys Town",Josephine didn't visit Boys Town,1,boolean_coordination
+"Violet has visited Madison, Grand Haven, New Smyrna Beach, Milwaukee, West Plains, Heber City, Troy, Jackson and Queens",Charlotte didn't visit Heber City,0,boolean_coordination
+"Gertrude, Crystal, Marsha, Annette, Mattie, Jenny, Maryann, Gina, Joanne, Claire, Connie, Marilyn, Brandi and Becky have visited Hammondsport",Gertrude didn't visit Fredericksburg,0,boolean_coordination
+"Leona has visited Nogales, Bayonne, Charlestown, Easton, Junction City, Charleston, Saint Petersburg, Prescott, Ripon, Barnstable, Morgantown, Crystal City, Indianola, Malden, Houma, Asheboro, Salt Lake City and Fredonia",Leona didn't visit Charleston,1,boolean_coordination
+"Mary, Dorothy, Candace, Evelyn, Ethel, Katie, Deborah, Patricia, Lori, Kristen, Joanna, Gladys, Sonia, Sandy, Christine, Lauren, Marcia, Nina and Karen have visited Florence",Elizabeth didn't visit Florence,0,boolean_coordination
+"Luz has visited Taunton, Marion, Anacortes, Alhambra, Warwick, Cherokee, Washington, Yonkers, Lincoln, Granite City, Mandan, Arkansas, Tampa, Carbondale, Hobart, Ridgewood and Waterford",Luz didn't visit Provo,0,boolean_coordination
+"Charlotte, Bobbie, Edith, Crystal, Olivia and Deborah have visited Aberdeen",Jamie didn't visit Aberdeen,0,boolean_coordination
+"Ann has visited Houma, Greenville, Port Gibson, Charles City, Fayetteville, Union City, Long Beach, San Leandro, Boone, Garden City, Brookings, Douglas, Garland, Revere, Goldfield and Oklahoma City",Genevieve didn't visit Charles City,0,boolean_coordination
+"Nancy has visited Cheboygan, Covington, Scarsdale, Norton, Wayne, Mobile, Binghamton, Fort Pierce, Los Alamos, Springfield, Alexandria, Maryville, Buffalo, Bristol, Philippi, Fitzgerald, Jacksonville and Carbondale",Marcia didn't visit Bristol,0,boolean_coordination
+"Marsha has visited Nebraska, Little Falls, Nashville, New Martinsville, Bourne, Saint Joseph, Honolulu, Norfolk, Dubuque, Bossier City, Bellows Falls, Bastrop, Bloomfield Hills, Romney, Stroudsburg, Muskogee, Hobbs, Beaumont, Indianapolis and Milton",Jessie didn't visit Hobbs,0,boolean_coordination
+"Laurie has visited Winchester, Roanoke and Rotterdam",Laurie didn't visit Winchester,1,boolean_coordination
+"Marlene, Samantha, Lindsey, Georgia, Cynthia, Wanda and Antoinette have visited Leadville",Angela didn't visit Leadville,0,boolean_coordination
+"Katrina has visited Wellesley, Littleton, Brockton, Sharon, Clarksville, Plattsmouth, Saint Marys City, Corinth, Middletown, Kelso, Bakersfield, Provo and Everett",Katrina didn't visit Littleton,1,boolean_coordination
+"Lydia, Jean, Emma, Carol, Kathleen, Penny, Claire, Sally, Betty, Luz, Regina, Constance, Jeanne, Sue, Caroline, Ashley and Toni have visited Warwick",Regina didn't visit Warwick,1,boolean_coordination
+"Inez, Claire, Jessie, Willie, Beulah, Verna, Maureen, Natasha, Lynda, Dianne, Carol, Laura, Ashley, Joann, Ethel, Lindsay, Kay and Tina have visited New London",Willie didn't visit Gulfport,0,boolean_coordination
+"Melody has visited Nogales, Springfield, Southampton, Trinidad, Clarksville, Calhoun, Carthage, Great Bend, San Marcos, Centralia, Laguna Beach, Leavenworth and Elkhart",Laura didn't visit Elkhart,0,boolean_coordination
+"Luz, Carole, Terri, Yvonne, Fannie, Dora, Deanna, Michele, Christina, Lorraine and Kimberly have visited Vincennes",Danielle didn't visit Vincennes,0,boolean_coordination
+"Gladys, Sandra, Mary, Mamie, Laurie, Isabel, Lorraine, Willie, Maria and Nicole have visited Kennewick",Laurie didn't visit Bound Brook,0,boolean_coordination
+"Caroline has visited Sapulpa, Colorado Springs, Borger, Gaffney, San Gabriel, Hopewell, Pierre, Lexington, Oshkosh, Lake Charles, Boonville, Amsterdam, Saint Augustine, Nevada, South Bend and Delta",Caroline didn't visit Lexington,1,boolean_coordination
+"Elizabeth has visited East Aurora, Fitchburg and Wallingford",Elizabeth didn't visit Fitchburg,1,boolean_coordination
+"Geneva has visited Rensselaer, Sidney, Warren, Greensboro, Crookston, Newport, Xenia and Falmouth",Geneva didn't visit Newport,1,boolean_coordination
+"Joanna has visited Harrodsburg, Niles, Martinez, Douglas, Sitka, Cleveland, Titusville, Central City, Middletown and Layton",Nicole didn't visit Central City,0,boolean_coordination
+"Claudia has visited Williamsburg, Daly City, Sioux Falls, Beacon, Wahpeton, Warm Springs, Huntington, Duncan, Franklin, Lawrence, Newark, Ansonia, San Luis Obispo, Rogers and La Junta",Anna didn't visit Franklin,0,boolean_coordination
+"Billie has visited Sallisaw, Springfield, Framingham, Honaunau and Woodbridge",Billie didn't visit Sallisaw,1,boolean_coordination
+"Margarita, Tina, Connie, Valerie, Rose, Faye, Claudia, Jo, Jeanette, Theresa, Pearl, Mabel, Joanna, Joyce, Kathy and Loretta have visited Harlem",Mabel didn't visit Harlem,1,boolean_coordination
+"Dora has visited New Castle, Little Falls, Chicago Heights, Edgartown, Swarthmore, Midland, Palm Springs, Milan, Dunkirk, Goldfield, Brattleboro, Lynchburg, New Brunswick, Omaha and Williamson",Dora didn't visit Lynchburg,1,boolean_coordination
+"Sally has visited El Reno, Lake Charles, Delta, Ecorse, White Plains, Aliquippa and Aiken",Sally didn't visit Marlborough,0,boolean_coordination
+"Catherine has visited Fairfield, York, Augusta, Sanford, Madison, Port Angeles, Clifton, Turlock, South Holland, New Windsor and Tallahassee",Catherine didn't visit Mason City,0,boolean_coordination
+"Tracey has visited Lewiston, Stillwater, West Bridgewater, Beaverton, Port Huron, Clearfield, Shelton, Sainte Genevieve, Cookeville, Grand Forks, Mount Holly, Saint Paul and Fullerton",Tracey didn't visit Irvine,0,boolean_coordination
+"Sandra, Julie, Flora, Diana, Diane, Jacqueline and Rebecca have visited Oxnard",Julie didn't visit San Fernando,0,boolean_coordination
+"Emily has visited Randolph, Pagosa Springs, Selma, Columbia, Clovis and Cuyahoga Falls",Emily didn't visit Cuyahoga Falls,1,boolean_coordination
+"Ana has visited Austin, Orderville, Amana Colonies, Stony Brook, Tacoma, Bogalusa, West Haven, Joliet and Walsenburg",Ana didn't visit North Adams,0,boolean_coordination
+"Julia, Susie, Sabrina, Sonia, Gertrude, Susan, Joy, Christina, Heather, Robin and Courtney have visited Arkansas City",Sonia didn't visit Arkansas City,1,boolean_coordination
+"Linda, Irma and Viola have visited Bethlehem",Irma didn't visit Bethlehem,1,boolean_coordination
+"Candace, Lucy, Rosie, Janet, Rita, Andrea, Joanna, Antoinette, Nancy, Alberta, Naomi, Shelly, June, Catherine, Kathryn, Tanya, Nicole, Caroline, Daisy and Beatrice have visited Whittier",Shannon didn't visit Whittier,0,boolean_coordination
+"Megan, Shannon, Rhonda, Geraldine, Roberta, Holly, Erin, Marion, Bessie, Irma, Maxine, Anita, Dana, Emily, Michele, Melanie, Tonya, Billie and Alicia have visited Owensboro",Norma didn't visit Owensboro,0,boolean_coordination
+"Katrina has visited Wallingford, Dodge City, Pekin, Blairsville, Canton, Blytheville, Carlsbad, Salem, Philadelphia, Goshen, Lubec and Fredonia",Katrina didn't visit Mount Vernon,0,boolean_coordination
+"Bertha has visited Glendive, Holdenville, West Chester, Lake Placid and Oak Harbor",Bertha didn't visit Lake Placid,1,boolean_coordination
+"Gertrude, Clara, Shelley, Jane, Fannie, Maureen, Wendy, Elizabeth, Geneva, Leona, Candace, Terri, Irene, Cora and Olivia have visited Old Saybrook",Olivia didn't visit Old Saybrook,1,boolean_coordination
+"Janet, Bobbie, Belinda, Myrtle, Dawn, Margie, Jennie, Geraldine, Tammy, Brandi, Inez, Dorothy, Kimberly, Kristin, Amy and Heather have visited Elkins",Bobbie didn't visit Morgan City,0,boolean_coordination
+"Mae has visited Salem, Bozeman, Junction City and Wickford",Mae didn't visit Junction City,1,boolean_coordination
+"Margarita, Heather, Beatrice, Rebecca and Florence have visited Muskogee",Virginia didn't visit Muskogee,0,boolean_coordination
+"Leona, Shirley, Jennifer, Melody, Gladys, Olga, Stacey, Doris and Yolanda have visited Reading",Vivian didn't visit Reading,0,boolean_coordination
+Dolores has visited Geneva and Ishpeming,Dolores didn't visit Camden,0,boolean_coordination
+"Lori has visited Madison, Dallas, Goshen and Muncie",Lori didn't visit Goshen,1,boolean_coordination
+"Angie, Leona, Valerie, Misty, Dawn, Mary, Brenda, Vanessa, Lisa, Phyllis, Paula, Lee, Renee, Nellie, Ana, Stacey, Janie and Jane have visited Somerville",Lee didn't visit Somerville,1,boolean_coordination
+"Julie has visited Santa Claus, Mount Vernon, New Mexico, New Milford, Mason City, Winston-Salem, Hollywood, Pine Bluff, Babylon, Newton, New Iberia, Park Forest, Shepherdstown and Mount Holly",Julie didn't visit Milan,0,boolean_coordination
+"Debbie, Margaret, Charlene, Florence, Vickie, Esther, Eunice, Joy, Lucille, Faye, Flora, Melissa, Pauline, Geraldine, Leslie, Veronica, Marjorie, Kristy and Carolyn have visited Gallipolis",Marjorie didn't visit Buckhannon,0,boolean_coordination
+"Janice, Nancy, Virginia, Natalie, Inez, Alicia, Jan, Marian, Doris, Lydia, Marguerite, Deborah and Alice have visited Tupelo",Joanne didn't visit Tupelo,0,boolean_coordination
+Maggie and Belinda have visited East Lansing,Brenda didn't visit East Lansing,0,boolean_coordination
+"Heather has visited Allentown, Presque Isle, Pine Bluff, Saginaw, Westminster, Martinsburg, Nebraska, Redding, Neosho, Whitman, Reedsport, Hyattsville, Simi Valley and Olympia",Heather didn't visit Whitman,1,boolean_coordination
+"Victoria has visited Euclid, El Cerrito, Saranac Lake, Salina, Lodi, Palm Beach, Deming, Sierra Vista, Cedar Rapids, Sallisaw, Simi Valley, Troy and Saco",Victoria didn't visit Simi Valley,1,boolean_coordination
+"Sheryl has visited Columbia, New Brunswick, Stillwater, Newport, Greenfield, Lake City, Carson City, Fort Dodge, Mexico, Burlington, Susanville, Palatine, Cherokee, Fond du Lac, Olympia, Rhode Island, Beverly Hills and Harrisburg",Kristi didn't visit Palatine,0,boolean_coordination
+"Opal, Leslie, Ella, Susan, Nellie, Anna, Guadalupe, Diane, Rachel, Kayla, Margarita, Maureen, Tracy, Tara, Molly, Isabel, Angie, Diana, Amber and Nicole have visited Ashtabula",Molly didn't visit Ashtabula,1,boolean_coordination
+"Margaret has visited Scottsdale, Los Angeles, Opelika, Aberdeen, Youngstown, Priest River, Avondale, Paris, Myrtle Beach, Orlando, Brookings and Tombstone",Terry didn't visit Aberdeen,0,boolean_coordination
+"Susie has visited Enid, Danvers, Ansonia, Altoona, Rotterdam, Gainesville, College Park, Custer, Worthington, New Paltz, Williamsport and Boone",Susie didn't visit Enid,1,boolean_coordination
+"Charlotte, Heidi, Tina, Jeanne, Daisy, Toni, Joanne and Sandra have visited Bessemer",Joanne didn't visit Bessemer,1,boolean_coordination
+"Guadalupe, Renee, Caroline, Stella, Constance, Misty, Rhonda, Dolores, Jenny, Jean, Blanche, Linda, Candace, Darlene, Julie, Judy, Lorraine and Tara have visited Susanville",Constance didn't visit Susanville,1,boolean_coordination
+"Olivia, Lorraine, Eunice, Amelia, Annette, Rosemary, Patricia, Shelley, Andrea, Tanya, Tammy, Irene, Leona, Kristine, Constance, Bobbie, Courtney and Audrey have visited Abbeville",Leona didn't visit Abbeville,1,boolean_coordination
+"Lindsey, Geraldine, Yvette, Marguerite, Lydia, Elaine, Catherine, Carolyn, Lynda, Rosemary, Heidi, Ida, Jackie, Paula, Wanda, Leslie and Sandy have visited Plainview",Lydia didn't visit Bradford,0,boolean_coordination
+"Georgia, Jodi, Sue, Wanda, Lynn, Teresa, Evelyn, Kim, Kay, Misty, Maureen, Maryann, Kelly, Tara, Crystal, Ashley, Cathy, Lindsay, Sylvia and Margie have visited Whitman",Kay didn't visit Whitman,1,boolean_coordination
+"Glenda, Sonya, Cora, Maria, Natalie, Roberta, Lynda, Lillie, Colleen, Frances, Vivian, Guadalupe, Yvette, Maureen, Ann and Alison have visited Lake City",Sonia didn't visit Lake City,0,boolean_coordination
+"Julia, Gladys, Cathy, Victoria, Lauren, Blanche, Kayla, Charlotte and Edith have visited Ukiah",Blanche didn't visit Walnut Creek,0,boolean_coordination
+"Margaret, Michelle and Maureen have visited Bossier City",Maureen didn't visit Newcastle,0,boolean_coordination
+"Beatrice, Kathleen, Annie, Cheryl, Wendy, Luz, Rosa, Leona, Julie, Lucille, Tonya, Dora, Rebecca, Willie, Shirley, Alma, Rhonda, Allison and Maxine have visited Louisville",Rhonda didn't visit Louisville,1,boolean_coordination
+"Jodi has visited Ukiah, Calais, Webster City and Minneapolis",Jodi didn't visit Redlands,0,boolean_coordination
+"Vickie has visited Bryan, Peabody, Princeton, Mankato, Fairfield and Saranac Lake",Vickie didn't visit Coventry,0,boolean_coordination
+"Iris, Opal, Cassandra, Juanita, Heidi, Kathy, Maureen, Danielle, Susie, Ana, Linda, Dorothy, Kim, Maxine, Tina, Louise, Yvonne, Ruth and Olga have visited Wenatchee",Heidi didn't visit Wenatchee,1,boolean_coordination
+"Linda, Cindy, Rose, Lucy, Heidi, Ellen, Bernice, Blanche, Juana, Karen, April, Misty and Julia have visited Sainte Genevieve",Misty didn't visit Chadron,0,boolean_coordination
+"Diana, Deanna, Anita, Denise, Shelly, Doris, Teresa, Maria, Brandy, Arlene, Ruby, Kathy, Shirley, Sheila, Erica, Cynthia and Cassandra have visited Portland",Shirley didn't visit Portland,1,boolean_coordination
+"Hilda, Frances, Kathleen and Sarah have visited San Gabriel",Sarah didn't visit San Gabriel,1,boolean_coordination
+"Maureen, Christina, Willie, Ida, Beulah, Maggie, Lydia, Virginia, Suzanne, Jo and Eileen have visited Aspen",Virginia didn't visit Aspen,1,boolean_coordination
+"Elizabeth has visited Springfield, Greenfield, Ocean City, Fairbanks, Batesville, Cooperstown, Waukegan, Bridgeport, Jacksonville and Augusta",Elizabeth didn't visit Jacksonville,1,boolean_coordination
+"Wendy, Brandi, Juana, Veronica, Jean, Peggy, Willie, Carol, Tammy, Louise, Annette and Angie have visited Santa Monica",Juana didn't visit Santa Ana,0,boolean_coordination
+"Edith, Velma, Roberta, Suzanne, Diane, Olga, Ramona, Joanna, Gloria, Katie, Shelley, Natalie and Judy have visited New Smyrna Beach",Gloria didn't visit Vail,0,boolean_coordination
+"Amy has visited Bordentown, Winsted, Laramie, Murfreesboro, Holdenville, Grayling, Rhinelander, Welch, Nappanee, Lake Oswego, Hackensack, Calhoun, Branson, Natick, Kewanee, Aberdeen, Lufkin, Cranford and Morehead City",Amy didn't visit Nappanee,1,boolean_coordination
+"Clara, Ethel and Caroline have visited Cushing",Antoinette didn't visit Cushing,0,boolean_coordination
+"Willie, Verna, Annette, Megan, Gina, Jill, Hilda, Juana and Emily have visited Westport",Gina didn't visit Westport,1,boolean_coordination
+"Tammy has visited Baraboo, Branford, Tarrytown, Columbia, Fairhaven, Petersburg, Mexico, Chickasha, Shepherdstown, The Dalles, East Orange, Stockbridge, Walpi, Urbana, Boothbay Harbor, Bedford, Pawtucket and Dixon",Tammy didn't visit Fairhaven,1,boolean_coordination
+Lucy has visited Visalia and Virginia City,Lucy didn't visit Kettering,0,boolean_coordination
+"Mary, Cathy, Alma, Florence, Jodi, Arlene, Lois, Joann and Lillian have visited Oxnard",Cathy didn't visit Virginia City,0,boolean_coordination
+"Tara, Kelly, Eunice, Barbara, Deanna, Rosemary, Jessica, Danielle, Rhonda, Doris, Cassandra, Shirley, Joy, Kathy, Kathryn, Karen, Alicia and Sylvia have visited Monmouth",Kelly didn't visit Harlem,0,boolean_coordination
+"Shelly, Valerie, Kimberly, Lola, Clara, Jennie, Velma, Regina, Flora, Marian, Myrtle, Janet, Irma, Shannon, Tracy and Melanie have visited Moline",Clara didn't visit Moline,1,boolean_coordination
+"Tara has visited Rome, Sierra Vista, Harmony, West Virginia, Mount Pleasant, Glenwood Springs, Danville, Leavenworth, Norfolk, Huron, Kirksville, Coventry, Sandusky, Tupelo, Albany, Farmington, Aberdeen and Manchester",Tara didn't visit Staunton,0,boolean_coordination
+"Kay, Yvonne, Lillie, Brandy, Elaine, Connie, Dora, Miriam, Lucille, Isabel, Lindsay, Eva, Toni, Shannon, Virginia, Carmen, Monique, Heidi and Alice have visited Webster",Ruby didn't visit Webster,0,boolean_coordination
+"Tamara has visited Newark, Pampa, Mobridge, Lexington, Oceanside, Hinton, College Station, West Springfield, Bedford, Red Cloud, Topeka, Shreveport, Scarborough, Red Wing, Maysville and Willimantic",Tamara didn't visit Eastham,0,boolean_coordination
+"Carolyn, Sara, Maureen, Edith, Nicole, Rachel, Lois, Caroline, Sheryl, Amelia, Olivia, Faye, Carrie, Carole and Patricia have visited Narragansett",Carrie didn't visit Winter Park,0,boolean_coordination
+"Katrina, Luz and Stella have visited Avondale",Katrina didn't visit Canton,0,boolean_coordination
+"Eileen has visited New York, Madison, South Kingstown, Normal, El Reno, Kawaihae, Interlochen, Bristol, Hamilton, Moab, Calais, Gardiner, Ventura, Benton Harbor, Wichita and Hoquiam",Eileen didn't visit College Park,0,boolean_coordination
+"Leona, Elaine, Louise, Lee, Claudia, Faye, Georgia, Dawn, Paula, Deanna, Betty, Lula, Sheryl, Lillie, Penny, Julie, Nina, Toni, Violet and Melissa have visited Titusville",Julie didn't visit Titusville,1,boolean_coordination
+"Sherri has visited Window Rock, Nahant, Socorro, Cohoes, Elizabeth, Nashville, Tooele, Middletown and Kapaa",Sherri didn't visit Tooele,1,boolean_coordination
+"Diane, Jodi, Ann, Mabel, Myrtle, Edna, Doris, Toni, Kayla, Maggie, Brittany, Jo, Virginia, Anita, Cathy, Sylvia and Carmen have visited Dedham",Jodi didn't visit Dedham,1,boolean_coordination
+"Leona, Anne, Rosa, Veronica, Sabrina, Leah, Wilma, Jeanette, Isabel, Jean, Julia, Sara, Norma, Megan, Christine, Miriam, Monique and Virginia have visited Brookings",Wilma didn't visit Brookings,1,boolean_coordination
+"Tamara, Christine, Brenda, Kristin, Erica, Lee, Kay, Erika and Sheila have visited Indiana",Irma didn't visit Indiana,0,boolean_coordination
+"Brenda, Cora, Lindsey, Alice, Judy, Rosa, Evelyn, Gwendolyn, Alison and Angela have visited Texas",Cora didn't visit Texas,1,boolean_coordination
+Nellie and Carol have visited Little Rock,Nellie didn't visit Little Rock,1,boolean_coordination
+"Priscilla has visited Boonville, Hallandale Beach, Greenwood, Middlesboro, Towson, Northampton, Grants Pass, Everett, Scottsdale, Lincoln, Fresno, Fort Valley, Laramie, Okmulgee, Narragansett, Normal, Houghton, Bessemer and New Paltz",Priscilla didn't visit Gainesville,0,boolean_coordination
+"Olga, Ashley, Renee, Tonya, June, Miriam, Mary, Annie, Grace, Michele, Kay, Tamara, Natasha, Myrtle, Deborah, Nicole, Christina, Wilma and Georgia have visited Pinehurst",Deborah didn't visit Pinehurst,1,boolean_coordination
+"Jamie has visited Durham, Grand Island, Laredo, Rochester, Cheboygan, Nags Head, Uvalde, Rhode Island, Worland, Wilson, Florence and Wilkes-Barre",Jamie didn't visit Moab,0,boolean_coordination
+"Harriet has visited Minneapolis, Concord, Whittier, North Platte, Huntington, Largo, Oregon City, Apalachicola, Ansonia, Blytheville, Gatlinburg, Irvine, Philadelphia, Royal Oak, Lexington, Greenwood, Bedford, American Fork, Hobart and Put-in-Bay",Sue didn't visit Largo,0,boolean_coordination
+"Kimberly, Vera, Natalie, Janet, Esther, Alberta, Allison and Kay have visited Madison",Alberta didn't visit Madison,1,boolean_coordination
+"Emma has visited Jefferson City, Watervliet, Camden, Richland, Bay City, Saint Louis, Livermore, Beaufort, Corning, Rochester, Phoenix, Cape May, Santa Monica and Rhinelander",Emma didn't visit Rochester,1,boolean_coordination
+"Cynthia has visited Racine, Delta, Newton, Louisiana and Johnson City",Cynthia didn't visit Louisiana,1,boolean_coordination
+"Vera has visited Gallatin, Branson, Sturbridge and Middletown",Vera didn't visit Effingham,0,boolean_coordination
+"Hazel has visited Geneva, Meridian, Huntington, Miami Beach, Sweetwater, Skokie, Oraibi, Auburn, Salem, Cheektowaga, Westerly, Central Falls, Euclid, Long Branch, McKeesport, Brea and Effingham",Esther didn't visit Geneva,0,boolean_coordination
+"Donna has visited Uvalde, Bisbee, Ojai, Breckenridge, South Saint Paul, Las Vegas, Hershey, Haverhill, Ridgewood, Pottstown, Haines, Indiana, Lakeview, Emporia, Los Alamos and Ozark",Alice didn't visit Uvalde,0,boolean_coordination
+"Angela has visited Martinsville, Benton, Westminster and Hudson",Thelma didn't visit Martinsville,0,boolean_coordination
+"Darlene has visited Pipestone, Williamstown, Santa Barbara, Burlington and Dayton",Darlene didn't visit Dayton,1,boolean_coordination
+"Lindsey, Erica, Ida, Tiffany, Melinda, Cassandra, Eileen, Ethel, Jill, Roberta, Isabel, Joy, Mamie and Molly have visited Mission",Mamie didn't visit Mission,1,boolean_coordination
+"Christina, Bonnie, Carole, Faye, Clara, Margaret, Maureen, Evelyn, Bessie, Sylvia and Luz have visited Great Bend",Maureen didn't visit Great Bend,1,boolean_coordination
+"Deborah, Melody, Loretta, Suzanne, Lynn, Kimberly, Judy, Blanche, Deanna and Doris have visited Boys Town",Jeanette didn't visit Boys Town,0,boolean_coordination
+"Audrey has visited Prichard, Passaic, Newton, Norwalk, Saint Paul, New Hampshire, Pine Bluff, Kingston and Lake City",Audrey didn't visit Nashua,0,boolean_coordination
+"Robin, Claire and Agnes have visited Alcoa",Agnes didn't visit Alcoa,1,boolean_coordination
+"Daisy, Lucille, Vivian, Denise, Harriet, Candice, Erin, Ramona, Agnes, Annette, Cassandra, Jessie, Maryann and Josephine have visited Lawrence",Darlene didn't visit Lawrence,0,boolean_coordination
+"Felicia, Alberta, Priscilla, Faye, Stacey, Rosa, June, Tracy, Margie, Diane, Vicki, Antoinette, Sandy, Jacqueline, Sonya and Cheryl have visited Trinidad",June didn't visit Trinidad,1,boolean_coordination
+"Alicia, Geneva, Kathleen, Vivian, Gloria, Phyllis, Brandy, Yolanda, Jeanette, Cora and Victoria have visited Ferguson",Victoria didn't visit Ferguson,1,boolean_coordination
+"Claudia has visited Framingham, Eufaula, Pensacola, Michigan, Grants Pass, Bastrop, Hayward, Rockville, Boston, Stony Point, Elizabeth City, Malibu, Helena and Greenville",Claudia didn't visit Elizabeth City,1,boolean_coordination
+"Alberta, Rosemary, Vicki, Amy, Pearl, Antoinette, Alison, Lisa, Elizabeth, Terri, Charlotte, Deanna, Kristine, Paula, Maryann, Rosie, Tracy, Marjorie, Cheryl and Janice have visited Ilion",Alberta didn't visit Lodi,0,boolean_coordination
+"Agnes, Kristin, Esther, Connie, Annie, Jean, Priscilla, Robin, Penny, Ethel, Sonya, Caroline, Jessica, Faye, Constance, Brandi, Charlotte, June and Cecilia have visited Inglewood",Brandi didn't visit Inglewood,1,boolean_coordination
+"Geneva has visited Nacogdoches, Palm Springs, Old Saybrook, Palo Alto, Exeter, Waynesboro and Tulsa",Lillie didn't visit Nacogdoches,0,boolean_coordination
+"Geneva, Dorothy and Delores have visited Oshkosh",Geneva didn't visit Oshkosh,1,boolean_coordination
+"Verna, Nora and Sonya have visited Gloversville",Nora didn't visit Phoenix,0,boolean_coordination
+"Patsy, Debbie, Glenda, Vicki, Judith, Kristina, Loretta, Deanna, Charlotte, Kathy, Terri, Caroline, Stacy, Dora, Faye, Mamie, Myrtle, Dolores and Crystal have visited Rotterdam",Kristina didn't visit Rotterdam,1,boolean_coordination
+"Faye has visited Utah, Somerville, Salisbury, Susanville, Homer, Hollywood, Crown Point and Columbia",Sharon didn't visit Crown Point,0,boolean_coordination
+"Vicki, Lauren, Margie, Deanna and Dora have visited Daly City",Doris didn't visit Daly City,0,boolean_coordination
+"Martha, Colleen, Annette and Dianne have visited Gettysburg",Dianne didn't visit Marlborough,0,boolean_coordination
+"Beth has visited North Platte, Lamar, Logan and New Milford",Beth didn't visit Lamar,1,boolean_coordination
+"Edna, Cecilia, Diana, Tina, Juana, Deanna, Marsha, Gertrude, Gina, Mae, Sylvia, Wanda, Tonya and Jo have visited Emmitsburg",Tonya didn't visit Emmitsburg,1,boolean_coordination
+"Rosa, Lula, Ellen, Lola, Amber and Lillian have visited Edmond",Lola didn't visit Parma,0,boolean_coordination
+"Wilma has visited Collinsville, Park Ridge, Bloomington, Southington, Oregon, Dayton, Paris, Covington, Talladega, Troy, Newcastle, Norwood, Boulder City, South Charleston, Danvers, Norwalk, Blairsville, Fairbanks and Chelsea",Wilma didn't visit Danvers,1,boolean_coordination
+"Norma has visited Marblehead, Torrance, Shepherdstown, Glenview, Shelbyville, Kingsport, Pipestone, Cody, Leadville, Farmington, Coeur d’Alene, Takoma Park, Maine and Naugatuck",Kelly didn't visit Cody,0,boolean_coordination
+"June has visited Meriden, South Saint Paul, La Crosse, Medicine Lodge, Carson City, McCook, San Simeon, Hershey, Escondido, Price, Weston, Providence, Buckhannon, Rolla, Lancaster, Iowa, Vineland, Tulsa and Oregon",June didn't visit Meriden,1,boolean_coordination
+"Hazel has visited Danbury, Albany, Richardson, El Centro, Boothbay Harbor and Weymouth",Hazel didn't visit Bellingham,0,boolean_coordination
+"Shirley has visited Ottawa, Belle Fourche, Fairfield, Woburn, Hobart, Smith Center, Moore, Ely, Port Gibson, Belmont, South Carolina, West Memphis, Norman, Stillwater, Guntersville, Ozark, Kellogg and Abington",Shirley didn't visit Ely,1,boolean_coordination
+"Carol has visited Kitty Hawk, Skagway, Sainte Genevieve, Eastpointe, Belmont, Quincy, Mount Pleasant, Grants, Beacon, Los Angeles, Millville, Gaffney, Hobbs, Maryville and Fairfax",Carol didn't visit Maryville,1,boolean_coordination
+"Tina, Wilma, Rebecca, Joy, Gertrude, Marie, Nicole, Alma and Lola have visited Elkton",Alma didn't visit Jeffersonville,0,boolean_coordination
+"Willie, Ellen, Sherri, Juana, Thelma, Ida, Ruby, Jane and Margie have visited Oregon",Sherri didn't visit Oregon,1,boolean_coordination
+"Anita, Heidi, Lynda, Hilda, Yolanda, Tara, Miriam, Ramona, Elaine, Heather, Emily, Esther, Lucille, Natasha and Melissa have visited Elkins",Ramona didn't visit Elkins,1,boolean_coordination
+"Virginia has visited Charlotte, Derry, Elkhart, Hot Springs, Rome, Central Falls, Youngstown and Deerfield Beach",Yvonne didn't visit Rome,0,boolean_coordination
+"Helen, Erin, Stacey, Shannon, Laura, Renee, Tracey, Kathryn, Yvette, Madeline, Leona and Lucille have visited Kingman",Sherry didn't visit Kingman,0,boolean_coordination
+"Naomi, Jo and Audrey have visited Tiffin",Margarita didn't visit Tiffin,0,boolean_coordination
+"Nicole has visited Dover, Pueblo, Breckenridge, Englewood, Hagerstown, Norwalk, Newport News, Dayton, Williamstown and Mountain View",Nicole didn't visit Norwalk,1,boolean_coordination
+"Monique has visited Cheyenne, Weymouth, East Hartford, Geneva, Phenix City, Sturgis, Port Angeles, San Marino, Lock Haven, North College Hill, Middlebury, Fairfield, Asheboro, Houma, Durant, Lumberton, Huntington, Woburn, Walsenburg and Pagosa Springs",Monique didn't visit Cheyenne,1,boolean_coordination
+"Minnie, Violet, Margarita, Antoinette, Luz, Thelma, Kristine, Jean, Penny, Yolanda, Maggie, Kathleen, Jessie, Carla, Allison, Lillian, Darlene and Amy have visited Brookline",Yolanda didn't visit Brookline,1,boolean_coordination
+"Danielle, Billie, Kim, Leona, Dana, Joann, Michelle, Jeanne, Eva, Carla and Genevieve have visited Richmond",Danielle didn't visit Richmond,1,boolean_coordination
+"Robin has visited Macomb, Indiana and Athens",Robin didn't visit Valdosta,0,boolean_coordination
+"Jeanne, Anna, Margarita, Elaine, Alicia, Lois, Dianne and Wendy have visited Millburn",Anna didn't visit Millburn,1,boolean_coordination
+"Danielle, Madeline, Kristy, Lula, Carol, Deanna and Lucy have visited Jefferson City",Kristy didn't visit Jefferson City,1,boolean_coordination
+"Jennifer, Cora, Maggie, Olivia, Charlene, Penny, Sherry and Jan have visited Machias",Jan didn't visit Huntington,0,boolean_coordination
+"Veronica has visited Philippi, Gunnison, Winter Park, Berea, Schenectady and Clearfield",Veronica didn't visit Philippi,1,boolean_coordination
+"Marcia has visited Hyattsville, Eau Claire, Lowell, Bedford, West New York, Westfield, Nephi, Petaluma, Cape Coral, Payson, Greenville, Georgetown, Columbus and College Park",Marcia didn't visit Ellensburg,0,boolean_coordination
+Shannon and Florence have visited Mountain View,Shannon didn't visit Wausau,0,boolean_coordination
+"Diane has visited Wilmington, Sheffield, Burlington, Fairbanks, Cleburne, New Castle, Westerly, Geneva, Memphis, Moundsville, Crawfordsville, Daytona Beach, Ogden, Lahaina, Manti and Woodstock",Inez didn't visit Daytona Beach,0,boolean_coordination
+"Veronica has visited Mesquite, Georgetown, New Mexico, Sacramento, Henderson, Lewiston, Bar Harbor, Hyattsville, Lincoln, Wheeling and Clarksville",Veronica didn't visit Henderson,1,boolean_coordination
+"Sandra has visited Deadwood, Logan, Raton, Bethesda-Chevy Chase, Elk City, Mystic, West Palm Beach, Orangeburg, Naugatuck, Washington, Salinas, Jacksonville, Charleston and White Plains",Sandra didn't visit Jacksonville,1,boolean_coordination
+"Sharon has visited Redlands, Tooele, Pass Christian, Ketchikan, Groton, Rotterdam, Thermopolis, Pekin, Grand Haven, Interlochen, San Marino, Gloversville, Dodge City, San Leandro, Columbia, New Harmony, Lackawanna and Stratford",Sharon didn't visit Pass Christian,1,boolean_coordination
+"Tracy, Marjorie, Laura, Josephine, Yvonne, Priscilla, Velma, Ada, Lola, Clara, Minnie, Christina, Susan, Rosa, Marsha, Brandi, Brandy and Anna have visited Portland",Clara didn't visit Portland,1,boolean_coordination
+"Melissa, Nancy, Diana, Jacqueline and Kathy have visited Prescott",Jacqueline didn't visit Prescott,1,boolean_coordination
+Norma and Tiffany have visited Pittsfield,Norma didn't visit Pittsfield,1,boolean_coordination
+"Pearl has visited Bath, Bristol, Coney Island, Goshen, Brunswick, Woodbridge, Morehead City, Portsmouth, Cullman, Oak Harbor, Castine, Red Cloud, Orangeburg, Denton, Effingham and Crown Point",Pearl didn't visit Barre,0,boolean_coordination
+"Erin, Constance, Lois, Virginia, Geraldine and Sandy have visited Chambersburg",Sandy didn't visit Annapolis,0,boolean_coordination
+"Andrea has visited Fergus Falls, Wickford, Saginaw, Cleburne, Portsmouth and Ponca City",Andrea didn't visit Wickford,1,boolean_coordination
+"Lillie has visited Westerly, Norwalk, Santa Ana, Port Orford, Cheboygan, Huntington, Groton, Durant, Excelsior Springs, Ventura, Chicago Heights, Rexburg, Laramie, Needles, Alta and Passaic",Genevieve didn't visit Ventura,0,boolean_coordination
+"Lynda has visited Lockport, Greenville, Bakersfield, Bordentown, Chillicothe, Great Neck, Harmony, Fall River, Belle Fourche, Chadron, Aberdeen, Charlestown, Pullman, Pryor, West Point and Baton Rouge",Minnie didn't visit Chillicothe,0,boolean_coordination
+"Brenda, Maureen, Marguerite, Mildred, Sandra, Kristy, Dolores, Peggy, Connie, Molly, Lynda, Vera and Deborah have visited New Haven",Molly didn't visit Jackson,0,boolean_coordination
+"Wanda, Norma, Carole, Shannon, Yvette, Marian, Vickie, Geneva, Connie and Gloria have visited Norman",Eva didn't visit Norman,0,boolean_coordination
+"Lynda, Debbie, Tiffany, Dora, Rosie, Donna, Flora, Maryann, Darlene, Kristin, Debra, Jean, Vanessa and Lauren have visited Charlestown",Donna didn't visit Charlestown,1,boolean_coordination
+"Heidi has visited Rock Springs, Erie, Everett, Lenox, Ocean City and Clarksburg",Heidi didn't visit Erie,1,boolean_coordination
+"Anne has visited Novato, Lawton, San Leandro, Shreveport, Saco, Genoa, Florence and Ellsworth",Anne didn't visit Ellsworth,1,boolean_coordination
+"Wilma, Edith, Erika, Kelly, Josephine, Marion, Lynda, Lucy, Sylvia, Natasha, Lindsey, Vickie and Nellie have visited Plains",Kelly didn't visit Van Buren,0,boolean_coordination
+Samantha has visited Madison and Norwalk,Judith didn't visit Norwalk,0,boolean_coordination
+"Yvette has visited Bethany, Rock Island, Tallahassee, Douglas, Morgantown, Woodstock, Eagle Pass, Acoma, De Smet, Savannah, New London, Rancho Cucamonga, Plymouth, Lisle, Holyoke, Weehawken, College Station, Elk City, Green River and Madison",Alberta didn't visit Madison,0,boolean_coordination
+"Kathryn has visited Wellesley, Cortland, Kansas, Watervliet, Harlan, New Jersey, Chautauqua, Lake Placid, Cape Girardeau, Enterprise, Mattoon, Marquette, New Rochelle, Stockbridge, Clanton, Sitka, Sanford, Roseville, Garden City and Takoma Park",Kathryn didn't visit Mattoon,1,boolean_coordination
+"Mae has visited Silver Spring, Marlborough, Washington, Pagosa Springs, Massachusetts, Brea, Amherst and Traverse City",Gladys didn't visit Silver Spring,0,boolean_coordination
+"Charlotte, Louise, Delores, Flora, Peggy, Kayla, Pauline and Katie have visited Hollywood",Kayla didn't visit Hollywood,1,boolean_coordination
+"Monica, Andrea, Bonnie, Regina and Kristine have visited Bloomington",Regina didn't visit Saint George,0,boolean_coordination
+"Catherine, Gloria, Carrie, Stephanie, Kathryn, Sandy, Lindsay, Amanda, Marsha, Rachel, Maggie, Samantha, Erin, Nellie, Bobbie and Yvonne have visited Texas",Erin didn't visit Texas,1,boolean_coordination
+"Teresa has visited Columbia, Fargo, Wisconsin, East Hartford, Emporia, Albany, Somerville, North Little Rock, Monticello, Newark, Dennis, West Bend, Huntington, Hoquiam, New Mexico, Crawfordsville, West Memphis, Woodstock, Casa Grande and Cicero",Teresa didn't visit Fredonia,0,boolean_coordination
+"Ashley has visited Utica, Traverse City, Nyack, Orem, Jeffersonville, Chula Vista, Claremont and Hershey",Ashley didn't visit Hershey,1,boolean_coordination
+"Erika has visited Shiprock, Hayward, Columbus, San Antonio, Little Falls, Hobbs, Syracuse, Ypsilanti, La Grande, Thibodaux, Davis, Central City, Elko, Natick and Hingham",Erika didn't visit Thibodaux,1,boolean_coordination
+Marlene and Lynn have visited Woodward,Lynn didn't visit Woodward,1,boolean_coordination
+"Jennifer, Misty, Janice, April, Wilma, Joann, Violet, Maxine, Denise, Ellen, Georgia, Olga, Kathleen, Alison, Agnes, Delores, Luz, Sherri, Inez and Rita have visited Deerfield Beach",Alison didn't visit Deerfield Beach,1,boolean_coordination
+"Amber has visited Tulsa, Levittown and Barre",Amber didn't visit Levittown,1,boolean_coordination
+"Connie has visited Pasadena, Delaware, Pensacola, New Philadelphia, Martins Ferry and Rye",Connie didn't visit Delaware,1,boolean_coordination
+"Mildred has visited Goldsboro, Redondo Beach, Weston, Helena, Pascagoula, Milwaukee, Carrollton, Hoquiam, Perth Amboy, York, Wellsburg, San Angelo, Athens and Eugene",Mildred didn't visit Peekskill,0,boolean_coordination
+"June has visited Fremont, Cape Coral, Guthrie and San Felipe",June didn't visit Brunswick,0,boolean_coordination
+"Phyllis, Mamie, Kim, Yvette, Joy, Lisa, Rita, Amy, Ramona, Harriet, Bertha, Bernice, Kimberly, Beth, Rose, Sabrina and Melody have visited Bedford",Phyllis didn't visit Bedford,1,boolean_coordination
+"Katie, Amelia, Katrina, Ellen, Georgia, Elizabeth, Hilda, Janice, Melissa, Joy and Gwendolyn have visited West Springfield",Katie didn't visit West Springfield,1,boolean_coordination
+"Kathy has visited Adrian, Libertyville, Hackensack, South Charleston, Fillmore, Decatur, Lander, Midwest City, Alabama and Chattanooga",Kathy didn't visit Adrian,1,boolean_coordination
+"Irma, Ellen and Toni have visited Davenport",Irma didn't visit Davenport,1,boolean_coordination
+"Sonya, Lisa, Marian, Cindy, Nellie, Joy, Kristina, Nancy, Becky, Dorothy, Priscilla, Nora, Heather, Brandi, Jacqueline, Kristin, Patricia and Jeanne have visited Jeannette",Nancy didn't visit Jeannette,1,boolean_coordination
+"Kathy, Gloria, Stella, Olivia, Penny, Lula, Valerie, Vicki, Candace, Cathy, Priscilla and Iris have visited Salem",Olivia didn't visit Saint Louis,0,boolean_coordination
+"Marjorie has visited Westminster, Kent and Bainbridge",Marjorie didn't visit Rawlins,0,boolean_coordination
+"Isabel, Amanda, Olivia, Rosie, Denise, Virginia, Kathleen, Willie, Toni, Shelly, Peggy, Evelyn, Cecilia, Shannon, Blanche, Heidi, Marguerite, Eva, Joy and Nancy have visited Coffeyville",Marguerite didn't visit Coffeyville,1,boolean_coordination
+"Tina has visited Natchitoches, Eastchester, Milan, Bourne, Canon City, Silver Spring, Hollywood, Baytown, Sidney, Socorro, Pierre, Kearney, Grand Junction, Naples, Benton, White Plains and Concord",Tina didn't visit Jacksonville,0,boolean_coordination
+"Felicia, Holly, Sandra, Jeanne, Audrey, Beatrice, Heidi, Lucy and Nellie have visited Catonsville",Felicia didn't visit Catonsville,1,boolean_coordination
+"Candice, Heidi and Deanna have visited Roswell",Candice didn't visit Roswell,1,boolean_coordination
+"Tara, Kristy, Gwendolyn, Cindy, Vera, Sonya, Audrey, Charlene, Angie, Judy, Willie, Marilyn, Theresa, Eunice, Arlene, Diane, Jo, Samantha and Claudia have visited Peoria",Vera didn't visit Peoria,1,boolean_coordination
+"Susan has visited New York, Columbia, Palmyra, Lock Haven, Oskaloosa, Wooster, Powell, Palatine, Central City, Jonesborough, Miami Beach, Portage, Alva, Hammond, Tullahoma, Cadillac and Ludlow",Susan didn't visit Columbia,1,boolean_coordination
+"Elaine, Amber, Tonya, Charlene, Janice, Katherine, Catherine, Toni, Kristina, Stacey, Mamie, Carmen, Guadalupe, Vera, Danielle, Helen, Susan and Amanda have visited Kelso",Vera didn't visit Columbus,0,boolean_coordination
+"Eva, Nora, Marie, Guadalupe, Isabel, Allison, Jamie, Marguerite, Delores, Shelley, Lillian, Amelia, Terri, Nancy, Lucy, Ana, Norma and Cecilia have visited Boonesborough",Marie didn't visit Boonesborough,1,boolean_coordination
+"Maryann, Colleen, Kristina, Jo, Brandy, Carolyn, Anna, Beverly, Sylvia, Vickie, Michelle, Melinda, Hilda and Melissa have visited Boys Town",Brandy didn't visit Boys Town,1,boolean_coordination
+Yvonne has visited DeKalb and Ames,Yvonne didn't visit Portsmouth,0,boolean_coordination
+"Carrie, Deanna, Angela, Sarah, Pauline, Patricia, Ruby, Natasha, Joanne, Melanie, Stella, Felicia, Bonnie, Cindy, Claudia and Daisy have visited Saint George",Daisy didn't visit Saint George,1,boolean_coordination
+"Lee, Gail, Brandy, Deanna, Kristen and Kathy have visited Melbourne",Kristen didn't visit Lynn,0,boolean_coordination
+"Carla, Jane, Terry, Beth, Sylvia, Marilyn, Laura and Guadalupe have visited Shiprock",Carla didn't visit Clinton,0,boolean_coordination
+"Sabrina has visited Mamaroneck, McKinney, Carbondale, Oyster Bay, Darlington, Windham, Hopkinsville, Los Alamos, Mentor, Williston, Lewes, Swarthmore, New Glarus, La Crosse, Greenville and Nome",Kristi didn't visit Greenville,0,boolean_coordination
+"Antoinette, Angie, Isabel, Marcia and Bonnie have visited Biloxi",Bonnie didn't visit Pawhuska,0,boolean_coordination
+"Angie, Kathy, Kay, Carolyn, Sherri, Brandy, Maggie, Wendy, Melissa, Vivian, Kristen, Stephanie, Bobbie, Lucy, Suzanne, Yolanda and Natasha have visited Cadillac",Suzanne didn't visit Big Spring,0,boolean_coordination
+"Tiffany, Vickie, Hazel and Anita have visited East Point",Victoria didn't visit East Point,0,boolean_coordination
+"Isabel has visited College Park, El Paso, Seward, Orlando, Middletown, Bay City, Dearborn, Bethesda-Chevy Chase, Chillicothe, San Francisco, Portland, Peshtigo, Portage, Sheridan, Tuskegee and Kilgore",Isabel didn't visit Bay City,1,boolean_coordination
+"Stephanie, Amy, Lucy, Lisa, Caroline, Catherine, Minnie, Miriam, Stacey, Rhonda, Tara, Kim and Susan have visited Harlan",Erika didn't visit Harlan,0,boolean_coordination
+"Nicole, Jeanette, Courtney, Joanna, Ella, Veronica and Terri have visited Big Spring",Harriet didn't visit Big Spring,0,boolean_coordination
+"Nellie has visited Brownsville, Salinas, Weatherford, Plainview and Gatlinburg",Nellie didn't visit Silver City,0,boolean_coordination
+"Laurie, Caroline, Cynthia and Patsy have visited Fitchburg",Anne didn't visit Fitchburg,0,boolean_coordination
+"Minnie, Lee, Jacqueline, Ethel, Lola, Nicole, Dolores, Mabel, June, Dorothy, Jessica, Anita, Melinda, Janice and Hilda have visited Oskaloosa",Toni didn't visit Oskaloosa,0,boolean_coordination
+"Iris has visited Cranston, Buena Park, Claremont, Greenville, Neosho, Orono, Edinburg, McPherson, Plymouth, Bremerton, Cohoes, Fort Valley, Hazleton, Brunswick, New Market, Altoona, Chula Vista, Kawaihae, Forrest City and Laurel",Iris didn't visit Tarpon Springs,0,boolean_coordination
+"Kathy, Heidi, Terry and Annette have visited Westminster",Kathy didn't visit Westminster,1,boolean_coordination
+"Melissa has visited Oshkosh, Lahaina, San Juan Capistrano, Pittsburgh, Lombard, Reading, Independence and Stroudsburg",Olga didn't visit San Juan Capistrano,0,boolean_coordination
+"Dolores has visited Midwest City, San Angelo, South Holland, Independence, Cumberland, Elyria and Lebanon",Dolores didn't visit Midwest City,1,boolean_coordination
+"Allison, Annie, Miriam, Hilda, Jean, Jeanne, Candice, Stacy, Audrey and Emily have visited Madison",Hilda didn't visit Madison,1,boolean_coordination
+"Jennie, Suzanne, Pauline, Robin, Julie, Cynthia, Martha, Brenda, Beth, Bertha, Grace, Gina, Marjorie and Tracy have visited Des Plaines",Tracy didn't visit Des Plaines,1,boolean_coordination
+Rosa has visited Sioux City and Wilson,Rosa didn't visit Wilmette,0,boolean_coordination
+"Tina, Kim, Jamie, Emma, Catherine, Stacey, Vickie, Vera, Alma, Genevieve, Olga, Lynda, Margie, Charlotte, Lindsay, June and Jessica have visited Hopewell",Deanna didn't visit Hopewell,0,boolean_coordination
+"Margie has visited Titusville, East Haven, Truro and Euclid",Margie didn't visit Levittown,0,boolean_coordination
+"Jennifer has visited Arlington, Okmulgee, Middletown and Westfield",Jennifer didn't visit Middletown,1,boolean_coordination
+"Sue has visited Saratoga Springs, Franklin, Mexico and Lovington",Sue didn't visit Saratoga Springs,1,boolean_coordination
+"Maryann has visited Roanoke, Monett, Victoria, Arcadia, East Hampton, Harwich, Beaumont, Nags Head, Irving, Athens, Paterson, Highland Park, Ohio, Huron, Lincoln and West Springfield",Maryann didn't visit Corpus Christi,0,boolean_coordination
+"Peggy has visited Huntington, Waukegan, Hamden, Green River and Princeton",Peggy didn't visit Hamden,1,boolean_coordination
+"Linda, Jacqueline and Cora have visited Orem",Lucille didn't visit Orem,0,boolean_coordination
+"Sabrina has visited Rome, Pendleton, Flushing, Homer, Bowling Green, Saint Augustine, Stoughton, Lakehurst, Santa Monica and Needles",Sabrina didn't visit Stoughton,1,boolean_coordination
+"Cathy, Nicole, Eunice, Christine, Rita, Annette, Viola, Lorraine, Anita, Elsie, Alma, Rosie, Miriam, Amelia, Lindsay, Yolanda, Gloria and Sharon have visited Hays",Lindsay didn't visit Monett,0,boolean_coordination
+"Willie, Kristine, Bertha, Tanya, Irene, Beverly, Emma, Leslie, Theresa, Jodi, Cecilia, Veronica, Faye, Lucille, Esther, Katrina, Sherry, Kristi, Julia and Rachel have visited Chester",Leslie didn't visit Chester,1,boolean_coordination
+"Valerie, Donna, Wilma, Rose, Felicia, Kristina and Kristine have visited Overland Park",Beverly didn't visit Overland Park,0,boolean_coordination
+"Ann, Lena, Felicia, Laurie, Terry, Loretta, Sylvia, Rhonda, Kay, Ruby, Wanda and Cassandra have visited Williamson",Frances didn't visit Williamson,0,boolean_coordination
+"Felicia, Deanna, Nina, Joanna, Carol, Kristina, Natalie, Joann, Billie, Rhonda, Helen, Geneva, Marsha, Alma and Gail have visited Morganton",Felicia didn't visit Morganton,1,boolean_coordination
+"Tina has visited Haddonfield, West Des Moines, Walpi, Alamosa, Saint Ignace and Manchester",Phyllis didn't visit Saint Ignace,0,boolean_coordination
+"Flora has visited Mineola, Essex, Lorain, Uniontown, Cookeville, Franklin, Hershey, East Point, La Junta, Waco, Atlantic City, Vallejo, Greenfield, Elgin, Alamogordo and Shamokin",Flora didn't visit Waco,1,boolean_coordination
+"Claudia, Miriam, Lee, Irma, Alice, Holly, Gwendolyn, Kim, Bobbie, Melanie, Billie and Kristina have visited Annapolis",Gwendolyn didn't visit Annapolis,1,boolean_coordination
+"Brenda, Erin, Gail, Jeanne, Melissa and Kelly have visited Burlington",Annie didn't visit Burlington,0,boolean_coordination
+"Ruth, Hattie, Lauren, Olivia, Terry, Ethel, Irma, Marcia, Elsie, Shelley, Daisy, Esther, Alma, Tracy and Diane have visited Forest Hills",Olivia didn't visit Forest Hills,1,boolean_coordination
+"Cora has visited Rock Island, Kawaihae, Ocala, Martins Ferry, Findlay, Ruston, Asbury Park, Ypsilanti, Fredericksburg, Jacksonville, Coney Island, Farmington, Evanston, Logan, West Point, Reading, Bakersfield, Pottstown, Columbia and Reno",Faye didn't visit Ruston,0,boolean_coordination
+"Cecilia, Yolanda, Brandi, Darlene, Monica, Lynn, Dolores, Tammy, Maxine and Valerie have visited Centralia",Dolores didn't visit Centralia,1,boolean_coordination
+"Jennie, Marion, Blanche, Maria, Jenny, Tracy, Tonya, Megan, Kelly, Erica, Delores, Natalie, Alison, Yolanda and Paula have visited Lancaster",Natalie didn't visit Aiken,0,boolean_coordination
+"Blanche has visited Minden, Monticello, Chattanooga, Sebring, Pagosa Springs, Prescott, Ukiah, Oakland, Ketchikan, John Day, Bozeman, Tewksbury, Gallatin and Lockport",Blanche didn't visit Gallatin,1,boolean_coordination
+"Marie, Tiffany, Susan, Edith, Denise, Hazel, Mattie, Bobbie, Anna, Rhonda, Jill, Esther, Naomi, Arlene, Yvette, Valerie, Ethel, Loretta and Peggy have visited Albany",Mattie didn't visit Albany,1,boolean_coordination
+"Cassandra, Gwendolyn, Carol, Anne, Roberta, Christy, Hattie, Erika, Faye, Amber, Lillie and Susan have visited Gallup",Jill didn't visit Gallup,0,boolean_coordination
+"Guadalupe, Angela, Michele, Rosa, Anita, Olivia, Lynda, Beulah, Jo, Caroline, Hattie, Ramona and Tara have visited Muscatine",Tara didn't visit Muscatine,1,boolean_coordination
+"Anna has visited Winooski, New Britain, Colorado Springs, Baytown, Syracuse, Hinton, Ludington, Athens, Shelbyville, Cranston, Columbus, Dunkirk, Fort Myers, Dickinson, Crookston, San Leandro, Boston and Texas City",Anna didn't visit Shelbyville,1,boolean_coordination
+"Kathy has visited Fort Pierce, Culver City, Philadelphia and Groton",Kathy didn't visit Culver City,1,boolean_coordination
+"Genevieve has visited Hazard, Gloucester, Tempe, Truro, San Bernardino, Rome, Skokie, Alabama, Middlesboro, Nephi, Kentucky, Daytona Beach and Harlan",Genevieve didn't visit Middlesboro,1,boolean_coordination
+"Jean, Heidi, Belinda, Ada, Inez, Tiffany, Harriet and Gloria have visited Okmulgee",Tiffany didn't visit Okmulgee,1,boolean_coordination
+"Myrtle has visited Nogales, Winchester, Orange, Somersworth, Eagle Pass, Barbourville, Chester, Council Grove and Kawaihae",Myrtle didn't visit Wellesley,0,boolean_coordination
+"Lisa has visited Laie, Bristol, Braintree, Shiprock, Tucson, Coulee Dam, Alaska, Alhambra, Glens Falls, Niles, Ferguson, Hartsville, Weatherford, Fort Wayne, Henderson and Gallatin",Lisa didn't visit Des Plaines,0,boolean_coordination
+"Laurie, Doris, Juanita, Monique, Lydia, Kristine, Christy, Hazel, Sylvia, Lula, Kelly, Louise, Marie, Mary, Crystal, Danielle, Courtney and Phyllis have visited Chelmsford",Courtney didn't visit Chelmsford,1,boolean_coordination
+"Billie, Christy, Rose, Margaret, Beatrice, Erika, Jeanne, Jenny, Sue, Yolanda, Brandi, Robin and Marsha have visited West Virginia",Robin didn't visit West Virginia,1,boolean_coordination
+"Olga has visited Nampa, Medicine Lodge, Jacksonville, Ocala, Payson, Piqua and Steamboat Springs",Olga didn't visit River Forest,0,boolean_coordination
+"Emma has visited Winooski, Kent, Waterbury, Scarsdale, Lakeview, Worcester, Grand Junction, Pueblo, Middletown, Crystal City, Jackson, Clinton, Hood River, Greeley, Princeton, Prairie du Chien, Mexico, Van Buren, Watertown and Richmond",Emma didn't visit Hood River,1,boolean_coordination
+"Brandi has visited Myrtle Beach, Warren, Beckley, Van Buren, Windham, Torrington, Buffalo, Susanville and Warner Robins",Brandi didn't visit Duxbury,0,boolean_coordination
+"Lydia, Rosie, Yolanda, Arlene, Jean, Lauren, Cindy, Christina, Holly, Willie, Isabel, Dora, Diana, Kimberly, Myrtle, Elsie, Toni, Sarah, Marsha and Lola have visited Boise",Kimberly didn't visit Boise,1,boolean_coordination
+"Charlene, Mary, Deborah, Stacey, Tina, Kristi, Erica, Anita, Stephanie and Pamela have visited Aberdeen",Charlene didn't visit Aberdeen,1,boolean_coordination
+"Teresa has visited Santa Cruz, Parsippany–Troy Hills, Saint Paul, Port Huron, Anaconda, Rochester, Socorro, Naugatuck, San Gabriel and Hattiesburg",Teresa didn't visit Johnstown,0,boolean_coordination
+"Marie has visited Taunton, Ketchikan, West Chester, Sandwich, Chattanooga, Virginia, Bradenton, Fort Myers, Americus and Hillsborough",Marie didn't visit Americus,1,boolean_coordination
+"Carmen, Caroline, Joan, Minnie, Stacy, Sheila, Jamie, Virginia, Cheryl, Claire, Laura, Sabrina, Tina, Lula and Heather have visited Casa Grande",Caroline didn't visit Casa Grande,1,boolean_coordination
+"Danielle, Renee, Gail, Cynthia, Linda, Stacy, Marcia, Charlene, Dorothy, Jane, Sandra, Roberta and Guadalupe have visited Bakersfield",Roberta didn't visit Bakersfield,1,boolean_coordination
+"Mabel has visited Burlington, Summersville, Duxbury, Stoughton, Laguna Beach, New London, Maysville, Hempstead, Prairie du Chien, Turlock and Ypsilanti",Mabel didn't visit New London,1,boolean_coordination
+"Katie has visited Priest River, Elgin, Attleboro, Goliad, Glenwood Springs, Bend, Westminster, Oxnard and Saint Ignace",Katie didn't visit Poughkeepsie,0,boolean_coordination
+"Kristine has visited Bordentown, Wenatchee, Window Rock, Pottstown, Sitka, Chesapeake, Lamar, Rapid City, Hawaii, Newberg and Somerville",Kristine didn't visit Bordentown,1,boolean_coordination
+"Pauline has visited The Dalles, Carson City and San Antonio",Louise didn't visit Carson City,0,boolean_coordination
+"Geraldine, Eva, Marlene, Marilyn, Molly, Nancy and Lola have visited Kapaa",Lola didn't visit Kapaa,1,boolean_coordination
+"Lynda, Sue, Emma, Jacqueline, Beatrice, Ellen and Juana have visited Hammondsport",Beatrice didn't visit Hammondsport,1,boolean_coordination
+"Peggy has visited Renton, Beckley, Rapid City, Skagway, Machias, Boone, Hamden, Pendleton, Kodiak, Dedham, Simi Valley, Peoria and Butte",Peggy didn't visit Pendleton,1,boolean_coordination
+"Cathy, Genevieve, Ruth, Kay, Sabrina, Melody, Kathleen, Candice, Vivian, Tracey, Glenda, Jenny, Jennifer, Terri, Dianne, Lois and Marian have visited Pensacola",Candice didn't visit Pensacola,1,boolean_coordination
+"Rachel, Sonya, Verna, Danielle, Donna, Edna, Beatrice, Mildred, Elizabeth, Jennifer, Melinda, Tina, Joanna, Michelle, Heidi and Paula have visited Mount Pleasant",Danielle didn't visit Mount Pleasant,1,boolean_coordination
+"Sarah, Alberta, Dawn, Renee, Priscilla, Lydia and Betty have visited Dillon",Lindsey didn't visit Dillon,0,boolean_coordination
+"Minnie has visited Natick, Concord, Nanticoke, Wellsburg, Fond du Lac, Orderville, Altoona, Fort Benton, Lubec, Marysville and Wheeling",Minnie didn't visit Exeter,0,boolean_coordination
+"Melinda has visited Carthage, Belle Fourche, Port Gibson, Vinita, Neosho, Worcester, Midwest City, Florence and Truth or Consequences",Melinda didn't visit Truth or Consequences,1,boolean_coordination
+"Alison, Gladys, Jessie, Monica, Carrie and Georgia have visited Virginia",Mae didn't visit Virginia,0,boolean_coordination
+"Kay, Janie, Rosa and Wendy have visited Council Grove",Patsy didn't visit Council Grove,0,boolean_coordination
+"Peggy, Ethel, Sheryl and Sheila have visited Canon City",Sheryl didn't visit Canon City,1,boolean_coordination
+"Patsy has visited Des Moines, Saint Petersburg, Belleville, Skagway, Eastham, Alexandria, Durham, Kent, Panguitch and Princeton",Stella didn't visit Skagway,0,boolean_coordination
+"Ada, Rebecca, Kimberly, Beatrice, Sarah, Harriet, Connie, Candace, Rhonda, Margarita, Susie, Ethel, Ella, Emily, Veronica and Kathy have visited Ishpeming",Emily didn't visit Ishpeming,1,boolean_coordination
+"Claire has visited West Hartford, Johnson City, Sauk Centre and Osawatomie",Claire didn't visit Sauk Centre,1,boolean_coordination
+"Alberta has visited Juneau, Conneaut, Westminster, Guthrie, Lewistown, Manhattan, Saint Joseph, Elk City, High Point, Murfreesboro, Norfolk, Enfield, Clovis, Palmer, Murray, Calexico, Walsenburg, Daytona Beach, Gainesville and Starkville",Alberta didn't visit Clovis,1,boolean_coordination
+"Jill has visited Nebraska City, Casa Grande, Weston, Pittsburgh, Grand Haven and Edison",Emily didn't visit Weston,0,boolean_coordination
+"Sherry, Evelyn, Patricia, Yvette, Anne, Isabel, Blanche, Marian, Jacqueline, Misty, Colleen, Maria and Kayla have visited Alva",Evelyn didn't visit Alva,1,boolean_coordination
+"Edith, Janie, Esther, Courtney, Kathy, Wanda, Ana, Kristine, Ella, Wendy, Allison, Dana, Billie, Evelyn, Rosemary, Marlene, Erica and Stephanie have visited Mentor",Billie didn't visit Mentor,1,boolean_coordination
+"Vera has visited Alexander City, Salt Lake City, Tooele, Wooster, Wayne, Manitowoc, Point Roberts, Dartmouth and Geneva",Vera didn't visit Point Roberts,1,boolean_coordination
+"Violet, Colleen, Maxine, Shelly, Lorraine, Danielle, Misty, Vicki, Fannie, Nicole, Katrina, Clara, Doris, Eleanor and Theresa have visited Wisconsin",Nicole didn't visit Brigham City,0,boolean_coordination
+"Naomi has visited Brigham City, Lawrence, Edinburg, Tallahassee, Gary, Walpi, San Pedro, Chelmsford, Dover, Hillsborough, Machias, Farmington and Greenville",Naomi didn't visit Gary,1,boolean_coordination
+"Terri has visited Hibbing, Bedford, Union, Cedar Falls, Freeport, Deadwood, Council Bluffs, Jim Thorpe, Kirksville, Oakland, Alabama, North Las Vegas, Pasadena, Delray Beach, Sumter, Harpers Ferry, Pinehurst and Millburn",Lauren didn't visit Hibbing,0,boolean_coordination
+"Amber has visited Campbellsville, Washington, Joplin, Oakland, Machias, Orlando, Macon, Orem and Greenville",Amber didn't visit Orlando,1,boolean_coordination
+"Lee has visited Evanston, Lexington, Ellensburg, Belmont, Grinnell, La Crosse, Kanab, McCook, Frankfort, Huntsville, Queens, Ephrata, Mayfield, Shawnee, Little Falls and Bremerton",Lee didn't visit Goldfield,0,boolean_coordination
+"Juanita, Regina, Grace, Mae, Ida, Verna and Thelma have visited Fort Collins",Katherine didn't visit Fort Collins,0,boolean_coordination
+"Kristen, Jessie, Lindsay, Amy and Erika have visited Easton",Kristen didn't visit Easton,1,boolean_coordination
+"Holly, Lola, Inez, Jacqueline, Laurie, Joan, Bertha, Sue and Michele have visited Tucson",Lola didn't visit Columbia,0,boolean_coordination
+Carla and Mattie have visited Catonsville,Carla didn't visit Catonsville,1,boolean_coordination
+"Elsie has visited Oakland, Salem, Monroeville, West Allis, Pekin, Colorado, Calumet City, Winter Haven, Andalusia, Defiance, Panama City, Danville, Garden City, Greenfield, Oklahoma City, Palo Alto, Abbeville, Duncan, Cadillac and Mountain View",Elsie didn't visit Sudbury,0,boolean_coordination
+"Tracy has visited Nome, Moline, Torrington, East Point, Belmont, San Leandro, Temple, Newark, Honaunau, Carmel, Mystic, Cheyenne, Sapulpa, Montclair, Sebring and Lexington",Tracy didn't visit Torrington,1,boolean_coordination
+"Kristy, Patsy, Lois, Loretta, Opal, Brenda, Eileen, Yvonne, Erica, Robin, Leona and Christine have visited Elmira",Brenda didn't visit Manchester,0,boolean_coordination
+"Louise has visited Natick, Oraibi, Des Moines, Coeur d’Alene, Port Washington, Sauk Centre, Beverly, Watertown and Marion",Louise didn't visit Natick,1,boolean_coordination
+"Yolanda has visited Borger, Panama City, Cheboygan, Tooele, Dodge City, Norris, Hobart, Carthage, Newburgh, Lewistown and Bedford",Yolanda didn't visit Panama City,1,boolean_coordination
+"Megan, June, Fannie, Vickie, Jamie, Madeline, Katie, Danielle, Daisy, Ruth, Kathy, Gwendolyn, Lillie, Katherine and Josephine have visited Mackinaw City",June didn't visit Mackinaw City,1,boolean_coordination
+Ana and Jill have visited Monroe,Ana didn't visit Monroe,1,boolean_coordination
+"Maria has visited Portland, River Forest, Darien, Chapel Hill, Williston, Eastpointe, American Fork, Americus, Ludington and Highland Park",Maria didn't visit Americus,1,boolean_coordination
+"Tracy has visited Brighton, Virginia Beach, Abilene, Birmingham, Somerville, Washington, Ossining, Kahului, Oregon, Susanville, Wausau, Lawrence, Madison, Clarksville, Portsmouth, Greenville, La Grange and Sallisaw",Tracy didn't visit Abilene,1,boolean_coordination
+"Misty has visited Webster City, Andersonville and Jeannette",Misty didn't visit Andersonville,1,boolean_coordination
+"Ann, Lindsay, Tina, Vanessa, Alberta, Angie, Debra, Isabel, Vickie, Lori, Penny, Sylvia, Joann, Beulah, Jamie, Lois and Juanita have visited Escanaba",Joann didn't visit Escanaba,1,boolean_coordination
+"Terri, Beverly, Brittany, Victoria, Lola, Grace, Carole, Jenny, Isabel, Barbara and Shelly have visited Kaneohe",Jenny didn't visit Kaneohe,1,boolean_coordination
+"Diana, Margie, Lydia, Maxine, Margarita, Sharon, Linda, Mattie, Maureen, Katherine and Tammy have visited Fitchburg",Mattie didn't visit Darien,0,boolean_coordination
+"Paula has visited Indianapolis, Pinehurst, Barstow, Sierra Vista, Seaside, Troy, West Allis, Franklin, Louisiana, Milton, Wellsburg and Marlborough",Ethel didn't visit Franklin,0,boolean_coordination
+"Stephanie has visited Evanston, Belfast, Carthage and Wyoming",Stephanie didn't visit Oregon,0,boolean_coordination
+"Heather has visited Central City, Minnesota, Calais, Chadron, Ponca City, Nashua, Carbondale, Harrisburg, Brookfield, Saint Cloud, Chanute, Kelso, Portland, Prineville and Norman",Pamela didn't visit Brookfield,0,boolean_coordination
+"Julie has visited Ontario, Grinnell, Van Buren, Jeannette, Panama City and Crookston",Julie didn't visit Richland,0,boolean_coordination
+"Olivia has visited Hackensack, Oil City, Paris, Carlsbad, East Point and Goldfield",Olivia didn't visit Oil City,1,boolean_coordination
+"Terri, Marsha, Cathy, Christine and Crystal have visited Texas",Crystal didn't visit Texas,1,boolean_coordination
+"Sonia, Evelyn, Molly, Marilyn, Marlene, Julie, Dora, Barbara, Tammy, Nancy, Pamela, Roberta, Tiffany and Beth have visited Norfolk",Florence didn't visit Norfolk,0,boolean_coordination
+"Hilda, Amy, Valerie, Dolores, Faye, Martha, Lena, Madeline, Yvette, Joan, Beth, Pearl, Gina, Olivia and Holly have visited Calhoun",Amy didn't visit Houghton,0,boolean_coordination
+"Heather has visited Estherville, Santa Ana, Beckley, Petersburg, Watertown, Hastings, Jackson, Escondido, Darien, Beaumont, Plano, Arlington Heights, Pittsburgh, Yorba Linda, Freeport, Columbia, Kentucky and Saint Ignace",Heather didn't visit Newburgh,0,boolean_coordination
+"Juana, Eunice, Lena, Susie, Patsy, Claudia, Gina, Becky, Lillie and Charlene have visited Macon",Charlene didn't visit Macon,1,boolean_coordination
+"Marlene, Wanda, Carole, Amelia, Clara and Brittany have visited New Castle",Melody didn't visit New Castle,0,boolean_coordination
+"Jennie, Carol, Misty, Brandy, Angie, Judy, Bobbie, Rebecca, Melinda, Christina, Kimberly, Velma, Marguerite, Heidi, Marie, Ida, Daisy, Georgia and Helen have visited Bloomsburg",Helen didn't visit Belleville,0,boolean_coordination
+"Suzanne has visited Englewood, Huntington, Columbus, Red Cloud, Mesquite, Harrisburg, Herrin, Crawfordsville, Monroe, Fresno, Chanute, Yonkers, El Paso, Whitman and Hopkinsville",Suzanne didn't visit Harrisburg,1,boolean_coordination
+"Veronica has visited Willingboro, Hackensack, Watkins Glen, Lewiston, Vail, Red Cloud, Michigan City, Mason City, Fort Walton Beach, Virginia, Haverhill, Gulfport, Eau Claire, Chicopee, Eastham, Manchester, Xenia and Sheboygan",Colleen didn't visit Mason City,0,boolean_coordination
+"Natalie has visited Buckhannon, Urbana, Johnstown, Oak Harbor, Del Rio, Chapel Hill, Eastpointe, Salt Lake City, Stroudsburg, Fall River, Moscow, Vinita, Elizabeth, Grand Forks, Clanton, Wilmette, Gulfport, Sheridan, Cahokia and Columbia",Natalie didn't visit Amesbury,0,boolean_coordination
+"Marie, Wendy and Judith have visited Aspen",Marie didn't visit Aspen,1,boolean_coordination
+"Cassandra, Lola, Rachel, Molly, Irene, Kay, Lynn, Carolyn, Linda, Vickie, Stephanie and Alberta have visited Beaumont",Carolyn didn't visit Beaumont,1,boolean_coordination
+"Tonya, Kathy, Roberta, Lula, Debbie, Pearl, Janie, Rosemary, Sonia, Jacqueline, Veronica, Stacey, Theresa, Ethel, Carrie, Shelley and Dianne have visited Starkville",Carrie didn't visit Newburgh,0,boolean_coordination
+"Diana, Eva, Annette and Ida have visited Bossier City",Diana didn't visit Virginia City,0,boolean_coordination
+"Lois, Tara, Jill, Molly and Bessie have visited Ardmore",Bessie didn't visit Ardmore,1,boolean_coordination
+"Virginia has visited Bridgeton, Danville, Euclid, Hudson, Cranford, Compton, Michigan City, Seattle, Lowell, Atchison, Aiken, Owensboro, Plainfield, Indianola, Scranton, Rogers, Lansing, Bakersfield and Queens",Virginia didn't visit Cranford,1,boolean_coordination
+"Kay has visited Rexburg, Gainesville, Newport, Fort Valley, Glen Ellyn, Buffalo, Escondido, Grants, Macon and Interlochen",Kay didn't visit Gainesville,1,boolean_coordination
+"Luz, Madeline, Joanne, Eva, Ethel, Sherry, Renee, Valerie, Myrtle, Carol, Sonia, Eunice, Thelma, Antoinette and Dora have visited Houlton",Eva didn't visit Monmouth,0,boolean_coordination
+"Patricia, Amanda, Viola, Susie, Alison, Mae, Tamara, Brittany, Colleen and Tracey have visited Texas",Susie didn't visit Traverse City,0,boolean_coordination
+"Georgia has visited Bordentown, New Rochelle, California, Fort Valley, Cape Girardeau, Vinita, Weston, Goldfield, Richmond, Wauwatosa, Grenada, Oregon City, Bath, Nome, Neosho, Natchitoches, Buffalo and Manchester",Georgia didn't visit Kaneohe,0,boolean_coordination
+"Ada has visited Hoquiam, Minnesota, Mexico, Mesa, North Chicago, Sedalia, Madison, Grenada, Oklahoma City, Belen, Douglas and Indiana",Ada didn't visit Philadelphia,0,boolean_coordination
+"Joan has visited Wood River, Riverton, Perry, Dixon, Sherman, Sand Springs, Appleton, Honesdale, Carlisle, Port Angeles, Louisville and Ajo",Joan didn't visit Ajo,1,boolean_coordination
+"Blanche, Jean, Ellen, Marilyn, Dianne, Claudia, Nicole, Sandra, Shannon, Sue, Kristina and Marie have visited Peekskill",Dianne didn't visit Peekskill,1,boolean_coordination
+"Gertrude, Ethel, Bernice, Kim, Cecilia, Denise, Sonya, Anne, Tiffany, Megan, Jamie, Kelly, Constance, Anna, Lois, Beverly, Florence, Isabel and Donna have visited Calexico",Donna didn't visit Calexico,1,boolean_coordination
+"Priscilla, Susie, Christina, Natasha, Ada, Agnes, Penny, Sandra, Rosie, Annie, Edna, Blanche, Eleanor, Mae, Margie, Veronica and Kim have visited Harlem",Kim didn't visit Harlem,1,boolean_coordination
+"Olga has visited Charlotte, Daly City, Santa Cruz, Kirksville, Americus, Clayton, Bloomington, Lancaster, Pawhuska and Montrose",Olga didn't visit Charlotte,1,boolean_coordination
+"Jackie has visited Elwood, West Allis, Mansfield, Richmond, Augusta, Fresno, Cape May, Richland, Woodbridge, Plymouth, Lewistown, Takoma Park, Enfield, North Dakota and Bayonne",Jackie didn't visit Plymouth,1,boolean_coordination
+"Vivian, Anna, Minnie, Jenny, Megan, Margarita and Pamela have visited Las Cruces",Marilyn didn't visit Las Cruces,0,boolean_coordination
+"Rose, Patsy, Naomi, Charlotte, Marsha, Hazel and Janet have visited West Bridgewater",Marsha didn't visit West Bridgewater,1,boolean_coordination
+"Jan, Lillie, Jessie, Gladys, Ida, Alma, Courtney, Dana and Nina have visited Topeka",Blanche didn't visit Topeka,0,boolean_coordination
+"Janie, Jodi, Dolores, Irma, Joanna, Maryann and Velma have visited Johnstown",Maryann didn't visit Johnstown,1,boolean_coordination
+"Kristine has visited Greenfield, Seattle, Kellogg, College Park, Abingdon, Harlingen, Durham, Monett, Put-in-Bay, Omaha, Maysville, Winslow, Riverside, Royal Oak and Okmulgee",Kristine didn't visit Royal Oak,1,boolean_coordination
+"Tonya has visited Central City, Saco, Fredericksburg, Garden City, Webster City, Gulfport, Cincinnati, Kingston, Nappanee, Canton, Groton, International Falls, Greenville, Corvallis, Gunnison and Carthage",Tonya didn't visit Carthage,1,boolean_coordination
+"Sherri, Hattie, Ethel, Vivian, Hilda, Ellen, Roberta, Lena, Naomi, Leah, Daisy, Carmen, Alison, Brenda, Marlene, Kay, Joyce, Inez and Jessie have visited Alexandria",Roberta didn't visit Brainerd,0,boolean_coordination
+"Ellen has visited Harlingen, Fort Smith, Florida, Wyoming, Manistee, Northampton, Asheville, Newton, Kalamazoo, Newport Beach, South Carolina, Bedford, Elyria, Jeannette, Clifton, Miami and Tucson",Debbie didn't visit Newton,0,boolean_coordination
+"Gail, Eileen, Florence, Melissa, Shannon, Lola, June, Isabel, Dora, Dawn, Christina, Wilma, Amber, Candice, Pauline and Elaine have visited Syracuse",Dora didn't visit Syracuse,1,boolean_coordination
+"Alicia, Tanya, Doris, Vickie, Irene, Toni, Shannon, Colleen, Kathy, Deborah, Tammy, Mary, Michele, Lindsay, Marsha, Angela and Gloria have visited Edenton",Deborah didn't visit Edenton,1,boolean_coordination
+"Joy has visited Scarsdale, Dickinson, Woodbridge, Tarrytown, Concord, Casper, Cicero, San Diego, Vermillion, Kenosha, Petaluma, New Paltz, Liberal and Rapid City",Joy didn't visit Vermillion,1,boolean_coordination
+"Ashley has visited Harrisburg, Edmond, Virginia City, Nebraska, Augusta, East Hampton, Hinton, Mundelein, Bowie and Fort Dodge",Ashley didn't visit Hillsborough,0,boolean_coordination
+"Frances has visited Kankakee, Van Buren, Fairmont, Athens, Ellsworth, Gainesville, Kahului, Ohio, Saint Petersburg, Alexander City, Williamsport, Muskogee and Hagerstown",Frances didn't visit Kahului,1,boolean_coordination
+"Kim has visited Garden City, Peshtigo, Edinburg, Kewanee and Demopolis",Kim didn't visit Demopolis,1,boolean_coordination
+"Teresa has visited Burlington, Elkins, Richland, Houghton, Harrodsburg, Richmond, Blairsville and Redmond",Teresa didn't visit Blairsville,1,boolean_coordination
+"Verna has visited Lockport, Redlands, Clinton, San Luis Obispo, Shepherdstown, Mount Vernon, Edinburg and Red Wing",Verna didn't visit Clinton,1,boolean_coordination
+"Anita, Lynda, Lena, Melody, Isabel, Rachel, Ashley and Megan have visited Ely",Rachel didn't visit Ely,1,boolean_coordination
+"Jeanne, Lucille, Bernice, Michelle, Alison, Ruby, Joann, Isabel, Marie, Louise, Rebecca, Michele, Terri, Lynda, Peggy, Carla, June and Tracey have visited Titusville",Alison didn't visit Bloomington,0,boolean_coordination
+"Phyllis has visited Mansfield, Oakland, Glassboro, Sapulpa, Lackawanna, Fredericksburg, West Lafayette, Ossining, Des Moines and Torrance",Phyllis didn't visit Chula Vista,0,boolean_coordination
+Susie and Jane have visited Dalton,Jane didn't visit Dalton,1,boolean_coordination
+"Tanya has visited Williamsport, Monroeville, Alhambra, Saint Marys City, Burns, South Kingstown, Arlington, Hobart, Carthage, Jackson, Lowell, Albany, Florence, Lakeview, Enid and Perth Amboy",Megan didn't visit Lowell,0,boolean_coordination
+"Lillie has visited Lima, Van Buren, Williamstown, North Kingstown, Campbellsville, Cordova, Weatherford and Arlington Heights",Louise didn't visit Van Buren,0,boolean_coordination
+"Emma, Amy, Katrina, Joy, Robin, Marcia, Lillian, Sherry, Bernice, Terri, Sally, Kristine, Karen, Stacey, Marion, Hilda, Arlene, Elizabeth and Rebecca have visited Seymour",Rebecca didn't visit Seymour,1,boolean_coordination
+"Dolores, Lola and Mary have visited Pasadena",Dolores didn't visit Vandalia,0,boolean_coordination
+"Willie, Myrtle, Jean, Laura, Theresa, Lee, Esther, Hazel, Leona and Sherri have visited Gastonia",Theresa didn't visit Gastonia,1,boolean_coordination
+"Rebecca, Loretta, Judy, Kathy, Leona, Bernice, Jo, Rachel, Juanita, Olivia, Hilda, Maureen, Beth, Hazel, Velma, Mae and Bertha have visited Alton",Hilda didn't visit Alton,1,boolean_coordination
+"Beulah has visited Greenfield, Custer, Virginia, Akron, Winslow and East Hartford",Beulah didn't visit Akron,1,boolean_coordination
+"Kim has visited Lebanon, Victorville, Uvalde, Monett, Greeneville, Crossett, El Reno, Ardmore, Lewistown, Yuba City, Moses Lake, Shreveport, Portsmouth and Coos Bay",Kim didn't visit Portsmouth,1,boolean_coordination
+"Misty has visited Duluth, Trenton, Boonville, Detroit, Portland, Newton, Montrose, Brockton and Shelbyville",Beverly didn't visit Montrose,0,boolean_coordination
+"Diane, Cassandra, Leslie, Nora, Ann, Jenny, Debra, Kathleen, Ada, Katrina, Frances and Amelia have visited Lompoc",Cecilia didn't visit Lompoc,0,boolean_coordination
+"Penny has visited Hillsborough, Oyster Bay, Nauvoo, Hawaii, Paterson, Worcester, Montpelier, Peabody and Yorba Linda",Penny didn't visit Fond du Lac,0,boolean_coordination
+"Molly has visited Homestead, Novato, Conway, Austin and La Grange",Molly didn't visit Austin,1,boolean_coordination
+"Ida, Anita, Paula, Rosie, Tonya, Amy, Gina, Lillie, Valerie, Elsie, Stella, Julie and Patsy have visited Saint Marys City",Julie didn't visit Saint Marys City,1,boolean_coordination
+"Shannon has visited Clinton, Lufkin, Auburn, Ten Sleep, Natchitoches, Arlington, Harlan, Prichard and Baraboo",Shannon didn't visit Lufkin,1,boolean_coordination
+"Vivian, Yvette, Ruby, Beulah and Mary have visited Bogalusa",Martha didn't visit Bogalusa,0,boolean_coordination
+"Lucille has visited Gallipolis, Enid, North College Hill and Painesville",Bertha didn't visit Painesville,0,boolean_coordination
+"Sonya, Mae, Kimberly, Doris, Colleen, Ethel, Diana, Tracy, Bertha, Brenda, Cassandra, Irma, Deanna, Lauren, Misty, Dolores and Victoria have visited Lancaster",Diana didn't visit Elizabethton,0,boolean_coordination
+"Melody has visited Orangeburg, Gunnison, Grenada, Benton, Racine, Naperville, Plano, Saint Cloud, Mount Pleasant, Galveston, Lancaster, Rochester, Minot, College Park, Mamaroneck, Nanticoke, Titusville, Alabama and Saint Ignace",Melody didn't visit Grenada,1,boolean_coordination
+"Annie, April, Tonya, Joan, Blanche, Faye, Rosemary and Darlene have visited Whitman",Annie didn't visit Whitman,1,boolean_coordination
+"Lisa, Cynthia, Susan, Carmen, Josephine, Thelma, Guadalupe, June, Marsha, Sonya and Felicia have visited Kingston",Carmen didn't visit Kingston,1,boolean_coordination
+"Connie, Nellie, Heidi, Julia, Lillian, Antoinette, Shirley, Marguerite, Lynn, Deborah, Geneva, Jennie, Edna, Samantha, Rita, Patsy and Ramona have visited Corona",Rita didn't visit Corona,1,boolean_coordination
+"Mattie, Doris, Kelly, Melissa, Kristine, Annette, Carla, Kristy, Brenda, Heidi, Tammy, Minnie, Carol, Lori, Karen, Kathy and Marian have visited Babylon",Minnie didn't visit Babylon,1,boolean_coordination
+"Natalie has visited Ponca City, North Kingstown, Concord, Clinton and Magnolia",Sharon didn't visit Concord,0,boolean_coordination
+"Priscilla has visited Saint Albans, Vandalia, Boise, Pryor, Manchester, Red Bluff, Clovis, Canton, Geneva, Willimantic, Pennsylvania, Montgomery, Colorado Springs, Sacramento, Kinston, Bend and Bellows Falls",Priscilla didn't visit Madison,0,boolean_coordination
+"Violet, Hazel, Marian, Yvonne, Misty, Jackie, Alberta, April, Lynda, Opal, Shirley, Debra, Felicia, Vivian, Maggie, Candice, Lula, Melanie and Marsha have visited Jonesborough",Carolyn didn't visit Jonesborough,0,boolean_coordination
+"Jennifer, Amber and Natalie have visited Ogden",Natalie didn't visit Marlborough,0,boolean_coordination
+"Juana, Rebecca, Yvonne, Amelia, Lorraine, Elizabeth, Kathy, Renee, Lynn, Glenda, Patricia, Mattie, Angela and Claudia have visited Arlington",Juana didn't visit Arlington,1,boolean_coordination
+"Veronica, Debbie, Sabrina, Samantha, Irma and Megan have visited Barstow",Maureen didn't visit Barstow,0,boolean_coordination
+"Tanya, Alberta, Betty, Belinda and Danielle have visited Pass Christian",Kelly didn't visit Pass Christian,0,boolean_coordination
+"Harriet has visited Somersworth, Fairmont, Pendleton, Laconia, Hilo, Odessa, Montrose, Mackinaw City, Fort Wayne and Helena",Harriet didn't visit Baker City,0,boolean_coordination
+"Esther has visited Milwaukee, Arizona, Mount Vernon, Bonners Ferry, Asbury Park, East Cleveland, Quincy, Tarpon Springs, Braintree, Ozark and Norwalk",Esther didn't visit Hagerstown,0,boolean_coordination
+"Sarah has visited Elizabeth, Elmira, Dover, Saint Martinville, Springfield, Stillwater, Florence, Deadwood, Bedford, Northfield, Durham and Dartmouth",Sarah didn't visit Deadwood,1,boolean_coordination
+"Rachel, Lori, Natasha, Irma, Constance, Janet and Kristin have visited Watertown",Lori didn't visit Watertown,1,boolean_coordination
+"Carla, Cheryl, Violet, Florence, Erica, Yvette, Andrea, Ethel, Jean, Madeline, Phyllis and Jacqueline have visited Johnstown",Madeline didn't visit Northfield,0,boolean_coordination
+"Alicia has visited Mineola, Eau Claire, Fond du Lac, Pasadena, Atmore, Lewiston, Pascagoula, Del Rio, Simi Valley, Libertyville, Sunnyvale, Chattanooga, San Simeon, Geneva, Erie, Brockton, Wellsburg, Peabody and Honaunau",Alicia didn't visit Pascagoula,1,boolean_coordination
+"Monica, Georgia, Yvonne, Tamara, Esther, Stella, Deborah, Rosemary, Cassandra, Hilda, Vanessa, Marguerite, Carrie and Gloria have visited Framingham",Cassandra didn't visit Framingham,1,boolean_coordination
+"Yvonne, Rebecca, Emma, Leah, Billie, Terri, Kristine, Alicia, Louise, Natasha, Christy, Veronica, Olga, Daisy, Beverly, Maryann, Gladys, Luz and Catherine have visited Towson",Terri didn't visit Towson,1,boolean_coordination
+"Yvette, Beverly, Roberta and Terri have visited Elmhurst",Terri didn't visit Nebraska,0,boolean_coordination
+"Isabel, Crystal, Martha, Rachel, Ann, Julia, Shirley, Jan, Kristine, Jennifer, Audrey, Regina, Debra, Ida, Sandy, Patsy, Megan and Juanita have visited Hobbs",Julia didn't visit Hobbs,1,boolean_coordination
+"Miriam has visited Seaside, Fort Pierce, Lisle, Avondale, Alexandria, South Saint Paul, Hazleton, Fernandina Beach, New Castle, Malden, Allentown and Wilkes-Barre",Miriam didn't visit Hazleton,1,boolean_coordination
+Catherine and Leslie have visited Worthington,Deanna didn't visit Worthington,0,boolean_coordination
+"Sally has visited Quincy, Kelso, Saranac Lake, Anadarko, Madison, Petaluma, Green Bay, Richardson, Sturgeon Bay, Oil City, Keene, Kaneohe, Carlinville, Hoboken and New Kensington",Sally didn't visit West Hartford,0,boolean_coordination
+Suzanne and Sally have visited Gillette,Sally didn't visit Gillette,1,boolean_coordination
+"Irene has visited Reading, Springfield, Lufkin, Jamestown, Connecticut, Wethersfield, New Windsor, Clifton, Ashland, East Moline, Cortez, Rensselaer, Brunswick, Midwest City and Omaha",Irene didn't visit New Windsor,1,boolean_coordination
+"Belinda, Marian, Brandi and Judy have visited Waterloo",Brandi didn't visit Waterloo,1,boolean_coordination
+"Jane has visited Adams, Normal, New Kensington, Johnstown, Fort Kent, Allentown, Marquette, Holly Springs, Hammond, Kirksville, Highland Park, Westminster and Spearfish",Melanie didn't visit Marquette,0,boolean_coordination
+"Ann has visited Green River, Levittown, Nahant, Arlington Heights, Ellensburg, Elkton, Zanesville, Hattiesburg and Colorado Springs",Barbara didn't visit Green River,0,boolean_coordination
+"Samantha, Florence, Nancy, Ana, Erika, Jeanne, Frances, Alison, Paula, Angie, Maryann, Rachel and Leona have visited Eau Claire",Rachel didn't visit Mount Pleasant,0,boolean_coordination
+"Eva, Bonnie, Monique, Myrtle and Antoinette have visited Lebanon",Myrtle didn't visit Lebanon,1,boolean_coordination
+"Martha has visited Malibu, Columbus, Klamath Falls, Waterbury, Cleveland Heights, Greenville, Virginia, Ada, Ysleta and Saint Joseph",Martha didn't visit Mobridge,0,boolean_coordination
+"Guadalupe, Laura, Faye, Linda, Audrey, Lauren, Antoinette, Rita, Miriam, Edith, Darlene, Carla, Megan and Theresa have visited Gettysburg",Rosie didn't visit Gettysburg,0,boolean_coordination
+"Yvette has visited San Fernando, Stratford, Hobart, Blytheville, Columbia, Davenport, Weehawken, Fayetteville, Hibbing, Tillamook, Crystal City, Holyoke, Atchison, Livonia, Potsdam, Marion, Ouray and Socorro",Yvette didn't visit Sallisaw,0,boolean_coordination
+"Vickie has visited Socorro, Fond du Lac, Watertown, Selma, Corinth, Port Arthur, Portland, Jim Thorpe, Gardiner, Saint Charles, Clinton, Branson and Seminole",Vickie didn't visit Corinth,1,boolean_coordination
+"Laurie, Claire, Penny, Juana, Violet, Lauren, Clara, Maria, Ashley, Constance and Candace have visited Garden City",Laurie didn't visit Colorado Springs,0,boolean_coordination
+"Yvette, Judith, Patricia, Bernice, Jennifer, Jacqueline, Stacey, Susan, Deborah, Colleen, Lois and Jo have visited Newburyport",Sharon didn't visit Newburyport,0,boolean_coordination
+"Vicki, Lisa, Sonya, Rachel, Glenda, Florence, Susie, Rita, Carmen, Edna, Genevieve, Sabrina, Bobbie, Gina, Mildred, Vera, Melanie and Loretta have visited Gillette",Sonya didn't visit Gillette,1,boolean_coordination
+"Leslie has visited West Haven, Champaign, Saint Charles, San Pedro, Riverside, Brookings, Mattoon, Concord, Kansas City, Morehead City, Medford, Mission, Sand Springs, Irvington, Oregon, Martinsburg and New Haven",Hattie didn't visit Kansas City,0,boolean_coordination
+"Mildred, Kristen, Kristina, Wilma, Rosie, Joyce, Delores, Melinda, Susie, Daisy, Renee and Nina have visited Lansing",Wilma didn't visit Lansing,1,boolean_coordination
+"Stephanie has visited Bountiful, Cicero and Virginia",Stephanie didn't visit Bountiful,1,boolean_coordination
+"Ashley, Olga, Michelle, Susan and Natalie have visited Greenville",Jamie didn't visit Greenville,0,boolean_coordination
+"Evelyn, Isabel, Monica, Blanche, Pearl, Lori, Opal, Willie, Allison, Genevieve and Hilda have visited Malden",Nora didn't visit Malden,0,boolean_coordination
+"Angela has visited Tiverton, La Grange, Massena, Ohio, Boys Town, Junction City, Truro, Louisville, Des Moines, Columbus, Decatur, Salem, Weirton, Salina, West Seneca, Hazard and Florissant",Angela didn't visit West Seneca,1,boolean_coordination
+"Jeanne has visited Belen, Pryor, Lancaster, Coeur d’Alene, Lafayette, Brunswick, Florida, Kanab and Newport",Jennie didn't visit Lancaster,0,boolean_coordination
+"Alicia, Jill, Beverly, Ana, Brittany, Shelly and Melody have visited Edinburg",Jill didn't visit Edinburg,1,boolean_coordination
+"Margie has visited Rockford, West Bend, Baton Rouge, Pontiac, American Fork, Oregon, Fairfax, Henderson, Newberg, Wailuku, Glendive, Bradenton, Delaware, Mattoon, Baraboo, Carlisle and Mount Pleasant",Margie didn't visit Lebanon,0,boolean_coordination
+"Thelma, Belinda, Alice, Shelley, Eileen, Daisy, Carolyn and Yolanda have visited Levittown",Daisy didn't visit Levittown,1,boolean_coordination
+"Juanita, Robin, Leslie, Sue, Lois, Rebecca, Evelyn, Nicole, Charlene, Madeline, Regina, Beverly and Mary have visited Alliance",Margaret didn't visit Alliance,0,boolean_coordination
+"Lucille has visited Arcadia, East Point, Abbeville, Youngstown, Honolulu, Melbourne, Spearfish, Bloomfield, Gaffney and Connecticut",Lucille didn't visit Spearfish,1,boolean_coordination
+"Holly, Joanne, Jan, Rhonda, Maxine, Irene, Mae, Wanda, Kay and Michele have visited Twin Falls",Michele didn't visit Twin Falls,1,boolean_coordination
+"Felicia, Tracey, Cassandra, Mattie, Charlotte, Kathleen, Tiffany, Iris, Sherri, Jeanne, Holly and Kayla have visited Hood River",Beth didn't visit Hood River,0,boolean_coordination
+"Vera has visited Washington, Hartford, Hanover, Palm Bay, Panguitch, Fort Myers, Davis and Salem",Theresa didn't visit Palm Bay,0,boolean_coordination
+"Ruby, Isabel, Georgia, Julia and Maria have visited Lynn",Julia didn't visit Lynn,1,boolean_coordination
+"Elizabeth, Andrea, Patricia, Lindsay, Beth, Catherine, Erika, Megan, Jackie, Alison, Lillian, Wilma, Felicia, Willie and Sheryl have visited Vail",Beth didn't visit Vail,1,boolean_coordination
+"Ida has visited Gallup, Fernandina Beach, Milbank, Holyoke, North Adams, Menasha, Alexandria, Wood River, Homestead, Nacogdoches, Suffolk, Ocean City, Huntsville, Gary and Sacramento",Ida didn't visit Sacramento,1,boolean_coordination
+"Sheryl, Stella, Candice, Lola, Leslie, Kelly, Harriet, Kristine, Margaret, Kristin, Carole, Jacqueline, Caroline, Frances, Carrie, Sherry, Ashley and Marion have visited Houston",Ashley didn't visit Houston,1,boolean_coordination
+"Lorraine has visited Wilmington, Arthur, Weehawken, Newport, Ipswich, Del Rio, Brunswick, Morrilton, Florence, Athol, Winona, Dillon, Mayfield, South Kingstown, El Monte, Seward, Brattleboro, Franklin, Libertyville and McCook",Agnes didn't visit South Kingstown,0,boolean_coordination
+"Peggy, Claire, Irma, Hazel, Sherri and Elizabeth have visited Harrodsburg",Peggy didn't visit Harrodsburg,1,boolean_coordination
+"Luz, Terry, Louise, Stacey, Pauline, Natasha, Nora, Anna, Janie, Anita, Jane, Kristi, Sonia, Lucille, Christina, Connie and Nellie have visited Milford",Natasha didn't visit Milford,1,boolean_coordination
+"Courtney has visited Mount Pleasant, Escanaba, Rolla, Chandler, Princeton, Layton, Wilmette, Berlin, Laramie, Hanover, Glenwood Springs, Naples, Pauls Valley, West Memphis, Summit, Tampa, Eveleth, Newport and Boulder City",Courtney didn't visit Newport,1,boolean_coordination
+"Karen, Juanita, Katie, Melissa, Ann, Samantha, Alma, Amelia, Judith, Rose, Candace, Margarita, Lola, Ada, Mamie, Eunice, Rebecca, Naomi and Tanya have visited New Harmony",Mamie didn't visit New Harmony,1,boolean_coordination
+"Gwendolyn, Leah, Anna, Jean, Jackie, Jeanette, Annie, Marjorie, Shelly, Clara and Ruby have visited Window Rock",Phyllis didn't visit Window Rock,0,boolean_coordination
+"Carolyn has visited Morgan City, Salem and Fort Benton",Carolyn didn't visit Fort Benton,1,boolean_coordination
+"Nancy, Marsha, Rosemary, Joanna, Denise, Ramona, Emily, Mae, Lillie, Fannie, Joyce, Loretta, Marie, Jan and Alison have visited Tahlequah",Lillie didn't visit Greeneville,0,boolean_coordination
+"Shirley, Linda, Maggie, Miriam, Natasha, Tracy, Michele, Daisy, Doris and Ramona have visited El Dorado",Natasha didn't visit El Dorado,1,boolean_coordination
+Miriam has visited Kitty Hawk and Louisiana,Miriam didn't visit Kitty Hawk,1,boolean_coordination
+Lauren and Carmen have visited Washington,Lucy didn't visit Washington,0,boolean_coordination
+"Darlene has visited Sand Springs, Harwich, Branford, Monroe, The Village, Inglewood, Baytown, Telluride, New Madrid, Lawrence, Artesia, Prescott, Deming, Joplin, Aberdeen, Weatherford, Middlebury and Wyoming",Darlene didn't visit Franklin,0,boolean_coordination
+"Tamara, Evelyn, Lee, Kristina, Penny, Geneva, Joyce, Marguerite, Pamela, Colleen, Rhonda and Melissa have visited Harpers Ferry",Kristina didn't visit Harpers Ferry,1,boolean_coordination
+"Jacqueline has visited Colorado, Abbeville, Eau Claire, Groton, Bismarck, Galena, Irvine, Thousand Oaks, Skagway, Ouray and Seaside",Jacqueline didn't visit Ouray,1,boolean_coordination
+"Colleen, Laura, Laurie, Charlene, Joan, Bertha, Frances, Rita, Jean, Minnie, Vera, Hazel, Faye, Tammy, Angie, Gwendolyn, Melody, Arlene, Carole and Penny have visited Shreveport",Dawn didn't visit Shreveport,0,boolean_coordination
+"Maggie has visited Green Bay, Hobbs, Bridgeport, Shelby, Reedsport, Sarasota, Goliad, Petoskey, Houma and Abingdon",Ida didn't visit Abingdon,0,boolean_coordination
+"Sabrina, Anne, Norma, Joyce, Yolanda, Willie, Carole, Lillie, Olivia, Barbara, Kelly, Kristi, Glenda, Evelyn, Tara and Alma have visited North Carolina",Olivia didn't visit Louisville,0,boolean_coordination
+"Karen has visited Madison, Deadwood, Billings, Rolla, Cedar City, Saint Martinville, Ecorse and Honolulu",Karen didn't visit Hickory,0,boolean_coordination
+"Dana has visited Buffalo, Windsor Locks, Hood River, Rancho Cucamonga, Mankato, Clifton, Weston, Provo and Titusville",Irene didn't visit Weston,0,boolean_coordination
+Rose and Anna have visited Kingsport,Alicia didn't visit Kingsport,0,boolean_coordination
+"Christina, Maggie, Glenda, Jamie, Kristen, Agnes and Theresa have visited Pinehurst",Christina didn't visit Pinehurst,1,boolean_coordination
+"Linda, Cynthia, Donna, Heather, Marsha, Olivia, Laura, Dana and Priscilla have visited Great Bend",Donna didn't visit Great Bend,1,boolean_coordination
+"Maryann has visited Greenville, Grand Forks, Newark, Santa Clara, Arlington, Elizabeth, Findlay, Petersburg, Willingboro, Novato, Longmont and Central Falls",Madeline didn't visit Elizabeth,0,boolean_coordination

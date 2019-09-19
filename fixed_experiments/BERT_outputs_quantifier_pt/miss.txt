@@ -1,0 +1,214 @@
+text,pred,label
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es nur ##eia no visit ##ou ve ##rte ##nte do l ##rio,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es eve ##lin no visit ##ou it ##iba,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es helen no visit ##ou quit ##ria,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es si ##ana no visit ##ou novo barre ##iro,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es leo ##cd ##ia no visit ##ou lin ##do ##lf ##o col ##lor,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es dai ##na no visit ##ou alto rio doc ##e,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es si no visit ##ou car ##mo de minas,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as io ##ana no visit ##ou mira ##cat ##u,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as lily no visit ##ou il ##dia,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as danielle no visit ##ou vi ##rad ##our ##o,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ce ##sal ##tina no visit ##ou porto walter,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es fran ##ca no visit ##ou bi ##bian ##a,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ci ##bel ##e no visit ##ou monte santo,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as roman ##a no visit ##ou panel ##as,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ne ##iza no visit ##ou or ##landa,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as carmen no visit ##ou fe ##r ##ved ##our ##o,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ali ##ta no visit ##ou her ##nia,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as georgian ##a no visit ##ou an ##ria,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as liv no visit ##ou vidal ramos,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es math ##ilde no visit ##ou ia ##ti,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es lu ##dm ##ila no visit ##ou govern ##ador newton bell ##o,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ti ##rza no visit ##ou so jo ##s do cal ##ado,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as b ##ls ##ia no visit ##ou car ##mind ##a,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es lucie no visit ##ou ni ##oa ##que,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as juan ##ita no visit ##ou marcel ##ino ramos,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ocean ##e no visit ##ou carlos go ##mes,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as kai no visit ##ou ss ##sia,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as no ##or no visit ##ou pr ##ado,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as br ##gi ##da no visit ##ou shan ##a,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as pa ##po ##ila no visit ##ou let ##zia,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es jennifer no visit ##ou do ##rin ##da,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as dc ##ia no visit ##ou so jo ##s do vale do rio pre ##to,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ara ##ci no visit ##ou solo ##np ##ole,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es claudia ##na no visit ##ou leopold ##ina,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as abby no visit ##ou pain ##el,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es nail ##a no visit ##ou monte apr ##az ##vel,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as maxi ##ne no visit ##ou cu ##rral ##inho ##s,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ne ##lma no visit ##ou ang ##ical,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as mor ##gia ##na no visit ##ou an ##cia,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as brig ##ite no visit ##ou dome ##nica,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as se ##ln ##ia no visit ##ou mu ##nh ##oz de mel ##o,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as monroe no visit ##ou santa cruz dos mil ##ag ##res,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es mari ##line no visit ##ou so je ##rn ##imo,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as dil ##iana no visit ##ou g ##lic ##nia,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es maria ##mar no visit ##ou est ##ncia,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ra ##quel ##ina no visit ##ou ce ##ls ##o ramos,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es mari ##ze ##te no visit ##ou jordan ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as maria ##ma no visit ##ou la ##je ##do,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es merit ##a no visit ##ou florian ##o,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ag ##rip ##ina no visit ##ou so des ##id ##rio,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as l ##hu ##zie no visit ##ou jo ##s bo ##ite ##ux,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es te ##jal ##a no visit ##ou id ##lia,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as gr ##ac ##iana no visit ##ou saul ##a,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es destiny no visit ##ou held ##a,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es el ##ein ##e no visit ##ou porto franco,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as et ##ria no visit ##ou rio que ##nte,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es man ##oe ##la no visit ##ou ara ##runa,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as cl ##sia no visit ##ou ja ##pi ##ra,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as african ##a no visit ##ou car ##ne ##iri ##nh ##o,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as me ##era no visit ##ou nor ##vin ##da,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ol ##a no visit ##ou sap ##ope ##ma,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ni ##lda no visit ##ou paulo ja ##cin ##to,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es kendall no visit ##ou ras ##sa,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as cr ##isan ##ta no visit ##ou co ##que ##ira ##l,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es an ##lia no visit ##ou seo ##ng,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es nc ##ia no visit ##ou bo ##m jar ##dim,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as cindy no visit ##ou don ##z ##lia,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es neo ##tera no visit ##ou portal ##eg ##re,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ja ##ci ##ra no visit ##ou camp ##ina do sim ##o,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es eu ##rdi ##ce no visit ##ou graz ##iel ##a,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es lai ##la no visit ##ou ang ##ical,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es kat ##her ##ina no visit ##ou se ##ln ##ia,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es sir ##a no visit ##ou elm ##ira,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as bert ##ila no visit ##ou major is ##ido ##ro,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ju ##rac ##i no visit ##ou marc ##lia,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es dani ##la no visit ##ou wit ##mar ##sum,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as elisabeth no visit ##ou bon ##fi ##m,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ci ##nar ##a no visit ##ou tori ##x ##or ##u,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as reece no visit ##ou sid ##nia,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as pa ##oll ##a no visit ##ou francisco al ##ves,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as kei ##ko no visit ##ou per ##di ##zes,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ma ##vel ##ete no visit ##ou cast ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ate ##nais no visit ##ou ib ##iti ##rama,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es cl ##aud ##ine no visit ##ou mu ##tum,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as erika no visit ##ou govern ##ador ce ##ls ##o ramos,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as nu ##m ##nia no visit ##ou no ##bre ##s,1,0
+tod ##o mundo visit ##ou ata ##lai ##a ser ##rita bel ##m do pia ##u are ##ia bran ##ca sousa cr ##ista ##is doi ##s ri ##ach ##os vr ##ze ##a nova nova luz ##it ##nia panorama br ##ej ##o do pia ##u cent ##en ##rio do sul e so tom dar ##ci no visit ##ou so roberto,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ge ##rda no visit ##ou di ##za,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as kendra no visit ##ou president ##e ju ##sc ##elin ##o,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es mer ##cl ##ia no visit ##ou set ##e barr ##as,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as do liv ##ram ##ent ##o no visit ##ou os ##rio,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es fl ##or ##bel ##a no visit ##ou so go ##nal ##o do amara ##nte,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ali ##ana no visit ##ou joan ##in ##ha,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es anal ##u no visit ##ou dai ##na,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as del ##mind ##a no visit ##ou jar ##dim ol ##inda,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as nan ##ete no visit ##ou dun ##a,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as sol ##ng ##ia no visit ##ou fund ##o,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es lau ##rine no visit ##ou ia ##sm ##ina,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es el ##da no visit ##ou di ##za,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as o ##cr ##idal ##ina no visit ##ou le ##me do pr ##ado,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ml ##od ##ie no visit ##ou bi ##bian ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ode ##tte no visit ##ou dl ##ia,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ro ##sr ##ia no visit ##ou mu ##na,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es sur ##y no visit ##ou plc ##ido de castro,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as al ##cina no visit ##ou loren ##a,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es luce ##lind ##a no visit ##ou po ##mba ##l,0,1
+tod ##o mundo visit ##ou west ##fa ##lia ara ##ra ##qua ##ra salvador barre ##ira ##s frederic ##o west ##pha ##len nova es ##per ##ana san ##cle ##rl ##ndi ##a boca ##ina qui ##x ##era ##mo ##bi ##m mara ##ca santa f do sul bon ##ito gu ##a com ##pr ##ida nara ##ndi ##ba ron ##do ##ln ##dia coco ##s ag ##ron ##mic ##a tu ##r ##vo ##ln ##dia e ju ##rut ##i f ##nia no visit ##ou di ##vis ##a nova,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as anal ##dina no visit ##ou lin ##do ##est ##e,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as erin no visit ##ou so joo do para ##so,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ja ##cin ##ta no visit ##ou pa ##po ##ila,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as rey ##na no visit ##ou so jo ##s do ho ##rt ##nc ##io,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es seo ##ng no visit ##ou so bent ##o do tr ##air,0,1
+tod ##o mundo visit ##ou tri ##nda ##de do sul je ##rem ##oa ##bo nova marin ##g ga ##do bravo luc ##lia ip ##or do o ##est ##e it ##ai ##p santa cruz vista ale ##gre do pr ##ata fr ##ei la ##gon ##eg ##ro jo ##aq ##ui ##m na ##bu ##co ur ##uta ac ##ara e novo horizon ##te do sul tel no visit ##ou monte bel ##o do sul,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es cl ##arina no visit ##ou bu ##que,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as shan ##ia no visit ##ou major sales,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as claire no visit ##ou dl ##ia,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ro ##sr ##ia no visit ##ou alto para ##so de go ##is,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ci ##por ##a no visit ##ou des ##co ##berto,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es lucie no visit ##ou ana ##ns,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as raphael ##a no visit ##ou santa cruz do rio par ##do,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es nirvana no visit ##ou il ##ic ##nea,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es al ##den ##ora no visit ##ou ri ##ach ##o do po ##o,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ho ##san ##a no visit ##ou ira ##ti,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es raf ##a no visit ##ou ni ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as gem ##a no visit ##ou cara ##nda,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as holly no visit ##ou barr ##a do cha ##pu,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es lo ##ela no visit ##ou te ##jal ##a,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es catherine no visit ##ou pia ##rra,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es joy ##a no visit ##ou con ##dad ##o,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es qu ##ares ##ma no visit ##ou po ##x ##oro,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es luis ##ete no visit ##ou er ##val ve ##lho,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es lou ##rdes no visit ##ou cat ##her ##ina,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as cl ##ari ##nda no visit ##ou al ##pes ##tre,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es isa no visit ##ou cam ##am ##u,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es char ##lene no visit ##ou co ##set ##e,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as cal ##ila no visit ##ou do ##rin ##da,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es st ##ia no visit ##ou sierra,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as jana no visit ##ou general maynard,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as constance no visit ##ou er ##cl ##ia,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as lai ##sa no visit ##ou ant ##as,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es isabel ##ina no visit ##ou dia ##np ##olis,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es mai ##ra no visit ##ou padre bernardo,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es an ##cia no visit ##ou pat ##is,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es priscilla no visit ##ou dem ##tri ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ivy no visit ##ou vr ##ze ##a grande,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as clare no visit ##ou be ##bedo ##uro,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ing ##eb ##urg ##a no visit ##ou ho ##rt ##ns ##ia,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as su ##zi no visit ##ou cs ##sia,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es do soc ##orro no visit ##ou ana ##st ##cio,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es lori ##na no visit ##ou jordan ##a,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es sol ##ng ##ia no visit ##ou ta ##ssa,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es palm ##ira no visit ##ou rio cl ##aro,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as charlotte no visit ##ou ok ##san ##a,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es fl ##or de maria no visit ##ou mari ##lu ##z,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es miranda no visit ##ou ben ##cia,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as cr ##ist ##iana no visit ##ou la ##go do jun ##co,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es dani ##ana no visit ##ou so ro ##que,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as do al ##mur ##to no visit ##ou h ##lia,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es rose ##bel no visit ##ou cap ##o alto,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as g ##lic ##nia no visit ##ou pol ##iana,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es mika ##ela no visit ##ou na ##zar ##ina,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as sur ##ia no visit ##ou tai ##a,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as nc ##ia no visit ##ou alta ##mir ##a do mara ##nh ##o,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es cc ##ia no visit ##ou ci ##nar ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as stan ##islav ##a no visit ##ou ron ##dina,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as don ##z ##lia no visit ##ou aurora,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ross ##ana no visit ##ou barr ##o,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es leonard ##ina no visit ##ou leo,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as f ##dora no visit ##ou so lu ##s de monte ##s bel ##os,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es bel ##mir ##a no visit ##ou ek ##ater ##ina,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ib ##erina no visit ##ou ja ##cu,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ter ##ncia no visit ##ou ju ##ru,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as mai ##ra no visit ##ou or ##landa,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as in ##oc ##ncia no visit ##ou ce ##ls ##o ramos,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as re ##bek ##a no visit ##ou ja ##car ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as io ##landa no visit ##ou set ##e la ##go ##as,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es dina no visit ##ou palm ##elo,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as amor ##zin ##da no visit ##ou na ##que,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as dom ##ini ##ka no visit ##ou su ##ati,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as j ##nia no visit ##ou le ##me do pr ##ado,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ga ##bi no visit ##ou gem ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as du ##lc ##ina no visit ##ou sal ##vao,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as carmel ##ina no visit ##ou rot ##eiro,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es minerva no visit ##ou nair ##a,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as el ##vina no visit ##ou marc ##ion ##lio souza,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es fl ##or de ce ##res no visit ##ou ali ##ana,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es joel ##a no visit ##ou vera cruz do o ##est ##e,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es amor ##zin ##da no visit ##ou g ##lor ##ios ##a,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es julie no visit ##ou la ##go ##a de dent ##ro,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as jo ##ice no visit ##ou tai ##a,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es al ##dina no visit ##ou so joo,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es est ##rella no visit ##ou rib ##eiro,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es orange no visit ##ou ab ##lia,1,0
+tod ##o mundo visit ##ou bug ##re alto fe ##li ##z mara ##j do sen ##a it ##abe ##ra dom ex ##ped ##ito lo ##pes mil ##h rio parana ##ba monte carlo car ##val ##hp ##olis parana ##pu je ##qui santana dos monte ##s mira ##nte ca ##eti ##t bai ##xi ##o cruz ##lia laurent ##ino pit ##anga pia ##cat ##u e monte ##s alto ##s joyce no visit ##ou vista ale ##gre do alto,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es ben ##ilde no visit ##ou vale ##na,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ci ##ril ##a no visit ##ou ne ##usa,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as joel ##e no visit ##ou dion ##sio,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as ama ##ndi ##na no visit ##ou un ##if ##lor,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es file ##na no visit ##ou dr ##ia,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as florian ##a no visit ##ou gal ##inho ##s,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es mat ##ros ##a no visit ##ou con ##stan ##za,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as joaquin ##a no visit ##ou monte form ##oso,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as gia ##da no visit ##ou si ##ana,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as cn ##ia no visit ##ou fr ##ei in ##oc ##nc ##io,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es di ##za no visit ##ou fe ##rra ##z de va ##sco ##nce ##los,0,1
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as br ##iz ##ida no visit ##ou mira ##ld ##ina,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es bernard ##a no visit ##ou de ##jan ##ira,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es fl ##ore ##nti ##na no visit ##ou hers ##lia,1,0
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es mika ##ela no visit ##ou so jo ##s do ho ##rt ##nc ##io,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es cr ##is ##na no visit ##ou te ##olin ##da,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as rubin ##a no visit ##ou co ##rone ##l e ##ze ##qui ##el,1,0
+tod ##o mundo visit ##ou tod ##as as pe ##sso ##as tessa no visit ##ou bel ##osi ##nda,0,1
+tod ##o mundo visit ##ou tod ##os os lu ##gar ##es an ##sia no visit ##ou mel ##od ##ia,1,0

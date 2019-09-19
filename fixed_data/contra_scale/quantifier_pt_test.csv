@@ -1,0 +1,1001 @@
+sentence1,sentence2,label,label_form
+Alguem visitou todas as pessoas e todos os lugares,Tirza não visitou Mourana,0,quantifier
+Todo mundo visitou todas as pessoas,Deise não visitou Eunápolis,0,quantifier
+Todo mundo visitou todas as pessoas,Rosalina não visitou Santa Cruz do Sul,0,quantifier
+Todo mundo visitou todas as pessoas,Juno não visitou Selina,1,quantifier
+Todo mundo visitou todos os lugares,Nureia não visitou Vertente do Lério,1,quantifier
+Todo mundo visitou todos os lugares,Evelin não visitou Itiúba,1,quantifier
+Todo mundo visitou todos os lugares,Eliane não visitou Salvador,1,quantifier
+"Todo mundo visitou Martinho Campos, Porto Walter, Eugênio de Castro, Luiziana, Bodoquena, Recife, São Lourenço da Serra, Portel, Ibitirama, Ararendá, Tanque d'Arca, Pedro Teixeira, Petrolina de Goiás, Santiago, Leme, Pracuúba, Rubiataba e Flor do Sertão",Demelza não visitou Matos Costa,0,quantifier
+Todo mundo visitou todos os lugares,Suely não visitou Lilly,0,quantifier
+Todo mundo visitou todos os lugares,Helen não visitou Quitéria,0,quantifier
+"Todo mundo visitou São José dos Basílios, Pilões, Pai Pedro, Mimoso do Sul, Diamantina, Rosário, Candelária, Anapu, Junqueiro, Ibicaré, Rio Grande da Serra, Matupá, São Benedito do Sul, Palmital, Traipu, Mata de São João, Piracicaba, São José da Vitória e Arcoverde",Tayná não visitou Anapu,1,quantifier
+"Todo mundo visitou Santa Branca, Hugo Napoleão, Cruzeiro do Iguaçu, Tianguá, Guarinos, Bodoquena, Cedral, Sertãozinho, Cansanção, Iraceminha e Paramirim",Blandina não visitou Cansanção,1,quantifier
+Todo mundo visitou todos os lugares,Siana não visitou Novo Barreiro,1,quantifier
+Todo mundo visitou todas as pessoas,Lilian não visitou Leonna,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Merrita não visitou Bérnia,0,quantifier
+Todo mundo visitou todos os lugares,Leocádia não visitou Lindolfo Collor,1,quantifier
+Todo mundo visitou todos os lugares,Clementine não visitou Beanina,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Rosie não visitou Aricanduva,0,quantifier
+Todo mundo visitou todas as pessoas,Marcília não visitou Marcolândia,0,quantifier
+"Todo mundo visitou Itacuruba, Arapiraca, São João do Triunfo, São José do Cerrito, Cajueiro, Aspásia, Botuverá, Constantina, Barbacena, Redenção da Serra, Mimoso do Sul, Chapada Gaúcha, Cândido Mota, Leme do Prado, São José do Vale do Rio Preto e Estrela do Norte",Rubina não visitou Arapiraca,1,quantifier
+Todo mundo visitou todos os lugares,Daina não visitou Alto Rio Doce,1,quantifier
+"Todo mundo visitou Trairão, Benjamin Constant, Passabém, Salinas da Margarida, Campo Florido, Serra Negra do Norte, Paulínia, Itatiba do Sul, Piquet Carneiro, Montanha, Mato Verde, Salete, Lins, Capitão e Trombas",Fara não visitou Paulínia,1,quantifier
+Todo mundo visitou todas as pessoas,Julianna não visitou Nossa Senhora da Glória,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Guilhermina não visitou Belém de São Francisco,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,da Cruz não visitou Romã,1,quantifier
+Todo mundo visitou todos os lugares,Si não visitou Carmo de Minas,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Rogélia não visitou Sania,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nayara não visitou Córrego do Bom Jesus,0,quantifier
+Todo mundo visitou todas as pessoas,Delmina não visitou Samantha,1,quantifier
+Todo mundo visitou todos os lugares,Jia não visitou Rhianna,0,quantifier
+Todo mundo visitou todos os lugares,Loreta não visitou Sharam,0,quantifier
+Todo mundo visitou todos os lugares,Dídia não visitou Deliana,0,quantifier
+"Todo mundo visitou São Marcos, Jaguariaíva, Brodowski, Planalto, Natal, Brejo Grande do Araguaia, Pedro Canário, Luislândia, Arandu, Itapagipe e São Francisco",Cleide não visitou São Francisco,1,quantifier
+Todo mundo visitou todas as pessoas,Ioana não visitou Miracatu,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Esménia não visitou Mária,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Titânia não visitou Ingeburga,0,quantifier
+Todo mundo visitou todas as pessoas,Anquita não visitou Pietra,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Rosália não visitou Monte Formoso,1,quantifier
+Todo mundo visitou todas as pessoas,Lily não visitou Ilídia,1,quantifier
+"Todo mundo visitou Pontal do Araguaia, Vieiras, Firminópolis, Serrania, Inhapi, Resende Costa, Cachoeira do Piriá, Liberdade, Teófilo Otoni, Cocalzinho de Goiás, Bezerros, Vacaria, Caseiros, Nova Venécia, Dom Bosco, Arraial do Cabo, Novo Horizonte, Juatuba, Bela Vista de Minas e Ponte Nova",Lauren não visitou Pintópolis,0,quantifier
+Todo mundo visitou todas as pessoas,Orange não visitou Costa Rica,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Ália não visitou Lizélia,0,quantifier
+Todo mundo visitou todas as pessoas,Danielle não visitou Viradouro,0,quantifier
+Todo mundo visitou todas as pessoas,Inaia não visitou Edine,1,quantifier
+Todo mundo visitou todas as pessoas,Eliane não visitou Funilândia,0,quantifier
+Todo mundo visitou todas as pessoas,Natasha não visitou Liete,1,quantifier
+Todo mundo visitou todos os lugares,Anita não visitou Josete,0,quantifier
+Todo mundo visitou todos os lugares,Cesaltina não visitou Porto Walter,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Raissa não visitou Naima,1,quantifier
+Todo mundo visitou todos os lugares,Franca não visitou Bibiana,0,quantifier
+"Todo mundo visitou Couto de Magalhães de Minas, Theobroma, Paranaíta, Borrazópolis, Alenquer, Entre-Ijuís, Prado, Cumari, Tubarão, Tavares, Rio Preto da Eva, Piacatu, Bonito, Alto Alegre e São Gonçalo do Pará",Jacira não visitou Tavares,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Octávia não visitou Extremoz,1,quantifier
+Todo mundo visitou todos os lugares,Léah não visitou Nova Santa Rosa,1,quantifier
+"Todo mundo visitou Poção de Pedras, Lontras, São João da Baliza, Silvanópolis, Lagoa Alegre, Porto Grande, Rio da Conceição, Itabela, Poá, Campos Verdes, São Jorge d'Oeste, Benjamin Constant do Sul, Taguatinga, Cidreira, Ibiaçá, Belém de Maria e Olho d'Água",Gerta não visitou Lagoa Alegre,1,quantifier
+"Todo mundo visitou Fraiburgo, Faxinal do Soturno, Santo Amaro das Brotas, Gramado Xavier, Conceição das Pedras, Campo Formoso, Rio Maria, Pinheiral, Jardim, Mar Vermelho, Barra do Choça, Jaguarari e Rubiácea",Dionísia não visitou Horizontina,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Sam não visitou Leonilde,1,quantifier
+Todo mundo visitou todos os lugares,Cibele não visitou Monte Santo,1,quantifier
+"Todo mundo visitou Herculândia, Passa-Vinte, São José do Inhacorá, Nova Nazaré, São Francisco do Sul, Itapuí, Bezerros, Vitória do Jari, Artur Nogueira, Barretos, Afuá, Carvalhópolis, Espigão D'Oeste e Pimenteiras",Josiane não visitou São Domingos do Capim,0,quantifier
+"Todo mundo visitou Bom Jesus, Jaguariaíva, Godoy Moreira, Muaná, São José do Seridó, Pilar de Goiás, Renascença, Natércia, Tuneiras do Oeste, Indianópolis, São João do Sul, Enéas Marques, São João da Urtiga, Serranópolis de Minas e Santa Cruz dos Milagres",Deborah não visitou Jaguariaíva,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nali não visitou Guarani d'Oeste,0,quantifier
+Todo mundo visitou todos os lugares,Telma não visitou Ioque,0,quantifier
+Todo mundo visitou todas as pessoas,Romana não visitou Panelas,0,quantifier
+"Todo mundo visitou Pedro Laurentino, Diamante do Norte, Castelo, Juarina, Guaribas, Santa Maria do Tocantins, Dumont, Anísio de Abreu, Riacho da Cruz, Luís Antônio, Abadiânia, Terra Roxa, Ibotirama, Descanso, Diamante D'Oeste e Quirinópolis",Dalida não visitou Quirinópolis,1,quantifier
+"Todo mundo visitou São Raimundo do Doca Bezerra, Nova Roma, João Dias, Camanducaia, Prata do Piauí, Terezinha, Perdigão, Rio Quente, São Pedro do Piauí, Loreto, Capim Branco, Macaé, Córrego Fundo, Bela Vista da Caroba, Coluna, Malacacheta, Piraquê e Cujubim",Niéves não visitou Bela Vista da Caroba,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Brásia não visitou Ji-Paraná,1,quantifier
+Todo mundo visitou todas as pessoas,Karen não visitou Ponte Alta do Norte,0,quantifier
+Todo mundo visitou todos os lugares,Neiza não visitou Orlanda,0,quantifier
+Todo mundo visitou todas as pessoas,Carmen não visitou Fervedouro,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nice não visitou Silke,1,quantifier
+Todo mundo visitou todas as pessoas,Alita não visitou Herénia,1,quantifier
+Todo mundo visitou todas as pessoas,Germana não visitou Picada Café,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Sarina não visitou Pinhalzinho,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Geisa não visitou Narcisa,1,quantifier
+"Todo mundo visitou Jandaíra, Gurupá, Braganey, Satuba, Ipecaetá, Lupionópolis, Várzea Alegre, Reginópolis, Amambaí, Paraíso, Sooretama, Taciba, Pocinhos, São Luís do Curu, Itapecerica da Serra, Ananás e Baía Formosa",Jussara não visitou Rio Verde,0,quantifier
+"Todo mundo visitou Mafra, Baturité, Aracati, Ponte Alta do Tocantins, Cuitegi, Rio dos Índios, Nova Canaã, Ibirajuba, Boa Vista do Ramos, Belo Monte, Itapemirim, Barrinha, Morro do Chapéu e Bodocó",Mayara não visitou Bodocó,1,quantifier
+"Todo mundo visitou Itaúna do Sul, Monteiro Lobato, Montauri, Porto Murtinho, Nova Aliança do Ivaí, Capão do Leão, Lajes, Alagoinha, Arapongas, Guaramiranga, Carnaúba dos Dantas, Borborema, Itaquitinga e Barra do Corda",Britney não visitou Sobradinho,0,quantifier
+Todo mundo visitou todos os lugares,Naraiana não visitou Cravolândia,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nila não visitou Salúquia,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Josiana não visitou Floresta,1,quantifier
+Todo mundo visitou todos os lugares,Darlene não visitou Lussinga,0,quantifier
+Todo mundo visitou todas as pessoas,Brites não visitou Manacapuru,0,quantifier
+"Todo mundo visitou Acaraú, Sapopema, Valparaíso, Campestre, Jaborandi, Santa Luzia, Barra do Ribeiro, Rio das Flores, Jarinu e Baraúna",Natasha não visitou Baraúna,1,quantifier
+"Todo mundo visitou Antônio Almeida, Ivaí, Massapê, Novo Horizonte do Norte, Pindorama, Rio Novo do Sul, Lajedo do Tabocal, Guiratinga, Uruçuca, Nilo Peçanha, Muquém de São Francisco, Rio Bonito, Santa Isabel e Malacacheta",Lurdes não visitou Porto Seguro,0,quantifier
+Todo mundo visitou todos os lugares,Génesis não visitou Três Cachoeiras,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Ausenda não visitou Marsília,0,quantifier
+"Todo mundo visitou Guatambú, São José do Egito, Mampituba, Toledo, Osório, Tubarão, Fortaleza de Minas, União, Santana do Matos e Senador Sá",Cassandra não visitou Osório,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Niéves não visitou Tapera,0,quantifier
+"Todo mundo visitou Camboriú, Dona Emma, Senador José Porfírio, Barão de Grajaú, Agudo, Taquari, Bom Jardim de Goiás, Jordânia, Várzea Paulista, Inhacorá, Planalto da Serra e Wanderlândia",Tita não visitou Silvânia,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Malaika não visitou Melody,0,quantifier
+"Todo mundo visitou Frei Lagonegro, Marcolândia, Figueira, Alagoinha, São Sebastião de Lagoa de Roça, Novo Horizonte, Santa Lúcia, Campo Alegre, Arenópolis e São João Batista",Naima não visitou Arenópolis,1,quantifier
+Todo mundo visitou todas as pessoas,Georgiana não visitou Aníria,1,quantifier
+"Todo mundo visitou Uberaba, São Martinho, Igaci, Ibirité, Guiricema, Ouro Velho, São João do Oeste, Timbó, Paranapuã, Alagoa Grande, Rio Doce, Itabaianinha e Ilha Comprida",Sahara não visitou São Martinho,1,quantifier
+Todo mundo visitou todos os lugares,Sierra não visitou São Sebastião de Lagoa de Roça,1,quantifier
+Todo mundo visitou todas as pessoas,Liv não visitou Vidal Ramos,0,quantifier
+"Todo mundo visitou Buerarema, Bernardino de Campos, Piraju, Erval Velho, Rochedo de Minas, Candói, Apiacás, Claro dos Poções, Brazabrantes, Rancho Alegre D'Oeste, Ariquemes, Poté, Marapanim, Barra Velha, Lagoa dos Gatos, Conceição do Mato Dentro, Palestina, Guajeru, Três Coroas e Vitorino",Abília não visitou Lajeado,0,quantifier
+Todo mundo visitou todos os lugares,Diliana não visitou Santa Cruz,0,quantifier
+Todo mundo visitou todos os lugares,Mathilde não visitou Iati,1,quantifier
+Todo mundo visitou todos os lugares,Joscelina não visitou Soledade de Minas,1,quantifier
+Todo mundo visitou todos os lugares,Ludmila não visitou Governador Newton Bello,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Patrícia não visitou Cachoeira Dourada,1,quantifier
+Todo mundo visitou todos os lugares,Tirza não visitou São José do Calçado,1,quantifier
+Todo mundo visitou todos os lugares,Alexina não visitou Alterosa,1,quantifier
+"Todo mundo visitou Buriti Bravo, Antônio Almeida, Santo Antônio da Platina, Torixoréu, Santana da Boa Vista, Pescador, Lunardelli, Maiquinique, Santo André, Novo Horizonte, Lajes Pintadas, Hugo Napoleão, Jequitinhonha, Jeremoabo e Paudalho",Marsília não visitou Santo Antônio da Platina,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Romy não visitou Sandrina,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Roana não visitou Braúnas,0,quantifier
+Todo mundo visitou todas as pessoas,Blásia não visitou Carminda,1,quantifier
+"Todo mundo visitou Teofilândia, Frei Lagonegro, Solidão, Palma Sola, Itanhandu, São João da Varjota, São Tomás de Aquino, Brasópolis, Flores da Cunha, Santana do Manhuaçu, Cruz Alta, Itaporanga, Realeza, São Lourenço, Esplanada, São Pedro da Água Branca, André da Rocha e Araçoiaba da Serra",Oksana não visitou Teofilândia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Araci não visitou Isilda,1,quantifier
+"Todo mundo visitou Baixio, Belmonte, Grandes Rios, Teutônia, Osasco, Bozano, Itabaiana, Frei Rogério, Tutóia, Cerro Azul, Apuarema, Bofete, Serrita, Caldeirão Grande, Chapada do Norte, Carmo do Rio Verde, Careaçu e São Geraldo do Baixio",Amarília não visitou Itabaiana,1,quantifier
+Todo mundo visitou todos os lugares,Lucie não visitou Nioaque,1,quantifier
+"Todo mundo visitou Iguape, Conceição da Aparecida, Presidente Bernardes, São Paulo das Missões, Baianópolis, São Domingos de Pombal, Gramado dos Loureiros, Jardim, Ninheira, Ibarama, Alto do Rodrigues, Itiúba, Dias d'Ávila, Quarto Centenário, Nova Olinda, General Maynard, Simão Dias e Rio Paranaíba",Dólique não visitou Turiaçu,0,quantifier
+Todo mundo visitou todos os lugares,Anália não visitou Telma,0,quantifier
+"Todo mundo visitou Quatiguá, Mamanguape, São José do Divino, Itabuna, Uruguaiana, Juarez Távora, Barracão, Ibiporã, Areial, Palestina, Padre Marcos e São José do Peixe",Ivone não visitou Mamanguape,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Balbina não visitou Geraldina,0,quantifier
+Todo mundo visitou todas as pessoas,Liane não visitou Agostinha,1,quantifier
+Todo mundo visitou todas as pessoas,Juanita não visitou Marcelino Ramos,0,quantifier
+Todo mundo visitou todos os lugares,Jitendra não visitou Dilsa,0,quantifier
+"Todo mundo visitou Marituba, Wall Ferraz, Poá, Cumari, Elói Mendes, Tefé, Santa Inês, Douradoquara, Juru, Mauá da Serra, Bela Vista de Goiás, Frei Rogério, Piracema, Itaporanga, Santana do Mundaú, Santo Antônio do Içá e Cidade Gaúcha",Loela não visitou Itaporanga,1,quantifier
+Todo mundo visitou todas as pessoas,Gerta não visitou Chema,1,quantifier
+"Todo mundo visitou Quaraí, Quatro Pontes, Ibirité, Jundiá, Barra de Guabiraba, Marilac, Alvinlândia, Condado, Vale do Anari, Paraibano, São Vicente Ferrer, Santa Cruz do Capibaribe, Tupi Paulista, Maraú, Presidente Venceslau, Gurupá, Itacaré, Chã Preta e Brasilândia",Acélia não visitou Paiva,0,quantifier
+Todo mundo visitou todas as pessoas,Domenica não visitou Senhora do Porto,0,quantifier
+Todo mundo visitou todos os lugares,Oceane não visitou Carlos Gomes,1,quantifier
+Todo mundo visitou todos os lugares,Niéves não visitou Morena,0,quantifier
+Todo mundo visitou todas as pessoas,Mariama não visitou Inara,1,quantifier
+Todo mundo visitou todas as pessoas,Kai não visitou Sássia,1,quantifier
+Todo mundo visitou todas as pessoas,Lurdite não visitou Porto dos Gaúchos,0,quantifier
+"Todo mundo visitou Barra de São Miguel, Bossoroca, Rurópolis, Montauri, União de Minas, Gravatal, Guareí, Natividade da Serra, Diamante e Ribeirãozinho",Hilária não visitou Pedro de Toledo,0,quantifier
+Todo mundo visitou todos os lugares,Stephanie não visitou Marilita,0,quantifier
+Todo mundo visitou todos os lugares,Leane não visitou Juvita,0,quantifier
+"Todo mundo visitou Dom Basílio, Boca do Acre, Pouso Alto, Ivatuba, Ingazeira, Feira Grande, Rio Preto da Eva, Nova Ponte, Pedra Lavrada, Protásio Alves, Salgado Filho, Mateus Leme e Novo Itacolomi",Rosalie não visitou Itaguaru,0,quantifier
+Todo mundo visitou todas as pessoas,Noor não visitou Prado,0,quantifier
+"Todo mundo visitou Antônio João, Sertão Santana, Boa Vista do Cadeado, Nova Prata, Carlinda, Barra Bonita, Barra de Santo Antônio, Nova Esperança do Sudoeste, Bom Jesus, Presidente Dutra, Botumirim, Arco-Íris e Vargem Bonita",Abília não visitou Serrano do Maranhão,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Francina não visitou Butiá,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nené não visitou Sapé,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Cleodice não visitou de São Luís,1,quantifier
+Todo mundo visitou todos os lugares,Naíde não visitou Lumi,0,quantifier
+Todo mundo visitou todas as pessoas,Brígida não visitou Shana,1,quantifier
+Todo mundo visitou todos os lugares,Modesta não visitou Marizete,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Lidiana não visitou Santa Cruz de Goiás,0,quantifier
+Todo mundo visitou todas as pessoas,Papoila não visitou Letízia,1,quantifier
+Todo mundo visitou todos os lugares,Adosinda não visitou Palestina,1,quantifier
+"Todo mundo visitou Paranapoema, Vitória de Santo Antão, Santa Helena, Marcação, Brejo do Piauí, Manari, Carlinda, São Sebastião do Umbuzeiro, Riversul, Indiavaí, Caiçara do Rio do Vento, Altinho, Pai Pedro, Pureza, Brasilândia e Jambeiro",Rosário não visitou Marcação,1,quantifier
+Todo mundo visitou todas as pessoas,Rogélia não visitou Elisabeth,1,quantifier
+"Todo mundo visitou Elesbão Veloso, Floraí, Jacuizinho, Painel, Rio Negrinho, Tapira, Lajeado do Bugre, Casa Grande, Gameleira, Mateiros, Presidente Bernardes, Manoel Vitorino, São Gonçalo do Piauí, Teixeira Soares, Guamiranga, Santana de Mangueira, São Miguel do Tocantins, Passos Maia e Diamante",Etel não visitou Presidente Bernardes,1,quantifier
+Todo mundo visitou todos os lugares,Marcília não visitou Olinda,0,quantifier
+Todo mundo visitou todos os lugares,Léonie não visitou Fronteira dos Vales,1,quantifier
+Todo mundo visitou todas as pessoas,Juraci não visitou Honey,1,quantifier
+Todo mundo visitou todos os lugares,Jennifer não visitou Dorinda,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Sophie não visitou Naraiana,0,quantifier
+Todo mundo visitou todos os lugares,Melânia não visitou Candy,0,quantifier
+"Todo mundo visitou Artur Nogueira, Crato, São Sebastião de Lagoa de Roça, Paial, Mucugê, Paranã, Viçosa, Eldorado dos Carajás, Fonte Boa, Irineópolis, Santa Rita do Trivelato, Timon, Roteiro e Nazaré",Rubyana não visitou Itiruçu,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Surya não visitou Gavião Peixoto,0,quantifier
+"Todo mundo visitou Nova União, Ijuí, Porto Rico do Maranhão, Colíder, Assaré, Cícero Dantas, Nossa Senhora das Graças, Vila Nova do Sul, Miranorte, Itarema, Mercedes, São João, Curralinho, Piranhas, Tomazina, Pedro Canário, Itaporanga, Malta, Cajapió e Cerro Negro",Assunta não visitou Ceres,0,quantifier
+Todo mundo visitou todas as pessoas,Décia não visitou São José do Vale do Rio Preto,0,quantifier
+"Todo mundo visitou Itaberaba, Itápolis, Rondon do Pará, Tamboril, Parobé, Cascavel, José Gonçalves de Minas, São José do Mantimento, Hortolândia, Periquito, Paraíso, Salete, Riozinho, Nova Olinda, Tabatinga e Pirpirituba",Aldara não visitou Riozinho,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Erméria não visitou Brunópolis,1,quantifier
+Todo mundo visitou todos os lugares,Disa não visitou Palmeiras de Goiás,1,quantifier
+Todo mundo visitou todos os lugares,Araci não visitou Solonópole,1,quantifier
+Todo mundo visitou todos os lugares,Claudiana não visitou Leopoldina,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Louane não visitou Afonsina,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Mariame não visitou Ruy Barbosa,0,quantifier
+Todo mundo visitou todas as pessoas,Abby não visitou Painel,0,quantifier
+Todo mundo visitou todas as pessoas,Agostinha não visitou Joela,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Liara não visitou Edna,0,quantifier
+"Todo mundo visitou Cacique Doble, Palmas de Monte Alto, Serra do Mel, Ilha de Itamaracá, Nova Laranjeiras, Santo Anastácio, São João del Rei, Anadia, Heitoraí, Codajás e Ribeirãoeto",Abília não visitou Codajás,1,quantifier
+Todo mundo visitou todos os lugares,Naila não visitou Monte Aprazível,1,quantifier
+"Todo mundo visitou Açailândia, Tabaporã, Luís Correia, Piquerobi, Trombudo Central, Bonito, Jacareacanga, Igarapé, Couto de Magalhães de Minas, Monte Carlo, Caiçara do Norte, Cruzeiro do Sul, Manoel Vitorino, Serra Branca, Paraibuna e Rio Pomba",Mina não visitou Caiçara do Norte,1,quantifier
+Todo mundo visitou todas as pessoas,Maxine não visitou Curralinhos,0,quantifier
+Todo mundo visitou todos os lugares,Belmira não visitou Rio Pardo de Minas,1,quantifier
+"Todo mundo visitou São Sebastião do Passé, Centro do Guilherme, Garuva, Salgado de São Félix, Patrocínio do Muriaé, Santos Dumont, Campo do Meio, Souto Soares, Pau D'Arco, Candeias do Jamari, Santo Inácio, Figueirópolis D'Oeste, Andrelândia, Pitimbu e Formosa do Oeste",Lena não visitou Garuva,1,quantifier
+Todo mundo visitou todos os lugares,Nelma não visitou Angical,1,quantifier
+"Todo mundo visitou Candeias do Jamari, Salgueiro, Prainha, Marcação, Feliz, Itajá, Adrianópolis, Careaçu, Apodi, Ibituruna, Santa Mariana, Acaiaca, Passos Maia, Passa e Fica, Sarandi, Tanguá, Curiúva e Lagoa do Tocantins",Diza não visitou Passos Maia,1,quantifier
+Todo mundo visitou todas as pessoas,Morgiana não visitou Anícia,1,quantifier
+"Todo mundo visitou Ingá, Sarandi, Praia Grande, Foz do Iguaçu, Curimatá, Restinga, Deodápolis, Laranjal, Avelino Lopes, Capivari do Sul, Teodoro Sampaio, Itaguari, Baixo Guandu, Ibiassucê, Erval Velho, Tejupá, Alcinópolis, Vacaria e Boa Esperança do Iguaçu",Bina não visitou Boa Esperança do Iguaçu,1,quantifier
+Todo mundo visitou todas as pessoas,Florisa não visitou Tracy,1,quantifier
+Todo mundo visitou todos os lugares,Anésia não visitou Cristiana,0,quantifier
+Todo mundo visitou todos os lugares,Dúlia não visitou Bento Gonçalves,1,quantifier
+Todo mundo visitou todas as pessoas,Brigite não visitou Domenica,1,quantifier
+"Todo mundo visitou Aroeiras do Itaim, Caetanópolis, Rodeio, Itaara, Imbaú, Indaial, Mulungu do Morro, Rio Branco, Ametista do Sul, Maravilha, Taquarana, Picada Café, Moeda, Carlos Chagas, Rubiataba, Lutécia, Jardim de Piranhas, Vale do Anari e Guidoval",do Rosário não visitou Caetanópolis,1,quantifier
+Todo mundo visitou todos os lugares,Amara não visitou Canoas,1,quantifier
+"Todo mundo visitou Meridiano, Coreaú, São Jerônimo da Serra, Correia Pinto, São Sebastião do Maranhão, Ponto Belo, Papanduva, Massapê, Palmeira, Doutor Pedrinho, Pureza, Ipira, Sud Mennucci, Rafael Jambeiro, Iracema, Ponte Alta do Bom Jesus, Nova Andradina, Icó, Paulistana e São Vicente Ferrer",Gema não visitou Antonina,0,quantifier
+Todo mundo visitou todas as pessoas,Selénia não visitou Munhoz de Melo,0,quantifier
+Todo mundo visitou todas as pessoas,Terência não visitou Lace,1,quantifier
+"Todo mundo visitou Rio Preto da Eva, Horizontina, Caaporã, Francisco Badaró, São Bento do Una, Caarapó, Novo Santo Antônio, Peruíbe, Sapé, Jataizinho, São Jorge do Ivaí, Maturéia e Areial",Jaquelina não visitou Jataizinho,1,quantifier
+"Todo mundo visitou Arneiroz, Cubati, Piraju, Humberto de Campos, Rosário do Sul, Tietê, Olho d'Água das Flores, Porto do Mangue, São Miguel do Tocantins, Terra Nova e Belém",Helen não visitou Atalaia do Norte,0,quantifier
+Todo mundo visitou todas as pessoas,Gaitana não visitou Reginópolis,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nisa não visitou Mira,0,quantifier
+"Todo mundo visitou Salgueiro, Arvorezinha, Arandu, Pinhão, Afonso Cláudio, Murici, Carutapera, São João do Oriente, Aracruz, Itueta, Mariluz, Picos e Macatuba",Alberta não visitou Codajás,0,quantifier
+Todo mundo visitou todas as pessoas,Monroe não visitou Santa Cruz dos Milagres,0,quantifier
+"Todo mundo visitou Plácido de Castro, Miraguaí, Camocim, Ouro Preto, Buenópolis, Sobrado, Adolfo, Sagres, Cocalinho, Sananduva, Taquaritinga do Norte, Rifaina e São Pedro de Alcântara",Ramna não visitou Camocim,1,quantifier
+Todo mundo visitou todas as pessoas,Terência não visitou Alaina,1,quantifier
+Todo mundo visitou todos os lugares,Mariline não visitou São Jerônimo,1,quantifier
+"Todo mundo visitou São Bento, Lacerdópolis, Madre de Deus, Inhangapi, Lima Duarte, Nova Veneza, Sud Mennucci, Araxá, Ecoporanga, Teixeira de Freitas, Cascavel e Silveiras",Carmelita não visitou São José da Bela Vista,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Saphira não visitou Saray,1,quantifier
+Todo mundo visitou todas as pessoas,Diliana não visitou Glicínia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nubiana não visitou Mya,1,quantifier
+Todo mundo visitou todos os lugares,Celsa não visitou Marilita,0,quantifier
+Todo mundo visitou todos os lugares,Jeanete não visitou Cidalina,0,quantifier
+Todo mundo visitou todos os lugares,Marcela não visitou Sury,0,quantifier
+Todo mundo visitou todas as pessoas,Évila não visitou Marlene,1,quantifier
+Todo mundo visitou todos os lugares,Mariamar não visitou Estância,1,quantifier
+Todo mundo visitou todas as pessoas,Raquelina não visitou Celso Ramos,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Naiane não visitou Gislene,1,quantifier
+Todo mundo visitou todos os lugares,Marizete não visitou Jordana,0,quantifier
+Todo mundo visitou todas as pessoas,Mariama não visitou Lajedão,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Safina não visitou Nazaré Paulista,0,quantifier
+"Todo mundo visitou Firminópolis, Benjamin Constant do Sul, Lajeado, Pontalina, Caturaí, Serra Talhada, São João dos Patos, Padre Carvalho, São Bento do Sul, Cruzália, Apiacás, Tobias Barreto, Palma Sola, Cristino Castro, São José do Vale do Rio Preto, Poço de José de Moura, Conceição do Araguaia e Alta Floresta",Diná não visitou Cruzália,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Graziela não visitou Bonito,1,quantifier
+Todo mundo visitou todos os lugares,Leonarda não visitou Tapiraí,1,quantifier
+Todo mundo visitou todos os lugares,Merita não visitou Floriano,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Naíra não visitou Octávia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Mabilda não visitou Climénia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Stanislava não visitou Fazenda Vilanova,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Loela não visitou Santa Bárbara do Leste,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nazarina não visitou Presidente Olegário,0,quantifier
+Todo mundo visitou todas as pessoas,Emanuella não visitou Cidalisa,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Naira não visitou Campos Sales,1,quantifier
+Todo mundo visitou todos os lugares,Agripina não visitou São Desidério,1,quantifier
+Todo mundo visitou todas as pessoas,Lhuzie não visitou José Boiteux,0,quantifier
+"Todo mundo visitou Riacho Frio, Bariri, Tangará da Serra, Ipameri, Itapuí, Fronteira dos Vales, Viçosa do Ceará, Água Branca, Nova Esperança, Guapiara, Santana do Livramento, Igaraçu do Tietê, Cachoeirinha, Nazareno, Santo Antônio da Patrulha e Brasilândia do Tocantins",Girel não visitou Brasilândia do Tocantins,1,quantifier
+Todo mundo visitou todos os lugares,dos Santos não visitou Tangará,1,quantifier
+Todo mundo visitou todos os lugares,Derocila não visitou Evandra,0,quantifier
+Todo mundo visitou todos os lugares,Tejala não visitou Idília,0,quantifier
+Todo mundo visitou todas as pessoas,Léah não visitou Melida,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Elize não visitou Concórdia,1,quantifier
+Todo mundo visitou todos os lugares,Cinara não visitou Maurilândia do Tocantins,1,quantifier
+Todo mundo visitou todos os lugares,Sunamita não visitou Agatha,0,quantifier
+"Todo mundo visitou Groaíras, Passo do Sobrado, Jacutinga, Indiana, São Jorge d'Oeste, Santa Filomena, Pão de Açúcar, Cabo Verde, Santa Cruz da Conceição, Borba, Rio Bonito do Iguaçu, Carmo do Cajuru, Aporé, Pedra Branca do Amapari, Pires Ferreira e São Roberto",Cássia não visitou Lupionópolis,0,quantifier
+"Todo mundo visitou Ferros, Ascurra, Afogados da Ingazeira, Arapoti, Tefé, Trairi, Betânia do Piauí, Firmino Alves, Alto Rio Novo, Capela do Alto Alegre e Amorinópolis",Leane não visitou Alto Rio Novo,1,quantifier
+"Todo mundo visitou Rodolfo Fernandes, Paiva, Ibirarema, Estrela do Norte, Brasília de Minas, Recreio, Santa Cruz das Palmeiras, Colônia do Gurguéia, Queimada Nova, Icó, Ivaté, Campos Altos, Mulungu do Morro, Nova Venécia e Pindoba",Guislene não visitou Santa Cruz das Palmeiras,1,quantifier
+Todo mundo visitou todas as pessoas,Graciana não visitou Saula,1,quantifier
+"Todo mundo visitou São José do Divino, Santa Teresinha, Uauá, Sentinela do Sul, Jaguari, Lagoinha do Piauí, José Raydan, Ponto Belo, Guaraíta, Nova Esperança do Sul, Gurinhém, Guaranésia, Almenara, Lavandeira, Corinto, Graça, Carvalhópolis, Água Boa, Guiratinga e Regente Feijó",Bonifácia não visitou Pedro Canário,0,quantifier
+Todo mundo visitou todas as pessoas,Astride não visitou Gina,1,quantifier
+Todo mundo visitou todas as pessoas,Derocila não visitou Karen,1,quantifier
+"Todo mundo visitou Ouro Velho, Luís Gomes, Josenópolis, Baependi, Bom Jesus do Araguaia, Assis Chateaubriand, Paulínia, Santópolis do Aguapeí, Santo Antônio do Rio Abaixo, Jaguaribe, Santo Antônio do Pinhal, Hugo Napoleão, Loreto, São João de Pirabas e Umbaúba",Mabília não visitou Jaguaribe,1,quantifier
+Todo mundo visitou todas as pessoas,Hannah não visitou Ludovice,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Emie não visitou Fronteiras,1,quantifier
+"Todo mundo visitou Coremas, Alto Alegre dos Parecis, Umari, Santo Antônio do Monte, Quadra, Mambaí, Jordão, Santa Cruz de Goiás, Painel, Cambira, Tuneiras do Oeste, Campo Bonito, Caracol, Saudades, Nova Olinda, Santa Filomena, Santa Rita do Pardo e Jacinto Machado",Tara não visitou Novo Jardim,0,quantifier
+"Todo mundo visitou Itaberaí, Tomé-Açu, Ichu, Taiaçu, São Miguel Arcanjo, Serrinha, Santo Antônio das Missões, Mutunópolis, Santa Lúcia, Barbacena, Auriflama, Agrestina, Uchoa, Paraguaçu Paulista, Baraúna, Pedra do Indaiá, Pedro do Rosário, Cláudia, Inhaúma e Limoeiro de Anadia",Denise não visitou Agrestina,1,quantifier
+"Todo mundo visitou Iperó, São João do Pacuí, Águas Formosas, Ipameri, Bananal, Pedro Osório, São Paulo de Olivença, Erval Velho, Santa Cruz do Rio Pardo, Protásio Alves, Itapeva, Barão de Grajaú, Parnaíba, Itamarati de Minas, Itumbiara, Cristina, Porto Alegre do Tocantins, São José da Tapera e Bom Jardim",Poliana não visitou Santa Tereza de Goiás,0,quantifier
+Todo mundo visitou todas as pessoas,Lisana não visitou Guislene,1,quantifier
+Todo mundo visitou todos os lugares,Jânia não visitou Greer,0,quantifier
+Todo mundo visitou todos os lugares,Destiny não visitou Helda,0,quantifier
+"Todo mundo visitou Eldorado dos Carajás, Nísia Floresta, Jussara, Carrancas, Pão de Açúcar, Esperança Nova, Cocal de Telha, Barroso, Manaus, Santo Amaro do Maranhão, Pederneiras, Sumidouro, Nossa Senhora do Livramento e Irapuru",Leonora não visitou Piraí do Norte,0,quantifier
+"Todo mundo visitou Jaguaribara, Coronel Freitas, Rio Paranaíba, Douradina, Iracema, Catende, Mulungu, Teodoro Sampaio, Holambra, Conchas, Campo Limpo Paulista, Teutônia, Brasília, Fortaleza dos Nogueiras, Mataraca e Iati",Stacy não visitou Coronel Freitas,1,quantifier
+Todo mundo visitou todas as pessoas,Nilda não visitou Zortéa,0,quantifier
+Todo mundo visitou todos os lugares,Eleine não visitou Porto Franco,1,quantifier
+Todo mundo visitou todas as pessoas,Etéria não visitou Rio Quente,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Maritila não visitou Nossa Senhora de Nazaré,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Leyla não visitou Deliana,0,quantifier
+Todo mundo visitou todas as pessoas,Sania não visitou Leolina,1,quantifier
+Todo mundo visitou todos os lugares,Lucete não visitou Isabella,0,quantifier
+"Todo mundo visitou Amaral Ferrador, Vargeão, Brejo Grande do Araguaia, Cocal de Telha, Sarutaiá, Carlópolis, Alto Alegre dos Parecis, Prudente de Morais, Roncador e São Miguel",Cyntia não visitou Carlópolis,1,quantifier
+Todo mundo visitou todas as pessoas,Layla não visitou Dona Francisca,0,quantifier
+Todo mundo visitou todos os lugares,Pamela não visitou Itamogi,1,quantifier
+"Todo mundo visitou Tupaciguara, Guatambú, Santa Vitória do Palmar, Mutum, Padre Paraíso, Conceição da Aparecida, Coxixola, Padre Carvalho, Bom Jesus do Tocantins, Itiúba, Presidente Epitácio, Santo Antônio da Platina, Cantagalo, Taipas do Tocantins e Limoeiro do Ajuru",Leah não visitou Conceição da Aparecida,1,quantifier
+Todo mundo visitou todos os lugares,Raven não visitou Taguaí,1,quantifier
+Todo mundo visitou todos os lugares,Elsinda não visitou Marilda,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Sibila não visitou Teutônia,1,quantifier
+Todo mundo visitou todos os lugares,Janina não visitou Olho d'Água do Casado,1,quantifier
+Todo mundo visitou todos os lugares,Siomara não visitou Ubatuba,1,quantifier
+Todo mundo visitou todos os lugares,Tolentina não visitou Analu,0,quantifier
+Todo mundo visitou todas as pessoas,Deonilde não visitou Natalie,1,quantifier
+Todo mundo visitou todos os lugares,Manoela não visitou Araruna,1,quantifier
+"Todo mundo visitou Novo Xingu, Cromínia, São Miguel do Oeste, Teresina de Goiás, Ivoti, Vicentinópolis, São Cristóvão, Matutina, São João do Ivaí, São José do Cerrito e Itapejara d'Oeste",Juvita não visitou Borba,0,quantifier
+"Todo mundo visitou Serra da Raiz, Nova Olinda, Reserva do Cabaçal, Novo Santo Antônio, Taperoá, Lagoa Santa, Feira de Santana, São José do Egito, Ribas do Rio Pardo, Capão Bonito do Sul, Itabela, Veríssimo e Tarabai",Cornélia não visitou Feira de Santana,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nerea não visitou Leonilda,0,quantifier
+Todo mundo visitou todas as pessoas,Jandira não visitou Generosa,1,quantifier
+Todo mundo visitou todas as pessoas,Clésia não visitou Japira,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Anísia não visitou Lucilina,0,quantifier
+"Todo mundo visitou Branquinha, Pontes Gestal, Barrolândia, Itupiranga, Penha, Jericó, Arabutã, Tubarão, Rio das Pedras, Riacho de Santana e Rodeiro",Claudiana não visitou Landri Sales,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Dólique não visitou Candice,0,quantifier
+Todo mundo visitou todas as pessoas,Africana não visitou Carneirinho,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Almerinda não visitou Blandina,1,quantifier
+"Todo mundo visitou São Miguel do Anta, Córrego Fundo, Esperança, Carambeí, São Domingos do Capim, Capitão Leônidas Marques, Caseiros, Curitiba, Campo do Meio, Rochedo, Itapuca, Curaçá e Abadiânia",Alexis não visitou Rochedo,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Graciana não visitou Cárin,1,quantifier
+Todo mundo visitou todas as pessoas,Meera não visitou Norvinda,1,quantifier
+"Todo mundo visitou Miguelópolis, Ariquemes, Eirunepé, São Francisco de Paula, Cambuci, São João Batista, Nova Santa Rosa, Bento Fernandes, Mossoró, Porto dos Gaúchos, Pimenta Bueno, Jaquirana, Patos, São Francisco, Nova Porteirinha, Bom Sucesso e Sossêgo",do Nascimento não visitou Miguelópolis,1,quantifier
+Todo mundo visitou todos os lugares,Brígida não visitou Pitangui,1,quantifier
+"Todo mundo visitou Morro da Fumaça, Nova Palma, Trairi, Jordânia, Apiúna, Presidente Kennedy, Governador Lindenberg, Aldeias Altas, Brejinho, Serra, Águas da Prata e Formoso",Dara não visitou Ilhota,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Ivete não visitou Ivoti,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Demétria não visitou Tocantínia,1,quantifier
+Todo mundo visitou todos os lugares,Éola não visitou Sapopema,1,quantifier
+Todo mundo visitou todas as pessoas,Thérése não visitou Brunilde,1,quantifier
+"Todo mundo visitou Manoel Emídio, Wall Ferraz, Alto Paraíso de Goiás, Andaraí, Campo do Brito, Porto Alegre do Tocantins, Nazareno, São João do Paraíso, Caririaçu e Santa Cruz do Arari",Julita não visitou Martins,0,quantifier
+Todo mundo visitou todas as pessoas,Honorina não visitou Pirambu,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Io não visitou Ritápolis,0,quantifier
+"Todo mundo visitou Cerqueira César, Palmeirina, Palmital, Bacabal, Itobi, Aperibé, Poção de Pedras, Ilha das Flores, Cruzeiro do Sul, Itabirinha e Bataguassu",Elísia não visitou Poção de Pedras,1,quantifier
+Todo mundo visitou todos os lugares,Nilda não visitou Paulo Jacinto,1,quantifier
+"Todo mundo visitou São Paulo das Missões, Ferros, Lapa, Corinto, Amaraji, Juiz de Fora, Itabira, Poções, Astorga, Santa Maria da Serra, Santana do Maranhão, Ourilândia do Norte, Guaranésia, Águas de Lindóia, Juazeiro do Piauí, Timbiras, Santa Maria do Tocantins, Virmond, Santa Rita de Minas e Doverlândia",Glaúcia não visitou Ribeirão Grande,0,quantifier
+Todo mundo visitou todas as pessoas,Marieva não visitou Guarabira,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Amorzinda não visitou Glorinha,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Carissa não visitou Ibitinga,0,quantifier
+"Todo mundo visitou Uruana, Solânea, Tamboril, Goiandira, Piraúba, Boa Vista do Ramos, Indiana, Boa Vista, Medina, Itagi, João Dourado, Lagoa de Dentro, Santa Mercedes, Jales, Inhangapi, Rio do Campo, Vieirópolis e Fagundes Varela",Gilma não visitou Luzerna,0,quantifier
+Todo mundo visitou todos os lugares,Dorinda não visitou São João da Urtiga,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Selesa não visitou Nausica,0,quantifier
+Todo mundo visitou todas as pessoas,Dele não visitou Nicandra,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Diamantina não visitou Feliciana,0,quantifier
+Todo mundo visitou todos os lugares,Kendall não visitou Raíssa,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Silvandira não visitou Ubiratã,0,quantifier
+Todo mundo visitou todas as pessoas,Guendolina não visitou Cunha Porã,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Jovelina não visitou Douradina,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Chantal não visitou Passa-Vinte,1,quantifier
+"Todo mundo visitou Jaguapitã, Rio Negro, Viçosa, Monte Alegre dos Campos, Cristalândia do Piauí, Bom Princípio, Mariápolis, Bom Jesus das Selvas, Mutunópolis, Ipubi, Boa Vista do Buricá e Cidreira",Maureen não visitou Sede Nova,0,quantifier
+Todo mundo visitou todos os lugares,Dejanira não visitou Castorina,0,quantifier
+Todo mundo visitou todos os lugares,Libéria não visitou Salto da Divisa,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Eline não visitou Silvandira,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Climénia não visitou Boqueirão do Piauí,1,quantifier
+Todo mundo visitou todos os lugares,Clésia não visitou Botucatu,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Noah não visitou São José do Cedro,0,quantifier
+Todo mundo visitou todas as pessoas,Benilde não visitou São Bento do Norte,0,quantifier
+Todo mundo visitou todas as pessoas,Crisanta não visitou Coqueiral,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Talita não visitou Rómula,1,quantifier
+"Todo mundo visitou Mampituba, Mário Campos, Buriti Alegre, General Sampaio, São Pedro dos Ferros, Silveira Martins, Riachuelo, Guaramirim, Bauru, Valentim Gentil, Central, Equador, Zortéa, Piquerobi, Boa Esperança, Nova América da Colina, Santo Antônio do Jardim, Quixabeira e Santo Antônio dos Milagres",Faia não visitou Mário Campos,1,quantifier
+Todo mundo visitou todos os lugares,Anália não visitou Seong,0,quantifier
+Todo mundo visitou todas as pessoas,Kendra não visitou Tufilândia,0,quantifier
+Todo mundo visitou todos os lugares,Nícia não visitou Bom Jardim,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Idrisse não visitou Cambuquira,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Edina não visitou Fênix,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Carmelita não visitou Lagamar,1,quantifier
+"Todo mundo visitou Sertão, Gramado Xavier, Neópolis, Bom Despacho, Santa Maria do Cambucá, Passo de Camaragibe, Santa Cruz do Escalvado, Brejo Grande do Araguaia, Medeiros, Naviraí, Itapura, Rio do Sul, Deodápolis, Foz do Jordão e Verê",Nance não visitou Neópolis,1,quantifier
+Todo mundo visitou todas as pessoas,Cindy não visitou Donzília,1,quantifier
+Todo mundo visitou todos os lugares,Neotera não visitou Portalegre,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Climénia não visitou Roena,1,quantifier
+"Todo mundo visitou Curral de Dentro, Buriti Bravo, Santa Maria de Itabira, Ruy Barbosa, Floresta, Santa Rita do Tocantins, São José do Jacuípe, Inhangapi, Serra da Saudade, Sanclerlândia e Estrela do Norte",Madre de Deus não visitou Floresta,1,quantifier
+Todo mundo visitou todos os lugares,Dionísia não visitou Didiana,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Edina não visitou Derrubadas,0,quantifier
+Todo mundo visitou todos os lugares,Deodata não visitou Reyna,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Aldenora não visitou Amy,0,quantifier
+Todo mundo visitou todas as pessoas,Jacira não visitou Campina do Simão,0,quantifier
+"Todo mundo visitou Nova Monte Verde, Floraí, Palmeirópolis, Altamira, Buriti Alegre, São João Batista do Glória, Colônia do Piauí, Antônio João, Santa Rita do Novo Destino, Água Comprida, Ritápolis, Alpestre, Itaguatins, Santana do Riacho, Sapucaia, Alegrete do Piauí, Maratá, Ubatã e Mar Vermelho",Enide não visitou Mar Vermelho,1,quantifier
+Todo mundo visitou todos os lugares,Julinha não visitou Dionilde,0,quantifier
+Todo mundo visitou todos os lugares,Eurídice não visitou Graziela,0,quantifier
+Todo mundo visitou todas as pessoas,Lutgarda não visitou Mara,1,quantifier
+"Todo mundo visitou Santa Clara do Sul, Coronel Murta, Leópolis, Coruripe, Itabuna, Nova Tebas, Piracicaba, Pitanga, São Paulo de Olivença, Senhora dos Remédios, São Pedro da União, Miraguaí, Pentecoste, Caturama e Santa Cruz",Nazária não visitou Solonópole,0,quantifier
+Todo mundo visitou todos os lugares,Laila não visitou Angical,1,quantifier
+"Todo mundo visitou Lucianópolis, Bela Vista de Goiás, Tobias Barreto, Caconde, Rio do Fogo, Japorã, Ponto Novo, Nova Porteirinha, Assaí, Bequimão, Ivaí, São Felipe, Tejuçuoca, Paranã, Manaus e Virginópolis",Martha não visitou Tejuçuoca,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Khaleesi não visitou do Paraíso,0,quantifier
+Todo mundo visitou todas as pessoas,Agostinha não visitou Leyla,1,quantifier
+"Todo mundo visitou Alta Floresta, Santa Rita de Cássia, Condado, Viana, Santa Cruz Cabrália, Campo Alegre de Lourdes, Nilópolis, São Borja, Quixeré, Bonito, Rio Piracicaba, Guaporema, Fernando Pedroza, Isaías Coelho, Catas Altas da Noruega e Seridó",Amável não visitou São Borja,1,quantifier
+Todo mundo visitou todos os lugares,Primitiva não visitou Prazeres,0,quantifier
+"Todo mundo visitou General Salgado, São Gonçalo, Oeiras do Pará, Açu, Ferros, Reriutaba, Borba, Fernando Pedroza, Congonhal, Santa Cruz da Baixa Verde, Juazeiro do Norte, Goianá, Pequizeiro, São José do Divino, Tumiritinga, Bom Repouso, Traipu, Iacanga, Viçosa e Jataizinho",Samantha não visitou Reriutaba,1,quantifier
+Todo mundo visitou todos os lugares,Guilhermina não visitou Lourdes,0,quantifier
+"Todo mundo visitou Arari, Sagrada Família, Barra do Ouro, São Francisco do Guaporé, Irajuba, Americano do Brasil, Bujari, Maravilha, Nova Independência, Hidrolândia, Santa Quitéria, Divinolândia de Minas, Salto da Divisa, Itaquara, Arapongas, Brasilândia do Sul, Goianésia do Pará, Mozarlândia, São José do Sul e Santa Cruz",Kendall não visitou São João da Paraúna,0,quantifier
+"Todo mundo visitou Colniza, Pontal do Araguaia, Otacílio Costa, Barcarena, Redenção, Umburanas, Fonte Boa, Pouso Alegre, Boa Vista do Tupim, Santa Rita de Ibitipoca, Cruzeiro, Rio Claro, Jaqueira, Salto de Pirapora, Pirapemas, Quartel Geral, Josenópolis e Vilhena",Claudine não visitou Jaqueira,1,quantifier
+"Todo mundo visitou Tupãssi, Itapeva, Forquilhinha, Palmeiras, Vitorino Freire, Jurema, Balneário Camboriú, Jaguaribe, Morros, Paranaíba, Anápolis, Francisco Ayres, Luís Correia, Alegria, Lagoa Grande, Nova Ibiá e Guiratinga",Roena não visitou Gongogi,0,quantifier
+Todo mundo visitou todos os lugares,Nércia não visitou Julianna,0,quantifier
+Todo mundo visitou todos os lugares,Katherina não visitou Selénia,0,quantifier
+Todo mundo visitou todos os lugares,Sira não visitou Elmira,0,quantifier
+"Todo mundo visitou Queimadas, Bento Gonçalves, Chupinguaia, Carangola, Campo Bonito, Martinópolis, Correntes, Tenório, Assis, Banzaê, Caroebe, Faria Lemos, Quilombo, Alvorada, São Pedro do Turvo, São José das Missões, Lagoa da Confusão e Siqueira Campos",Mariema não visitou Quilombo,1,quantifier
+Todo mundo visitou todas as pessoas,Bertila não visitou Major Isidoro,0,quantifier
+Todo mundo visitou todas as pessoas,Juraci não visitou Marcília,1,quantifier
+Todo mundo visitou todos os lugares,Danila não visitou Witmarsum,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Deodete não visitou Dora,1,quantifier
+Todo mundo visitou todas as pessoas,Elisabeth não visitou Bonfim,0,quantifier
+"Todo mundo visitou Quixeramobim, Estrela d'Oeste, Jaguapitã, David Canabarro, Cedral, Aquiraz, Cônego Marinho, Baixo Guandu, Ipiguá, São Martinho da Serra, São Vicente de Minas, Estrela de Alagoas, São Brás do Suaçuí, Passagem Franca do Piauí, Planalto Alegre, General Sampaio e São João das Duas Pontes",Africana não visitou Prado,0,quantifier
+Todo mundo visitou todas as pessoas,Cinara não visitou Torixoréu,0,quantifier
+Todo mundo visitou todas as pessoas,Dinora não visitou Karen,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nísia não visitou Gameleiras,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nísia não visitou Rosina,0,quantifier
+"Todo mundo visitou Goianorte, Coroaci, Paracatu, Santaluz, São João do Oeste, Batalha, Vargem Alta, Davinópolis, Marabá Paulista, Varginha, Jardim do Seridó, São José do Herval e Arês",Gerta não visitou Jardim do Seridó,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Sandy não visitou Esther,0,quantifier
+Todo mundo visitou todos os lugares,Geraldina não visitou Campinápolis,1,quantifier
+"Todo mundo visitou Lutécia, Figueirão, São Gonçalo dos Campos, Antônio Cardoso, Campos Borges, Buenópolis, Santo Estêvão, Mococa, Rancho Queimado, Taquarussu e Tarumã",Élin não visitou Chapada Gaúcha,0,quantifier
+Todo mundo visitou todas as pessoas,Reece não visitou Sidónia,1,quantifier
+Todo mundo visitou todas as pessoas,Guendolina não visitou Diane,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Liberalina não visitou Jundiá,0,quantifier
+"Todo mundo visitou Cornélio Procópio, Morro da Fumaça, Guaraniaçu, Guaraí, Felício dos Santos, Capela Nova, Jacupiranga, São José da Vitória, São Miguel do Iguaçu, Galinhos, Cacimbas, Muçum, Atalanta, Sarutaiá, Leópolis, Coimbra, Jataúba e Barretos",Nadja não visitou Cornélio Procópio,1,quantifier
+"Todo mundo visitou Flor do Sertão, Ponte Alta do Bom Jesus, Junco do Seridó, Tucano, Uraí, Conceição das Pedras, Quixeré, Pedro de Toledo, Bom Despacho, Balneário Pinhal, Santa Helena de Minas, Nova Pádua, Torres, Cantagalo, Lages, Ipiranga do Sul, Baependi, Cabeceiras do Piauí, Senador La Rocque e Nova Alvorada",Haidé não visitou Lages,1,quantifier
+Todo mundo visitou todas as pessoas,Encarnação não visitou Clorinda,1,quantifier
+"Todo mundo visitou Teolândia, Guarantã do Norte, Uruoca, Sairé, Doverlândia, Panambi, Guaramirim, Britânia, Machado, Terra Santa, Esmeraldas, Araricá e Carutapera",Priscila não visitou Dom Inocêncio,0,quantifier
+Todo mundo visitou todos os lugares,Salma não visitou Suse,0,quantifier
+"Todo mundo visitou Nova Resende, Américo de Campos, São Roque, Groaíras, Santo Antônio do Amparo, Criciúma, Jaramataia, Matias Barbosa, Itatiaiuçu, Tuntum, Dom Eliseu, Lassance, Argirita, Lajedo, Entre Rios de Minas, Olinda Nova do Maranhão, Antônio Martins e Passagem Franca do Piauí",Ocília não visitou Tuntum,1,quantifier
+"Todo mundo visitou Armação dos Búzios, Boqueirão, Urânia, Terezópolis de Goiás, Pedrinhas, Tracunhaém, Santa Filomena, Uruana de Minas, Demerval Lobão, Dionísio, Toledo, Igarapava, Monte Alegre, Iraí, Itaeté, Cubati, Videira, Saúde, Jauru e Palmeirina",Cíntia não visitou Igarapava,1,quantifier
+Todo mundo visitou todas as pessoas,Élin não visitou Melody,1,quantifier
+Todo mundo visitou todas as pessoas,Paolla não visitou Francisco Alves,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Luena não visitou Lólia,1,quantifier
+Todo mundo visitou todas as pessoas,Keiko não visitou Perdizes,0,quantifier
+Todo mundo visitou todos os lugares,Mavelete não visitou Casta,0,quantifier
+Todo mundo visitou todas as pessoas,Francesca não visitou Coronel Domingos Soares,0,quantifier
+Todo mundo visitou todas as pessoas,Atenais não visitou Ibitirama,0,quantifier
+Todo mundo visitou todas as pessoas,Josina não visitou Paranaiguara,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Muriel não visitou São Roque de Minas,1,quantifier
+Todo mundo visitou todos os lugares,Gileade não visitou Clevelândia,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Márvia não visitou Natanaela,0,quantifier
+"Todo mundo visitou Serra, Elesbão Veloso, Abaiara, Sumidouro, Itambé, Limoeiro de Anadia, São Vendelino, Cravolândia, São José, Itaguajé, Mato Leitão, Felício dos Santos, Ibiúna, Potirendaba, Mossoró, Bocaiúva e Manaíra",Geralda não visitou Sumidouro,1,quantifier
+Todo mundo visitou todas as pessoas,Delminda não visitou Nerea,1,quantifier
+"Todo mundo visitou Caicó, Formoso do Araguaia, Nova Luzitânia, São Valentim do Sul, Mato Leitão, Boca da Mata, Porto Grande, Almirante Tamandaré do Sul, Natal, Tapauá, Baliza, Traipu, São João do Oeste, Pederneiras, Castelo do Piauí e Igarapé-Açu",dos Mártires não visitou Pederneiras,1,quantifier
+Todo mundo visitou todos os lugares,Claudine não visitou Mutum,1,quantifier
+"Todo mundo visitou Mato Leitão, Rancho Queimado, Ceará-Mirim, Abadia dos Dourados, Extrema, Tremembé, Dores do Rio Preto, Floresta Azul, São Miguel do Anta e Esmeralda",Miley não visitou Rancho Queimado,1,quantifier
+Todo mundo visitou todas as pessoas,Erika não visitou Governador Celso Ramos,0,quantifier
+"Todo mundo visitou Taquarituba, Canas, Maraú, São Valentim do Sul, Nova Lima, Capela do Alto Alegre, Graça Aranha, Aurora, Artur Nogueira e Babaçulândia",Caia não visitou Babaçulândia,1,quantifier
+Todo mundo visitou todas as pessoas,Numénia não visitou Nobres,0,quantifier
+"Todo mundo visitou Atalaia, Serrita, Belém do Piauí, Areia Branca, Sousa, Cristais, Dois Riachos, Várzea Nova, Nova Luzitânia, Panorama, Brejo do Piauí, Centenário do Sul e São Tomé",Darci não visitou São Roberto,0,quantifier
+Todo mundo visitou todas as pessoas,Rachel não visitou do Natal,1,quantifier
+Todo mundo visitou todas as pessoas,Gerda não visitou Diza,1,quantifier
+Todo mundo visitou todas as pessoas,Kendra não visitou Presidente Juscelino,0,quantifier
+"Todo mundo visitou Irará, Alto Paraíso de Goiás, Porto Franco, Santa Maria do Cambucá, Paranatama, Estrela d'Oeste, São Félix do Xingu, Floresta, Feira Nova, Piritiba e Mairiporã",Liara não visitou Firmino Alves,0,quantifier
+"Todo mundo visitou Conceição de Macabu, Urubici, Valparaíso de Goiás, Santa Maria da Vitória, Agudo, Livramento, Pindaí, Arenópolis, Ielmo Marinho, São Bernardo do Campo, Videira, Taquaruçu do Sul, Porto Mauá, Girau do Ponciano, Sabino e Colniza",Terezinha não visitou Conceição de Macabu,1,quantifier
+Todo mundo visitou todas as pessoas,Nayma não visitou Mara,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Misha não visitou Prudente de Morais,1,quantifier
+Todo mundo visitou todos os lugares,Mercília não visitou Sete Barras,1,quantifier
+Todo mundo visitou todos os lugares,Iva não visitou Tracy,0,quantifier
+"Todo mundo visitou Taboão da Serra, Castro Alves, Formosa do Sul, Murici dos Portelas, Pariquera-Açu, Witmarsum, Joanópolis, Conceição do Coité, Irapuru, Lassance, Cubatão, Costa Rica, Barro Preto, Maravilha, Ananindeua, Astolfo Dutra e Maracaçumé",Cornélia não visitou Joanópolis,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Muna não visitou Santa Luzia do Norte,1,quantifier
+"Todo mundo visitou Cafarnaum, Rolador, Tucuruí, Silva Jardim, Vale Real, Jaciara, Laurentino, Cônego Marinho, Camboriú, Serranópolis de Minas, Pedro Régis, Jacobina do Piauí, Frei Martinho e Arneiroz",Daisy não visitou Camboriú,1,quantifier
+Todo mundo visitou todas as pessoas,do Livramento não visitou Osório,0,quantifier
+"Todo mundo visitou Minador do Negrão, Tutóia, Goianá, Casca, Alto Paraíso, Aiuruoca, Campos dos Goytacazes, Pingo-d'Água, Macarani, Três Pontas e Borda da Mata",Merita não visitou Goianá,1,quantifier
+"Todo mundo visitou Seberi, Piratuba, São Francisco do Glória, Santo Antônio do Aventureiro, Roseira, Elísio Medrado, Ocara, Acrelândia, Monte Alegre do Sul e Queimadas",Britney não visitou Piratuba,1,quantifier
+Todo mundo visitou todos os lugares,Florbela não visitou São Gonçalo do Amarante,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Silvina não visitou São Bento,1,quantifier
+Todo mundo visitou todos os lugares,Aliana não visitou Joaninha,0,quantifier
+Todo mundo visitou todas as pessoas,Rubina não visitou Pedranópolis,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Clarina não visitou Umbaúba,0,quantifier
+"Todo mundo visitou Campos Novos Paulista, Capitão Andrade, Ribeira do Pombal, São Nicolau, Ceará-Mirim, Palmeira, Criciúma, Morro do Chapéu do Piauí, Planalto da Serra, Fernandópolis, São Lourenço, Anchieta e São Pedro",Nereida não visitou Planalto da Serra,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Kieza não visitou Dione,0,quantifier
+Todo mundo visitou todas as pessoas,Faia não visitou Jezabel,1,quantifier
+Todo mundo visitou todos os lugares,Mariela não visitou Marion,0,quantifier
+Todo mundo visitou todas as pessoas,Diza não visitou Leia,1,quantifier
+"Todo mundo visitou Tesouro, Frei Martinho, Navegantes, São Gonçalo do Rio Abaixo, Porto Ferreira, Sertão, Bom Jesus do Amparo, Pompéia, Pitangueiras, Vale de São Domingos, Coruripe, Selvíria, Mutum e São Luiz Gonzaga",Davina não visitou Mutum,1,quantifier
+Todo mundo visitou todos os lugares,Analu não visitou Daina,0,quantifier
+Todo mundo visitou todas as pessoas,Delminda não visitou Jardim Olinda,0,quantifier
+Todo mundo visitou todas as pessoas,Nanete não visitou Duna,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Leona não visitou Prazeres,0,quantifier
+Todo mundo visitou todas as pessoas,Gislene não visitou Massapê do Piauí,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Lucileine não visitou David Canabarro,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Liseta não visitou Emily,1,quantifier
+"Todo mundo visitou Camargo, Catingueira, Verê, Piraquê, Cristalândia, Taquaritinga do Norte, Tocantínia, Carmo da Cachoeira, Orlândia, Itaporanga, São Paulo do Potengi, Itajá, Califórnia, Guareí, Comodoro, Jacutinga e Mato Queimado",Iasmina não visitou Piraquê,1,quantifier
+"Todo mundo visitou Presidente Tancredo Neves, Virgolândia, Antônio Carlos, Areado, Caapiranga, Campanha, Coronel Xavier Chaves, São Bento, Doverlândia, Barretos, Corumbataí do Sul, São Sebastião da Amoreira, Trizidela do Vale, Axixá do Tocantins e Angicos",Elaina não visitou São Miguel da Boa Vista,0,quantifier
+Todo mundo visitou todas as pessoas,Solôngia não visitou Fundão,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Noor não visitou Campos Lindos,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Tess não visitou Nahla,1,quantifier
+Todo mundo visitou todos os lugares,Hulda não visitou Deméter,0,quantifier
+Todo mundo visitou todos os lugares,Romilda não visitou Adriane,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Libânia não visitou São João do Pacuí,0,quantifier
+Todo mundo visitou todos os lugares,Sam não visitou Serra do Mel,1,quantifier
+Todo mundo visitou todas as pessoas,Francina não visitou Sharon,1,quantifier
+Todo mundo visitou todos os lugares,Laurine não visitou Iasmina,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Gabi não visitou Melanie,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Stacey não visitou Ricardina,1,quantifier
+"Todo mundo visitou São José dos Pinhais, Sítio Novo, Cambuquira, Presidente Olegário, Baraúna, Macajuba, Nossa Senhora dos Remédios, Sapopema, Monteiro e Paraibuna",Marilisa não visitou Correia Pinto,0,quantifier
+Todo mundo visitou todos os lugares,Elda não visitou Diza,0,quantifier
+Todo mundo visitou todas as pessoas,Melisa não visitou Xapuri,0,quantifier
+Todo mundo visitou todas as pessoas,Naomi não visitou Mirassolândia,0,quantifier
+Todo mundo visitou todas as pessoas,Ocridalina não visitou Leme do Prado,0,quantifier
+Todo mundo visitou todos os lugares,Santa Cruz não visitou Almara,0,quantifier
+Todo mundo visitou todas as pessoas,Onélia não visitou Charlene,1,quantifier
+Todo mundo visitou todos os lugares,Lorraine não visitou Naomi,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Seni não visitou Leonilde,1,quantifier
+Todo mundo visitou todos os lugares,Jéni não visitou Entre Rios do Sul,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Eglantina não visitou Cayetana,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Anícia não visitou Crato,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Amaia não visitou Nerea,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nuna não visitou Hersília,0,quantifier
+Todo mundo visitou todos os lugares,Mélodie não visitou Bibiana,0,quantifier
+Todo mundo visitou todas as pessoas,Odette não visitou Délia,1,quantifier
+"Todo mundo visitou Feira Nova do Maranhão, Romelândia, Martins Soares, Nova Brasilândia D'Oeste, Taquarana, Luz, Senador Canedo, Marajá do Sena, Flores do Piauí, Angatuba, Sebastianópolis do Sul, Ilha Comprida, Josenópolis, Araçoiaba da Serra, Buriti Alegre, Sumidouro, Águas de Santa Bárbara, Santa Isabel do Rio Negro, Diamante do Norte e Corumbiara",Bianka não visitou Divinópolis do Tocantins,0,quantifier
+Todo mundo visitou todos os lugares,Kylie não visitou Nisa,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Eleonora não visitou Condeúba,1,quantifier
+"Todo mundo visitou Itabela, Fontoura Xavier, Bituruna, Limeira, Santana do Cariri, Alagoinha, Douradina, Gravatá, Vitorino Freire, Várzea Grande, Minas do Leão, Campo Azul, Valparaíso de Goiás, Canguçu, Maranguape, Marmelópolis, Belmonte, Antônio Martins e Carrancas",Agna não visitou Laje,0,quantifier
+"Todo mundo visitou São José do Xingu, Ouro Verde do Oeste, Piranguinho, Natércia, Brejo, Iguatu, Santa Cruz de Goiás, Pirapó, Campo Bonito, Barracão, Vilhena, Irecê, Roque Gonzales, Mar Vermelho, Novo Santo Antônio, Santo Antônio do Aracanguá e Charqueadas",Angie não visitou Riacho das Almas,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Leocádia não visitou Giraldina,1,quantifier
+Todo mundo visitou todos os lugares,Rosária não visitou Muna,0,quantifier
+"Todo mundo visitou Boqueirão, Senador Sá, Morrinhos, Palmitinho, São Miguel das Matas, Birigui, Monte Alegre dos Campos, Sales Oliveira, Derrubadas, Rio Grande da Serra, Santo Antônio do Grama, São Martinho, Riachuelo e Mário Campos",Leonilda não visitou Birigui,1,quantifier
+Todo mundo visitou todos os lugares,Sury não visitou Plácido de Castro,1,quantifier
+"Todo mundo visitou Inimutaba, Rochedo, Teresópolis, Sítio Novo, Santo Antônio da Platina, Nova Santa Rita, Bonito, Ibiapina, São Bento do Tocantins, Novorizonte, Rio Manso, Fronteira dos Vales, Wenceslau Braz, Centralina, América Dourada, Porangatu, Esperança, Desterro e Caratinga",Ocridalina não visitou Bacabal,0,quantifier
+Todo mundo visitou todos os lugares,Leta não visitou Lumena,0,quantifier
+Todo mundo visitou todas as pessoas,Malaika não visitou Encarnação,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Iasmina não visitou Alvorada D'Oeste,1,quantifier
+"Todo mundo visitou Itaitinga, Belém de Maria, Belém do Piauí, Engenheiro Paulo de Frontin, Santa Maria da Vitória, Caiabu, Nova Granada, Junco do Maranhão, Pimenta, Lajeado Grande, Serra Nova Dourada, Florestal, Caxias do Sul, Nova Monte Verde, Tufilândia, São João do Sul, João Pessoa, Ribamar Fiquene, Baixa Grande do Ribeiro e Curionópolis",Luíza não visitou Pratânia,0,quantifier
+"Todo mundo visitou Tomé-Açu, Januário Cicco, Ipaba, Guaramirim, Mendes, São Tomé, Lindóia do Sul, Brejo Alegre, Tapera, Lagoa do Sítio, Alagoinha e Cordeiro",Katherine não visitou Ourém,0,quantifier
+Todo mundo visitou todos os lugares,Carlotta não visitou Rosebel,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Carmina não visitou Manuella,1,quantifier
+"Todo mundo visitou Mirassol, Rio Verde de Mato Grosso, Xaxim, Gurinhém, Andirá, Mococa, Balneário Piçarras, Puxinanã, São Roque de Minas, Selvíria, Aporá, Primavera, Chapadão do Lageado, Bilac, Campo Verde e Aporé",Emie não visitou São Francisco do Pará,0,quantifier
+Todo mundo visitou todos os lugares,Medina não visitou Araquari,1,quantifier
+Todo mundo visitou todas as pessoas,Cléo não visitou Conceição do Rio Verde,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Cristiana não visitou Leonilda,0,quantifier
+Todo mundo visitou todas as pessoas,Almara não visitou Tanagra,1,quantifier
+Todo mundo visitou todas as pessoas,Ellie não visitou Lilite,1,quantifier
+Todo mundo visitou todas as pessoas,Alcina não visitou Lorena,0,quantifier
+Todo mundo visitou todos os lugares,Lucelinda não visitou Pombal,1,quantifier
+"Todo mundo visitou Westfalia, Araraquara, Salvador, Barreiras, Frederico Westphalen, Nova Esperança, Sanclerlândia, Bocaina, Quixeramobim, Maracaí, Santa Fé do Sul, Bonito, Água Comprida, Narandiba, Rondolândia, Cocos, Agronômica, Turvolândia e Juruti",Fânia não visitou Divisa Nova,0,quantifier
+Todo mundo visitou todos os lugares,Laurinda não visitou São José de Mipibu,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Léana não visitou Aniana,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Thérése não visitou Geovana,1,quantifier
+Todo mundo visitou todos os lugares,Kieza não visitou Potengi,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Lilly não visitou Clarice,1,quantifier
+Todo mundo visitou todos os lugares,Elícia não visitou Fedra,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Tracy não visitou Pedro Velho,1,quantifier
+"Todo mundo visitou Varjão de Minas, Ivaté, Nossa Senhora Aparecida, Paudalho, Serrana, Resplendor, Paranapuã, Ouriçangas, Teófilo Otoni, Alto Santo, Lamarão, Cassilândia e Araras",Enide não visitou Várzea da Roça,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Benjamina não visitou Maximiliano de Almeida,1,quantifier
+"Todo mundo visitou Pato Branco, Coité do Nóia, Setubinha, Uiramutã, Jaguapitã, Cambuquira, Guaíra, Rio do Prado, Volta Redonda, Águas de Santa Bárbara, Bela Vista do Piauí e Cajapió",Auriana não visitou Entre Rios,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Maísa não visitou Amarante,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nadine não visitou Ália,0,quantifier
+Todo mundo visitou todos os lugares,Gisete não visitou Cantá,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nadina não visitou Nely,1,quantifier
+Todo mundo visitou todas as pessoas,Carmelinda não visitou Cruzália,0,quantifier
+Todo mundo visitou todas as pessoas,Norma não visitou Rorainópolis,0,quantifier
+Todo mundo visitou todas as pessoas,Analdina não visitou Lindoeste,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Romana não visitou Meiline,1,quantifier
+Todo mundo visitou todas as pessoas,Erin não visitou São João do Paraíso,0,quantifier
+"Todo mundo visitou Doutor Ricardo, Renascença, Cruzeiro do Iguaçu, Lagoinha, Sertão Santana, Uniflor, Cabedelo, Cotia, Fortim, Lençóis Paulista, Governador Dix-Sept Rosado, São Pedro da Aldeia, Marzagão, Mataraca, Pirpirituba e Monte Negro",Glicínia não visitou Pirpirituba,1,quantifier
+Todo mundo visitou todas as pessoas,Onélia não visitou Kaira,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Graciela não visitou Diomar,1,quantifier
+Todo mundo visitou todos os lugares,Susanna não visitou Nova Brasilândia D'Oeste,1,quantifier
+Todo mundo visitou todas as pessoas,Africana não visitou Priscilla,1,quantifier
+Todo mundo visitou todas as pessoas,Jacinta não visitou Papoila,1,quantifier
+Todo mundo visitou todas as pessoas,Reyna não visitou São José do Hortêncio,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Lenora não visitou Esperança Nova,0,quantifier
+"Todo mundo visitou Itapicuru, Amargosa, Pilõezinhos, Mossâmedes, Cláudia, Mangueirinha, Santana de Pirapama, Araputanga, São José de Piranhas, Cabixi, Iaciara, Monte Alegre de Goiás e Pereira Barreto",Nausica não visitou Trindade,0,quantifier
+Todo mundo visitou todas as pessoas,Alexandrina não visitou Novo Machado,0,quantifier
+Todo mundo visitou todas as pessoas,Nicky não visitou Evangelina,1,quantifier
+Todo mundo visitou todos os lugares,Nazária não visitou Silvandira,0,quantifier
+Todo mundo visitou todas as pessoas,Elle não visitou Denisa,1,quantifier
+Todo mundo visitou todas as pessoas,Floriana não visitou Santa Lúcia,0,quantifier
+Todo mundo visitou todos os lugares,Seong não visitou São Bento do Trairí,1,quantifier
+"Todo mundo visitou Oratórios, Tucano, Santana de Parnaíba, Santa Isabel, Felício dos Santos, Aroeiras do Itaim, Patos de Minas, Guaraci, Itacaré, Santa Terezinha, Júlio Borges, São Domingos do Capim, Braganey e Dores do Indaiá",Lisdália não visitou Pirapó,0,quantifier
+Todo mundo visitou todas as pessoas,Selénia não visitou Florentina,1,quantifier
+"Todo mundo visitou Itamonte, São João do Pacuí, São José do Barreiro, Palmital, Careiro da Várzea, Arroio do Sal, São Francisco do Brejão, Paraíso do Tocantins, Arvorezinha, Araújos, Vista Alegre do Alto, Álvares Florence, Touros, São Francisco do Conde, Serrolândia, Acará e Iacanga",Lenora não visitou Lassance,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Fani não visitou Matrinchã,1,quantifier
+Todo mundo visitou todas as pessoas,Leta não visitou Ione,1,quantifier
+Todo mundo visitou todos os lugares,Generosa não visitou Maeva,0,quantifier
+Todo mundo visitou todos os lugares,Cássia não visitou Tarabai,1,quantifier
+Todo mundo visitou todas as pessoas,Deborah não visitou Amara,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Claudemira não visitou Gáil,0,quantifier
+Todo mundo visitou todos os lugares,Selesa não visitou Emily,0,quantifier
+Todo mundo visitou todos os lugares,Huguete não visitou Ianesis,0,quantifier
+"Todo mundo visitou Ermo, Estrela do Norte, Couto de Magalhães de Minas, Praia Grande, Caputira, São José da Bela Vista, Jacutinga, Antônio João, Santo Amaro da Imperatriz e São Geraldo",Éris não visitou São José da Bela Vista,1,quantifier
+"Todo mundo visitou Trindade do Sul, Jeremoabo, Nova Maringá, Gado Bravo, Lucélia, Iporã do Oeste, Itaipé, Santa Cruz, Vista Alegre do Prata, Frei Lagonegro, Joaquim Nabuco, Urutaí, Acaraú e Novo Horizonte do Sul",Étel não visitou Monte Belo do Sul,0,quantifier
+"Todo mundo visitou Itiquira, São João da Urtiga, Pau D'Arco, Passos, Brejinho de Nazaré, Seritinga, São Domingos do Maranhão, Riacho de Santo Antônio, Paranapanema, Davinópolis, Amélia Rodrigues, Serrana, Terra Nova, Veranópolis e Brejão",Brázia não visitou Serrana,1,quantifier
+Todo mundo visitou todas as pessoas,Jalmira não visitou Florisa,1,quantifier
+"Todo mundo visitou Mantenópolis, Porto de Moz, São Carlos do Ivaí, Vera Cruz, Santa Brígida, Passo de Camaragibe, Xangri-lá, Santa Adélia, Iracemápolis, Cedro do Abaeté, Urupema, Porangaba, Dona Inês, Juarina, Itapicuru, Lajedo do Tabocal, Sabáudia, Petrópolis, Cunha e Santo Antônio do Grama",de Fafe não visitou Urucânia,0,quantifier
+Todo mundo visitou todos os lugares,Clarina não visitou Buíque,1,quantifier
+Todo mundo visitou todos os lugares,Jana não visitou Hope,0,quantifier
+"Todo mundo visitou Ariquemes, Currais Novos, Monteiro, São José do Alegre, São Luís de Montes Belos, Davinópolis, Baixo Guandu, Serro, São Martinho, Dom Feliciano, Flórida, Jaú, São Manoel do Paraná, Ibaté, Bernardo do Mearim, Conceição da Barra, Turmalina, Nova Glória e Guairaçá",Cremilde não visitou Lagoa do Tocantins,0,quantifier
+Todo mundo visitou todas as pessoas,Shania não visitou Major Sales,0,quantifier
+"Todo mundo visitou Figueirópolis D'Oeste, Selvíria, Emilianópolis, Bom Jesus, Arapiraca, Santa Clara d'Oeste, Ipojuca, Marcelino Ramos, Tupandi, Rio Vermelho, Rodrigues Alves, Canapi, Barão de Cotegipe, Belo Horizonte e Glória do Goitá",Laurina não visitou Selvíria,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Anabel não visitou Africana,0,quantifier
+"Todo mundo visitou Campos Gerais, Fervedouro, Diamantina, Pontal do Araguaia, Echaporã, Formosa do Oeste, Vitória da Conquista, Filadélfia, Bocaina, Piracuruca, Xanxerê, Alto Horizonte, Cubati, Cachoeira Dourada, Crato, Petrolina de Goiás, Simonésia, Feliz Deserto e Colombo",Maria João não visitou Anajatuba,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,May não visitou Idália,0,quantifier
+Todo mundo visitou todos os lugares,Alida não visitou Gracinda,0,quantifier
+Todo mundo visitou todas as pessoas,Carisa não visitou Heda,1,quantifier
+Todo mundo visitou todas as pessoas,Claire não visitou Dália,1,quantifier
+Todo mundo visitou todas as pessoas,Rosária não visitou Alto Paraíso de Goiás,0,quantifier
+Todo mundo visitou todas as pessoas,Cipora não visitou Descoberto,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Salete não visitou Elizabeth,0,quantifier
+Todo mundo visitou todos os lugares,Antonina não visitou Noémi,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Selma não visitou Minerva,1,quantifier
+"Todo mundo visitou Macururé, Lunardelli, Mansidão, Paranavaí, Santa Rita de Ibitipoca, Pinhão, Sagrada Família, Quatro Pontes, São Francisco do Conde, Lago Verde, Barra do Mendes, Pedro de Toledo, Jequié, Tubarão, Aporá, Inhaúma, Feira de Santana e Flores do Piauí",Luena não visitou Lago Verde,1,quantifier
+Todo mundo visitou todos os lugares,Lucie não visitou Ananás,1,quantifier
+Todo mundo visitou todas as pessoas,Raphaela não visitou Santa Cruz do Rio Pardo,0,quantifier
+Todo mundo visitou todos os lugares,Nirvana não visitou Ilicínea,1,quantifier
+Todo mundo visitou todos os lugares,Aldenora não visitou Riachão do Poço,1,quantifier
+Todo mundo visitou todos os lugares,Dara não visitou Jequitinhonha,1,quantifier
+"Todo mundo visitou Salinópolis, Pinhalão, Duartina, Desterro de Entre Rios, Lagoa do Tocantins, Petrolândia, Cristais Paulista, Itapagipe, Santo Antônio do Caiuá e Cajati",Julie não visitou Lagoa do Tocantins,1,quantifier
+Todo mundo visitou todas as pessoas,Hosana não visitou Irati,0,quantifier
+"Todo mundo visitou Rio dos Bois, Derrubadas, Santa Rita do Itueto, Águas de São Pedro, Inajá, Ipixuna, Dom Aquino, Guaraci, Pouso Alto, Bela Cruz, Cruz Alta, Miguel Alves, Santa Luzia do Norte e Rafael Fernandes",Sunamita não visitou Cruz Alta,1,quantifier
+Todo mundo visitou todos os lugares,Rafa não visitou Énia,0,quantifier
+Todo mundo visitou todos os lugares,Sarai não visitou Lorine,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Gáil não visitou Pedrina,1,quantifier
+"Todo mundo visitou Elisiário, Bonfinópolis de Minas, Santiago do Sul, Avaré, Nova Santa Bárbara, Florestópolis, Itaporanga d'Ajuda, Santa Maria da Vitória, Vila Flores, Ipecaetá, Girau do Ponciano e Brasiléia",Elícia não visitou Marituba,0,quantifier
+Todo mundo visitou todas as pessoas,Gema não visitou Carandaí,0,quantifier
+"Todo mundo visitou Goiânia, Gavião, Guzolândia, Caiabu, Mandaguaçu, Arame, Ernestina, Mondaí, Guaramiranga, Guaraíta, Amaraji, Dona Inês, Juramento e Vila Velha",Niceia não visitou Passa Tempo,0,quantifier
+Todo mundo visitou todos os lugares,Belmonte não visitou Nimi,0,quantifier
+Todo mundo visitou todas as pessoas,Dorisa não visitou Dafne,1,quantifier
+Todo mundo visitou todos os lugares,Ocridalina não visitou Colorado,1,quantifier
+Todo mundo visitou todas as pessoas,Holly não visitou Barra do Chapéu,0,quantifier
+Todo mundo visitou todas as pessoas,Lea não visitou Leontina,1,quantifier
+"Todo mundo visitou Maripá de Minas, Ivaiporã, Quilombo, Conceição dos Ouros, Araucária, Charrua, Victor Graeff, Itapiratins, Ministro Andreazza, Sertãozinho, Itagimirim, Figueirópolis D'Oeste, Barra de Santo Antônio, Roca Sales, Itambé, São Domingos do Capim e Marabá Paulista",Ninfa não visitou Charrua,1,quantifier
+Todo mundo visitou todos os lugares,Loela não visitou Tejala,0,quantifier
+Todo mundo visitou todos os lugares,Catherine não visitou Piçarra,1,quantifier
+Todo mundo visitou todos os lugares,Hortênsia não visitou Guarujá do Sul,1,quantifier
+Todo mundo visitou todos os lugares,Dídia não visitou Marilina,0,quantifier
+Todo mundo visitou todos os lugares,Joya não visitou Condado,1,quantifier
+Todo mundo visitou todos os lugares,Quaresma não visitou Poxoréo,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Deborah não visitou Abby,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Fia não visitou Jaguaruna,1,quantifier
+Todo mundo visitou todos os lugares,Luisete não visitou Erval Velho,1,quantifier
+"Todo mundo visitou Alagoinha, Divinolândia, Envira, Buritizeiro, Santa Rita do Pardo, Valente, Carmo do Paranaíba, Toropi, Riozinho, Custódia, Caiçara do Norte, Japurá, Corbélia, Bom Retiro, Groaíras, Marilândia do Sul, Jaraguari, Jaraguá do Sul e Vera Cruz",Julita não visitou Turmalina,0,quantifier
+Todo mundo visitou todos os lugares,Silvéria não visitou Tayná,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Franca não visitou Pedra Mole,1,quantifier
+Todo mundo visitou todos os lugares,Lourdes não visitou Catherina,0,quantifier
+Todo mundo visitou todas as pessoas,Clarinda não visitou Alpestre,0,quantifier
+"Todo mundo visitou Alto Longá, Jundiá, Cocos, Traipu, Ibirataia, Pilão Arcado, Murici dos Portelas, Governador Lindenberg, Moiporá, Guaimbê, Cedral, Chapada Gaúcha, Tocos do Moji, Santa Maria da Boa Vista, Mato Queimado, Miguelópolis, Euclides da Cunha e Ibirá",Mabel não visitou Calumbi,0,quantifier
+"Todo mundo visitou Portel, Bertioga, São Simão, Porto Lucena, Ourém, Araquari, Agudos, Pirapozinho, Piatã, São João Batista, Cambé e São Pedro do Suaçuí",Cosete não visitou Montividiu,0,quantifier
+"Todo mundo visitou Parazinho, Sud Mennucci, Rio Piracicaba, São Gonçalo do Rio Preto, Itumirim, Brejo Grande do Araguaia, Dolcinópolis, Jari, Petrolina de Goiás, Barra do Choça, Santa Maria de Itabira, Taiúva e Ângulo",Natividade não visitou Jari,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Lily não visitou Patrícia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Madre de Deus não visitou Lucy,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Martha não visitou Josiane,0,quantifier
+Todo mundo visitou todos os lugares,Isa não visitou Camamu,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Severina não visitou Fortaleza,1,quantifier
+"Todo mundo visitou Socorro, Açailândia, Nova Pádua, Tapiratiba, Araputanga, Vila Lângaro, Aurilândia, Divisa Nova, Porto Franco, Ponta Grossa, Aracruz, Cosmorama, Morro Agudo, Inhangapi e Santa Bárbara d'Oeste",Germana não visitou Porto Franco,1,quantifier
+Todo mundo visitou todos os lugares,Charlene não visitou Cosete,0,quantifier
+Todo mundo visitou todas as pessoas,Cácia não visitou Farah,1,quantifier
+"Todo mundo visitou Cruzeiro do Sul, São Carlos, Analândia, Salto do Itararé, São Pedro da Cipa, Regente Feijó, Coimbra, Serafina Corrêa, Bananal, Curitibanos, Barra do Ribeiro, São Pedro, Bragança Paulista, Pratápolis, Alegre, Poá, Vespasiano e Bequimão",Coraima não visitou Bodoquena,0,quantifier
+"Todo mundo visitou Getúlio Vargas, Irupi, Floreal, Imbé de Minas, Alto Jequitibá, Amaraji, Jaqueira, João Câmara, Santo Antônio do Retiro, Lagoa de Pedras, Rio do Fogo, Sena Madureira, Pauini, Monte Alegre, Camacho e Mauá da Serra",Maré não visitou Cabo Frio,0,quantifier
+Todo mundo visitou todos os lugares,Hália não visitou Bagre,1,quantifier
+Todo mundo visitou todas as pessoas,Calila não visitou Dorinda,1,quantifier
+Todo mundo visitou todos os lugares,Aminata não visitou Baixo Guandu,1,quantifier
+Todo mundo visitou todas as pessoas,Rubi não visitou Cynthia,1,quantifier
+Todo mundo visitou todos os lugares,Sátia não visitou Sierra,0,quantifier
+"Todo mundo visitou Neves Paulista, Jussara, São Gabriel, Estiva, Brejo do Piauí, Arroio do Padre, Santana do Seridó, Lajes, Equador, Caxingó, Iati, Moema, Catiguá, Panorama, Ijuí, Poço das Antas e Presidente Juscelino",Adelina não visitou São Gabriel,1,quantifier
+Todo mundo visitou todos os lugares,Eluína não visitou Heidi,0,quantifier
+"Todo mundo visitou Cocal do Sul, Itapipoca, Santo Inácio, Biritinga, Itainópolis, Santa Rita do Itueto, Condeúba, Indiaroba, Palma Sola e Jardim de Angicos",Deise não visitou Babaçulândia,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,dos Prazeres não visitou Minerva,1,quantifier
+"Todo mundo visitou Imbituba, Bodocó, Santa Helena, Lago da Pedra, Elói Mendes, Buriti dos Lopes, Parisi, Uruguaiana, Onça de Pitangui, Alfenas, Caiapônia, Bertolínia e Diamantina",Abby não visitou Bom Jesus do Tocantins,0,quantifier
+"Todo mundo visitou Olho d'Água das Cunhãs, Assaí, Rio Acima, Moeda, Guaçuí, Araponga, Cachoeira do Sul, Tabapuã, Camutanga, Hidrolândia e Itaparica",Mélodie não visitou Itaparica,1,quantifier
+Todo mundo visitou todas as pessoas,Jana não visitou General Maynard,0,quantifier
+Todo mundo visitou todas as pessoas,Cristiana não visitou Malika,1,quantifier
+"Todo mundo visitou Dom Basílio, Aracoiaba, Canguçu, Itirapuã, Santa Cruz, Miguel Leão, Hulha Negra, Carutapera, Alto Alegre dos Parecis, Santo Antônio do Jacinto e Bonito",da Cruz não visitou Cesário Lange,0,quantifier
+"Todo mundo visitou Iomerê, Hidrolina, Peixoto de Azevedo, Santo Expedito, Ipueira, Teófilo Otoni, Crissiumal, Russas, Santana do Matos, Veranópolis, Itatiaia, Alambari, Luiziânia e Pirapora do Bom Jesus",Jessie não visitou Castelo,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Meiline não visitou Guarani das Missões,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Belmonte não visitou Amy,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Neli não visitou São Luís,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Leonna não visitou Rafael Godeiro,0,quantifier
+Todo mundo visitou todas as pessoas,Constance não visitou Ercília,1,quantifier
+Todo mundo visitou todas as pessoas,Artemísia não visitou Suellen,1,quantifier
+"Todo mundo visitou Rondinha, Tunápolis, Pérola, Nova Russas, Portão, Nova Candelária, Carlos Barbosa, Gameleira de Goiás, Japaraíba, Dom Basílio, Santa Terezinha e Anaurilândia",Layla não visitou Avanhandava,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Cristiana não visitou Quézia,1,quantifier
+"Todo mundo visitou Lagoa do Sítio, Filadélfia, Barroquinha, Coqueiral, Dilermando de Aguiar, Bom Jardim, Ipiranga do Sul, Porto Alegre do Piauí, Catolândia, Paulo Ramos, Carrasco Bonito, Sapezal, Nova Ramada, Pedra Branca do Amapari, Serra de São Bento, Peixe-Boi e Moraújo",Stella não visitou Tuiuti,0,quantifier
+Todo mundo visitou todos os lugares,Leila não visitou Cambira,1,quantifier
+"Todo mundo visitou São Félix do Piauí, Veranópolis, Formigueiro, Três de Maio, Chiador, São João de Meriti, Passira, São Lourenço, Santa Luzia, Puxinanã, Putinga, Minas Novas e Anguera",Alaina não visitou Guarará,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Sian não visitou Neotera,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nubiana não visitou Gregória,1,quantifier
+Todo mundo visitou todos os lugares,Jerusa não visitou Brasilândia do Tocantins,1,quantifier
+"Todo mundo visitou Candeias, São João do Paraíso, Tangará, Concórdia do Pará, Caratinga, Ibirapuã, Rianápolis, São Miguel do Tocantins, Araguapaz, Turvo, Aricanduva, Silves, Bela Vista do Toldo, Itaguaí, Gastão Vidigal, Calçado e Corinto",Sephora não visitou Araguapaz,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Tara não visitou Cleópatra,1,quantifier
+"Todo mundo visitou Doutor Maurício Cardoso, Santa Rita do Pardo, Chorozinho, Olho d'Água do Casado, Canindé de São Francisco, Alcobaça, Ponto dos Volantes, Divinésia, Barra Bonita, Formiga e Delmiro Gouveia",Névia não visitou Demerval Lobão,0,quantifier
+Todo mundo visitou todas as pessoas,Laisa não visitou Antas,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Erin não visitou Lorine,1,quantifier
+"Todo mundo visitou São José da Barra, Erval Grande, Belágua, Juarina, Pedrinhas, Sertão, Picuí, Viana, Itaituba, Aurora, Curvelo, Perolândia, Palmitinho e Novo Horizonte",Arminda não visitou Novo Horizonte,1,quantifier
+"Todo mundo visitou Diamante do Norte, Rio Negro, Divino de São Lourenço, Torre de Pedra, São José do Jacuri, Lajes Pintadas, Ribeirão Grande, Tijucas do Sul, São Francisco de Assis do Piauí, Teresina e Corbélia",Nanci não visitou Rio Negro,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Anatilde não visitou Ibicaraí,0,quantifier
+"Todo mundo visitou Corumbiara, Espírito Santo do Pinhal, Mário Campos, Sidrolândia, Central de Minas, Quinze de Novembro, Lago da Pedra, Água Azul do Norte, Cândido Godói, São José do Egito, Serra Azul de Minas, Barras, Olho d'Água do Casado, Vargem, Itabuna e Mariana Pimentel",Talita não visitou Mariana Pimentel,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Diomar não visitou Fernandina,0,quantifier
+Todo mundo visitou todos os lugares,Isabelina não visitou Dianópolis,1,quantifier
+Todo mundo visitou todas as pessoas,Arinda não visitou Tuneiras do Oeste,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Edma não visitou São José do Peixe,0,quantifier
+Todo mundo visitou todos os lugares,Maira não visitou Padre Bernardo,1,quantifier
+Todo mundo visitou todos os lugares,Anícia não visitou Patis,1,quantifier
+Todo mundo visitou todas as pessoas,Joaquina não visitou Itá,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Anísia não visitou Kailani,1,quantifier
+Todo mundo visitou todas as pessoas,Cesária não visitou Maxine,1,quantifier
+Todo mundo visitou todos os lugares,Priscilla não visitou Demétria,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Duna não visitou Cuiabá,1,quantifier
+Todo mundo visitou todas as pessoas,Lilian não visitou Nova Aurora,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Sibila não visitou Santo Amaro do Maranhão,1,quantifier
+Todo mundo visitou todas as pessoas,Ivy não visitou Várzea Grande,0,quantifier
+Todo mundo visitou todas as pessoas,Lilly não visitou Alcinópolis,0,quantifier
+"Todo mundo visitou Trajano de Morais, Dores do Rio Preto, Vale de São Domingos, São Miguel das Matas, Piên, Tapiraí, Nilópolis, Avelinópolis, Presidente Médici e Arapongas",Cleodice não visitou São Miguel das Matas,1,quantifier
+"Todo mundo visitou Mundo Novo, Rio Grande do Piauí, Solonópole, Prudente de Morais, Planalto da Serra, São Francisco do Sul, Senador José Bento, Divinésia, Boa Vista do Buricá, Teixeira, Juarina, Pará de Minas, Pedras Altas, Hidrolândia, São Martinho e Taquara",Davínia não visitou Divinésia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Carmelita não visitou Paola,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Jéni não visitou Léah,0,quantifier
+"Todo mundo visitou São Vicente Ferrer, Ararendá, Urânia, Nova Esperança do Sul, Leopoldina, Esmeralda, Barro Preto, Marema, Marechal Floriano, Cristais, Pedra Grande, Coaraci e Sulina",Lace não visitou Coaraci,1,quantifier
+Todo mundo visitou todas as pessoas,Agustina não visitou Isabella,1,quantifier
+Todo mundo visitou todas as pessoas,Neli não visitou Laís,1,quantifier
+Todo mundo visitou todas as pessoas,Clare não visitou Bebedouro,0,quantifier
+"Todo mundo visitou Aripuanã, Barros Cassal, Ortigueira, Itaquiraí, São Roque, Baraúna, São Pedro, Granito, Cumaru do Norte e Canitar",Naomi não visitou Monte Alegre de Minas,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Gislena não visitou Natalie,0,quantifier
+"Todo mundo visitou Capivari do Sul, Igarapé-Açu, Rialma, Uiraúna, Itaipulândia, Mãe do Rio, Rosário do Sul, Taquarana, Joaquim Felício, Sanclerlândia, Cachoeira dos Índios, Bertioga, Ivatuba, Santa Helena de Minas, Grão Pará, São Francisco do Conde, Itueta e Barro",Laya não visitou Brazabrantes,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Rocio não visitou Franca,1,quantifier
+"Todo mundo visitou Ituberá, São José do Goiabal, Placas, Panambi, Tuiuti, Humberto de Campos, Alenquer, Gonçalves, Serra Branca, Buenópolis, Cachoeirinha, Redenção da Serra e Uruçuca",Afonsina não visitou Serra Branca,1,quantifier
+Todo mundo visitou todos os lugares,Francesca não visitou Figueirópolis D'Oeste,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nalini não visitou Parapuã,1,quantifier
+Todo mundo visitou todos os lugares,Marjolene não visitou Alita,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Dulcelina não visitou Irati,1,quantifier
+"Todo mundo visitou Xaxim, Poranga, Tracunhaém, Mogeiro, Rio das Pedras, Icapuí, Soledade de Minas, Catende, Cachoeirinha, Atilio Vivacqua, Curuçá, Marianópolis do Tocantins e Espírito Santo do Dourado",Mirandolina não visitou Ipaba,0,quantifier
+Todo mundo visitou todas as pessoas,Crystal não visitou Canavieiras,0,quantifier
+Todo mundo visitou todos os lugares,Ingeburga não visitou Hortênsia,0,quantifier
+Todo mundo visitou todas as pessoas,Suzi não visitou Cássia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Rosalinda não visitou Ouricuri,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Lucileine não visitou Miraí,0,quantifier
+"Todo mundo visitou Tacaimbó, Santo Antônio do Caiuá, Elias Fausto, Conceição do Pará, Itapuranga, Cairu, São José do Rio Claro, Santa Cruz dos Milagres, Alecrim, Fortim, Ibiraiaras, Casinhas, Tio Hugo, Muitos Capões, Rio Negrinho, Quinta do Sol, Cabrobó e Benjamin Constant do Sul",Noélia não visitou Rio Negrinho,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Sextina não visitou Encruzilhada do Sul,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Luamar não visitou Skylar,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Marie não visitou Santa Terezinha,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Acácia não visitou Anair,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Malía não visitou Séfora,1,quantifier
+Todo mundo visitou todos os lugares,do Socorro não visitou Anastácio,1,quantifier
+Todo mundo visitou todos os lugares,Lorina não visitou Jordana,0,quantifier
+Todo mundo visitou todos os lugares,Solôngia não visitou Taíssa,0,quantifier
+Todo mundo visitou todos os lugares,Lénia não visitou Feliciana,0,quantifier
+Todo mundo visitou todos os lugares,Palmira não visitou Rio Claro,1,quantifier
+Todo mundo visitou todas as pessoas,Dilma não visitou Itacuruba,0,quantifier
+Todo mundo visitou todas as pessoas,Charlotte não visitou Oksana,1,quantifier
+Todo mundo visitou todos os lugares,Flor de Maria não visitou Mariluz,1,quantifier
+Todo mundo visitou todos os lugares,Miranda não visitou Benícia,0,quantifier
+"Todo mundo visitou Porteiras, Recursolândia, Clevelândia, Senador Cortes, São Félix de Minas, Santo Antônio dos Milagres, Piumhi, Ribeirão do Pinhal, Itapema, Águas Mornas, São Domingos, Cachoeira de Pajeú, Cristalina, Luziânia, Rosário do Catete, Glicério, Poção, Cuiabá, Terezinha e Miradouro",Lorraine não visitou Águas Mornas,1,quantifier
+"Todo mundo visitou Pilar, Nova Esperança, Moema, Jucurutu, Almadina, Caririaçu, Piatã, Davinópolis, Benevides, Tabaí, Macarani, Buritama, Patos, Montividiu, Gilbués e Euclides da Cunha",Nereida não visitou Nova Esperança,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,dos Prazeres não visitou Anabel,0,quantifier
+"Todo mundo visitou Santa Teresa, Itatiba, Pratápolis, Pranchita, Ibitirama, Ananindeua, Nova Santa Rita, Sítio do Mato, Jundiaí do Sul, São Sebastião do Maranhão, Anitápolis, São Gonçalo do Abaeté, Curvelo, Santa Rita de Minas, Terra Roxa, Cachoeirinha, Potengi, Magé e Brusque",Juliette não visitou Caridade do Piauí,0,quantifier
+Todo mundo visitou todas as pessoas,Cristiana não visitou Lago do Junco,0,quantifier
+"Todo mundo visitou Pingo-d'Água, Itirapina, Dourados, Naviraí, Jari, Silveirânia, Rodeio Bonito, Florínia, Matipó, Santo Anastácio, Governador Dix-Sept Rosado, Mogeiro, Riolândia, Goiabeira, Serranópolis de Minas, Reginópolis, Papagaios e Herval d'Oeste",Elza não visitou Rodeio Bonito,1,quantifier
+Todo mundo visitou todos os lugares,Mari não visitou Corina,0,quantifier
+Todo mundo visitou todos os lugares,Daniana não visitou São Roque,1,quantifier
+"Todo mundo visitou Quatipuru, Miguel Pereira, Major Gercino, Dois Córregos, Serranópolis, Pedra Bela, Santa Tereza do Tocantins, Porto Xavier, Soledade, Alto Caparaó, Riolândia, Guarujá, Betânia do Piauí, Corrente, Senador Amaral, Jardim Alegre, Lagoa do Carro, Brejo Grande e Cajazeiras",Ingeburga não visitou Carangola,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Luisete não visitou Muriela,1,quantifier
+"Todo mundo visitou Jataúba, Santa Bárbara do Monte Verde, Urupês, Foz do Jordão, Coronel José Dias, Gonzaga, Arraial, Buerarema, Alagoa Nova, Massapê do Piauí, Paraíso, Mogeiro, Santo Amaro do Maranhão, Áurea, Bom Jardim e Santa Cruz",Helen não visitou Jaguarão,0,quantifier
+"Todo mundo visitou Itarantim, São Luíz do Norte, Almenara, Presidente Nereu, Tupanatinga, Santo Antônio do Jardim, Lavandeira, Rio Real, Natal, Princesa Isabel, Mangueirinha, Carneiros e Santiago",Geralda não visitou Flor da Serra do Sul,0,quantifier
+"Todo mundo visitou Antonina do Norte, Rosário do Ivaí, Bertópolis, Cumaru, Três Lagoas, Jatobá, Arroio do Padre, Felisburgo, Santa Juliana, São Pedro do Turvo, São João do Caiuá, Ipaba, Praia Grande, Porteirão, Marianópolis do Tocantins, Jaupaci, Jaú do Tocantins, Santo Antônio do Descoberto, Panelas e São Pedro do Sul",Florbela não visitou Capelinha,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Armanda não visitou Tibau,1,quantifier
+Todo mundo visitou todas as pessoas,do Almurtão não visitou Hália,1,quantifier
+Todo mundo visitou todos os lugares,Rosebel não visitou Capão Alto,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Dina não visitou Cáren,0,quantifier
+"Todo mundo visitou Santa Fé do Araguaia, Nerópolis, Chã Grande, Santa Margarida, Pongaí, Santópolis do Aguapeí, Córrego do Bom Jesus, Vinhedo, Nanuque e Poá",Suzanne não visitou Guaíra,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Kieza não visitou Iguape,1,quantifier
+Todo mundo visitou todas as pessoas,Shakira não visitou Porto do Mangue,0,quantifier
+"Todo mundo visitou Boituva, Paranapanema, Santiago, Pocrane, São Sebastião do Oeste, Tuparetama, Carnaíba, Icaraí de Minas, Reriutaba, Santa Cruz do Capibaribe, Rubiataba, Campina do Simão, Descoberto, Areia e Borda da Mata",Indaleta não visitou Borda da Mata,1,quantifier
+Todo mundo visitou todas as pessoas,Shania não visitou Corine,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Bernadete não visitou Santo Antônio de Goiás,0,quantifier
+"Todo mundo visitou Moreilândia, Cerro Grande, Aliança, Cajueiro da Praia, Chorrochó, Piracaia, Bela Vista do Maranhão, Cardoso Moreira, Entre Rios do Sul, Votorantim, Ananindeua, Piumhi, Anita Garibaldi, Santo Antônio do Tauá, Vassouras, Tonantins, Cabeceiras, Riacho de Santo Antônio e Zortéa",Libânia não visitou Entre Rios do Sul,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Anabel não visitou Belo Vale,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Adelina não visitou Jorgina,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Beatrix não visitou Marlita,0,quantifier
+"Todo mundo visitou Ibertioga, Cachoeira de Goiás, Porto da Folha, Perdões, Presidente Jânio Quadros, São Miguel dos Campos, Duque de Caxias, Buritinópolis, Barra de São Francisco, Muniz Freire, São Domingos, Tarumã, Primeira Cruz, Serra Preta, Monjolos, Santa Vitória, Coaraci e Matias Olímpio",Sandy não visitou Lourdes,0,quantifier
+Todo mundo visitou todas as pessoas,Nélia não visitou Marianna,1,quantifier
+Todo mundo visitou todas as pessoas,Catherine não visitou Dana,1,quantifier
+Todo mundo visitou todas as pessoas,Glicínia não visitou Poliana,1,quantifier
+Todo mundo visitou todos os lugares,Guendolina não visitou Grajaú,1,quantifier
+"Todo mundo visitou Joaíma, Orós, Itápolis, Campo Redondo, Pinhal, Arapuá, Chapadão do Sul, Santa Maria, Aracaju, Floriano Peixoto, São João do Rio do Peixe, Charrua, Conceição do Tocantins, Coreaú e Nova Olinda",Celisia não visitou Barra do Choça,0,quantifier
+"Todo mundo visitou Belo Jardim, Santos Dumont, Santa Cruz de Salinas, Maraú, Lagoa da Confusão, Nova Glória, Campina do Simão, Miracatu, Castro Alves, Picada Café, Guanambi, Medeiros, Ponta Porã, Mazagão, Aparecida, Brás Pires, Palhoça e Pindoretama",Lilly não visitou Sucupira,0,quantifier
+Todo mundo visitou todos os lugares,Dafne não visitou Jangada,1,quantifier
+Todo mundo visitou todos os lugares,Gilda não visitou Lisandra,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Ângel não visitou Luiziana,0,quantifier
+Todo mundo visitou todas as pessoas,Ercília não visitou Minervina,1,quantifier
+Todo mundo visitou todos os lugares,Mikaela não visitou Nazarina,0,quantifier
+Todo mundo visitou todas as pessoas,Suria não visitou Taia,1,quantifier
+"Todo mundo visitou Primavera, Fátima, Carmo do Cajuru, Jardim Alegre, Bocaina de Minas, Miracema, Barueri, Pelotas, Joselândia, Santo Antônio do Leverger, Conceição do Almeida, Angicos e Pomerode",Suse não visitou Joselândia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nirina não visitou Paulo Bento,1,quantifier
+Todo mundo visitou todos os lugares,Cirila não visitou Armanda,0,quantifier
+Todo mundo visitou todas as pessoas,Nícia não visitou Altamira do Maranhão,0,quantifier
+Todo mundo visitou todos os lugares,Cácia não visitou Cinara,0,quantifier
+"Todo mundo visitou São Fidélis, Brejões, Santana do Deserto, Itatiaia, Santo Estêvão, Livramento, Sapucaia, Itabi, São Sebastião do Maranhão, Viana, Itapecerica e Murici dos Portelas",Evangelina não visitou Itatiaia,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nair não visitou Cabixi,1,quantifier
+Todo mundo visitou todas as pessoas,Cereja não visitou Nicandra,1,quantifier
+"Todo mundo visitou Florianópolis, Abdon Batista, Ipueiras, Leoberto Leal, Barra da Estiva, Malhada, Ipumirim, Alambari, Relvado, Araguacema, São José dos Campos, Aiuaba, Senador Cortes, Piranhas, Vila Propício, Paraná, Diadema, Borda da Mata, Araucária e Monte Alegre dos Campos",Romeia não visitou Veríssimo,0,quantifier
+"Todo mundo visitou Sirinhaém, Araricá, Santa Rosa do Sul, Serrano do Maranhão, Tanque do Piauí, Luiz Alves, Irati, Passagem Franca, Varjão, Serra da Saudade, Matupá, Palmeirópolis, Lagoão, Joinville, Itaquara e Cristiano Otoni",Joyce não visitou Bonito de Minas,0,quantifier
+Todo mundo visitou todas as pessoas,Léa não visitou Rihanna,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Traciana não visitou Itapevi,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Celinia não visitou Carminda,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Ingeburga não visitou Mourana,0,quantifier
+Todo mundo visitou todas as pessoas,Stanislava não visitou Rondina,1,quantifier
+"Todo mundo visitou Maracaju, Salto Veloso, Cascavel, Atibaia, Joviânia, Carutapera, Conceição da Aparecida, José Boiteux, São Caitano, Naviraí, Vera Mendes e Guaraçaí",Flória não visitou Tapiraí,0,quantifier
+Todo mundo visitou todas as pessoas,Donzélia não visitou Aurora,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Nayla não visitou Mangaratiba,0,quantifier
+Todo mundo visitou todas as pessoas,Tiana não visitou Deise,1,quantifier
+Todo mundo visitou todas as pessoas,Rossana não visitou Barro,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Sira não visitou Beatrix,0,quantifier
+Todo mundo visitou todos os lugares,Leonardina não visitou Óleo,1,quantifier
+"Todo mundo visitou Uruoca, Potiretama, Manoel Urbano, Caiapônia, Anahy, Cosmópolis, Itaboraí, Mazagão, Siderópolis, Divisa Alegre, Guararema, Rio Paranaíba e Comodoro",Selénia não visitou Fernão,0,quantifier
+Todo mundo visitou todas as pessoas,Mabilda não visitou Leonarda,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Eurídice não visitou Sebastião Barros,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Suria não visitou Congonhas do Norte,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Jasmim não visitou Piedade de Caratinga,1,quantifier
+Todo mundo visitou todos os lugares,Gisele não visitou Dirce,0,quantifier
+Todo mundo visitou todos os lugares,Cordélia não visitou Erika,0,quantifier
+"Todo mundo visitou Autazes, Anhembi, Gonzaga, São Bento do Sapucaí, Itajaí, Piraí do Sul, Monte Alegre, Uberlândia, Portel, São João Nepomuceno, Tupaciguara, Campo Bonito, Bom Jesus dos Perdões, Bannach e Caravelas",Apolónia não visitou Chavantes,0,quantifier
+"Todo mundo visitou Bom Jardim, Itaperuna, José Gonçalves de Minas, Braço do Trombudo, São José de Ribamar, Siderópolis, Olinda Nova do Maranhão, Nova Santa Rosa, Pedro do Rosário, Maratá, São João da Mata, Fronteiras, Sinop, Xexéu, Bocaina do Sul, Currais Novos e Palmas",Daisi não visitou Bela Vista do Piauí,0,quantifier
+Todo mundo visitou todas as pessoas,Fédora não visitou São Luís de Montes Belos,0,quantifier
+Todo mundo visitou todas as pessoas,Gaori não visitou Santa Maria da Serra,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Anaísa não visitou Rolante,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Neli não visitou Naly,1,quantifier
+"Todo mundo visitou Pedras Grandes, Capoeiras, São Luís do Paraitinga, Mairi, Muzambinho, Araçuaí, Lapa, Mato Rico, Goiás, Serra Preta, São Vendelino, Morro Cabeça no Tempo, Serra do Mel, Capitão Gervásio Oliveira e Correia Pinto",Léanor não visitou Fortaleza,0,quantifier
+Todo mundo visitou todos os lugares,Dídia não visitou Florence,0,quantifier
+Todo mundo visitou todas as pessoas,Aleixa não visitou Grajaú,0,quantifier
+Todo mundo visitou todas as pessoas,Nícia não visitou Merrita,1,quantifier
+Todo mundo visitou todas as pessoas,Aniana não visitou Pracinha,0,quantifier
+"Todo mundo visitou Caracol, Nísia Floresta, Tupirama, Altaneira, Itajaí, Mundo Novo, Quadra, Riacho de Santana, Massapê do Piauí, Curitibanos, Potim, Florânia e São Francisco do Glória",Nur não visitou Tapejara,0,quantifier
+Todo mundo visitou todas as pessoas,Gáil não visitou Alvorada D'Oeste,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Denisa não visitou Licínia,0,quantifier
+Todo mundo visitou todos os lugares,Elmira não visitou Pratânia,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Chema não visitou Pé de Serra,0,quantifier
+Todo mundo visitou todos os lugares,Liane não visitou Marianne,0,quantifier
+"Todo mundo visitou Arapongas, Serra dos Aimorés, Eldorado, Santa Albertina, Morrinhos do Sul, Vespasiano Correa, Pindoretama, Suzano, Cambará, Nova Lacerda, Mormaço, Cajazeirinhas, Itaporanga e Rio Verde",Leonilda não visitou Arapongas,1,quantifier
+Todo mundo visitou todas as pessoas,Eloise não visitou Silvie,1,quantifier
+Todo mundo visitou todas as pessoas,Marli não visitou Eda,1,quantifier
+"Todo mundo visitou Jurema, Pimenta, Jequitibá, Pratânia, Bom Jesus, Frutal, Xique-Xique, Santa Inês, Espinosa, Artur Nogueira, Jaguariúna, Corumbiara, Lavandeira e João Lisboa",Kenzi não visitou Guaraniaçu,0,quantifier
+Todo mundo visitou todas as pessoas,Gerta não visitou Brasópolis,0,quantifier
+"Todo mundo visitou Pires do Rio, Novo Santo Antônio, Estrela do Indaiá, Barro Alto, Congonhas do Norte, Carmo do Rio Verde, Conquista D'Oeste, Brasópolis, Saltinho, São José do Sabugi, Barra do Piraí, Júlio Mesquita, Goiana e Pindoretama",Angélica não visitou Rio Real,0,quantifier
+"Todo mundo visitou Nhandeara, Vicência, Bom Princípio do Piauí, São Rafael, Antônio Martins, José Raydan, Tiros, Felipe Guerra, Lagoa da Prata, Chã de Alegria, Ibema e Engenheiro Navarro",Cidalina não visitou Feira Grande,0,quantifier
+Todo mundo visitou todos os lugares,Melinda não visitou Macururé,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Coraima não visitou Areial,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Léna não visitou São José do Sul,1,quantifier
+Todo mundo visitou todos os lugares,Belmira não visitou Ekaterina,0,quantifier
+Todo mundo visitou todos os lugares,Fidélia não visitou São João do Manhuaçu,1,quantifier
+Todo mundo visitou todas as pessoas,Iberina não visitou Jacuí,0,quantifier
+Todo mundo visitou todas as pessoas,Rubi não visitou Horizonte,0,quantifier
+Todo mundo visitou todos os lugares,Terência não visitou Juru,1,quantifier
+"Todo mundo visitou Faxinal do Soturno, Ascurra, Junqueiro, Presidente Juscelino, Três Cachoeiras, Figueirão, Iaçu, Cândido Rodrigues, Itapiúna, Cuitegi, Pau D'Arco, Lajeado Novo, Taquarituba, Bom Jesus do Sul, São Miguel das Missões, Presidente Bernardes e Jitaúna",Edma não visitou Presidente Juscelino,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Terência não visitou Aldenir,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Lenira não visitou São Bento,0,quantifier
+Todo mundo visitou todas as pessoas,Manuella não visitou Motuca,0,quantifier
+Todo mundo visitou todas as pessoas,Maira não visitou Orlanda,1,quantifier
+Todo mundo visitou todos os lugares,Inga não visitou Codó,1,quantifier
+"Todo mundo visitou Moraújo, Coronel João Sá, Guaranésia, Bom Sucesso, Rolante, Paiva, Mairiporã, Jaguaré, Niquelândia, Gandu, Santo Antônio do Leverger, Queimadas, Catingueira e Itarumã",Idélia não visitou Pouso Alto,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Mireia não visitou Bom Jesus dos Perdões,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Rosita não visitou Campos Altos,1,quantifier
+Todo mundo visitou todas as pessoas,Inocência não visitou Celso Ramos,0,quantifier
+Todo mundo visitou todas as pessoas,Jessy não visitou Natacha,1,quantifier
+Todo mundo visitou todas as pessoas,Rebeka não visitou Jacaraú,0,quantifier
+"Todo mundo visitou Mato Queimado, Madeiro, Nicolau Vergueiro, Paranapoema, Alto Garças, Pedra, São João das Missões, São Gonçalo do Sapucaí, Santo Amaro da Imperatriz, Santa Terezinha de Goiás, Luís Domingues, São José do Sabugi, Cláudia, Guaramiranga, Umbaúba e Senhora de Oliveira",Loela não visitou Maquiné,0,quantifier
+"Todo mundo visitou Bocaina, Bom Retiro do Sul, São José do Egito, Camaragibe, Ipiranga do Sul, Tapejara, Céu Azul, Coari, Cedral, Cataguases, Saltinho, Tabatinga, Campo do Meio, Borda da Mata e Queimadas",Charlene não visitou Nova Santa Rosa,0,quantifier
+Todo mundo visitou todas as pessoas,Iolanda não visitou Sete Lagoas,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Dinora não visitou Nicolina,1,quantifier
+Todo mundo visitou todos os lugares,Dina não visitou Palmelo,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Erica não visitou Teotônio Vilela,1,quantifier
+"Todo mundo visitou Presidente Juscelino, Campos Borges, São Jorge do Patrocínio, Entre Rios, Sítio Novo do Tocantins, São Pedro, Cachoeira Grande, Itaguari, Lins, Guarani d'Oeste, Mansidão, Teolândia e Miracema",América não visitou Curral de Dentro,0,quantifier
+Todo mundo visitou todas as pessoas,Amorzinda não visitou Naque,0,quantifier
+Todo mundo visitou todas as pessoas,Dominika não visitou Suati,1,quantifier
+Todo mundo visitou todas as pessoas,Diomar não visitou Denisa,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Rose não visitou Braço do Trombudo,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Liliane não visitou Jaborandi,1,quantifier
+Todo mundo visitou todas as pessoas,Adália não visitou São Pedro do Suaçuí,0,quantifier
+Todo mundo visitou todas as pessoas,Júnia não visitou Leme do Prado,0,quantifier
+"Todo mundo visitou Mariluz, Itati, Souto Soares, Angelim, Groaíras, Itaobim, Pai Pedro, Lastro, Japurá, Bom Conselho, Olímpia, Itariri, Alvorada e Apuiarés",Isabelina não visitou Bom Conselho,1,quantifier
+"Todo mundo visitou Alto Alegre do Maranhão, Eunápolis, Silveiras, São Miguel, Lajedão, São José do Povo, Pinheirinho do Vale, Campinorte, Água Clara e Itaara",Cayetana não visitou Arame,0,quantifier
+Todo mundo visitou todos os lugares,Gabi não visitou Gema,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Jaqueline não visitou Henriette,0,quantifier
+Todo mundo visitou todas as pessoas,Henriette não visitou Clemência,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Eunice não visitou Diza,0,quantifier
+"Todo mundo visitou Sobradinho, Janaúba, Belém de Maria, Ibiúna, Iaciara, Pouso Alto, Israelândia, Vista Gaúcha, Mulungu, Buritirama e São Gonçalo",Misha não visitou Belém de Maria,1,quantifier
+Todo mundo visitou todos os lugares,Loide não visitou São Pedro do Sul,1,quantifier
+"Todo mundo visitou Água Doce, Goianinha, Cruz Machado, Varjota, Curionópolis, Salvaterra, Fortaleza, Barbosa Ferraz, Ipumirim, Glaucilândia, Duque de Caxias e Chapada Gaúcha",Sade não visitou Barbosa Ferraz,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Nayma não visitou Lutgarda,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Lexie não visitou Heliópolis,0,quantifier
+Todo mundo visitou todas as pessoas,Otília não visitou Entre Rios do Sul,0,quantifier
+Todo mundo visitou todas as pessoas,Dulcina não visitou Salvação,1,quantifier
+Todo mundo visitou todos os lugares,Nilsa não visitou Tibau do Sul,1,quantifier
+Todo mundo visitou todas as pessoas,Carmelina não visitou Roteiro,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Ocília não visitou Alexandrina,0,quantifier
+"Todo mundo visitou Água Doce do Maranhão, Lagoa de Velhos, Rio do Fogo, Santa Filomena do Maranhão, Boracéia, São Miguel dos Milagres, Gramado dos Loureiros, Rio das Antas, Uibaí, Goiabeira, Anhanguera, Jandaia, Cururupu, Ubiretama, Água Branca, Currais, Muaná, Franciscópolis e Iuiú",Giraldina não visitou Oliveira de Fátima,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Jani não visitou Lya,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Si não visitou Francisco Dumont,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Emi não visitou Kieza,1,quantifier
+Todo mundo visitou todos os lugares,Ingeburga não visitou Estrelle,0,quantifier
+"Todo mundo visitou Belo Monte, Rio do Pires, Brusque, Cajazeirinhas, Santa Isabel, Francisco Sá, Nova Ipixuna, Aral Moreira, Salvador, Jaguaraçu, Lagoa de Dentro, Lidianópolis, Colorado, Mombaça e Monte do Carmo",Mariane não visitou Ilha de Itamaracá,0,quantifier
+Todo mundo visitou todas as pessoas,Lusa não visitou Antonela,1,quantifier
+Todo mundo visitou todos os lugares,Domenica não visitou Chen,0,quantifier
+Todo mundo visitou todas as pessoas,Leane não visitou Santa Branca,0,quantifier
+"Todo mundo visitou Jericó, Pirambu, Terezinha, Ribeirão Bonito, Frutuoso Gomes, Pau D'Arco, Bujaru, Tarabai, Acarape, Matina, Miraselva, Herval, Pão de Açúcar, Luminárias, Taquaruçu do Sul, Barra de Guabiraba, Rio Largo, Nova Fátima, Nísia Floresta e Umari",Fânia não visitou Matina,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Diná não visitou Ingazeira,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Castorina não visitou Doriana,0,quantifier
+Todo mundo visitou todos os lugares,Francine não visitou Clementine,0,quantifier
+Todo mundo visitou todas as pessoas,Miliza não visitou Ingazeira,0,quantifier
+Todo mundo visitou todos os lugares,Minerva não visitou Naira,0,quantifier
+Todo mundo visitou todos os lugares,Amal não visitou São Miguel das Matas,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Bartolina não visitou Dagmar,1,quantifier
+Todo mundo visitou todos os lugares,Oriane não visitou Jana,0,quantifier
+Todo mundo visitou todos os lugares,Ivy não visitou Marli,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Rosário não visitou Três Coroas,1,quantifier
+Todo mundo visitou todas as pessoas,Córita não visitou Agna,1,quantifier
+Todo mundo visitou todas as pessoas,Elvina não visitou Marcionílio Souza,0,quantifier
+Todo mundo visitou todos os lugares,Luíza não visitou Lianor,0,quantifier
+"Todo mundo visitou Felício dos Santos, Milhã, Brasil Novo, Araçuaí, Morro da Fumaça, Monte Santo do Tocantins, Icaraíma, Emas, Rio do Pires, Lagoa Salgada, Herval e Olinda",Nicolina não visitou Corumbaíba,0,quantifier
+"Todo mundo visitou Mar de Espanha, Canudos do Vale, Taboão da Serra, Casa Grande, Buriti dos Montes, Tabira, Santa Luzia do Pará, Arceburgo, Alfredo Chaves, Brejo, Piratuba, Padre Marcos, Pontal do Paraná, Pilar e Salgueiro",Lucilina não visitou Casa Grande,1,quantifier
+Todo mundo visitou todos os lugares,Flor de Ceres não visitou Aliana,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Lízi não visitou Rinópolis,1,quantifier
+Todo mundo visitou todas as pessoas,Susete não visitou Tanque do Piauí,0,quantifier
+Todo mundo visitou todos os lugares,Sasha não visitou de Sales,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Marilúcia não visitou Damianópolis,0,quantifier
+"Todo mundo visitou Poço das Antas, Rio dos Cedros, Paranaguá, Bandeirantes, Colônia Leopoldina, Itabaiana, Palma, Jacuizinho, Macajuba, Itacoatiara, Planura, Santa Terezinha, São Sebastião do Tocantins, Nova Cantu, São Bernardo do Campo, Urbano Santos, São Gonçalo do Rio Abaixo e Afonso Cláudio",Nise não visitou Munhoz de Melo,0,quantifier
+Todo mundo visitou todas as pessoas,Donzília não visitou São Pedro do Suaçuí,0,quantifier
+Todo mundo visitou todos os lugares,Joela não visitou Vera Cruz do Oeste,1,quantifier
+"Todo mundo visitou Ouro Verde, Quixelô, Rio Preto, Inconfidentes, Santa Tereza, Paes Landim, Ipira, Itapuranga, Pitimbu, Santo Antônio da Barra, Alto Rio Novo, Itabira, Primavera, Santa Lúcia, Morro do Chapéu do Piauí, Brejão, Gonzaga, Severínia e Dezesseis de Novembro",Taína não visitou Primavera,1,quantifier
+Todo mundo visitou todas as pessoas,Hilma não visitou Ibirapitanga,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Elda não visitou Puxinanã,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Cristal não visitou Nathalie,0,quantifier
+Todo mundo visitou todos os lugares,Amorzinda não visitou Gloriosa,0,quantifier
+"Todo mundo visitou Presidente Dutra, Avelino Lopes, Coivaras, Antônio Carlos, Cabeceira Grande, Sooretama, Rio Grande da Serra, Mairi, Córrego Novo, Ipixuna do Pará, Laje e Tamboril do Piauí",Súria não visitou Borborema,0,quantifier
+Todo mundo visitou todas as pessoas,Idélia não visitou Cleonice,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Jacira não visitou Tirsa,0,quantifier
+"Todo mundo visitou Tenente Laurentino Cruz, Getulina, Belém de Maria, Marianópolis do Tocantins, Carolina, Macapá, Dois Irmãos do Tocantins, Augusto Pestana, Conceição do Jacuípe, Presidente Jânio Quadros, Bonópolis, Redentora, Santa Terezinha, Vila Flor, Belmonte, São Francisco, Terezinha, Pedras de Fogo, Lagoa de Velhos e Conceição da Barra",Nilce não visitou Buritizal,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Pámela não visitou Reinalda,0,quantifier
+"Todo mundo visitou Goiatuba, Bom Jardim de Minas, Santa Vitória, Cristalândia, Lindóia, Jaguaquara, Morro da Fumaça, Paracambi, Colina, Mário Campos e Dom Expedito Lopes",Paraíso não visitou Teixeirópolis,0,quantifier
+Todo mundo visitou todas as pessoas,Crystal não visitou Isolda,1,quantifier
+"Todo mundo visitou Rancho Queimado, Cachoeirinha, Santana do Araguaia, Rio Grande da Serra, Lagoa de Dentro, Itu, Porto Xavier, Xapuri, Santana do Piauí, Ouro Velho, Guarujá, Conchal, Guararapes, Cocal de Telha, Nova Campina e Bom Sucesso de Itararé",Mavília não visitou Cachoeira do Piriá,0,quantifier
+Todo mundo visitou todos os lugares,Sahara não visitou Rihanna,0,quantifier
+"Todo mundo visitou Pingo-d'Água, Maragogi, Pariconha, Leandro Ferreira, São João do Ivaí, Rosário da Limeira, Ivorá, Aliança do Tocantins, Cacaulândia, Bagé, Lagoa do Itaenga, Maceió, Pedro Canário, Cacimba de Dentro e Tefé",Albana não visitou Aporé,0,quantifier
+"Todo mundo visitou Humaitá, Nova América, Santa Maria do Pará, Jacuí, São Simão, Campo Bom, Nova Fátima, Capela de Santana, Cajapió, Córrego Danta, Bonito de Minas, São Francisco de Assis do Piauí, Almadina e Alvarães",Firmina não visitou Acrelândia,0,quantifier
+Todo mundo visitou todas as pessoas,Salomite não visitou Eliseba,1,quantifier
+Todo mundo visitou todos os lugares,Ida não visitou Marmelópolis,1,quantifier
+Todo mundo visitou todos os lugares,Julie não visitou Lagoa de Dentro,1,quantifier
+Todo mundo visitou todas as pessoas,Sibila não visitou Laje do Muriaé,0,quantifier
+Todo mundo visitou todas as pessoas,Joice não visitou Taia,1,quantifier
+Todo mundo visitou todos os lugares,Aldina não visitou São João,1,quantifier
+Todo mundo visitou todas as pessoas,Mirna não visitou Donatila,1,quantifier
+Todo mundo visitou todas as pessoas,Hayden não visitou Monte Belo do Sul,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Lila não visitou Barra do Turvo,0,quantifier
+Todo mundo visitou todos os lugares,Estrella não visitou Ribeirão,1,quantifier
+"Todo mundo visitou Grão Mogol, Sete de Setembro, Divisa Nova, Piquerobi, Bequimão, Irapuã, Virmond, Luminárias, São José do Goiabal, Buenos Aires, Arapoti, Santo Antônio do Caiuá, Caldas Novas e Jacobina do Piauí",Anaíde não visitou São José do Goiabal,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Jewel não visitou Canutama,0,quantifier
+"Todo mundo visitou Caucaia, Nova Candelária, Arari, Guimarânia, Igaporã, Belém do Piauí, São Félix do Tocantins, Estrela do Norte, União da Serra, Palmares do Sul, Pedra Bonita, Anita Garibaldi, Alambari, Pedro do Rosário, Paranapoema, Damolândia, Luiziânia e Magalhães de Almeida",Atena não visitou Pedro do Rosário,1,quantifier
+Todo mundo visitou todos os lugares,Juanita não visitou Cibele,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Aniana não visitou Queimados,0,quantifier
+Todo mundo visitou todos os lugares,Orange não visitou Abília,0,quantifier
+"Todo mundo visitou Diamante do Sul, Itabi, Campo Grande do Piauí, Aguanil, Vargeão, Aracaju, Parnamirim, Baía Formosa, Piumhi, Jardim, Charqueadas, Avanhandava e Claro dos Poções",Noá não visitou Aguanil,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Gislene não visitou Quatiguá,0,quantifier
+"Todo mundo visitou Nazaré, Novo Oriente, Catanduva, Calçoene, Avaré, São Roque do Canaã, Ariranha do Ivaí, Saudade do Iguaçu, Maracaju, Santo Antônio do Grama, Realeza, Anastácio, Eldorado e Planaltina",Glicínia não visitou Uberlândia,0,quantifier
+"Todo mundo visitou Bugre, Alto Feliz, Marajá do Sena, Itaberaí, Dom Expedito Lopes, Milhã, Rio Paranaíba, Monte Carlo, Carvalhópolis, Paranapuã, Jequié, Santana dos Montes, Mirante, Caetité, Baixio, Cruzília, Laurentino, Pitanga, Piacatu e Montes Altos",Joyce não visitou Vista Alegre do Alto,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Excelsa não visitou Elle,0,quantifier
+"Todo mundo visitou Juru, Nordestina, Muniz Freire, Iaçu, Água Branca, Janiópolis, Carmópolis, Presidente Olegário, Itaiçaba, Pendências, Coité do Nóia e Arroio do Meio",Narcisa não visitou São João do Manhuaçu,0,quantifier
+Todo mundo visitou todos os lugares,Clementine não visitou Sananduva,1,quantifier
+Todo mundo visitou todas as pessoas,Cayetana não visitou Deméter,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Charlotte não visitou Derrubadas,0,quantifier
+Todo mundo visitou todos os lugares,Bella não visitou Jatobá do Piauí,1,quantifier
+"Todo mundo visitou Roteiro, Franco da Rocha, Maratá, São Miguel do Oeste, Campinas, Ubiratã, Santa Maria da Vitória, Saloá, Talismã, Chácara, Novo Tiradentes, Aracati, Pirassununga, Tibau, Cabaceiras, Serranópolis e Varzelândia",Carminda não visitou Campinas,1,quantifier
+Todo mundo visitou todos os lugares,Brázia não visitou Cachoeira do Arari,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Liduína não visitou Capela do Alto,0,quantifier
+"Todo mundo visitou Desterro de Entre Rios, Baturité, São Martinho, Igarapé do Meio, Charqueadas, Fontoura Xavier, Matina, Lagoa Santa, Patis, Colônia do Piauí, Jaraguá do Sul, Israelândia e Motuca",Nisa não visitou Desterro de Entre Rios,1,quantifier
+Todo mundo visitou todos os lugares,Tarina não visitou Rafaella,0,quantifier
+Todo mundo visitou todos os lugares,Benilde não visitou Valença,1,quantifier
+"Todo mundo visitou Espírito Santo, Antônio Almeida, Bom Jesus do Galho, Ribeirão Claro, Lagoão, Pranchita, Japira, Nina Rodrigues, Santa Rita de Minas, Lins, Baldim, Lapa, Boa Ventura, Lagoa do Carro e Assaré",Raven não visitou União da Vitória,0,quantifier
+"Todo mundo visitou São Julião, São Patrício, Pacajá, Fênix, Guajeru, Pedras Grandes, Neópolis, Alvinlândia, Araricá, Ouro Branco, Canudos e Palmital",Hortênsia não visitou Neópolis,1,quantifier
+Todo mundo visitou todas as pessoas,Suzy não visitou Cesaltina,1,quantifier
+Todo mundo visitou todas as pessoas,Cirila não visitou Neusa,1,quantifier
+Todo mundo visitou todos os lugares,Doralice não visitou Ocauçu,1,quantifier
+"Todo mundo visitou Formigueiro, Bady Bassitt, Ibirapuã, Humberto de Campos, Parazinho, Baldim, Santana do Riacho, Divisópolis, Cachoeirinha, Boracéia, Ponto dos Volantes, Quatro Barras e Araguanã",Idília não visitou Ibirapuã,1,quantifier
+Todo mundo visitou todos os lugares,Florisa não visitou Almara,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Santa Rita não visitou Mariela,1,quantifier
+Todo mundo visitou todas as pessoas,Joele não visitou Dionísio,0,quantifier
+"Todo mundo visitou Tejuçuoca, Olímpio Noronha, Solidão, Paiçandu, Pedra do Indaiá, Caturama, Carira, Cedro do Abaeté, Novais, Florínia, Tianguá, Bom Jesus, Vanini, Campestre da Serra, Barro Preto, Miracatu, José Raydan, São Carlos e Ibiaçá",Florença não visitou Concórdia do Pará,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Ricarda não visitou Guamaré,0,quantifier
+Todo mundo visitou todas as pessoas,Amandina não visitou Uniflor,0,quantifier
+Todo mundo visitou todos os lugares,Duartina não visitou Macambira,1,quantifier
+"Todo mundo visitou Taquarussu, Itamarandiba, Coqueiro Seco, Canhotinho, São Sebastião do Oeste, Exu, São José dos Quatro Marcos, Taquara, Pedra Lavrada, Caçapava, Nina Rodrigues, São José do Rio Preto, Seritinga, São José da Coroa Grande, Rosário da Limeira, Professor Jamil, Manaíra e Pacajus",Élea não visitou São Sebastião do Oeste,1,quantifier
+Todo mundo visitou todas as pessoas,Carmelinda não visitou Marilândia do Sul,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Eda não visitou São José dos Ausentes,0,quantifier
+"Todo mundo visitou Maracajá, Ribeirão Branco, Santa Fé de Goiás, Santa Cruz, Jussiape, Ouricuri, Piratuba, Arabutã, Campinas do Sul, Coronel João Pessoa, Pauini, Farol, Ouro Preto, Paverama, Itajá, Caseara, Imbaú, Descanso, Poté e Nova Guataporanga",Diliana não visitou Itajá,1,quantifier
+Todo mundo visitou todos os lugares,Filena não visitou Dária,0,quantifier
+"Todo mundo visitou Santana do Matos, São Sebastião da Bela Vista, Bonfinópolis, Nova Bandeirantes, Cocos, Santo Antônio do Içá, Três Lagoas, Presidente Castelo Branco, Juazeiro e Mogeiro",Julinha não visitou Careiro da Várzea,0,quantifier
+"Todo mundo visitou Marechal Floriano, Campina das Missões, Jupiá, São José dos Ausentes, Guaiúba, Chapadinha, Taparuba, São Sebastião da Amoreira, Itapevi, Luz, Jacutinga, Jaicós, Monte Mor, Ituaçu, Beneditinos, Abaré, Buenópolis, Pratinha, Dom Inocêncio e Davinópolis",Analice não visitou Serra Talhada,0,quantifier
+Todo mundo visitou todas as pessoas,Silke não visitou Lisana,1,quantifier
+Todo mundo visitou todas as pessoas,Licínia não visitou Ângel,1,quantifier
+Todo mundo visitou todas as pessoas,Floriana não visitou Galinhos,0,quantifier
+Todo mundo visitou todos os lugares,Lilite não visitou São José da Tapera,1,quantifier
+Todo mundo visitou todos os lugares,Assunta não visitou Barbosa,1,quantifier
+Todo mundo visitou todos os lugares,Matrosa não visitou Constanza,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Aliça não visitou Ouricuri,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Adelinda não visitou Laureen,0,quantifier
+Todo mundo visitou todas as pessoas,Aureliana não visitou Arroio Grande,0,quantifier
+"Todo mundo visitou Tapauá, Araguacema, Icaraíma, Conceição da Barra, Canhoba, Canudos, Barra Bonita, São Domingos das Dores, Avanhandava, Nazarezinho, Cachoeira Alta, São Felipe e Matrinchã",Taia não visitou Puxinanã,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Milene não visitou Extrema,1,quantifier
+Todo mundo visitou todas as pessoas,Ângel não visitou Deusa,1,quantifier
+Todo mundo visitou todas as pessoas,Joaquina não visitou Monte Formoso,0,quantifier
+Todo mundo visitou todas as pessoas,Giada não visitou Siana,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Geisa não visitou Anunciação,0,quantifier
+Todo mundo visitou todas as pessoas,Margaux não visitou Araputanga,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Mirandolina não visitou Araripe,1,quantifier
+Todo mundo visitou todas as pessoas,Cânia não visitou Frei Inocêncio,0,quantifier
+Todo mundo visitou todos os lugares,Diza não visitou Ferraz de Vasconcelos,1,quantifier
+"Todo mundo visitou Jandaia, Bicas, Lamarão, Bujaru, Ribeirão Pires, Pirapora do Bom Jesus, Sapucaí-Mirim, Tangará, Raposos, Bom Despacho, Inajá, Lavrinhas, Nordestina, Itu, Igarapé-Açu, Estrela do Indaiá, Tupandi, Mesquita e Santa Rosa de Lima",Blandina não visitou Novo Mundo,0,quantifier
+"Todo mundo visitou Granjeiro, Mata Verde, Fazenda Nova, Cabaceiras, Esperantina, Cianorte, Lajeado Novo, Mucuri, Mato Grosso, Mariápolis, Candiba, Nova Santa Rosa, Capitão de Campos, Belém, Mutunópolis e Palmeirândia",Irma não visitou Fazenda Nova,1,quantifier
+Todo mundo visitou todas as pessoas,Selésia não visitou Rondolândia,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Inara não visitou Passo de Camaragibe,1,quantifier
+"Todo mundo visitou Querência do Norte, Palmitinho, Arandu, Tiradentes do Sul, Fazenda Vilanova, Taubaté, Vera Cruz, Pinhão, Virginópolis, Pimenteiras, Lagoa de Dentro, Alfredo Chaves, Palestina, Tangará da Serra, Guaraniaçu e Aveiro",Eleia não visitou Palestina,1,quantifier
+"Todo mundo visitou Solidão, Aurora do Pará, Novo Horizonte, Santana do Ipanema, Nossa Senhora dos Remédios, Saboeiro, São Roque do Canaã, Ribeira do Amparo, Maracás e Sebastião Leal",Benice não visitou Nossa Senhora dos Remédios,1,quantifier
+"Todo mundo visitou Blumenau, Orobó, Angélica, Tupandi, Uruará (por decisão judicial), São Gonçalo dos Campos, Nova Prata do Iguaçu, Abreu e Lima, Floresta, Igaporã, Aparecida, Vilhena, Nova Belém, Armazém, Uruguaiana, Meridiano, Pará de Minas, Alcântaras e Curitiba",Telma não visitou Fênix,0,quantifier
+Todo mundo visitou todas as pessoas,Oana não visitou Ione,1,quantifier
+"Todo mundo visitou Cândido Mota, Goianá, Sapucaia do Sul, Delmiro Gouveia, Urandi, Rolante, Rochedo, São Geraldo do Baixio, Marília, Jardinópolis, Nonoai, Charrua, Nova União, Mairinque, Querência do Norte, Várzea, Darcinópolis e Maripá de Minas",Ekaterina não visitou Palmeirante,0,quantifier
+Todo mundo visitou todos os lugares,Moana não visitou Boa Vista do Incra,1,quantifier
+Todo mundo visitou todas as pessoas,Brizida não visitou Miraldina,1,quantifier
+Todo mundo visitou todos os lugares,Bernarda não visitou Dejanira,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Thalita não visitou Matrinchã,0,quantifier
+Todo mundo visitou todos os lugares,Dircea não visitou Alvorada do Norte,1,quantifier
+Todo mundo visitou todos os lugares,Ivana não visitou Leanor,0,quantifier
+Todo mundo visitou todos os lugares,Liduína não visitou Belmira,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Leandra não visitou Orós,1,quantifier
+Todo mundo visitou todos os lugares,Florisbela não visitou Coronel Murta,1,quantifier
+"Todo mundo visitou Guaxupé, Cordilheira Alta, Barracão, Santa Rosa de Lima, Viamão, Guareí, Jupiá, Nova Canaã do Norte, Terra Nova, Barbalha, Itaipé, Itiúba, Sengés, Irapuru, Elias Fausto, São Francisco, Jacuí, Serra do Ramalho, Martinho Campos e Tapejara",Selésia não visitou Elias Fausto,1,quantifier
+"Todo mundo visitou Cocalinho, Carnaubeira da Penha, Cabo Frio, Bom Jardim, Guaimbê, Nova Granada, Casinhas, Mogi das Cruzes, Severínia, Mucajaí, São Salvador do Tocantins, Itapejara d'Oeste, Monte Alegre do Sul, Passa Tempo, Cidade Gaúcha, Nova Esperança do Piriá e Santa Rita do Tocantins",Sierra não visitou São Salvador do Tocantins,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Pégui não visitou Hortênsia,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Seara não visitou Joaquim Nabuco,0,quantifier
+Todo mundo visitou todos os lugares,Florentina não visitou Hersília,0,quantifier
+Todo mundo visitou todos os lugares,Lilian não visitou Carmelina,0,quantifier
+"Todo mundo visitou Pacajá, Laje, Itamarati, Ibiam, Maraú, Indiara, Eugenópolis, Carrasco Bonito, Iporanga, Jucás, Mutunópolis, Santa Cruz, Braço do Trombudo, Capim, São Marcos e Rolador",Samaritana não visitou Laje,1,quantifier
+Todo mundo visitou todos os lugares,Mikaela não visitou São José do Hortêncio,1,quantifier
+"Todo mundo visitou Capela Nova, Rio Fortuna, Serra Talhada, Barão de Grajaú, Relvado, Caibi, Cruz das Almas, Barros Cassal, Lauro de Freitas, Abreu e Lima, Laje, Monte Carlo e Maracaju",Larisa não visitou Caibi,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Acélia não visitou General Maynard,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Décia não visitou Dulcelina,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Jasmim não visitou Foz do Iguaçu,1,quantifier
+"Todo mundo visitou Cajazeirinhas, Pratânia, Jucati, Vereda, Piedade de Ponte Nova, Ubatã, Coqueiros do Sul, São Sebastião do Paraíso, Taguatinga e Catas Altas da Noruega",Elizabeth não visitou Pratânia,1,quantifier
+Todo mundo visitou todos os lugares,Crisna não visitou Teolinda,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Ecaterina não visitou Marataízes,0,quantifier
+Todo mundo visitou todas as pessoas,Serenela não visitou Átina,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Gaitana não visitou Carmo do Cajuru,0,quantifier
+Todo mundo visitou todas as pessoas,Rubina não visitou Coronel Ezequiel,0,quantifier
+Todo mundo visitou todos os lugares,Mirella não visitou Nessy,0,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Simona não visitou Hope,1,quantifier
+Todo mundo visitou todos os lugares,Sania não visitou Ponte Alta do Norte,1,quantifier
+"Todo mundo visitou Três Corações, Cabaceiras do Paraguaçu, Rio Claro, Capitão Leônidas Marques, Segredo, Parnamirim, Major Sales, São Bento, Barra do Guarita, Pratápolis e Conceição do Almeida",Muriel não visitou Itacarambi,0,quantifier
+Todo mundo visitou todas as pessoas,Patrocínia não visitou Carmina,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Graziela não visitou Abby,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Íngride não visitou Guida,0,quantifier
+Todo mundo visitou todas as pessoas,Tessa não visitou Belosinda,1,quantifier
+Todo mundo visitou todas as pessoas e todos os lugares,Lola não visitou Nely,1,quantifier
+Todo mundo visitou todos os lugares,Anésia não visitou Melodia,0,quantifier
+"Todo mundo visitou Primavera, Esteio, Mozarlândia, Ichu, Recife, Mirangaba, Jumirim, Ibiquera, Panelas, Jardinópolis, Iguaraçu, Marizópolis, Imperatriz, Jaguarari, Palmeira do Piauí, Anta Gorda e Guareí",Leya não visitou Palmeira do Piauí,1,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Levina não visitou São Ludgero,0,quantifier
+"Todo mundo visitou Solidão, Soledade, Olho d'Água, Aquidauana, Moita Bonita, Ortigueira, Vertente do Lério, Ribeira, Roca Sales, Braganey, Jaguapitã, Serra Talhada e Diamante do Norte",Léane não visitou Narandiba,0,quantifier
+Alguem visitou todas as pessoas e todos os lugares,Isabelina não visitou Piumhi,0,quantifier

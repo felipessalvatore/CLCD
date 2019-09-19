@@ -1,0 +1,1001 @@
+sentence1,sentence2,label,label_form
+"Josephine has visited Naomi, Naomi is the person that has visited everyone",Josephine didn't visit Cindy,0,definite_description
+"Juanita is the person that has visited everyone, Cindy has visited Juanita",Cindy didn't visit Kristen,0,definite_description
+"Heather is the person that has visited every place, Heather has visited Harriet",Heather didn't visit Puyallup,1,definite_description
+"Dora has visited Gwendolyn, Gwendolyn is the person that has visited every place",Gwendolyn didn't visit Marion,1,definite_description
+"Anna is the person that has visited everyone, Violet has visited Anna",Violet didn't visit Mattie,0,definite_description
+"Delores is the person that has visited every place, Delores has visited Deborah",Delores didn't visit Woburn,1,definite_description
+"Regina has visited Julie, Regina is the person that has visited every place",Regina didn't visit Clayton,1,definite_description
+"Maryann has visited Jean, Maryann is the person that has visited everyone",Jean didn't visit Diana,0,definite_description
+"Delores is the person that has visited every place, Flora has visited Delores",Flora didn't visit Bremerton,0,definite_description
+"Edith has visited Kristin, Kristin is the person that has visited every place",Edith didn't visit Central Falls,0,definite_description
+"Shelley has visited Jacqueline, Jacqueline is the person that has visited every place",Shelley didn't visit Park Forest,0,definite_description
+"Evelyn has visited Lucille, Lucille is the person that has visited every place",Evelyn didn't visit Rutherford,0,definite_description
+"Crystal has visited Mildred, Mildred is the person that has visited everyone",Crystal didn't visit Rosa,0,definite_description
+"Audrey is the person that has visited every place, Audrey has visited Dawn",Audrey didn't visit Galesburg,1,definite_description
+"Ann has visited Leona, Leona is the person that has visited everyone",Leona didn't visit Jo,1,definite_description
+"Doris has visited Irma, Doris is the person that has visited everyone",Irma didn't visit Misty,0,definite_description
+"Madeline is the person that has visited every place, Madeline has visited Frances",Frances didn't visit Ossining,0,definite_description
+"Cynthia has visited Ruth, Ruth is the person that has visited every place",Cynthia didn't visit Gallup,0,definite_description
+"Penny is the person that has visited every place, Margie has visited Penny",Penny didn't visit Waimea,1,definite_description
+"Lula is the person that has visited every place, Iris has visited Lula",Lula didn't visit Charlevoix,1,definite_description
+"Marsha is the person that has visited everyone, Shirley has visited Marsha",Marsha didn't visit Joanna,1,definite_description
+"Flora is the person that has visited every place, Flora has visited Alice",Flora didn't visit Price,1,definite_description
+"Ruth is the person that has visited every place, Kelly has visited Ruth",Ruth didn't visit Orangeburg,1,definite_description
+"Terry has visited Anna, Terry is the person that has visited every place",Anna didn't visit El Cerrito,0,definite_description
+"Theresa is the person that has visited everyone, Penny has visited Theresa",Penny didn't visit Arlene,0,definite_description
+"Judith has visited Miriam, Judith is the person that has visited every place",Miriam didn't visit Saint Joseph,0,definite_description
+"Betty is the person that has visited everyone, Sherri has visited Betty",Betty didn't visit Ida,1,definite_description
+"Christy has visited Pauline, Christy is the person that has visited every place",Pauline didn't visit Corydon,0,definite_description
+"Jacqueline has visited Lauren, Jacqueline is the person that has visited everyone",Jacqueline didn't visit Monique,1,definite_description
+"Jeanne is the person that has visited everyone, Jeanne has visited Gwendolyn",Gwendolyn didn't visit Alberta,0,definite_description
+"Susie has visited Jodi, Susie is the person that has visited every place",Jodi didn't visit Mandan,0,definite_description
+"Sara is the person that has visited everyone, Sara has visited Amanda",Amanda didn't visit Alma,0,definite_description
+"Velma is the person that has visited everyone, Clara has visited Velma",Velma didn't visit Emma,1,definite_description
+"Sabrina is the person that has visited every place, Carolyn has visited Sabrina",Sabrina didn't visit Fairhaven,1,definite_description
+"Ada has visited Carla, Ada is the person that has visited everyone",Ada didn't visit Pamela,1,definite_description
+"Janet has visited Guadalupe, Guadalupe is the person that has visited every place",Janet didn't visit Mount Holly,0,definite_description
+"Wilma has visited Carol, Wilma is the person that has visited everyone",Wilma didn't visit Brittany,1,definite_description
+"Eva is the person that has visited every place, Wilma has visited Eva",Wilma didn't visit Canton,0,definite_description
+"Holly has visited Faye, Holly is the person that has visited everyone",Holly didn't visit Priscilla,1,definite_description
+"Charlene has visited Nora, Charlene is the person that has visited every place",Charlene didn't visit Anaconda,1,definite_description
+"Holly has visited Kristina, Kristina is the person that has visited everyone",Holly didn't visit Carol,0,definite_description
+"Crystal is the person that has visited every place, Alicia has visited Crystal",Crystal didn't visit Clifton,1,definite_description
+"Theresa has visited Kim, Theresa is the person that has visited everyone",Theresa didn't visit Clara,1,definite_description
+"Kristin is the person that has visited every place, Kristin has visited April",April didn't visit Westminster,0,definite_description
+"Jodi is the person that has visited every place, Jodi has visited June",Jodi didn't visit Albuquerque,1,definite_description
+"Joanne is the person that has visited every place, Jeanne has visited Joanne",Joanne didn't visit Victoria,1,definite_description
+"Rhonda is the person that has visited every place, Rhonda has visited Lisa",Lisa didn't visit Simsbury,0,definite_description
+"Wilma has visited Erin, Erin is the person that has visited every place",Wilma didn't visit Douglas,0,definite_description
+"Andrea has visited Debra, Debra is the person that has visited everyone",Andrea didn't visit Diane,0,definite_description
+"Lori has visited Isabel, Lori is the person that has visited every place",Isabel didn't visit Cortland,0,definite_description
+"Yvette has visited Amanda, Amanda is the person that has visited everyone",Yvette didn't visit Allison,0,definite_description
+"Joy has visited Natalie, Joy is the person that has visited everyone",Natalie didn't visit Bobbie,0,definite_description
+"Virginia is the person that has visited every place, Virginia has visited Dolores",Virginia didn't visit Coeur d’Alene,1,definite_description
+"Kim is the person that has visited everyone, Kim has visited Bobbie",Bobbie didn't visit Lillie,0,definite_description
+"Tamara is the person that has visited every place, Tamara has visited Shirley",Tamara didn't visit Kennewick,1,definite_description
+"Carolyn has visited Judith, Carolyn is the person that has visited everyone",Carolyn didn't visit Vivian,1,definite_description
+"Joan has visited Terry, Joan is the person that has visited everyone",Joan didn't visit Viola,1,definite_description
+"Leah is the person that has visited everyone, Sherry has visited Leah",Leah didn't visit Brenda,1,definite_description
+"Dora has visited Yolanda, Yolanda is the person that has visited everyone",Yolanda didn't visit Lynn,1,definite_description
+"Cathy is the person that has visited everyone, Lee has visited Cathy",Lee didn't visit Bertha,0,definite_description
+"Sabrina has visited Kay, Sabrina is the person that has visited everyone",Sabrina didn't visit Willie,1,definite_description
+"Janice is the person that has visited every place, Natalie has visited Janice",Natalie didn't visit Houghton,0,definite_description
+"Monique is the person that has visited everyone, Monique has visited Tiffany",Monique didn't visit Sherry,1,definite_description
+"Elizabeth has visited Lindsay, Elizabeth is the person that has visited every place",Elizabeth didn't visit Staunton,1,definite_description
+"Grace has visited Elaine, Grace is the person that has visited every place",Grace didn't visit Aberdeen,1,definite_description
+"Anne is the person that has visited every place, Anne has visited Janice",Anne didn't visit Milton,1,definite_description
+"Lee has visited Anna, Lee is the person that has visited every place",Anna didn't visit Bradenton,0,definite_description
+"Ruby is the person that has visited every place, Ruby has visited Monica",Monica didn't visit Corpus Christi,0,definite_description
+"Samantha has visited Wanda, Wanda is the person that has visited every place",Samantha didn't visit Greensburg,0,definite_description
+"Loretta is the person that has visited everyone, Loretta has visited Lisa",Lisa didn't visit Maggie,0,definite_description
+"Maria is the person that has visited every place, Frances has visited Maria",Frances didn't visit Centralia,0,definite_description
+"Janie is the person that has visited everyone, Janie has visited Jennifer",Jennifer didn't visit Kimberly,0,definite_description
+"Yvonne is the person that has visited every place, Maureen has visited Yvonne",Maureen didn't visit Dedham,0,definite_description
+"Lillie is the person that has visited everyone, Margarita has visited Lillie",Margarita didn't visit Cecilia,0,definite_description
+"Amelia has visited Gina, Amelia is the person that has visited every place",Amelia didn't visit Indianola,1,definite_description
+"Martha is the person that has visited every place, Joanna has visited Martha",Martha didn't visit Cordova,1,definite_description
+"Juana is the person that has visited every place, Miriam has visited Juana",Juana didn't visit Deming,1,definite_description
+"Anita has visited Lindsey, Anita is the person that has visited everyone",Lindsey didn't visit Marsha,0,definite_description
+"Beulah is the person that has visited everyone, Terry has visited Beulah",Beulah didn't visit Edna,1,definite_description
+"Esther has visited Shannon, Shannon is the person that has visited everyone",Shannon didn't visit Shirley,1,definite_description
+"Cheryl has visited Kayla, Cheryl is the person that has visited everyone",Cheryl didn't visit Violet,1,definite_description
+"Luz has visited Helen, Helen is the person that has visited everyone",Luz didn't visit Rita,0,definite_description
+"Janet is the person that has visited every place, Janet has visited Priscilla",Janet didn't visit Magnolia,1,definite_description
+"Linda has visited Blanche, Blanche is the person that has visited every place",Blanche didn't visit Harwich,1,definite_description
+"Clara has visited Maryann, Maryann is the person that has visited every place",Clara didn't visit Baltimore,0,definite_description
+"Carol has visited Belinda, Belinda is the person that has visited every place",Carol didn't visit Dedham,0,definite_description
+"Jan has visited Wendy, Jan is the person that has visited every place",Jan didn't visit Lompoc,1,definite_description
+"Antoinette is the person that has visited everyone, Antoinette has visited Shelly",Antoinette didn't visit Sheryl,1,definite_description
+"Phyllis is the person that has visited everyone, Phyllis has visited Gwendolyn",Gwendolyn didn't visit Brandi,0,definite_description
+"Amber has visited Kathleen, Kathleen is the person that has visited everyone",Amber didn't visit Jeanne,0,definite_description
+"June has visited Violet, June is the person that has visited every place",Violet didn't visit Englewood,0,definite_description
+"Claire is the person that has visited everyone, Claire has visited Regina",Claire didn't visit Sharon,1,definite_description
+"Lynda is the person that has visited every place, Amelia has visited Lynda",Amelia didn't visit Paterson,0,definite_description
+"Kristine is the person that has visited every place, Kristine has visited Roberta",Roberta didn't visit Wallingford,0,definite_description
+"Erika has visited Erica, Erika is the person that has visited every place",Erica didn't visit Burlington,0,definite_description
+"Minnie is the person that has visited everyone, Minnie has visited Georgia",Georgia didn't visit Natasha,0,definite_description
+"Willie is the person that has visited everyone, Willie has visited Christine",Willie didn't visit Ellen,1,definite_description
+"Lorraine has visited Alison, Alison is the person that has visited every place",Alison didn't visit El Dorado,1,definite_description
+"Gertrude is the person that has visited every place, Jean has visited Gertrude",Gertrude didn't visit Lebanon,1,definite_description
+"Charlene is the person that has visited everyone, Charlene has visited Eleanor",Eleanor didn't visit Mary,0,definite_description
+"Dorothy is the person that has visited everyone, Dorothy has visited Eva",Eva didn't visit Louise,0,definite_description
+"Billie is the person that has visited everyone, Edna has visited Billie",Edna didn't visit Minnie,0,definite_description
+"Daisy is the person that has visited everyone, Janice has visited Daisy",Janice didn't visit Candace,0,definite_description
+"Rachel is the person that has visited everyone, Rachel has visited Claire",Rachel didn't visit Tamara,1,definite_description
+"Jo has visited Robin, Robin is the person that has visited everyone",Robin didn't visit Ella,1,definite_description
+"Kristen is the person that has visited every place, Kristen has visited June",June didn't visit Corinth,0,definite_description
+"Jeanette is the person that has visited every place, Susan has visited Jeanette",Susan didn't visit Brunswick,0,definite_description
+"Shelly has visited Deanna, Shelly is the person that has visited every place",Shelly didn't visit Litchfield,1,definite_description
+"June is the person that has visited every place, June has visited Ramona",June didn't visit Socorro,1,definite_description
+"Lillie has visited Katrina, Lillie is the person that has visited every place",Lillie didn't visit Alexandria,1,definite_description
+"Georgia is the person that has visited everyone, Megan has visited Georgia",Georgia didn't visit Priscilla,1,definite_description
+"Rebecca is the person that has visited every place, Tammy has visited Rebecca",Rebecca didn't visit Downey,1,definite_description
+"Dianne is the person that has visited everyone, Dianne has visited Ellen",Dianne didn't visit Juanita,1,definite_description
+"Tracy is the person that has visited everyone, Tracy has visited Ruth",Ruth didn't visit Betty,0,definite_description
+"Cynthia has visited Janie, Cynthia is the person that has visited everyone",Cynthia didn't visit Marlene,1,definite_description
+"Debbie is the person that has visited every place, Debbie has visited Susan",Susan didn't visit Alexandria,0,definite_description
+"Sarah has visited Madeline, Madeline is the person that has visited every place",Sarah didn't visit Ketchikan,0,definite_description
+"Lindsay has visited Pearl, Lindsay is the person that has visited every place",Lindsay didn't visit Cookeville,1,definite_description
+"Christy is the person that has visited every place, Christy has visited Monique",Monique didn't visit West Chester,0,definite_description
+"Melody has visited Phyllis, Phyllis is the person that has visited every place",Phyllis didn't visit Pascagoula,1,definite_description
+"Kay has visited Audrey, Kay is the person that has visited every place",Kay didn't visit Homestead,1,definite_description
+"Lindsay is the person that has visited everyone, Lindsay has visited Jennifer",Jennifer didn't visit Norma,0,definite_description
+"Cecilia is the person that has visited every place, Cecilia has visited Joyce",Cecilia didn't visit Berkeley,1,definite_description
+"Charlotte is the person that has visited every place, Charlotte has visited Regina",Charlotte didn't visit Odessa,1,definite_description
+"Edith has visited Alicia, Alicia is the person that has visited everyone",Edith didn't visit Judy,0,definite_description
+"Judy is the person that has visited everyone, Angie has visited Judy",Judy didn't visit Alma,1,definite_description
+"Bertha is the person that has visited everyone, Ellen has visited Bertha",Bertha didn't visit Antoinette,1,definite_description
+"Lola has visited Jacqueline, Jacqueline is the person that has visited everyone",Jacqueline didn't visit Lois,1,definite_description
+"Mae is the person that has visited everyone, Amber has visited Mae",Mae didn't visit Margaret,1,definite_description
+"Hilda has visited Mary, Mary is the person that has visited everyone",Mary didn't visit Vera,1,definite_description
+"Leona has visited Paula, Paula is the person that has visited everyone",Leona didn't visit Linda,0,definite_description
+"Lula is the person that has visited every place, Lula has visited Olga",Olga didn't visit Marietta,0,definite_description
+"Delores is the person that has visited everyone, Lena has visited Delores",Lena didn't visit Dorothy,0,definite_description
+"Gladys has visited Miriam, Gladys is the person that has visited everyone",Gladys didn't visit Holly,1,definite_description
+"Heidi is the person that has visited everyone, Carrie has visited Heidi",Carrie didn't visit Ruby,0,definite_description
+"Nellie has visited Stacy, Nellie is the person that has visited every place",Stacy didn't visit Chester,0,definite_description
+"Joyce has visited Kayla, Kayla is the person that has visited every place",Kayla didn't visit Cohoes,1,definite_description
+"Catherine is the person that has visited everyone, Hazel has visited Catherine",Catherine didn't visit Misty,1,definite_description
+"Emma is the person that has visited every place, Nina has visited Emma",Emma didn't visit Skokie,1,definite_description
+"Tanya is the person that has visited everyone, Bonnie has visited Tanya",Tanya didn't visit Linda,1,definite_description
+"Lisa has visited Willie, Willie is the person that has visited everyone",Lisa didn't visit Lorraine,0,definite_description
+"Louise is the person that has visited everyone, Melinda has visited Louise",Melinda didn't visit Florence,0,definite_description
+"Kimberly is the person that has visited everyone, Erin has visited Kimberly",Erin didn't visit Pamela,0,definite_description
+"Dana has visited Barbara, Barbara is the person that has visited everyone",Barbara didn't visit April,1,definite_description
+"Toni has visited Vivian, Vivian is the person that has visited every place",Toni didn't visit Glen Ellyn,0,definite_description
+"Regina is the person that has visited everyone, Angela has visited Regina",Regina didn't visit Veronica,1,definite_description
+"Colleen has visited Belinda, Belinda is the person that has visited every place",Belinda didn't visit Raleigh,1,definite_description
+"Jeanette has visited Jamie, Jeanette is the person that has visited everyone",Jamie didn't visit Kristen,0,definite_description
+"Claire has visited Susan, Susan is the person that has visited every place",Susan didn't visit Harrison,1,definite_description
+"Marian has visited Willie, Willie is the person that has visited every place",Marian didn't visit East Liverpool,0,definite_description
+"Joy is the person that has visited everyone, Joy has visited Bertha",Bertha didn't visit Carla,0,definite_description
+"Charlene has visited Helen, Charlene is the person that has visited everyone",Charlene didn't visit Angela,1,definite_description
+"Lindsay is the person that has visited every place, Lindsay has visited Jenny",Jenny didn't visit South Kingstown,0,definite_description
+"Marian has visited Marion, Marion is the person that has visited everyone",Marian didn't visit Kelly,0,definite_description
+"Stella has visited Judith, Stella is the person that has visited every place",Judith didn't visit Geneva,0,definite_description
+"Anita has visited Emily, Emily is the person that has visited everyone",Anita didn't visit Tammy,0,definite_description
+"Kristina has visited Rosemary, Rosemary is the person that has visited every place",Kristina didn't visit Barstow,0,definite_description
+"Ella has visited Michele, Ella is the person that has visited everyone",Ella didn't visit Kay,1,definite_description
+"Bernice is the person that has visited everyone, Bernice has visited Marian",Marian didn't visit Yvonne,0,definite_description
+"Amelia is the person that has visited everyone, Amelia has visited Felicia",Amelia didn't visit Nicole,1,definite_description
+"Helen has visited Iris, Helen is the person that has visited every place",Iris didn't visit West Allis,0,definite_description
+"April has visited Frances, Frances is the person that has visited every place",April didn't visit Richardson,0,definite_description
+"Marguerite has visited Georgia, Georgia is the person that has visited every place",Georgia didn't visit Ossining,1,definite_description
+"Leona is the person that has visited everyone, Leona has visited Cheryl",Leona didn't visit Sarah,1,definite_description
+"Elsie has visited Anna, Elsie is the person that has visited every place",Anna didn't visit Escanaba,0,definite_description
+"Eunice has visited Tanya, Eunice is the person that has visited every place",Eunice didn't visit Columbus,1,definite_description
+"Deanna is the person that has visited everyone, Deanna has visited Sylvia",Deanna didn't visit Phyllis,1,definite_description
+"Tammy is the person that has visited everyone, Kristin has visited Tammy",Tammy didn't visit Ashley,1,definite_description
+"Deanna is the person that has visited everyone, Deanna has visited Cindy",Cindy didn't visit Belinda,0,definite_description
+"Emma is the person that has visited every place, Emma has visited Eva",Eva didn't visit Memphis,0,definite_description
+"Kristen is the person that has visited everyone, Kristen has visited Mae",Mae didn't visit Linda,0,definite_description
+"Lola has visited Christine, Christine is the person that has visited everyone",Christine didn't visit Minnie,1,definite_description
+"Tanya is the person that has visited everyone, Tanya has visited Lindsey",Tanya didn't visit Lee,1,definite_description
+"Maryann is the person that has visited every place, Lorraine has visited Maryann",Maryann didn't visit Monterey,1,definite_description
+"Kathryn has visited Florence, Florence is the person that has visited everyone",Kathryn didn't visit Carolyn,0,definite_description
+"Erin has visited Sharon, Sharon is the person that has visited everyone",Sharon didn't visit Sue,1,definite_description
+"Joann has visited Kay, Kay is the person that has visited everyone",Kay didn't visit Felicia,1,definite_description
+"Felicia is the person that has visited every place, Felicia has visited Rachel",Rachel didn't visit Washington,0,definite_description
+"Bertha has visited Bonnie, Bonnie is the person that has visited every place",Bonnie didn't visit Weatherford,1,definite_description
+"Margie has visited Leslie, Margie is the person that has visited everyone",Leslie didn't visit Cheryl,0,definite_description
+"Gwendolyn is the person that has visited every place, Blanche has visited Gwendolyn",Blanche didn't visit Jackson,0,definite_description
+"Jane has visited Olivia, Olivia is the person that has visited everyone",Olivia didn't visit Shannon,1,definite_description
+"Vivian has visited Michelle, Michelle is the person that has visited every place",Vivian didn't visit Georgia,0,definite_description
+"Violet has visited Jenny, Jenny is the person that has visited every place",Jenny didn't visit Millburn,1,definite_description
+"Crystal has visited Marcia, Crystal is the person that has visited every place",Crystal didn't visit Fort Scott,1,definite_description
+"Nina has visited Marcia, Marcia is the person that has visited every place",Marcia didn't visit Granite City,1,definite_description
+"Ida is the person that has visited everyone, Ida has visited Susan",Ida didn't visit Kayla,1,definite_description
+"Tracy is the person that has visited everyone, Tracy has visited Margaret",Tracy didn't visit Kimberly,1,definite_description
+"Rachel has visited Gladys, Rachel is the person that has visited everyone",Gladys didn't visit Beatrice,0,definite_description
+"Rosa has visited Virginia, Virginia is the person that has visited everyone",Rosa didn't visit Olga,0,definite_description
+"Geraldine is the person that has visited everyone, Kristen has visited Geraldine",Kristen didn't visit Gail,0,definite_description
+"Gloria has visited Ida, Ida is the person that has visited everyone",Ida didn't visit Georgia,1,definite_description
+"Cathy is the person that has visited everyone, Jessica has visited Cathy",Cathy didn't visit Loretta,1,definite_description
+"Annie is the person that has visited everyone, Annie has visited Ann",Annie didn't visit Harriet,1,definite_description
+"Vera has visited Blanche, Blanche is the person that has visited every place",Vera didn't visit Dalton,0,definite_description
+"Alice is the person that has visited everyone, Rita has visited Alice",Rita didn't visit Sheryl,0,definite_description
+"Madeline has visited Ella, Madeline is the person that has visited every place",Ella didn't visit Calumet City,0,definite_description
+"Carrie is the person that has visited every place, Carrie has visited Catherine",Catherine didn't visit Groton,0,definite_description
+"Katie has visited Janie, Janie is the person that has visited everyone",Janie didn't visit Marion,1,definite_description
+"Carolyn is the person that has visited everyone, Patricia has visited Carolyn",Carolyn didn't visit Wilma,1,definite_description
+"Carol is the person that has visited every place, Carol has visited Verna",Carol didn't visit Weston,1,definite_description
+"Sylvia is the person that has visited every place, Maxine has visited Sylvia",Sylvia didn't visit Ludlow,1,definite_description
+"Ada has visited Edith, Edith is the person that has visited every place",Edith didn't visit Guthrie,1,definite_description
+"Kay has visited Elaine, Elaine is the person that has visited everyone",Kay didn't visit Joanna,0,definite_description
+"Miriam has visited Sherry, Sherry is the person that has visited every place",Miriam didn't visit Princeton,0,definite_description
+"June is the person that has visited every place, Nora has visited June",Nora didn't visit Juneau,0,definite_description
+"Norma has visited Mary, Mary is the person that has visited everyone",Norma didn't visit Jacqueline,0,definite_description
+"Renee has visited Toni, Toni is the person that has visited every place",Toni didn't visit New Philadelphia,1,definite_description
+"Irene has visited Marsha, Irene is the person that has visited every place",Marsha didn't visit Oxford,0,definite_description
+"Constance is the person that has visited every place, Constance has visited Amelia",Amelia didn't visit Sunnyvale,0,definite_description
+"Pauline is the person that has visited everyone, Verna has visited Pauline",Pauline didn't visit Daisy,1,definite_description
+"Gina has visited Constance, Constance is the person that has visited everyone",Gina didn't visit Angela,0,definite_description
+"Stella has visited Ashley, Ashley is the person that has visited everyone",Ashley didn't visit Lori,1,definite_description
+"Claudia has visited Brandi, Claudia is the person that has visited everyone",Brandi didn't visit Marilyn,0,definite_description
+"Lisa is the person that has visited everyone, Lisa has visited Alicia",Lisa didn't visit Sandy,1,definite_description
+"Flora is the person that has visited everyone, Marlene has visited Flora",Marlene didn't visit Caroline,0,definite_description
+"Nora has visited Brenda, Nora is the person that has visited every place",Brenda didn't visit Memphis,0,definite_description
+"Grace is the person that has visited everyone, Esther has visited Grace",Grace didn't visit Lola,1,definite_description
+"Opal has visited Judith, Judith is the person that has visited every place",Opal didn't visit Bristol,0,definite_description
+"Jennifer is the person that has visited every place, Sonya has visited Jennifer",Jennifer didn't visit Darien,1,definite_description
+"Jill is the person that has visited everyone, Jill has visited Sandra",Jill didn't visit Dora,1,definite_description
+"Faye is the person that has visited everyone, Faye has visited Pamela",Pamela didn't visit Toni,0,definite_description
+"Antoinette is the person that has visited everyone, Antoinette has visited Kristin",Kristin didn't visit Joanne,0,definite_description
+"Thelma is the person that has visited every place, Thelma has visited Suzanne",Suzanne didn't visit Long Beach,0,definite_description
+"Claire is the person that has visited everyone, Emily has visited Claire",Emily didn't visit Maureen,0,definite_description
+"Lynn has visited Tracy, Tracy is the person that has visited every place",Tracy didn't visit Duncan,1,definite_description
+"Patricia is the person that has visited everyone, Patricia has visited Sheila",Sheila didn't visit Jo,0,definite_description
+"Lindsay has visited Yolanda, Lindsay is the person that has visited everyone",Yolanda didn't visit Katherine,0,definite_description
+"Pauline is the person that has visited every place, Pauline has visited Mamie",Pauline didn't visit Lisle,1,definite_description
+"Allison has visited Bonnie, Bonnie is the person that has visited everyone",Allison didn't visit Madeline,0,definite_description
+"Rachel has visited Harriet, Harriet is the person that has visited everyone",Harriet didn't visit Teresa,1,definite_description
+"Stella is the person that has visited every place, Stella has visited Alice",Stella didn't visit Nyack,1,definite_description
+"Brittany is the person that has visited every place, Dawn has visited Brittany",Brittany didn't visit Derry,1,definite_description
+"Sabrina has visited Lauren, Sabrina is the person that has visited every place",Sabrina didn't visit Lombard,1,definite_description
+"Wendy is the person that has visited everyone, Denise has visited Wendy",Denise didn't visit Bonnie,0,definite_description
+"Marcia is the person that has visited everyone, Marcia has visited Carrie",Carrie didn't visit Iris,0,definite_description
+"Ruth is the person that has visited everyone, Ruth has visited Claire",Claire didn't visit Leah,0,definite_description
+"Vickie has visited Esther, Vickie is the person that has visited every place",Esther didn't visit Sapulpa,0,definite_description
+"Glenda is the person that has visited every place, Patsy has visited Glenda",Patsy didn't visit Newport,0,definite_description
+"Emily is the person that has visited everyone, Emily has visited Jan",Jan didn't visit Minnie,0,definite_description
+"Rachel has visited Caroline, Rachel is the person that has visited every place",Rachel didn't visit Manchester,1,definite_description
+"Marie is the person that has visited everyone, Kay has visited Marie",Marie didn't visit Debbie,1,definite_description
+"Mildred is the person that has visited every place, Mildred has visited Hazel",Hazel didn't visit Walsenburg,0,definite_description
+"Josephine is the person that has visited every place, Esther has visited Josephine",Josephine didn't visit Chillicothe,1,definite_description
+"Andrea is the person that has visited every place, Sabrina has visited Andrea",Sabrina didn't visit College Park,0,definite_description
+"Mildred has visited Caroline, Caroline is the person that has visited everyone",Mildred didn't visit Jan,0,definite_description
+"Edna has visited Sheila, Edna is the person that has visited everyone",Sheila didn't visit June,0,definite_description
+"Margaret is the person that has visited every place, Margaret has visited Jamie",Margaret didn't visit Woodward,1,definite_description
+"Allison is the person that has visited every place, Allison has visited Susie",Susie didn't visit Port Huron,0,definite_description
+"Naomi is the person that has visited every place, Hazel has visited Naomi",Hazel didn't visit Natchitoches,0,definite_description
+"Nicole is the person that has visited everyone, Claire has visited Nicole",Nicole didn't visit Emily,1,definite_description
+"April has visited Christina, April is the person that has visited every place",April didn't visit Davis,1,definite_description
+"Patricia has visited Constance, Patricia is the person that has visited every place",Patricia didn't visit Fort Collins,1,definite_description
+"Maryann has visited Miriam, Miriam is the person that has visited everyone",Miriam didn't visit Naomi,1,definite_description
+"Emma is the person that has visited everyone, Judy has visited Emma",Judy didn't visit Nora,0,definite_description
+"Elaine is the person that has visited everyone, Elaine has visited Colleen",Elaine didn't visit Jeanette,1,definite_description
+"Jennifer has visited Mary, Jennifer is the person that has visited everyone",Mary didn't visit Lillie,0,definite_description
+"Lorraine has visited Kristina, Kristina is the person that has visited every place",Lorraine didn't visit Ardmore,0,definite_description
+"Andrea is the person that has visited every place, Alberta has visited Andrea",Andrea didn't visit East Haven,1,definite_description
+"Wendy has visited Cynthia, Wendy is the person that has visited every place",Wendy didn't visit Provincetown,1,definite_description
+"Ana has visited Elizabeth, Elizabeth is the person that has visited everyone",Ana didn't visit Lori,0,definite_description
+"Beverly has visited Lillie, Beverly is the person that has visited everyone",Lillie didn't visit Jan,0,definite_description
+"Maria has visited Beatrice, Maria is the person that has visited everyone",Maria didn't visit Kristine,1,definite_description
+"Diane has visited Erin, Diane is the person that has visited everyone",Diane didn't visit Julie,1,definite_description
+"Ramona has visited Rita, Ramona is the person that has visited everyone",Rita didn't visit Diane,0,definite_description
+"Nina has visited Dana, Nina is the person that has visited everyone",Dana didn't visit Diane,0,definite_description
+"Brandi is the person that has visited every place, Sandra has visited Brandi",Sandra didn't visit Huntington,0,definite_description
+"Margarita is the person that has visited every place, Margarita has visited Julie",Julie didn't visit Charles Town,0,definite_description
+"Christine is the person that has visited everyone, Gertrude has visited Christine",Gertrude didn't visit Amber,0,definite_description
+"Margie has visited Bernice, Margie is the person that has visited every place",Bernice didn't visit Walpi,0,definite_description
+"Evelyn has visited Wendy, Evelyn is the person that has visited every place",Wendy didn't visit Alexander City,0,definite_description
+"Elsie has visited Emily, Emily is the person that has visited every place",Emily didn't visit Youngstown,1,definite_description
+"Stella is the person that has visited every place, Stella has visited Colleen",Colleen didn't visit Easton,0,definite_description
+"Natasha is the person that has visited everyone, Heidi has visited Natasha",Natasha didn't visit Pearl,1,definite_description
+"Eva is the person that has visited every place, Eva has visited Wendy",Wendy didn't visit Pittsburgh,0,definite_description
+"Dorothy has visited Phyllis, Dorothy is the person that has visited everyone",Phyllis didn't visit Virginia,0,definite_description
+"Beulah is the person that has visited every place, Beulah has visited Terry",Beulah didn't visit Flagstaff,1,definite_description
+"Claire is the person that has visited everyone, Jill has visited Claire",Jill didn't visit Ada,0,definite_description
+"Sue has visited Viola, Viola is the person that has visited every place",Viola didn't visit Steubenville,1,definite_description
+"Nancy has visited Colleen, Nancy is the person that has visited every place",Colleen didn't visit New Castle,0,definite_description
+"Jennie has visited Maxine, Jennie is the person that has visited every place",Jennie didn't visit Durango,1,definite_description
+"Laura is the person that has visited every place, Patricia has visited Laura",Patricia didn't visit Yellow Springs,0,definite_description
+"Darlene is the person that has visited every place, Darlene has visited Laura",Darlene didn't visit Laredo,1,definite_description
+"Martha is the person that has visited every place, Tina has visited Martha",Tina didn't visit Levittown,0,definite_description
+"Frances has visited Olga, Olga is the person that has visited every place",Olga didn't visit White Sulphur Springs,1,definite_description
+"Lydia is the person that has visited everyone, Rosemary has visited Lydia",Rosemary didn't visit Katrina,0,definite_description
+"Dianne has visited Dawn, Dawn is the person that has visited every place",Dawn didn't visit Neosho,1,definite_description
+"Lorraine is the person that has visited every place, Lorraine has visited Donna",Lorraine didn't visit Lewiston,1,definite_description
+"Lori is the person that has visited everyone, Rebecca has visited Lori",Lori didn't visit Mattie,1,definite_description
+"Charlotte is the person that has visited every place, Charlotte has visited Belinda",Belinda didn't visit Wilson,0,definite_description
+"Rose has visited Kimberly, Kimberly is the person that has visited everyone",Kimberly didn't visit Maureen,1,definite_description
+"Elaine has visited Rhonda, Rhonda is the person that has visited every place",Rhonda didn't visit Thibodaux,1,definite_description
+"Nicole is the person that has visited every place, Joann has visited Nicole",Nicole didn't visit Charlotte,1,definite_description
+"Lillian has visited Pamela, Lillian is the person that has visited every place",Pamela didn't visit Port Angeles,0,definite_description
+"Rosa is the person that has visited every place, Rosa has visited Jenny",Jenny didn't visit South Kingstown,0,definite_description
+"Kristina has visited Kathleen, Kristina is the person that has visited everyone",Kathleen didn't visit Gail,0,definite_description
+"Glenda is the person that has visited everyone, Alberta has visited Glenda",Glenda didn't visit Lynn,1,definite_description
+"Guadalupe has visited Sonya, Sonya is the person that has visited every place",Guadalupe didn't visit Kahului,0,definite_description
+"Eunice is the person that has visited every place, Nancy has visited Eunice",Nancy didn't visit Chester,0,definite_description
+"Rebecca is the person that has visited every place, Crystal has visited Rebecca",Rebecca didn't visit New Jersey,1,definite_description
+"Bobbie has visited Rachel, Bobbie is the person that has visited everyone",Bobbie didn't visit Isabel,1,definite_description
+"Maxine is the person that has visited every place, Crystal has visited Maxine",Crystal didn't visit Chelmsford,0,definite_description
+"Amber is the person that has visited everyone, Anita has visited Amber",Anita didn't visit Alison,0,definite_description
+"Amanda is the person that has visited everyone, Courtney has visited Amanda",Amanda didn't visit Lorraine,1,definite_description
+"Guadalupe is the person that has visited everyone, Guadalupe has visited Emily",Emily didn't visit Catherine,0,definite_description
+"Kristy is the person that has visited every place, Olga has visited Kristy",Kristy didn't visit Ashtabula,1,definite_description
+"Lauren has visited Verna, Lauren is the person that has visited everyone",Lauren didn't visit Rebecca,1,definite_description
+"Jamie is the person that has visited every place, Jamie has visited Edna",Jamie didn't visit Kennebunkport,1,definite_description
+"Sylvia has visited Joan, Sylvia is the person that has visited every place",Sylvia didn't visit Dalton,1,definite_description
+"Stella has visited Bessie, Bessie is the person that has visited every place",Stella didn't visit Nashua,0,definite_description
+"Wendy has visited Roberta, Roberta is the person that has visited every place",Roberta didn't visit Cedar Falls,1,definite_description
+"Donna is the person that has visited everyone, Ada has visited Donna",Ada didn't visit Opal,0,definite_description
+"Martha is the person that has visited every place, Judith has visited Martha",Judith didn't visit Anderson,0,definite_description
+"Phyllis has visited Edith, Edith is the person that has visited every place",Edith didn't visit Macon,1,definite_description
+"Maggie is the person that has visited every place, Maggie has visited Ashley",Maggie didn't visit Danville,1,definite_description
+"Sandy has visited Grace, Sandy is the person that has visited everyone",Sandy didn't visit Sherry,1,definite_description
+"Gloria has visited Erika, Gloria is the person that has visited every place",Gloria didn't visit Zion,1,definite_description
+"Monique has visited Sherry, Sherry is the person that has visited every place",Sherry didn't visit San Simeon,1,definite_description
+"Thelma has visited Margie, Thelma is the person that has visited every place",Margie didn't visit Ossining,0,definite_description
+"Virginia has visited Bessie, Bessie is the person that has visited everyone",Virginia didn't visit Frances,0,definite_description
+"Ruth has visited Bonnie, Ruth is the person that has visited every place",Ruth didn't visit Beacon,1,definite_description
+"Gladys has visited Lillie, Lillie is the person that has visited everyone",Lillie didn't visit Claudia,1,definite_description
+"Linda has visited Debbie, Debbie is the person that has visited every place",Linda didn't visit Plymouth,0,definite_description
+"Kristi has visited Christina, Christina is the person that has visited everyone",Christina didn't visit Peggy,1,definite_description
+"Vera has visited Deanna, Deanna is the person that has visited every place",Vera didn't visit Deerfield Beach,0,definite_description
+"Gloria has visited Alicia, Gloria is the person that has visited everyone",Gloria didn't visit Darlene,1,definite_description
+"Cheryl has visited Jeanette, Cheryl is the person that has visited every place",Jeanette didn't visit Rancho Cucamonga,0,definite_description
+"Anne has visited Mary, Mary is the person that has visited everyone",Mary didn't visit Dana,1,definite_description
+"Hattie is the person that has visited every place, Hattie has visited Brandi",Brandi didn't visit Dallas,0,definite_description
+"Heather has visited Kayla, Kayla is the person that has visited everyone",Heather didn't visit Flora,0,definite_description
+"Cindy is the person that has visited everyone, Cindy has visited Mattie",Mattie didn't visit Erin,0,definite_description
+"Sandy is the person that has visited every place, Sandy has visited Bertha",Sandy didn't visit Plattsmouth,1,definite_description
+"Alison has visited Jamie, Alison is the person that has visited every place",Jamie didn't visit Bedford,0,definite_description
+"Lisa is the person that has visited everyone, Lisa has visited Sabrina",Lisa didn't visit Jamie,1,definite_description
+"June has visited Doris, Doris is the person that has visited everyone",Doris didn't visit Lauren,1,definite_description
+"Joy has visited Olivia, Olivia is the person that has visited everyone",Joy didn't visit Christine,0,definite_description
+"Esther has visited Margarita, Esther is the person that has visited everyone",Margarita didn't visit Bernice,0,definite_description
+"Amber is the person that has visited every place, Amber has visited Jan",Jan didn't visit Gainesville,0,definite_description
+"Carla is the person that has visited everyone, Carla has visited Danielle",Danielle didn't visit Maggie,0,definite_description
+"Wilma is the person that has visited everyone, Wilma has visited Susan",Susan didn't visit Jessica,0,definite_description
+"Kristina has visited Vickie, Vickie is the person that has visited everyone",Vickie didn't visit Theresa,1,definite_description
+"Tonya is the person that has visited every place, Antoinette has visited Tonya",Tonya didn't visit Arlington,1,definite_description
+"Robin has visited Judith, Judith is the person that has visited every place",Judith didn't visit Winston-Salem,1,definite_description
+"Jennifer has visited Angela, Jennifer is the person that has visited everyone",Angela didn't visit Cecilia,0,definite_description
+"Kelly has visited Angie, Kelly is the person that has visited everyone",Kelly didn't visit Billie,1,definite_description
+"Tiffany has visited Robin, Robin is the person that has visited everyone",Robin didn't visit Megan,1,definite_description
+"Candice has visited Kristin, Kristin is the person that has visited everyone",Candice didn't visit Katherine,0,definite_description
+"Stacy is the person that has visited every place, Danielle has visited Stacy",Stacy didn't visit South San Francisco,1,definite_description
+"Josephine has visited Kristine, Josephine is the person that has visited everyone",Josephine didn't visit Sandra,1,definite_description
+"Madeline has visited Eunice, Eunice is the person that has visited every place",Madeline didn't visit Kittery,0,definite_description
+"Tonya has visited Catherine, Catherine is the person that has visited everyone",Tonya didn't visit Lillian,0,definite_description
+"Sara is the person that has visited everyone, Sara has visited Bertha",Bertha didn't visit Jodi,0,definite_description
+"Jamie is the person that has visited everyone, Jamie has visited Mildred",Mildred didn't visit Janice,0,definite_description
+"Lauren is the person that has visited every place, Lauren has visited Megan",Megan didn't visit Boothbay Harbor,0,definite_description
+"Katrina is the person that has visited everyone, Katrina has visited Agnes",Katrina didn't visit Rebecca,1,definite_description
+"Sonya is the person that has visited everyone, Agnes has visited Sonya",Agnes didn't visit Blanche,0,definite_description
+"June has visited Stella, June is the person that has visited everyone",June didn't visit Irene,1,definite_description
+"Deanna has visited Emily, Deanna is the person that has visited everyone",Deanna didn't visit Dora,1,definite_description
+"Phyllis has visited Margaret, Margaret is the person that has visited every place",Phyllis didn't visit Harrisburg,0,definite_description
+"Dora is the person that has visited every place, Dora has visited Suzanne",Suzanne didn't visit Norris,0,definite_description
+"Delores is the person that has visited everyone, Delores has visited Wilma",Delores didn't visit Dolores,1,definite_description
+"Glenda has visited Thelma, Thelma is the person that has visited everyone",Thelma didn't visit Jodi,1,definite_description
+"Elizabeth has visited Juana, Elizabeth is the person that has visited everyone",Elizabeth didn't visit Marlene,1,definite_description
+"Eva has visited Billie, Billie is the person that has visited everyone",Eva didn't visit Sherry,0,definite_description
+"Minnie is the person that has visited everyone, Minnie has visited Terri",Terri didn't visit Gina,0,definite_description
+"Kristen is the person that has visited everyone, Kristen has visited Julie",Kristen didn't visit Lois,1,definite_description
+"Natalie has visited Alma, Alma is the person that has visited everyone",Natalie didn't visit Gladys,0,definite_description
+"Carrie is the person that has visited every place, Carrie has visited Vera",Vera didn't visit White Springs,0,definite_description
+"Kayla is the person that has visited everyone, Kayla has visited Anna",Kayla didn't visit Terry,1,definite_description
+"Janet is the person that has visited everyone, Maria has visited Janet",Janet didn't visit Karen,1,definite_description
+"Christine is the person that has visited everyone, Christine has visited Tammy",Christine didn't visit Catherine,1,definite_description
+"Valerie is the person that has visited every place, Valerie has visited Kimberly",Valerie didn't visit Guthrie,1,definite_description
+"Rebecca has visited Rhonda, Rebecca is the person that has visited every place",Rebecca didn't visit Huntington,1,definite_description
+"Angie is the person that has visited every place, Vanessa has visited Angie",Vanessa didn't visit Lorain,0,definite_description
+"Susie is the person that has visited every place, Susie has visited Jeanette",Susie didn't visit La Grande,1,definite_description
+"Louise is the person that has visited everyone, Louise has visited Lula",Louise didn't visit Andrea,1,definite_description
+"Nellie has visited Diana, Diana is the person that has visited everyone",Diana didn't visit Cheryl,1,definite_description
+"Amelia has visited Sherri, Amelia is the person that has visited every place",Amelia didn't visit Towson,1,definite_description
+"Misty has visited Heidi, Misty is the person that has visited everyone",Heidi didn't visit Terry,0,definite_description
+"Frances is the person that has visited every place, Danielle has visited Frances",Danielle didn't visit Burlington,0,definite_description
+"Rita is the person that has visited every place, Marilyn has visited Rita",Rita didn't visit Abingdon,1,definite_description
+"Erica is the person that has visited everyone, Maxine has visited Erica",Maxine didn't visit Candice,0,definite_description
+"Sandra is the person that has visited everyone, Sandra has visited Maxine",Maxine didn't visit Carla,0,definite_description
+"Carolyn has visited Nina, Carolyn is the person that has visited every place",Nina didn't visit Cranston,0,definite_description
+"Bertha has visited Melissa, Bertha is the person that has visited everyone",Melissa didn't visit Harriet,0,definite_description
+"Rachel is the person that has visited every place, Rachel has visited Lillian",Rachel didn't visit Findlay,1,definite_description
+"Kay has visited Verna, Kay is the person that has visited everyone",Kay didn't visit Jeanne,1,definite_description
+"Jo has visited Kristin, Kristin is the person that has visited everyone",Jo didn't visit Wilma,0,definite_description
+"Joann is the person that has visited every place, Kelly has visited Joann",Kelly didn't visit Guilford,0,definite_description
+"Toni is the person that has visited everyone, Toni has visited Billie",Billie didn't visit Tracy,0,definite_description
+"Bertha has visited Geraldine, Bertha is the person that has visited everyone",Geraldine didn't visit Erika,0,definite_description
+"Jennifer is the person that has visited everyone, Jennifer has visited Sherri",Jennifer didn't visit Lula,1,definite_description
+"Robin has visited Maggie, Maggie is the person that has visited every place",Robin didn't visit Havre,0,definite_description
+"Bessie is the person that has visited everyone, Peggy has visited Bessie",Bessie didn't visit Carolyn,1,definite_description
+"Christine has visited Irene, Christine is the person that has visited everyone",Irene didn't visit Rosie,0,definite_description
+"Helen has visited Mattie, Helen is the person that has visited everyone",Helen didn't visit Miriam,1,definite_description
+"Bessie has visited Joann, Joann is the person that has visited every place",Bessie didn't visit Jefferson City,0,definite_description
+"Debbie has visited Wanda, Wanda is the person that has visited every place",Debbie didn't visit Lebanon,0,definite_description
+"Caroline is the person that has visited everyone, Caroline has visited Guadalupe",Caroline didn't visit Isabel,1,definite_description
+"Rachel has visited Ann, Ann is the person that has visited everyone",Ann didn't visit Cynthia,1,definite_description
+"Priscilla has visited Hazel, Hazel is the person that has visited everyone",Priscilla didn't visit Jennifer,0,definite_description
+"Jo is the person that has visited every place, Judith has visited Jo",Judith didn't visit Warwick,0,definite_description
+"Gladys is the person that has visited everyone, Gladys has visited Janet",Gladys didn't visit Melinda,1,definite_description
+"Candice is the person that has visited every place, Janet has visited Candice",Janet didn't visit Levittown,0,definite_description
+"Carrie is the person that has visited every place, Beth has visited Carrie",Carrie didn't visit New Harmony,1,definite_description
+"Lucille has visited Monica, Monica is the person that has visited everyone",Monica didn't visit Geneva,1,definite_description
+"Madeline is the person that has visited everyone, Madeline has visited Lindsey",Lindsey didn't visit Suzanne,0,definite_description
+"Katie has visited Thelma, Katie is the person that has visited everyone",Katie didn't visit Rosa,1,definite_description
+"Darlene is the person that has visited every place, Darlene has visited Shelly",Shelly didn't visit Bloomington,0,definite_description
+"Megan is the person that has visited every place, Candace has visited Megan",Candace didn't visit Baltimore,0,definite_description
+"Annette is the person that has visited every place, Leslie has visited Annette",Annette didn't visit Olathe,1,definite_description
+"Nicole has visited Elaine, Nicole is the person that has visited every place",Nicole didn't visit Richmond,1,definite_description
+"Andrea has visited Lindsay, Andrea is the person that has visited every place",Lindsay didn't visit Gettysburg,0,definite_description
+"Stacey is the person that has visited every place, Stacey has visited Erika",Stacey didn't visit McMinnville,1,definite_description
+"Lynda has visited Helen, Helen is the person that has visited every place",Lynda didn't visit Binghamton,0,definite_description
+"Annette has visited Christina, Annette is the person that has visited every place",Annette didn't visit Lincoln,1,definite_description
+"Crystal has visited Ellen, Ellen is the person that has visited every place",Ellen didn't visit Columbia,1,definite_description
+"Bobbie has visited Sandra, Sandra is the person that has visited every place",Bobbie didn't visit Gloversville,0,definite_description
+"Frances is the person that has visited everyone, Frances has visited Claire",Frances didn't visit Regina,1,definite_description
+"Dianne is the person that has visited every place, Audrey has visited Dianne",Dianne didn't visit La Junta,1,definite_description
+"Kimberly is the person that has visited every place, Kimberly has visited Marlene",Marlene didn't visit Salisbury,0,definite_description
+"Martha has visited Lillian, Lillian is the person that has visited everyone",Lillian didn't visit Sally,1,definite_description
+"Michelle has visited Juana, Michelle is the person that has visited every place",Juana didn't visit Port Angeles,0,definite_description
+"Leona is the person that has visited everyone, Leona has visited Charlene",Leona didn't visit Wendy,1,definite_description
+"Norma has visited Shelley, Norma is the person that has visited everyone",Shelley didn't visit Patsy,0,definite_description
+"Joyce is the person that has visited every place, Joyce has visited Victoria",Victoria didn't visit Bountiful,0,definite_description
+"Vivian is the person that has visited everyone, Laura has visited Vivian",Laura didn't visit Edna,0,definite_description
+"Rachel is the person that has visited every place, Stacy has visited Rachel",Rachel didn't visit Alamogordo,1,definite_description
+"Ellen is the person that has visited everyone, Ethel has visited Ellen",Ethel didn't visit Rosemary,0,definite_description
+"Christine has visited Beth, Christine is the person that has visited everyone",Christine didn't visit Leslie,1,definite_description
+"Eunice has visited Lynda, Lynda is the person that has visited everyone",Eunice didn't visit Lynn,0,definite_description
+"Erica is the person that has visited everyone, Sandra has visited Erica",Sandra didn't visit Monica,0,definite_description
+"Emily is the person that has visited every place, Emily has visited Caroline",Emily didn't visit Decatur,1,definite_description
+"Stephanie has visited Becky, Stephanie is the person that has visited every place",Stephanie didn't visit York,1,definite_description
+"Madeline has visited Priscilla, Madeline is the person that has visited everyone",Madeline didn't visit Maggie,1,definite_description
+"Viola is the person that has visited everyone, Viola has visited Hattie",Hattie didn't visit Annie,0,definite_description
+"Lydia has visited Annette, Annette is the person that has visited every place",Lydia didn't visit McAlester,0,definite_description
+"Penny is the person that has visited everyone, Megan has visited Penny",Megan didn't visit Rose,0,definite_description
+"Kristin is the person that has visited everyone, Lisa has visited Kristin",Lisa didn't visit Andrea,0,definite_description
+"Marie is the person that has visited every place, Marie has visited Cheryl",Marie didn't visit Amana Colonies,1,definite_description
+"Cheryl is the person that has visited everyone, Misty has visited Cheryl",Misty didn't visit Cindy,0,definite_description
+"Tamara is the person that has visited every place, Tamara has visited Stacey",Tamara didn't visit Niagara Falls,1,definite_description
+"Lucy is the person that has visited everyone, Lucy has visited Jackie",Jackie didn't visit Tina,0,definite_description
+"Vickie has visited Erin, Erin is the person that has visited everyone",Erin didn't visit Jan,1,definite_description
+"Isabel is the person that has visited everyone, Isabel has visited Maryann",Isabel didn't visit Eleanor,1,definite_description
+"Blanche is the person that has visited everyone, Blanche has visited Flora",Blanche didn't visit Sheila,1,definite_description
+"Darlene is the person that has visited everyone, Brandy has visited Darlene",Darlene didn't visit Leslie,1,definite_description
+"Michelle is the person that has visited everyone, Michelle has visited Jennifer",Michelle didn't visit Terri,1,definite_description
+"Dawn has visited Emma, Emma is the person that has visited every place",Emma didn't visit Zanesville,1,definite_description
+"Charlotte has visited Faye, Faye is the person that has visited everyone",Charlotte didn't visit Rosie,0,definite_description
+"Jill is the person that has visited every place, Vanessa has visited Jill",Jill didn't visit Sanford,1,definite_description
+"Jill is the person that has visited everyone, Dolores has visited Jill",Jill didn't visit Olga,1,definite_description
+"Maxine is the person that has visited everyone, Maxine has visited Luz",Maxine didn't visit Rosemary,1,definite_description
+"Sabrina is the person that has visited everyone, Glenda has visited Sabrina",Glenda didn't visit Nancy,0,definite_description
+"Laura is the person that has visited every place, Vanessa has visited Laura",Laura didn't visit Laurel,1,definite_description
+"Rosemary is the person that has visited every place, Hazel has visited Rosemary",Hazel didn't visit Lockport,0,definite_description
+"Wendy is the person that has visited everyone, Wendy has visited Patsy",Patsy didn't visit Lois,0,definite_description
+"Judith is the person that has visited every place, Wanda has visited Judith",Wanda didn't visit Lake Geneva,0,definite_description
+"Sherri is the person that has visited every place, Sherri has visited Carol",Sherri didn't visit Rochester,1,definite_description
+"Sonia is the person that has visited every place, Theresa has visited Sonia",Sonia didn't visit Newberg,1,definite_description
+"Debra has visited Guadalupe, Debra is the person that has visited everyone",Debra didn't visit Faye,1,definite_description
+"Verna is the person that has visited every place, Verna has visited Miriam",Miriam didn't visit New Hope,0,definite_description
+"Renee has visited Robin, Robin is the person that has visited everyone",Renee didn't visit Joan,0,definite_description
+"Janice has visited Sally, Sally is the person that has visited every place",Sally didn't visit Burlington,1,definite_description
+"Tara has visited Sabrina, Tara is the person that has visited every place",Tara didn't visit Redmond,1,definite_description
+"Alberta has visited Emma, Alberta is the person that has visited everyone",Emma didn't visit Terry,0,definite_description
+"Rhonda has visited Renee, Rhonda is the person that has visited everyone",Rhonda didn't visit Margie,1,definite_description
+"Cathy has visited Beth, Cathy is the person that has visited every place",Beth didn't visit Calexico,0,definite_description
+"Joann has visited Sharon, Joann is the person that has visited every place",Sharon didn't visit Mentor,0,definite_description
+"Holly is the person that has visited everyone, Gertrude has visited Holly",Holly didn't visit Bessie,1,definite_description
+"Tammy is the person that has visited every place, Miriam has visited Tammy",Miriam didn't visit Nauvoo,0,definite_description
+"Mabel has visited Sarah, Sarah is the person that has visited every place",Mabel didn't visit Macomb,0,definite_description
+"Carrie is the person that has visited every place, Carrie has visited Susan",Carrie didn't visit Webster,1,definite_description
+"Tonya is the person that has visited every place, Virginia has visited Tonya",Tonya didn't visit Aspen,1,definite_description
+"Sylvia is the person that has visited everyone, Sylvia has visited Terry",Sylvia didn't visit Edna,1,definite_description
+"Inez is the person that has visited everyone, Inez has visited Linda",Linda didn't visit Katherine,0,definite_description
+"Juanita is the person that has visited everyone, Juanita has visited Brittany",Juanita didn't visit Peggy,1,definite_description
+"Jeanne has visited Olivia, Olivia is the person that has visited every place",Jeanne didn't visit Lodi,0,definite_description
+"Erica is the person that has visited everyone, Thelma has visited Erica",Thelma didn't visit Lisa,0,definite_description
+"Bertha is the person that has visited everyone, Debbie has visited Bertha",Debbie didn't visit Susie,0,definite_description
+"Hilda has visited Luz, Luz is the person that has visited everyone",Hilda didn't visit Shelly,0,definite_description
+"Bobbie is the person that has visited every place, Lillian has visited Bobbie",Bobbie didn't visit Livingston,1,definite_description
+"Cynthia has visited Joan, Joan is the person that has visited everyone",Cynthia didn't visit Terry,0,definite_description
+"Lorraine has visited Kristi, Lorraine is the person that has visited everyone",Kristi didn't visit Antoinette,0,definite_description
+"Tracey is the person that has visited every place, Shelly has visited Tracey",Shelly didn't visit Malden,0,definite_description
+"Vanessa is the person that has visited everyone, Vanessa has visited Marsha",Marsha didn't visit Kelly,0,definite_description
+"Jean is the person that has visited everyone, Josephine has visited Jean",Josephine didn't visit Candace,0,definite_description
+"Monique is the person that has visited everyone, Phyllis has visited Monique",Phyllis didn't visit Tammy,0,definite_description
+"Tara has visited Lynda, Tara is the person that has visited everyone",Tara didn't visit Natasha,1,definite_description
+"Brittany is the person that has visited everyone, Maria has visited Brittany",Maria didn't visit Leah,0,definite_description
+"Carol has visited Priscilla, Carol is the person that has visited everyone",Carol didn't visit Vivian,1,definite_description
+"Dorothy has visited Yvette, Yvette is the person that has visited every place",Yvette didn't visit Tuscumbia,1,definite_description
+"Flora has visited Emily, Emily is the person that has visited every place",Flora didn't visit Dunkirk,0,definite_description
+"Cindy has visited Susie, Susie is the person that has visited every place",Cindy didn't visit Price,0,definite_description
+"Eunice is the person that has visited every place, Eunice has visited Ida",Ida didn't visit Ottawa,0,definite_description
+"Eva has visited Patsy, Patsy is the person that has visited every place",Eva didn't visit Ottumwa,0,definite_description
+"Victoria is the person that has visited every place, Gail has visited Victoria",Gail didn't visit Mansfield,0,definite_description
+"Cecilia is the person that has visited every place, Cecilia has visited Tiffany",Tiffany didn't visit Stillwater,0,definite_description
+"Joan is the person that has visited everyone, Joan has visited Amber",Amber didn't visit Terri,0,definite_description
+"Michelle is the person that has visited every place, Suzanne has visited Michelle",Michelle didn't visit East Moline,1,definite_description
+"Paula has visited Katherine, Paula is the person that has visited everyone",Paula didn't visit Nina,1,definite_description
+"Jacqueline has visited Christy, Jacqueline is the person that has visited every place",Jacqueline didn't visit Salisbury,1,definite_description
+"Robin has visited Heather, Heather is the person that has visited everyone",Heather didn't visit Jenny,1,definite_description
+"Vivian has visited Dora, Vivian is the person that has visited every place",Dora didn't visit Santa Claus,0,definite_description
+"Inez is the person that has visited everyone, Flora has visited Inez",Flora didn't visit Vivian,0,definite_description
+"Jenny is the person that has visited every place, Jenny has visited Tara",Jenny didn't visit Chicago Heights,1,definite_description
+"Lorraine has visited Kristine, Kristine is the person that has visited every place",Lorraine didn't visit Green Bay,0,definite_description
+"Maureen is the person that has visited every place, Cora has visited Maureen",Maureen didn't visit Jacksonville,1,definite_description
+"Ann is the person that has visited everyone, Connie has visited Ann",Connie didn't visit Cassandra,0,definite_description
+"Brittany has visited Kathleen, Brittany is the person that has visited every place",Kathleen didn't visit Dayton,0,definite_description
+"Colleen is the person that has visited every place, Pearl has visited Colleen",Pearl didn't visit Hutchinson,0,definite_description
+"Mattie is the person that has visited everyone, Mattie has visited Teresa",Teresa didn't visit Dora,0,definite_description
+"Diane is the person that has visited every place, Jill has visited Diane",Jill didn't visit Wellesley,0,definite_description
+"Cecilia is the person that has visited every place, Cecilia has visited Lisa",Lisa didn't visit Kansas City,0,definite_description
+"Kimberly is the person that has visited everyone, Shannon has visited Kimberly",Shannon didn't visit Virginia,0,definite_description
+"Joanne is the person that has visited everyone, Bonnie has visited Joanne",Joanne didn't visit Gloria,1,definite_description
+"Eva is the person that has visited everyone, Eva has visited Elsie",Elsie didn't visit Felicia,0,definite_description
+"Cynthia is the person that has visited everyone, Cynthia has visited Regina",Regina didn't visit Susie,0,definite_description
+"Cindy is the person that has visited every place, Cindy has visited Louise",Louise didn't visit Winona,0,definite_description
+"Tamara is the person that has visited every place, Jessie has visited Tamara",Jessie didn't visit Saratoga Springs,0,definite_description
+"Violet has visited Ruby, Violet is the person that has visited everyone",Violet didn't visit Dana,1,definite_description
+"Jo has visited Stacey, Stacey is the person that has visited every place",Jo didn't visit Eveleth,0,definite_description
+"Juana has visited Marcia, Juana is the person that has visited everyone",Juana didn't visit Loretta,1,definite_description
+"Danielle has visited Angie, Angie is the person that has visited everyone",Danielle didn't visit Ada,0,definite_description
+"Kristi is the person that has visited every place, Joy has visited Kristi",Joy didn't visit Cahokia,0,definite_description
+"Lindsey is the person that has visited everyone, Lindsey has visited Faye",Lindsey didn't visit Rita,1,definite_description
+"Lydia is the person that has visited every place, Gail has visited Lydia",Lydia didn't visit Adrian,1,definite_description
+"Minnie has visited Antoinette, Minnie is the person that has visited everyone",Minnie didn't visit Maureen,1,definite_description
+"Ruth has visited Shelley, Shelley is the person that has visited everyone",Shelley didn't visit Rebecca,1,definite_description
+"Susie is the person that has visited everyone, Wanda has visited Susie",Wanda didn't visit Lynda,0,definite_description
+"Diane has visited Deborah, Deborah is the person that has visited everyone",Diane didn't visit Leona,0,definite_description
+"Tammy has visited Roberta, Tammy is the person that has visited every place",Roberta didn't visit Conway,0,definite_description
+"Angie has visited Maxine, Angie is the person that has visited everyone",Angie didn't visit Brandy,1,definite_description
+"Viola has visited Brenda, Viola is the person that has visited everyone",Brenda didn't visit Christine,0,definite_description
+"Dawn has visited Martha, Dawn is the person that has visited every place",Martha didn't visit Springfield,0,definite_description
+"Maureen has visited Teresa, Maureen is the person that has visited every place",Maureen didn't visit Springfield,1,definite_description
+"Lena has visited Kathy, Kathy is the person that has visited every place",Lena didn't visit Oak Harbor,0,definite_description
+"Marsha is the person that has visited every place, Susan has visited Marsha",Marsha didn't visit Troy,1,definite_description
+"Sandra has visited Eleanor, Eleanor is the person that has visited everyone",Eleanor didn't visit Helen,1,definite_description
+"Marian is the person that has visited every place, Marian has visited Sandy",Sandy didn't visit Rochester,0,definite_description
+"Dora is the person that has visited everyone, Kristi has visited Dora",Dora didn't visit Sonia,1,definite_description
+"Marie is the person that has visited every place, Marie has visited Rita",Marie didn't visit Lafayette,1,definite_description
+"Holly has visited Juana, Holly is the person that has visited every place",Juana didn't visit Haddonfield,0,definite_description
+"Rose is the person that has visited everyone, Rose has visited Ella",Ella didn't visit Stephanie,0,definite_description
+"Kristina has visited Valerie, Kristina is the person that has visited every place",Valerie didn't visit Nyack,0,definite_description
+"Melody has visited Carrie, Melody is the person that has visited every place",Carrie didn't visit Wichita Falls,0,definite_description
+"Sarah has visited Julie, Julie is the person that has visited everyone",Sarah didn't visit Kathryn,0,definite_description
+"Nora has visited Inez, Inez is the person that has visited every place",Nora didn't visit Livingston,0,definite_description
+"Daisy is the person that has visited everyone, Daisy has visited Holly",Holly didn't visit Carmen,0,definite_description
+"Christina has visited Florence, Christina is the person that has visited everyone",Florence didn't visit Penny,0,definite_description
+"Audrey has visited Katie, Katie is the person that has visited everyone",Katie didn't visit Jean,1,definite_description
+"Jill is the person that has visited every place, Jill has visited Janet",Jill didn't visit Corvallis,1,definite_description
+"Melissa has visited Tamara, Tamara is the person that has visited everyone",Tamara didn't visit Beverly,1,definite_description
+"Tara has visited Deanna, Deanna is the person that has visited everyone",Deanna didn't visit Andrea,1,definite_description
+"Mattie is the person that has visited everyone, Courtney has visited Mattie",Courtney didn't visit Karen,0,definite_description
+"Lula has visited Ruth, Lula is the person that has visited every place",Ruth didn't visit Midland,0,definite_description
+"Felicia has visited Stella, Felicia is the person that has visited everyone",Stella didn't visit Margie,0,definite_description
+"Daisy is the person that has visited every place, Alicia has visited Daisy",Daisy didn't visit Dalton,1,definite_description
+"Judy has visited Cora, Judy is the person that has visited every place",Judy didn't visit Sunnyvale,1,definite_description
+"Juana has visited Dora, Dora is the person that has visited everyone",Juana didn't visit Kathleen,0,definite_description
+"Deborah is the person that has visited everyone, Deborah has visited Catherine",Catherine didn't visit Nellie,0,definite_description
+"Lynda has visited Norma, Lynda is the person that has visited everyone",Norma didn't visit Katherine,0,definite_description
+"Jenny is the person that has visited everyone, Terri has visited Jenny",Terri didn't visit Lydia,0,definite_description
+"Nina has visited Misty, Misty is the person that has visited every place",Nina didn't visit Janesville,0,definite_description
+"Amy is the person that has visited everyone, Amy has visited Diane",Amy didn't visit Julie,1,definite_description
+"Grace is the person that has visited everyone, Anne has visited Grace",Grace didn't visit Mabel,1,definite_description
+"Judith is the person that has visited everyone, Maryann has visited Judith",Maryann didn't visit Annie,0,definite_description
+"Jennifer has visited Amelia, Jennifer is the person that has visited everyone",Amelia didn't visit Brittany,0,definite_description
+"Melissa is the person that has visited everyone, Melissa has visited Sara",Melissa didn't visit Catherine,1,definite_description
+"Emma has visited Peggy, Peggy is the person that has visited every place",Peggy didn't visit Kaskaskia,1,definite_description
+"Samantha is the person that has visited every place, Samantha has visited Courtney",Courtney didn't visit North Hempstead,0,definite_description
+"Vickie has visited Kimberly, Vickie is the person that has visited every place",Vickie didn't visit Cuyahoga Falls,1,definite_description
+"Kathy has visited Rhonda, Kathy is the person that has visited every place",Rhonda didn't visit Lawrence,0,definite_description
+"Victoria is the person that has visited every place, Victoria has visited Bertha",Victoria didn't visit Warren,1,definite_description
+"Shannon is the person that has visited every place, Patsy has visited Shannon",Shannon didn't visit Elizabeth City,1,definite_description
+"Debra has visited Yvette, Yvette is the person that has visited every place",Debra didn't visit Catonsville,0,definite_description
+"Jeanne has visited Barbara, Barbara is the person that has visited every place",Jeanne didn't visit Cambridge,0,definite_description
+"Florence has visited Terry, Florence is the person that has visited every place",Terry didn't visit Palmyra,0,definite_description
+"Catherine has visited Leah, Catherine is the person that has visited everyone",Leah didn't visit Tina,0,definite_description
+"Viola is the person that has visited every place, Viola has visited Ella",Ella didn't visit Globe,0,definite_description
+"Dolores has visited Amy, Dolores is the person that has visited everyone",Amy didn't visit Thelma,0,definite_description
+"Vera is the person that has visited every place, Regina has visited Vera",Vera didn't visit Hingham,1,definite_description
+"Kathleen is the person that has visited everyone, Charlotte has visited Kathleen",Charlotte didn't visit Lena,0,definite_description
+"Beulah has visited Deanna, Deanna is the person that has visited every place",Deanna didn't visit Erie,1,definite_description
+"Christy is the person that has visited every place, Debbie has visited Christy",Debbie didn't visit Saint Petersburg,0,definite_description
+"Sonia is the person that has visited everyone, Amber has visited Sonia",Sonia didn't visit Cindy,1,definite_description
+"Charlene is the person that has visited everyone, Anna has visited Charlene",Anna didn't visit Sara,0,definite_description
+"Evelyn has visited Hazel, Hazel is the person that has visited everyone",Evelyn didn't visit Janice,0,definite_description
+"Mary has visited Charlene, Mary is the person that has visited everyone",Charlene didn't visit Irma,0,definite_description
+"Mamie is the person that has visited every place, Anita has visited Mamie",Mamie didn't visit Taunton,1,definite_description
+"Peggy has visited Jessie, Jessie is the person that has visited every place",Peggy didn't visit Orange,0,definite_description
+"Louise has visited Flora, Louise is the person that has visited every place",Louise didn't visit Athens,1,definite_description
+"Edna has visited Velma, Velma is the person that has visited every place",Edna didn't visit Malibu,0,definite_description
+"Martha is the person that has visited every place, Martha has visited Penny",Penny didn't visit Goliad,0,definite_description
+"Amy is the person that has visited everyone, Crystal has visited Amy",Amy didn't visit Jacqueline,1,definite_description
+"Jodi has visited Jennifer, Jodi is the person that has visited everyone",Jodi didn't visit Erin,1,definite_description
+"Marilyn is the person that has visited every place, Christine has visited Marilyn",Marilyn didn't visit Marlborough,1,definite_description
+"Carmen has visited Amber, Amber is the person that has visited every place",Carmen didn't visit Kittery,0,definite_description
+"Linda has visited Vicki, Vicki is the person that has visited everyone",Vicki didn't visit Mabel,1,definite_description
+"Crystal is the person that has visited everyone, Emily has visited Crystal",Crystal didn't visit Mabel,1,definite_description
+"Natasha is the person that has visited everyone, Natasha has visited Yvette",Natasha didn't visit Melanie,1,definite_description
+"Cora has visited Elsie, Cora is the person that has visited everyone",Elsie didn't visit Juana,0,definite_description
+"Josephine is the person that has visited every place, Josephine has visited Flora",Josephine didn't visit Orange,1,definite_description
+"Ashley is the person that has visited everyone, Ashley has visited Vera",Vera didn't visit Anna,0,definite_description
+"Anne has visited Amelia, Anne is the person that has visited every place",Anne didn't visit Fredonia,1,definite_description
+"Molly has visited Bernice, Bernice is the person that has visited every place",Bernice didn't visit Cape Girardeau,1,definite_description
+"Erin has visited Dawn, Erin is the person that has visited everyone",Erin didn't visit Rita,1,definite_description
+"Laura has visited Josephine, Josephine is the person that has visited every place",Laura didn't visit Los Alamos,0,definite_description
+"Bobbie has visited Sonia, Sonia is the person that has visited everyone",Sonia didn't visit Penny,1,definite_description
+"Colleen has visited Rita, Colleen is the person that has visited everyone",Rita didn't visit Lori,0,definite_description
+"Susie is the person that has visited every place, Susie has visited Esther",Esther didn't visit Nashua,0,definite_description
+"Flora is the person that has visited everyone, Flora has visited Juanita",Juanita didn't visit Stella,0,definite_description
+"Wilma has visited Harriet, Wilma is the person that has visited everyone",Harriet didn't visit Renee,0,definite_description
+"Billie has visited Penny, Billie is the person that has visited every place",Penny didn't visit Laredo,0,definite_description
+"Lola is the person that has visited every place, Katrina has visited Lola",Lola didn't visit Hoboken,1,definite_description
+"Mae is the person that has visited every place, Mae has visited Sue",Sue didn't visit Cleveland Heights,0,definite_description
+"Marie is the person that has visited everyone, Marie has visited Rosemary",Marie didn't visit Guadalupe,1,definite_description
+"Judith has visited Joan, Joan is the person that has visited everyone",Judith didn't visit Gwendolyn,0,definite_description
+"Deborah has visited Ashley, Deborah is the person that has visited every place",Deborah didn't visit Fresno,1,definite_description
+"Vickie is the person that has visited every place, Shelly has visited Vickie",Vickie didn't visit South Orange Village,1,definite_description
+"Carole is the person that has visited every place, Carole has visited Kathryn",Kathryn didn't visit Biddeford,0,definite_description
+"Maggie has visited Mamie, Maggie is the person that has visited everyone",Maggie didn't visit Phyllis,1,definite_description
+"Norma is the person that has visited every place, Norma has visited Mae",Mae didn't visit Sun Valley,0,definite_description
+"Agnes is the person that has visited everyone, Thelma has visited Agnes",Agnes didn't visit Madeline,1,definite_description
+"Cathy has visited Diana, Cathy is the person that has visited everyone",Diana didn't visit Lillie,0,definite_description
+"Jennifer is the person that has visited every place, Rose has visited Jennifer",Jennifer didn't visit Abbeville,1,definite_description
+"Agnes is the person that has visited everyone, Patsy has visited Agnes",Patsy didn't visit Kathleen,0,definite_description
+"Veronica is the person that has visited every place, Charlene has visited Veronica",Veronica didn't visit Rome,1,definite_description
+"Roberta is the person that has visited every place, Shelly has visited Roberta",Shelly didn't visit Rockville,0,definite_description
+"Marguerite has visited Melody, Melody is the person that has visited everyone",Melody didn't visit Katherine,1,definite_description
+"Geneva has visited Lisa, Lisa is the person that has visited everyone",Geneva didn't visit Renee,0,definite_description
+"Eva is the person that has visited everyone, Eva has visited Agnes",Agnes didn't visit Amanda,0,definite_description
+"Victoria has visited Laurie, Victoria is the person that has visited every place",Victoria didn't visit Benton Harbor,1,definite_description
+"Eleanor is the person that has visited every place, Agnes has visited Eleanor",Agnes didn't visit Union,0,definite_description
+"Irene is the person that has visited everyone, Irene has visited Veronica",Irene didn't visit Margarita,1,definite_description
+"Elsie has visited Angela, Angela is the person that has visited everyone",Elsie didn't visit Loretta,0,definite_description
+"Constance is the person that has visited every place, Constance has visited Pamela",Pamela didn't visit Alexandria,0,definite_description
+"Tina is the person that has visited every place, Wendy has visited Tina",Wendy didn't visit Medford,0,definite_description
+"Katherine has visited Ramona, Ramona is the person that has visited everyone",Ramona didn't visit Betty,1,definite_description
+"Nancy has visited Paula, Nancy is the person that has visited everyone",Paula didn't visit Kristi,0,definite_description
+"Charlotte has visited Rebecca, Charlotte is the person that has visited every place",Charlotte didn't visit Goldfield,1,definite_description
+"Nancy is the person that has visited everyone, Sue has visited Nancy",Sue didn't visit Connie,0,definite_description
+"Megan is the person that has visited every place, Megan has visited Regina",Regina didn't visit Herkimer,0,definite_description
+"Jessie has visited Leslie, Jessie is the person that has visited everyone",Jessie didn't visit Nicole,1,definite_description
+"Geraldine is the person that has visited everyone, Geraldine has visited Angela",Geraldine didn't visit Bobbie,1,definite_description
+"Barbara is the person that has visited everyone, Barbara has visited Frances",Frances didn't visit Hattie,0,definite_description
+"Viola is the person that has visited everyone, Viola has visited Andrea",Andrea didn't visit Pamela,0,definite_description
+"Sherri has visited Daisy, Sherri is the person that has visited everyone",Daisy didn't visit Marsha,0,definite_description
+"Ruby is the person that has visited everyone, Marian has visited Ruby",Ruby didn't visit Hilda,1,definite_description
+"Constance is the person that has visited every place, Geraldine has visited Constance",Geraldine didn't visit Prichard,0,definite_description
+"Janice is the person that has visited everyone, Constance has visited Janice",Constance didn't visit Deanna,0,definite_description
+"Leah is the person that has visited every place, Leah has visited Helen",Leah didn't visit Fort Benton,1,definite_description
+"Claudia has visited Cindy, Cindy is the person that has visited every place",Claudia didn't visit Mount Clemens,0,definite_description
+"Sue is the person that has visited every place, Sue has visited Jennifer",Jennifer didn't visit Aurora,0,definite_description
+"Ellen is the person that has visited everyone, Ellen has visited Violet",Ellen didn't visit Beulah,1,definite_description
+"Edith is the person that has visited every place, Jeanette has visited Edith",Edith didn't visit Jacksonville,1,definite_description
+"Carmen has visited Judy, Carmen is the person that has visited every place",Carmen didn't visit Ithaca,1,definite_description
+"Sally is the person that has visited everyone, Sally has visited Claudia",Claudia didn't visit Toni,0,definite_description
+"Luz is the person that has visited everyone, Tanya has visited Luz",Luz didn't visit Daisy,1,definite_description
+"Kelly has visited Bertha, Bertha is the person that has visited every place",Kelly didn't visit Streator,0,definite_description
+"Ethel is the person that has visited everyone, Ethel has visited Michelle",Ethel didn't visit Margie,1,definite_description
+"Terry is the person that has visited everyone, Terry has visited Marguerite",Terry didn't visit Julia,1,definite_description
+"Geneva has visited Maggie, Geneva is the person that has visited every place",Maggie didn't visit The Dalles,0,definite_description
+"Constance is the person that has visited everyone, Rebecca has visited Constance",Constance didn't visit Pearl,1,definite_description
+"Grace has visited Sandy, Sandy is the person that has visited everyone",Sandy didn't visit Virginia,1,definite_description
+"Emma has visited Denise, Emma is the person that has visited every place",Emma didn't visit Warrensburg,1,definite_description
+"Loretta has visited Dolores, Dolores is the person that has visited everyone",Loretta didn't visit Madeline,0,definite_description
+"Michelle has visited Lee, Michelle is the person that has visited everyone",Lee didn't visit Cecilia,0,definite_description
+"Tamara has visited Verna, Tamara is the person that has visited every place",Tamara didn't visit Enterprise,1,definite_description
+"Jean has visited Tracey, Jean is the person that has visited every place",Tracey didn't visit McPherson,0,definite_description
+"Alice is the person that has visited every place, Doris has visited Alice",Alice didn't visit Evanston,1,definite_description
+"Christy has visited Theresa, Christy is the person that has visited every place",Theresa didn't visit Globe,0,definite_description
+"Jodi has visited Maureen, Jodi is the person that has visited every place",Maureen didn't visit Elizabethtown,0,definite_description
+"Stella has visited Georgia, Stella is the person that has visited every place",Stella didn't visit Gallup,1,definite_description
+"Lynda is the person that has visited everyone, Antoinette has visited Lynda",Antoinette didn't visit Inez,0,definite_description
+"Mamie is the person that has visited every place, Mamie has visited Guadalupe",Mamie didn't visit Walla Walla,1,definite_description
+"Jeanette has visited Gina, Jeanette is the person that has visited every place",Gina didn't visit Central City,0,definite_description
+"Christina has visited Patsy, Patsy is the person that has visited everyone",Christina didn't visit Rhonda,0,definite_description
+"Audrey is the person that has visited everyone, Audrey has visited Faye",Faye didn't visit Sheila,0,definite_description
+"Yvette is the person that has visited everyone, Elaine has visited Yvette",Elaine didn't visit Ellen,0,definite_description
+"Rebecca has visited Connie, Connie is the person that has visited every place",Rebecca didn't visit Longview,0,definite_description
+"Crystal is the person that has visited every place, Lucy has visited Crystal",Lucy didn't visit Anacortes,0,definite_description
+"Joann is the person that has visited every place, Evelyn has visited Joann",Evelyn didn't visit Neenah,0,definite_description
+"Lauren is the person that has visited everyone, Cassandra has visited Lauren",Cassandra didn't visit Paula,0,definite_description
+"Wanda is the person that has visited everyone, Wanda has visited Brandy",Wanda didn't visit Violet,1,definite_description
+"Robin is the person that has visited everyone, Robin has visited Margie",Robin didn't visit Caroline,1,definite_description
+"Holly is the person that has visited every place, Holly has visited Jan",Jan didn't visit Brigham City,0,definite_description
+"Laurie has visited Stacey, Laurie is the person that has visited everyone",Stacey didn't visit Elsie,0,definite_description
+"Sara is the person that has visited every place, Sara has visited Loretta",Sara didn't visit Manhattan,1,definite_description
+"Judy has visited Carrie, Carrie is the person that has visited everyone",Carrie didn't visit Roberta,1,definite_description
+"Rhonda has visited Bonnie, Bonnie is the person that has visited every place",Rhonda didn't visit Daly City,0,definite_description
+"Ethel is the person that has visited everyone, Rhonda has visited Ethel",Ethel didn't visit Kristen,1,definite_description
+"Terry has visited Janie, Terry is the person that has visited everyone",Terry didn't visit Janet,1,definite_description
+"Lola has visited Marlene, Lola is the person that has visited every place",Marlene didn't visit Ruston,0,definite_description
+"Agnes has visited Alicia, Agnes is the person that has visited every place",Agnes didn't visit Athol,1,definite_description
+"Dora is the person that has visited everyone, Dora has visited Jamie",Dora didn't visit Frances,1,definite_description
+"Jill has visited Tamara, Jill is the person that has visited everyone",Tamara didn't visit Annette,0,definite_description
+"Kimberly is the person that has visited every place, Kimberly has visited Deborah",Kimberly didn't visit Marshall,1,definite_description
+"Tonya is the person that has visited every place, Lois has visited Tonya",Tonya didn't visit Torrance,1,definite_description
+"Rose is the person that has visited everyone, Jan has visited Rose",Rose didn't visit Patsy,1,definite_description
+"Kay is the person that has visited every place, Kay has visited Geraldine",Geraldine didn't visit Bloomfield,0,definite_description
+"Elizabeth is the person that has visited every place, Martha has visited Elizabeth",Elizabeth didn't visit Ashtabula,1,definite_description
+"Florence has visited Eva, Eva is the person that has visited every place",Eva didn't visit Wichita,1,definite_description
+"Billie is the person that has visited every place, Marguerite has visited Billie",Billie didn't visit Aliquippa,1,definite_description
+"Brenda is the person that has visited every place, Brenda has visited Sylvia",Brenda didn't visit Westminster,1,definite_description
+"Roberta has visited Joanna, Joanna is the person that has visited every place",Joanna didn't visit Warm Springs,1,definite_description
+"Juana is the person that has visited every place, Juana has visited Natalie",Juana didn't visit New Jersey,1,definite_description
+"Kristine is the person that has visited every place, Joyce has visited Kristine",Kristine didn't visit Irving,1,definite_description
+"Inez is the person that has visited everyone, Inez has visited Blanche",Blanche didn't visit Susie,0,definite_description
+"Vanessa is the person that has visited every place, Vanessa has visited Dawn",Vanessa didn't visit Buffalo,1,definite_description
+"Mae is the person that has visited every place, Mae has visited Laurie",Laurie didn't visit Livingston,0,definite_description
+"Kathleen has visited Amy, Kathleen is the person that has visited everyone",Kathleen didn't visit Grace,1,definite_description
+"Kathleen is the person that has visited every place, Kathleen has visited Nancy",Nancy didn't visit Coos Bay,0,definite_description
+"Gina is the person that has visited every place, Viola has visited Gina",Viola didn't visit Corona,0,definite_description
+"Carolyn is the person that has visited every place, Kristin has visited Carolyn",Carolyn didn't visit Ilion,1,definite_description
+"Maxine is the person that has visited everyone, Carol has visited Maxine",Carol didn't visit Olivia,0,definite_description
+"Kristina is the person that has visited everyone, Kristina has visited Kristin",Kristin didn't visit Angie,0,definite_description
+"Terri has visited Penny, Penny is the person that has visited everyone",Penny didn't visit Charlotte,1,definite_description
+"Leona has visited Constance, Constance is the person that has visited every place",Leona didn't visit Newberg,0,definite_description
+"Jackie is the person that has visited every place, Shelly has visited Jackie",Jackie didn't visit Elizabeth City,1,definite_description
+"Lee has visited Charlotte, Charlotte is the person that has visited every place",Charlotte didn't visit Olean,1,definite_description
+"Sara has visited Julia, Sara is the person that has visited every place",Sara didn't visit Gallatin,1,definite_description
+"Becky is the person that has visited everyone, Becky has visited Delores",Delores didn't visit Colleen,0,definite_description
+"Monica is the person that has visited everyone, Monica has visited Lisa",Monica didn't visit Grace,1,definite_description
+"Candice is the person that has visited every place, Peggy has visited Candice",Candice didn't visit Fairfield,1,definite_description
+"Joy has visited Verna, Joy is the person that has visited everyone",Verna didn't visit Penny,0,definite_description
+"Sandra is the person that has visited every place, Sandra has visited Anita",Anita didn't visit Vandalia,0,definite_description
+"Isabel has visited Nancy, Isabel is the person that has visited every place",Isabel didn't visit Caldwell,1,definite_description
+"Audrey is the person that has visited every place, Ellen has visited Audrey",Audrey didn't visit Michigan City,1,definite_description
+"Doris has visited Sylvia, Doris is the person that has visited everyone",Sylvia didn't visit Maryann,0,definite_description
+"Ann is the person that has visited every place, Ann has visited Carla",Ann didn't visit Windsor Locks,1,definite_description
+"Luz has visited Vanessa, Luz is the person that has visited everyone",Luz didn't visit Jessie,1,definite_description
+"Opal has visited Candice, Candice is the person that has visited everyone",Candice didn't visit Brandi,1,definite_description
+"Bertha is the person that has visited everyone, Bertha has visited Anne",Anne didn't visit Olivia,0,definite_description
+"Laura is the person that has visited everyone, Bessie has visited Laura",Laura didn't visit Yolanda,1,definite_description
+"Leslie has visited Kayla, Kayla is the person that has visited every place",Kayla didn't visit Vinita,1,definite_description
+"Penny is the person that has visited every place, Penny has visited Ashley",Penny didn't visit Waynesboro,1,definite_description
+"Charlene has visited Edna, Charlene is the person that has visited every place",Edna didn't visit Arkadelphia,0,definite_description
+"Vickie has visited Genevieve, Vickie is the person that has visited every place",Vickie didn't visit Las Vegas,1,definite_description
+"Glenda has visited Sonia, Glenda is the person that has visited everyone",Glenda didn't visit Leslie,1,definite_description
+"Teresa has visited Terry, Teresa is the person that has visited everyone",Terry didn't visit Bertha,0,definite_description
+"Juana has visited Minnie, Juana is the person that has visited everyone",Juana didn't visit Dorothy,1,definite_description
+"Evelyn has visited Alma, Alma is the person that has visited everyone",Alma didn't visit Leah,1,definite_description
+"Emma has visited Maryann, Emma is the person that has visited everyone",Emma didn't visit Karen,1,definite_description
+"Thelma has visited Jackie, Thelma is the person that has visited every place",Jackie didn't visit Elizabeth City,0,definite_description
+"Sally has visited Gail, Sally is the person that has visited every place",Sally didn't visit Bainbridge,1,definite_description
+"Terry is the person that has visited everyone, Laurie has visited Terry",Laurie didn't visit Flora,0,definite_description
+"Sabrina is the person that has visited everyone, Annie has visited Sabrina",Annie didn't visit Marguerite,0,definite_description
+"Cathy is the person that has visited everyone, Cathy has visited Cindy",Cathy didn't visit Stacey,1,definite_description
+"Joyce has visited Wendy, Wendy is the person that has visited every place",Wendy didn't visit Red Bluff,1,definite_description
+"Maureen is the person that has visited everyone, Teresa has visited Maureen",Maureen didn't visit Virginia,1,definite_description
+"Lee is the person that has visited everyone, Lindsay has visited Lee",Lindsay didn't visit Stephanie,0,definite_description
+"Annette is the person that has visited everyone, Annette has visited Beth",Beth didn't visit Velma,0,definite_description
+"Priscilla is the person that has visited everyone, Priscilla has visited Christy",Priscilla didn't visit Irma,1,definite_description
+"Sandy is the person that has visited everyone, Grace has visited Sandy",Grace didn't visit Lynn,0,definite_description
+"Kristina is the person that has visited everyone, Kristina has visited Natasha",Natasha didn't visit Crystal,0,definite_description
+"Lauren has visited Jeanne, Lauren is the person that has visited every place",Jeanne didn't visit Anniston,0,definite_description
+"Jeanette has visited Rosemary, Rosemary is the person that has visited everyone",Jeanette didn't visit Hilda,0,definite_description
+"Ruth is the person that has visited everyone, Ruth has visited Mabel",Ruth didn't visit Jenny,1,definite_description
+"Inez has visited Grace, Grace is the person that has visited every place",Inez didn't visit Bluefield,0,definite_description
+"Luz is the person that has visited every place, Ruth has visited Luz",Luz didn't visit Baltimore,1,definite_description
+"Sylvia is the person that has visited every place, Sylvia has visited Kathryn",Sylvia didn't visit Osceola,1,definite_description
+"Claudia has visited Victoria, Victoria is the person that has visited every place",Victoria didn't visit Jackson,1,definite_description
+"Thelma is the person that has visited everyone, Tamara has visited Thelma",Thelma didn't visit Charlotte,1,definite_description
+"Genevieve has visited Tracey, Genevieve is the person that has visited every place",Tracey didn't visit Hannibal,0,definite_description
+"Vera is the person that has visited everyone, Janie has visited Vera",Vera didn't visit Lula,1,definite_description
+"Katie has visited Misty, Katie is the person that has visited everyone",Misty didn't visit Florence,0,definite_description
+"Jacqueline is the person that has visited everyone, Jacqueline has visited Sylvia",Jacqueline didn't visit Dawn,1,definite_description
+"Beth has visited Constance, Constance is the person that has visited every place",Constance didn't visit Richland,1,definite_description
+"Roberta is the person that has visited everyone, Roberta has visited Pauline",Roberta didn't visit Ann,1,definite_description
+"Emily has visited Barbara, Barbara is the person that has visited everyone",Emily didn't visit Lee,0,definite_description
+"Ethel has visited Debra, Ethel is the person that has visited everyone",Debra didn't visit Wanda,0,definite_description
+"Guadalupe has visited Rita, Guadalupe is the person that has visited every place",Guadalupe didn't visit Dodge City,1,definite_description
+"Kristy is the person that has visited everyone, Kristy has visited Marie",Marie didn't visit Linda,0,definite_description
+"Vanessa has visited Beverly, Beverly is the person that has visited everyone",Beverly didn't visit Vera,1,definite_description
+"Wilma is the person that has visited everyone, Theresa has visited Wilma",Theresa didn't visit Deborah,0,definite_description
+"Rachel has visited Stacy, Stacy is the person that has visited everyone",Stacy didn't visit Tracey,1,definite_description
+"Annette is the person that has visited everyone, Annette has visited Karen",Annette didn't visit Rebecca,1,definite_description
+"Maggie has visited Sonya, Sonya is the person that has visited every place",Sonya didn't visit Scottsdale,1,definite_description
+"Andrea is the person that has visited everyone, Carla has visited Andrea",Carla didn't visit Glenda,0,definite_description
+"Cassandra is the person that has visited every place, Cassandra has visited Alma",Cassandra didn't visit Rogers,1,definite_description
+"Dana has visited Lauren, Dana is the person that has visited every place",Lauren didn't visit Bellows Falls,0,definite_description
+"Deborah is the person that has visited every place, Deborah has visited Joanna",Joanna didn't visit Bellefontaine,0,definite_description
+"Sonya is the person that has visited everyone, Sonya has visited Lillie",Sonya didn't visit Amber,1,definite_description
+"Brandi has visited Marion, Brandi is the person that has visited everyone",Marion didn't visit Natasha,0,definite_description
+"Geraldine has visited Michelle, Geraldine is the person that has visited every place",Geraldine didn't visit Boise,1,definite_description
+"Dana has visited Jessica, Jessica is the person that has visited every place",Jessica didn't visit North Adams,1,definite_description
+"Heather is the person that has visited every place, Heather has visited Lauren",Heather didn't visit La Habra,1,definite_description
+"Angela has visited Ellen, Angela is the person that has visited every place",Ellen didn't visit West Chester,0,definite_description
+"Ramona has visited Wilma, Wilma is the person that has visited everyone",Wilma didn't visit Pamela,1,definite_description
+"Gertrude is the person that has visited every place, Gertrude has visited Patricia",Gertrude didn't visit Alexandria,1,definite_description
+"Janice has visited Lillian, Lillian is the person that has visited everyone",Janice didn't visit Eileen,0,definite_description
+"Nancy has visited Velma, Velma is the person that has visited everyone",Velma didn't visit Gloria,1,definite_description
+"Eunice is the person that has visited everyone, Judy has visited Eunice",Eunice didn't visit Stacy,1,definite_description
+"Melanie has visited Karen, Karen is the person that has visited every place",Melanie didn't visit San Diego,0,definite_description
+"Vivian has visited Samantha, Samantha is the person that has visited every place",Vivian didn't visit Peterborough,0,definite_description
+"Vickie has visited Ruby, Ruby is the person that has visited every place",Ruby didn't visit Glendale,1,definite_description
+"Loretta is the person that has visited every place, Stella has visited Loretta",Loretta didn't visit Cortez,1,definite_description
+"Ruth is the person that has visited everyone, Ruth has visited Tina",Tina didn't visit Anita,0,definite_description
+"Heidi has visited Bobbie, Heidi is the person that has visited every place",Heidi didn't visit Van Buren,1,definite_description
+"Ramona has visited Terry, Ramona is the person that has visited every place",Terry didn't visit Truth or Consequences,0,definite_description
+"Glenda is the person that has visited every place, Glenda has visited Joyce",Joyce didn't visit West Bend,0,definite_description
+"Eileen is the person that has visited every place, Eileen has visited Cassandra",Eileen didn't visit Keene,1,definite_description
+"Vickie is the person that has visited everyone, Vickie has visited Katie",Katie didn't visit Beulah,0,definite_description
+"Becky is the person that has visited everyone, Maria has visited Becky",Maria didn't visit Jan,0,definite_description
+"Doris has visited Candice, Candice is the person that has visited everyone",Doris didn't visit Christina,0,definite_description
+"Paula has visited Sandra, Sandra is the person that has visited every place",Paula didn't visit Laurel,0,definite_description
+"Deborah is the person that has visited every place, Gina has visited Deborah",Gina didn't visit Tuscaloosa,0,definite_description
+"Phyllis is the person that has visited everyone, Phyllis has visited Eileen",Eileen didn't visit Sherry,0,definite_description
+"Ethel is the person that has visited everyone, Harriet has visited Ethel",Ethel didn't visit Karen,1,definite_description
+"Molly is the person that has visited every place, Molly has visited Ashley",Molly didn't visit Brownsville,1,definite_description
+"Juanita has visited Carla, Juanita is the person that has visited everyone",Carla didn't visit Sue,0,definite_description
+"Sandy is the person that has visited every place, Andrea has visited Sandy",Andrea didn't visit Cape May,0,definite_description
+"Ramona is the person that has visited every place, Sara has visited Ramona",Sara didn't visit Winsted,0,definite_description
+"Isabel is the person that has visited every place, Pauline has visited Isabel",Pauline didn't visit McCook,0,definite_description
+"Penny is the person that has visited every place, Violet has visited Penny",Violet didn't visit Oak Harbor,0,definite_description
+"Brenda is the person that has visited every place, Brenda has visited Monica",Monica didn't visit Rockford,0,definite_description
+"Audrey has visited Lula, Lula is the person that has visited everyone",Lula didn't visit Colleen,1,definite_description
+"Yolanda is the person that has visited every place, Hilda has visited Yolanda",Yolanda didn't visit Edinburg,1,definite_description
+"Edna has visited Flora, Flora is the person that has visited every place",Edna didn't visit Socorro,0,definite_description
+"Rita is the person that has visited every place, Rita has visited Joanna",Rita didn't visit North Hempstead,1,definite_description
+"Monica has visited Maria, Monica is the person that has visited every place",Monica didn't visit Weehawken,1,definite_description
+"Sara is the person that has visited everyone, Sara has visited Viola",Viola didn't visit Courtney,0,definite_description
+"Theresa has visited Helen, Helen is the person that has visited every place",Helen didn't visit Benton,1,definite_description
+"Maxine has visited Kristy, Maxine is the person that has visited everyone",Maxine didn't visit Michele,1,definite_description
+"Mary is the person that has visited every place, Glenda has visited Mary",Mary didn't visit Duluth,1,definite_description
+"Carolyn has visited Myrtle, Myrtle is the person that has visited everyone",Myrtle didn't visit Ruby,1,definite_description
+"Lydia has visited Holly, Holly is the person that has visited everyone",Holly didn't visit Joan,1,definite_description
+"Leona is the person that has visited everyone, Melinda has visited Leona",Leona didn't visit Judy,1,definite_description
+"Peggy has visited Veronica, Veronica is the person that has visited everyone",Veronica didn't visit Andrea,1,definite_description
+"Vickie is the person that has visited everyone, Vickie has visited Ramona",Vickie didn't visit Jeanne,1,definite_description
+"Linda has visited Regina, Regina is the person that has visited every place",Linda didn't visit Salinas,0,definite_description
+"Miriam has visited Opal, Miriam is the person that has visited everyone",Miriam didn't visit Heather,1,definite_description
+"Erika has visited Charlene, Erika is the person that has visited everyone",Erika didn't visit Rose,1,definite_description
+"Lillian has visited Jill, Jill is the person that has visited everyone",Jill didn't visit Frances,1,definite_description
+"Nora is the person that has visited everyone, Minnie has visited Nora",Minnie didn't visit Eleanor,0,definite_description
+"Peggy has visited Shirley, Peggy is the person that has visited everyone",Peggy didn't visit Ann,1,definite_description
+"Sheryl is the person that has visited everyone, Yvonne has visited Sheryl",Sheryl didn't visit Debra,1,definite_description
+"Sara has visited Blanche, Blanche is the person that has visited every place",Sara didn't visit Palatine,0,definite_description
+"Jeanette is the person that has visited every place, Jeanette has visited Violet",Violet didn't visit Weymouth,0,definite_description
+"Willie is the person that has visited every place, Willie has visited Carla",Carla didn't visit New Brunswick,0,definite_description
+"Lola is the person that has visited everyone, Lola has visited Jamie",Lola didn't visit Wanda,1,definite_description
+"Kristin has visited Christine, Kristin is the person that has visited everyone",Christine didn't visit Terry,0,definite_description
+"Dolores is the person that has visited every place, Dolores has visited Ethel",Dolores didn't visit Sag Harbor,1,definite_description
+"Caroline is the person that has visited everyone, Caroline has visited Charlotte",Charlotte didn't visit Beverly,0,definite_description
+"Sara has visited Vera, Vera is the person that has visited everyone",Vera didn't visit Allison,1,definite_description
+"Kathryn is the person that has visited every place, Kathryn has visited Sally",Kathryn didn't visit Hutchinson,1,definite_description
+"Terri is the person that has visited every place, Clara has visited Terri",Clara didn't visit Rhode Island,0,definite_description
+"Stephanie is the person that has visited every place, Stephanie has visited Vera",Stephanie didn't visit Alpine,1,definite_description
+"Charlotte is the person that has visited everyone, Jane has visited Charlotte",Jane didn't visit Tiffany,0,definite_description
+"Vickie is the person that has visited every place, Cheryl has visited Vickie",Vickie didn't visit Kingston,1,definite_description
+"Colleen has visited Sue, Colleen is the person that has visited everyone",Colleen didn't visit Denise,1,definite_description
+"Peggy is the person that has visited every place, Iris has visited Peggy",Iris didn't visit Barrington,0,definite_description
+"Nina is the person that has visited every place, Terry has visited Nina",Nina didn't visit Interlochen,1,definite_description
+"Tracy has visited Sara, Tracy is the person that has visited everyone",Sara didn't visit Ann,0,definite_description
+"Kristin has visited Clara, Clara is the person that has visited every place",Clara didn't visit Livingston,1,definite_description
+"Darlene has visited Florence, Darlene is the person that has visited every place",Florence didn't visit Lake Havasu City,0,definite_description
+"Stella is the person that has visited every place, Paula has visited Stella",Stella didn't visit Danbury,1,definite_description
+"Mildred has visited Edna, Edna is the person that has visited every place",Edna didn't visit Nome,1,definite_description
+"Lillie has visited Patricia, Lillie is the person that has visited everyone",Patricia didn't visit Tina,0,definite_description
+"Patsy is the person that has visited every place, Patsy has visited Glenda",Patsy didn't visit Boothbay Harbor,1,definite_description
+"Iris has visited Kathryn, Iris is the person that has visited everyone",Kathryn didn't visit Sally,0,definite_description
+"Esther has visited Diane, Esther is the person that has visited every place",Diane didn't visit Crown Point,0,definite_description
+"Kristin is the person that has visited every place, Maryann has visited Kristin",Maryann didn't visit Cleveland,0,definite_description
+"Tina is the person that has visited everyone, Tina has visited Amelia",Amelia didn't visit Lula,0,definite_description
+"Kristi is the person that has visited every place, Eunice has visited Kristi",Kristi didn't visit Johnson City,1,definite_description
+"Bonnie has visited Theresa, Theresa is the person that has visited every place",Theresa didn't visit Haines,1,definite_description
+"Brandi has visited Anna, Anna is the person that has visited everyone",Brandi didn't visit June,0,definite_description
+"Kristine is the person that has visited everyone, Kristine has visited Sonya",Kristine didn't visit Darlene,1,definite_description
+"Shirley is the person that has visited everyone, Candice has visited Shirley",Shirley didn't visit Viola,1,definite_description
+"Alice is the person that has visited every place, Alice has visited Pamela",Pamela didn't visit Little Falls,0,definite_description
+"Erica has visited Stephanie, Erica is the person that has visited every place",Stephanie didn't visit Sudbury,0,definite_description
+"Luz has visited Pearl, Pearl is the person that has visited everyone",Pearl didn't visit Kristin,1,definite_description
+"Margaret has visited Erica, Erica is the person that has visited every place",Erica didn't visit Skokie,1,definite_description
+"Tammy has visited Ruth, Ruth is the person that has visited every place",Tammy didn't visit Piqua,0,definite_description
+"Cassandra has visited Kayla, Kayla is the person that has visited everyone",Cassandra didn't visit Amy,0,definite_description
+"Nicole has visited Sherri, Sherri is the person that has visited everyone",Sherri didn't visit Vickie,1,definite_description
+"Stacey is the person that has visited every place, Stacey has visited Bertha",Bertha didn't visit Farmington,0,definite_description
+"Ada is the person that has visited every place, Rosa has visited Ada",Ada didn't visit Henderson,1,definite_description
+"Blanche has visited Ruby, Ruby is the person that has visited everyone",Blanche didn't visit Debbie,0,definite_description
+"April is the person that has visited every place, Pearl has visited April",April didn't visit Bar Harbor,1,definite_description
+"Shelly is the person that has visited everyone, Shelly has visited Brenda",Shelly didn't visit Jill,1,definite_description
+"Ramona has visited Glenda, Ramona is the person that has visited everyone",Glenda didn't visit Donna,0,definite_description
+"Joy has visited Christy, Joy is the person that has visited everyone",Christy didn't visit Eleanor,0,definite_description
+"Flora has visited Susie, Susie is the person that has visited every place",Susie didn't visit Bayonne,1,definite_description
+"Ruth has visited Jamie, Ruth is the person that has visited everyone",Jamie didn't visit Sharon,0,definite_description
+"Martha is the person that has visited every place, Martha has visited Sandy",Martha didn't visit De Smet,1,definite_description
+"Nicole has visited Stella, Stella is the person that has visited every place",Nicole didn't visit Uniontown,0,definite_description
+"Jeanne is the person that has visited every place, Jeanne has visited Michele",Jeanne didn't visit Kingman,1,definite_description
+"Lynn has visited Rosie, Rosie is the person that has visited everyone",Rosie didn't visit Thelma,1,definite_description
+"April has visited Constance, Constance is the person that has visited every place",Constance didn't visit Chesapeake,1,definite_description
+"Hazel has visited Rose, Hazel is the person that has visited every place",Rose didn't visit Fairhaven,0,definite_description
+"Regina is the person that has visited every place, Regina has visited Claudia",Regina didn't visit Chico,1,definite_description
+"Willie has visited Suzanne, Suzanne is the person that has visited everyone",Suzanne didn't visit Patricia,1,definite_description
+"Jackie is the person that has visited every place, Jackie has visited Veronica",Veronica didn't visit Coupeville,0,definite_description
+"Cindy is the person that has visited everyone, Cindy has visited Yvette",Cindy didn't visit Valerie,1,definite_description
+"Lena is the person that has visited every place, Lena has visited Kristen",Kristen didn't visit Stamford,0,definite_description
+"Megan has visited Jill, Jill is the person that has visited everyone",Megan didn't visit Vickie,0,definite_description
+"Terry has visited Jessie, Jessie is the person that has visited everyone",Jessie didn't visit Marsha,1,definite_description
+"Heidi is the person that has visited everyone, Audrey has visited Heidi",Heidi didn't visit Christine,1,definite_description
+"Jo is the person that has visited everyone, Christina has visited Jo",Jo didn't visit Vera,1,definite_description
+"Verna has visited Guadalupe, Guadalupe is the person that has visited every place",Guadalupe didn't visit Oklahoma City,1,definite_description
+"Bernice is the person that has visited every place, Bernice has visited Pearl",Pearl didn't visit Meridian,0,definite_description
+"Jeanne is the person that has visited every place, Maria has visited Jeanne",Jeanne didn't visit San Pedro,1,definite_description
+"Angela is the person that has visited everyone, Clara has visited Angela",Angela didn't visit Juanita,1,definite_description
+"Margarita is the person that has visited everyone, Judith has visited Margarita",Margarita didn't visit Tiffany,1,definite_description
+"Bobbie is the person that has visited every place, Bobbie has visited Rose",Rose didn't visit Clayton,0,definite_description
+"Maria is the person that has visited every place, Maria has visited Julia",Maria didn't visit Gallatin,1,definite_description
+"Minnie is the person that has visited every place, Tracey has visited Minnie",Tracey didn't visit Sunbury,0,definite_description
+"Verna is the person that has visited every place, Lena has visited Verna",Verna didn't visit Columbia,1,definite_description
+"Gladys is the person that has visited everyone, Mattie has visited Gladys",Mattie didn't visit Penny,0,definite_description
+"Ida has visited Sheila, Ida is the person that has visited everyone",Sheila didn't visit Lula,0,definite_description
+"Sandra is the person that has visited everyone, Guadalupe has visited Sandra",Sandra didn't visit Katrina,1,definite_description
+"Shelley is the person that has visited everyone, Rita has visited Shelley",Rita didn't visit Yvette,0,definite_description
+"Rachel has visited Toni, Rachel is the person that has visited everyone",Rachel didn't visit Tracey,1,definite_description
+"Anna has visited Billie, Billie is the person that has visited every place",Billie didn't visit Jonesborough,1,definite_description
+"Deborah is the person that has visited every place, Tonya has visited Deborah",Tonya didn't visit Missouri,0,definite_description
+"Margie is the person that has visited every place, Margie has visited Lydia",Lydia didn't visit Climax,0,definite_description
+"Tracey is the person that has visited everyone, Hazel has visited Tracey",Tracey didn't visit Brandy,1,definite_description
+"Margaret has visited Bobbie, Margaret is the person that has visited every place",Margaret didn't visit Casper,1,definite_description
+"Katrina is the person that has visited every place, Katrina has visited Alison",Alison didn't visit Webster,0,definite_description
+"Flora is the person that has visited every place, Flora has visited Cindy",Cindy didn't visit Paris,0,definite_description
+"Christy has visited Shirley, Shirley is the person that has visited everyone",Christy didn't visit Connie,0,definite_description
+"Willie has visited Edna, Willie is the person that has visited everyone",Edna didn't visit Charlotte,0,definite_description
+"Amanda is the person that has visited every place, Lillian has visited Amanda",Lillian didn't visit South Bend,0,definite_description
+"Sharon is the person that has visited everyone, Bessie has visited Sharon",Sharon didn't visit Clara,1,definite_description
+"Misty has visited Jackie, Misty is the person that has visited every place",Jackie didn't visit Hillsboro,0,definite_description
+"Carolyn has visited Rita, Rita is the person that has visited everyone",Rita didn't visit Maria,1,definite_description
+"Elsie has visited Carrie, Elsie is the person that has visited every place",Elsie didn't visit New Glarus,1,definite_description
+"Agnes is the person that has visited everyone, Stacey has visited Agnes",Stacey didn't visit Josephine,0,definite_description
+"Carrie has visited Irene, Carrie is the person that has visited every place",Irene didn't visit Bay City,0,definite_description
+"Rosa has visited Susan, Susan is the person that has visited every place",Rosa didn't visit Alpine,0,definite_description
+"Kristina is the person that has visited every place, Tammy has visited Kristina",Kristina didn't visit Sharon,1,definite_description
+"Janie is the person that has visited every place, Josephine has visited Janie",Josephine didn't visit Lake Havasu City,0,definite_description
+"Irene has visited Kathryn, Irene is the person that has visited every place",Irene didn't visit Downey,1,definite_description
+"Ethel has visited Nina, Ethel is the person that has visited every place",Nina didn't visit Arlington Heights,0,definite_description
+"Lillian is the person that has visited everyone, Blanche has visited Lillian",Blanche didn't visit Cheryl,0,definite_description
+"Nora is the person that has visited everyone, Nora has visited Dorothy",Dorothy didn't visit Ruth,0,definite_description
+"Helen is the person that has visited every place, Marlene has visited Helen",Helen didn't visit Daytona Beach,1,definite_description
+"Stacey has visited Ruby, Ruby is the person that has visited everyone",Stacey didn't visit Olivia,0,definite_description
+"Lydia has visited Tracy, Lydia is the person that has visited every place",Lydia didn't visit Naperville,1,definite_description
+"Olivia is the person that has visited everyone, Regina has visited Olivia",Olivia didn't visit Rosemary,1,definite_description
+"Amber is the person that has visited every place, Brenda has visited Amber",Brenda didn't visit Eugene,0,definite_description
+"Emily is the person that has visited everyone, Emily has visited Verna",Emily didn't visit Monique,1,definite_description
+"Peggy is the person that has visited every place, Billie has visited Peggy",Billie didn't visit Freeport,0,definite_description
+"Norma is the person that has visited every place, Stella has visited Norma",Norma didn't visit Peru,1,definite_description
+"Opal has visited Eunice, Opal is the person that has visited everyone",Eunice didn't visit Sonya,0,definite_description
+"Sue has visited Marlene, Sue is the person that has visited every place",Sue didn't visit Marblehead,1,definite_description
+"Katherine is the person that has visited everyone, Hattie has visited Katherine",Katherine didn't visit Grace,1,definite_description
+"Elaine is the person that has visited everyone, Carole has visited Elaine",Elaine didn't visit Delores,1,definite_description
+"Ashley has visited Melinda, Melinda is the person that has visited every place",Ashley didn't visit Cullman,0,definite_description
+"Melinda has visited Carole, Melinda is the person that has visited everyone",Melinda didn't visit Marlene,1,definite_description
+"Rhonda is the person that has visited everyone, Rhonda has visited Denise",Rhonda didn't visit Dora,1,definite_description
+"Ada has visited Melissa, Melissa is the person that has visited everyone",Melissa didn't visit Mattie,1,definite_description
+"Alison has visited Dorothy, Dorothy is the person that has visited everyone",Dorothy didn't visit Violet,1,definite_description
+"Leona is the person that has visited everyone, Jennifer has visited Leona",Leona didn't visit Roberta,1,definite_description
+"Janie is the person that has visited every place, Willie has visited Janie",Janie didn't visit Interlochen,1,definite_description
+"Edith has visited Willie, Edith is the person that has visited every place",Willie didn't visit Steubenville,0,definite_description
+"Flora has visited Frances, Frances is the person that has visited every place",Flora didn't visit Walpi,0,definite_description
+"Roberta has visited Natasha, Natasha is the person that has visited everyone",Roberta didn't visit Shannon,0,definite_description
+"Diana has visited Carolyn, Diana is the person that has visited everyone",Carolyn didn't visit Jessica,0,definite_description
+"Irma is the person that has visited every place, Brittany has visited Irma",Brittany didn't visit Port Orford,0,definite_description
+"Margaret has visited Joy, Margaret is the person that has visited every place",Joy didn't visit Charlotte,0,definite_description
+"Bertha is the person that has visited every place, Faye has visited Bertha",Bertha didn't visit Greeneville,1,definite_description
+"Genevieve has visited Bonnie, Genevieve is the person that has visited every place",Genevieve didn't visit Clinton,1,definite_description
+"Anna is the person that has visited every place, Lauren has visited Anna",Anna didn't visit Sedalia,1,definite_description
+"Jeanette has visited Melissa, Melissa is the person that has visited everyone",Jeanette didn't visit Lauren,0,definite_description
+"Marsha is the person that has visited every place, Juana has visited Marsha",Marsha didn't visit Camden,1,definite_description
+"Bobbie has visited Janice, Janice is the person that has visited everyone",Bobbie didn't visit Cassandra,0,definite_description
+"Dorothy has visited Anne, Anne is the person that has visited everyone",Anne didn't visit Debra,1,definite_description
+"Deanna is the person that has visited every place, Caroline has visited Deanna",Deanna didn't visit Seward,1,definite_description
+"Kathleen has visited Dianne, Kathleen is the person that has visited everyone",Kathleen didn't visit Lula,1,definite_description
+"Myrtle has visited Jessica, Myrtle is the person that has visited everyone",Myrtle didn't visit Samantha,1,definite_description
+"Erin is the person that has visited everyone, Erin has visited Rosa",Rosa didn't visit Eileen,0,definite_description
+"Carol has visited Carole, Carole is the person that has visited every place",Carol didn't visit South Saint Paul,0,definite_description
+"Sarah has visited Diane, Diane is the person that has visited everyone",Diane didn't visit Thelma,1,definite_description
+"Julia is the person that has visited every place, Julia has visited Judith",Julia didn't visit Aberdeen,1,definite_description
+"Amanda has visited Dawn, Amanda is the person that has visited everyone",Amanda didn't visit Katherine,1,definite_description
+"Lucille is the person that has visited everyone, Lucille has visited Edna",Lucille didn't visit Sandra,1,definite_description
+"Wilma has visited Monique, Wilma is the person that has visited every place",Wilma didn't visit Hobart,1,definite_description
+"Alice has visited Carrie, Alice is the person that has visited everyone",Carrie didn't visit Melody,0,definite_description
+"Ellen is the person that has visited every place, Ellen has visited Beverly",Ellen didn't visit Douglas,1,definite_description
+"Charlotte has visited Tanya, Tanya is the person that has visited every place",Tanya didn't visit Jackson,1,definite_description
+"Martha is the person that has visited everyone, Martha has visited Sandra",Martha didn't visit Kristina,1,definite_description
+"Tracey has visited Jill, Tracey is the person that has visited every place",Jill didn't visit Cherokee,0,definite_description
+"Stella has visited Rita, Stella is the person that has visited every place",Rita didn't visit Great Neck,0,definite_description
+"Carla is the person that has visited everyone, Carla has visited Sherri",Sherri didn't visit Ashley,0,definite_description
+"Dawn is the person that has visited every place, Hazel has visited Dawn",Dawn didn't visit Alaska,1,definite_description
+"Denise has visited Molly, Denise is the person that has visited everyone",Denise didn't visit Belinda,1,definite_description
+"Katrina has visited Suzanne, Suzanne is the person that has visited every place",Suzanne didn't visit Abington,1,definite_description
+"Janet has visited Geneva, Janet is the person that has visited every place",Janet didn't visit Virginia,1,definite_description
+"Eva has visited Shelley, Shelley is the person that has visited everyone",Eva didn't visit Lucy,0,definite_description
+"Marie is the person that has visited everyone, Marsha has visited Marie",Marie didn't visit Irma,1,definite_description
+"Misty has visited Kathleen, Misty is the person that has visited every place",Misty didn't visit Greenville,1,definite_description
+"Rebecca has visited Beverly, Rebecca is the person that has visited every place",Beverly didn't visit Salem,0,definite_description
+"Shelly has visited Leona, Leona is the person that has visited everyone",Leona didn't visit Mabel,1,definite_description
+"Suzanne has visited Jill, Suzanne is the person that has visited everyone",Suzanne didn't visit Ramona,1,definite_description
+"Cheryl is the person that has visited every place, Cheryl has visited Susie",Cheryl didn't visit Revere,1,definite_description
+"Rebecca is the person that has visited every place, Rebecca has visited Kathryn",Rebecca didn't visit Nanticoke,1,definite_description
+"Charlene is the person that has visited every place, Jessie has visited Charlene",Charlene didn't visit San Pedro,1,definite_description

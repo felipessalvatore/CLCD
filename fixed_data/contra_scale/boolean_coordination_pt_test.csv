@@ -1,0 +1,1001 @@
+sentence1,sentence2,label,label_form
+"Amira visitou Cerrito, Anguera, Nova Independência, Davinópolis, Paraíso, Atalaia do Norte, Morro Agudo, Água Comprida, Mandirituba, Rio do Pires, São José do Bonfim, Campo Florido e Pompéu",Amira não visitou Davinópolis,1,boolean_coordination
+"Edith, Skylar, Nelma, Gioconda, Adriane, Surya, Fernandina, Peyton, Cornélia, Deótila, Leonardina, Terezinha e Roena visitaram Bom Jardim da Serra",Isa não visitou Bom Jardim da Serra,0,boolean_coordination
+"Numénia, Selena e Aniana visitaram São Raimundo das Mangabeiras",Aniana não visitou São Raimundo das Mangabeiras,1,boolean_coordination
+"Ivy, Rafaella, Teresina, Rosita, Mariane, Orlandina, Melania, Dagmar, Katie, Edite, Leila, Celisia, Charlene, Ione, Soraya, Miriã, Leonna e Oliviana visitaram Mineiros do Tietê",Leila não visitou Mineiros do Tietê,1,boolean_coordination
+"Saray, Lólia, Melanie, de Begonha, Otelina, Alcina, Erméria, Acélia, Niceia, Quirina e Luamar visitaram Capim Branco",Lólia não visitou Ipameri,0,boolean_coordination
+"Gaori, Amal, Suse, Oksana, Seni, Ancha, Danila, Kylie, Idélia, Mabília, Rogélia, Clarina, Doralice, de São Luís, Jorja, Ivanoela, Cremilda, Élia e Rosélia visitaram Touros",Amira não visitou Touros,0,boolean_coordination
+"Seong, Sabrina, Ânia, Amanda, Miley, Guarani, Afonsina, Jamília, Bérnia, Esménia e Suely visitaram São Gotardo",Quessia não visitou São Gotardo,0,boolean_coordination
+"Claudemira, Mirela, Talina, Corália, Suely, Georgete, Florentina, Filena, Clementina, Bebiana e Cora visitaram Itabaianinha",Clementina não visitou Itabaianinha,1,boolean_coordination
+"Alexina visitou Itaíba, Presidente Juscelino, Imbituba, Rochedo de Minas e Boa Esperança do Sul",Alexina não visitou Pinhais,0,boolean_coordination
+"Lígia visitou Agricolândia, Dias d'Ávila, Nossa Senhora de Nazaré, Comendador Levy Gasparian e Fortuna de Minas",Letízia não visitou Agricolândia,0,boolean_coordination
+Kai e Eularina visitaram Ribeirão Grande,Eularina não visitou Oriente,0,boolean_coordination
+"Bernardete, Nila, June, Nair, Lucie, Carsta, Oureana, Deodata, Jennifer, Elis, Dina, Ricardina e Abby visitaram Maracás",Bernardete não visitou Maracás,1,boolean_coordination
+"Indira visitou Barra do Garças, Redenção, Zé Doca, Ponte Alta do Bom Jesus, Iporá, São Gonçalo do Piauí, Mutunópolis, Terezinha, Jaraguari, Vila Bela da Santíssima Trindade, Piraí do Norte, São José do Povo, Rio do Sul, Macaíba, Itinga do Maranhão, Tarauacá, São Jorge do Patrocínio, Botuverá e Boa Vista do Gurupi",Indira não visitou Terezinha,1,boolean_coordination
+"Gloriosa, Rapaz, Esménia e Elmira visitaram Itaju",Rapaz não visitou Itaju,1,boolean_coordination
+"Skylar, Martinha, Quésia e Safia visitaram Águas Vermelhas",Quésia não visitou Águas Vermelhas,1,boolean_coordination
+"Myra, Faith, Dialina, Mariluz, Isolete, Lucy, Rebecca, Lina, Abna, Adalgiza, Cirila, Rose, Nathalie, Pascualina, Alzira, Joselina, Clarina, Mayara e Gilma visitaram Simão Dias",Faith não visitou Cambé,0,boolean_coordination
+"Isabelina visitou Guarapuava, Palmeirante, Cocal dos Alves e Pedra do Indaiá",Isolina não visitou Pedra do Indaiá,0,boolean_coordination
+"Malu visitou Pedras de Maria da Cruz, Visconde do Rio Branco, Buriti do Tocantins, São Sebastião do Passé, Itanhangá, São Mateus, Serrana, Nicolau Vergueiro, Vargem Grande, Rolador, Planaltina, Alagoinhas, Ubá, Jerônimo Monteiro, Soure, Palmeira d'Oeste, Itararé, Santos, Itapuã do Oeste e Coribe",Malu não visitou Erebango,0,boolean_coordination
+"Flor de Ceres, Otilina, Selene, Luela, Domitília, Natali, Skylar, Marilina, Iberina e Guarani visitaram Cônego Marinho",Iberina não visitou Cônego Marinho,1,boolean_coordination
+"Letízia, Osvalda, Pulquéria, Benilde, Marisol, Marlita, Orlanda, Mariamar, Destiny, Sénia e Silvina visitaram Igaracy",Marisol não visitou Igaracy,1,boolean_coordination
+"Anunciada visitou Coqueiral, Bom Jardim, Novorizonte e Campo Belo",Carmina não visitou Coqueiral,0,boolean_coordination
+"Dulcina visitou Cajazeirinhas, Urânia, Pastos Bons, Colméia, Capanema, Almas, Rondinha, Brasópolis, Batalha, Luciára, Sertão Santana, Apiacá e Corupá",Dulcina não visitou Corupá,1,boolean_coordination
+Polina visitou Cordeiro e Pranchita,Polina não visitou Pranchita,1,boolean_coordination
+"Francina, Liberalina, Samira, Josselina, Laurentina, Sátira, Nelsa, Estelle, Lizélia, Sibila, Élia, Romeia, Raphaela, Noá, Paraíso, Carmela, Myla, Clésia, Azul e Rosinda visitaram Mondaí",Noá não visitou Mondaí,1,boolean_coordination
+"Doralice visitou Criciúma, Bocaina, Novo Planalto, Tucano, Laurentino e Santarém",Doralice não visitou Picos,0,boolean_coordination
+"Cataleia, Libânia, Giada, Laurine, Katherine, Kai, Lucete, Trinity, Elva, Constanza, Ludmila e Aléxia visitaram Alvorada do Gurguéia",Libânia não visitou Alvorada do Gurguéia,1,boolean_coordination
+"Élea, Mariane, Noémi, Emily, Amaia, Catalina, Aidé e Kieza visitaram Barra Bonita",Kieza não visitou Barra Bonita,1,boolean_coordination
+"Luela, Cataleia, Mabilda, Cleópatra, Cleodice, Gara e Nilsa visitaram João Câmara",Luela não visitou Santa Cruz da Conceição,0,boolean_coordination
+Graciana e Clélia visitaram Cândido Godói,Clélia não visitou Nova Olinda do Norte,0,boolean_coordination
+"Dores visitou Santa Helena, Cajapió, Eugenópolis, Jaguaré, Jaguariaíva, Inhangapi, Cafeara, Charqueada, Votorantim, Rio Novo, Andorinha, Bernardino de Campos, Ibiporã, Petrolina de Goiás, Pirajuí, Hortolândia e Querência",Dores não visitou Inhangapi,1,boolean_coordination
+"Suria, Kira, do Amparo, Julita, Thalita, Merita e Jenny visitaram Goianinha",Suria não visitou Goianinha,1,boolean_coordination
+"Selésia visitou Candelária, São Roque, Jussara, Dracena, Colônia do Piauí, Caraguatatuba, Chapada, Marilena e Nazário",Selésia não visitou Nazário,1,boolean_coordination
+"Étel visitou Ocauçu, Nova América, Pão de Açúcar, Avelinópolis, Campo Erê, Aurora do Tocantins, Nova Trento, Vargem Grande Paulista, Vila Velha, Alfenas, Cascavel, Arapuá, Espírito Santo do Turvo, Armação dos Búzios e Crato",Étel não visitou Ocauçu,1,boolean_coordination
+"Elisama visitou Peri Mirim, Taquarivaí, Camamu, Americana, Eugenópolis, Américo de Campos, Miranorte, Lindóia do Sul, Pedro Teixeira, São Sebastião do Anta, Gastão Vidigal, Ciríaco, Catas Altas, Campestre de Goiás, Canitar, Brotas e Cristiano Otoni",Elisama não visitou Cristiano Otoni,1,boolean_coordination
+"Guislene, Lisana, Clare, Erika, Leonida, Dulcineia e Graciliana visitaram Curitibanos",Graciliana não visitou Alto Paraguai,0,boolean_coordination
+"Neiza, Mónia, Sesira, Ione, Brena, Cárin, Fantina, Reeva, Florence, Raina, Nureia, Pámela, Sierra, Mabília, Ermengarda e Nayara visitaram Riachuelo",Carmo não visitou Riachuelo,0,boolean_coordination
+Janaína visitou Quitandinha e Afonso Cunha,Janaína não visitou Quitandinha,1,boolean_coordination
+"Nélia, Digna, Mariline, Florencia, Chen, Amara, Maribel e Marcela visitaram Tabocas do Brejo Velho",Amara não visitou Tabocas do Brejo Velho,1,boolean_coordination
+"Siomara visitou Varzedo, Itutinga, Arujá, Santa Luzia, Campestre, Ibirubá, Capela do Alto Alegre, São Pedro do Ivaí, Eldorado, Anchieta, Novo Tiradentes, Pirapemas, Sebastianópolis do Sul, Faxinal dos Guedes, Capoeiras, São Gabriel e Igarassu",Siomara não visitou Sebastianópolis do Sul,1,boolean_coordination
+"Carsta, Dúnia e Marita visitaram Hugo Napoleão",Dúnia não visitou Hugo Napoleão,1,boolean_coordination
+"Constânça visitou Breves, Oscar Bressane e Capelinha",Constânça não visitou Breves,1,boolean_coordination
+"Dámaris, Chiara, Gelsemina, Nene, Digna, Dânia, Lenora, Leandra, Cáren, Heli, Maëlis, Anita, Naira e Sisa visitaram Campo Alegre de Lourdes",Leandra não visitou Santana de Cataguases,0,boolean_coordination
+"Rosina, Susi, Miliza, Rhianna, Giraldina, Alcíone, Linda, Sabrina e Marcília visitaram Mulungu",Alcíone não visitou Mulungu,1,boolean_coordination
+"Agripina visitou Betânia, Laguna Carapã, Ventania, Novo Airão, Feira da Mata, Brejo do Piauí, Pilar de Goiás, Porteirinha, Jucurutu e Caculé",Crisante não visitou Brejo do Piauí,0,boolean_coordination
+"Cíntia visitou Carlópolis, Gurinhatã, Feira Nova do Maranhão, Alto Santo, Jaboticaba, Ibicuitinga, Extremoz, Brejo dos Santos, Hidrolina, Butiá, São José da Lagoa Tapada, Nova Palmeira, Centro Novo do Maranhão, Frutal, São Miguel dos Milagres, Mortugaba, Laurentino, Irupi, Ubaí e Palestina do Pará",Cíntia não visitou Santo Antônio do Palma,0,boolean_coordination
+"Lauriana visitou Tanque d'Arca, Leopoldo de Bulhões, Nova Brasilândia D'Oeste, Porto Velho, Canhotinho, Guimarães, Itaberaba, Timburi, Milton Brandão, Marcos Parente, Anchieta, Pedra Bela, Sanharó, Inajá, Minas do Leão, Novo Santo Antônio, Lupionópolis e Tejupá",Lauriana não visitou Timburi,1,boolean_coordination
+"Gabi visitou Nhandeara, Flores da Cunha, Brejolândia, Herval d'Oeste, Várzea Grande, Catanduvas, Manaus, Caiuá, Ibaretama e Florânia",Gabi não visitou Ibaretama,1,boolean_coordination
+"Éris, Sénia, Precious, Jenny, Alaia, Leonardina, Kenza, Huguete, Consolação, Sena, Jaquelina, dos Santos, Adália, Isabella, Desiree, Bitia, Iva e Naraiana visitaram Tapiraí",Jenny não visitou Tapiraí,1,boolean_coordination
+"Ianesis visitou Chalé, Saldanha Marinho, Quatro Irmãos, Dois Lajeados, São Francisco de Sales, Açu, Queimadas, Santo Estêvão, Campinas do Piauí, Pracinha, Bonfim, Itaueira, Campos Lindos, Pavussu e Macapá",Ianesis não visitou Açu,1,boolean_coordination
+"Simoneta visitou São Sebastião, Dom Macedo Costa, Serraria, Capela do Alto Alegre, Mucajaí, Baturité, Fernando Falcão, Barra, Senador José Bento, Joinville, Passagem Franca do Piauí, Turuçu, Pinhal da Serra, Manduri e Dois Irmãos do Tocantins",Helga não visitou Turuçu,0,boolean_coordination
+"Juraci visitou Cerro Azul, São José da Vitória, Leopoldina, São José de Mipibu, Mutum e Muaná",Juraci não visitou Quatro Pontes,0,boolean_coordination
+"Berengária visitou Lindolfo Collor, São Tomé, Morro Cabeça no Tempo, Luzerna, Tangará, Ipaussu, Acari, Santa Rita de Jacutinga, Corumbá, Imbé de Minas, São Roque e Barra do Piraí",Naira não visitou Morro Cabeça no Tempo,0,boolean_coordination
+"Shine, Anusca, Farah, Lariana, Mavília, Duartina, Pui e Quézia visitaram Portão",Duartina não visitou Japoatã,0,boolean_coordination
+"Assunta, Leonora, Helda, Neireide, Rebecca, Evangelina, Oceane, Gravelina, Saula, Isália, Tabata e Maximiliana visitaram Muniz Freire",Isália não visitou Muniz Freire,1,boolean_coordination
+"Elaina, Roana, Elodia, Diara, Luena, Leonora, Primitiva, Nirvana, Herénia, Gina, Anunciada e Samaritana visitaram Araçagi",Nirvana não visitou Araçagi,1,boolean_coordination
+"Tiara visitou Planalto, Ubatã, Quixeramobim, Presidente Kennedy, Inhumas, Juazeiro, Presidente Vargas, Santa Maria das Barreiras, Jesuítas, São Bento do Trairí, Pedro Laurentino, São João do Polêsine, Baixa Grande e São Borja",Tiara não visitou Jesuítas,1,boolean_coordination
+"Marilisa, Romeia, Grace, Joela, Dinarta e Aminata visitaram São Francisco",Dinarta não visitou São Francisco,1,boolean_coordination
+"Ivete visitou Serranópolis do Iguaçu, Marajá do Sena, Planalto, Angelândia, Piratini, Irupi, Romelândia, Banzaê, Potirendaba, Brasilândia do Sul, São Jorge d'Oeste, São Miguel dos Campos e Tenente Laurentino Cruz",Ivete não visitou Potirendaba,1,boolean_coordination
+"Candy, Neiza, Jacinta, Lélia, Martinha, Natividade, Espírito Santo, Catalina, Thai, Ambrosina, Tracy e Darcília visitaram Currais Novos",Thai não visitou Currais Novos,1,boolean_coordination
+"Clare, Leonarda, Brásia, Demétria, Domitila, Magdalena e Sophie visitaram Ibirité",Magdalena não visitou Ibirité,1,boolean_coordination
+"Suely, Oceane, Nadine, Malaika, Inara, Evangelista, Seni, Luanda, Natasha, Bertina, Séfora e Lurdite visitaram Pinhal da Serra",Papoila não visitou Pinhal da Serra,0,boolean_coordination
+Excelsa e Sadiya visitaram Itajobi,Sadiya não visitou Lajedo,0,boolean_coordination
+"Briosa visitou Campina do Monte Alegre, São João do Soter, Apuiarés, Rio do Pires e Encanto",Adriela não visitou Campina do Monte Alegre,0,boolean_coordination
+"Mariama visitou Paraíso, Monte Alegre, Cardoso, Campo Alegre, Itaocara, Canápolis, Arari, Morro Agudo, Iguaraci, Viamão, Senador Canedo, Jaciara, Nova Araçá e Nova Esperança do Piriá",Mariama não visitou Cardoso,1,boolean_coordination
+"Carla visitou Turiaçu, São Gonçalo do Sapucaí, Liberato Salzano, Nova União, Cocalinho, Dona Francisca, Castelândia, Timburi, Juazeiro do Piauí, Laranjeiras do Sul, São Pedro do Ivaí e Quedas do Iguaçu",Thai não visitou Turiaçu,0,boolean_coordination
+"Lauren visitou São João de Iracema, Esteio, Nova Olinda, Goianira, Piraúba, Manoel Emídio, Guaratinguetá, Joaquim Felício, Farias Brito, Boa Vista do Sul, Pirangi, Nerópolis e Rio das Antas",Lauren não visitou Goianira,1,boolean_coordination
+Osíris e Léa visitaram Campo Bonito,Thaís não visitou Campo Bonito,0,boolean_coordination
+"Cesária visitou Itu, Piraquê, Correntes, Araponga, Bueno Brandão, Grão Mogol, Matias Olímpio, Ibirapitanga, Brejo Santo, Mulungu do Morro e Maria Helena",Cesária não visitou Brejo Santo,1,boolean_coordination
+"Crisante, Nené, Charlotte, Ticiane, Mécia, Noémia, Sandrina, Arlinda, Belisa, Trinity e Rossana visitaram Novo Aripuanã",Naila não visitou Novo Aripuanã,0,boolean_coordination
+"Mayara, Rose, Faustina, Dídia, Kate, Gaitana, Nânci, Natalina, Belinda e Janina visitaram Peritoró",Belinda não visitou Peritoró,1,boolean_coordination
+"Leya visitou Congo, Três Arroios, Felipe Guerra, Cajuru, Acaiaca, São Miguel do Araguaia, Planaltina do Paraná, Paranapoema, Charqueada, Riacho de Santana, Três Rios, Itambaracá, Águas Vermelhas, Presidente Castello Branco e Jaboticaba",Leya não visitou Acaiaca,1,boolean_coordination
+"Bitia, Lisbon, Neusa, Josuana, Fani, Belina, Donzélia, Ariadne, Torpécia, Cristele, Flor de Maria, Arlinda, Reyna, Hália, Petrina, Severa, Danielle e Erika visitaram Sobradinho",Ariadne não visitou Sobradinho,1,boolean_coordination
+"Nayma visitou Pedro Leopoldo, Buritirama, Itapuí, Campo Novo do Parecis e Pratinha",Nayma não visitou Rio Novo do Sul,0,boolean_coordination
+"Liliete visitou Unaí, Presidente Vargas, Paraisópolis, Bujaru, Alegria, Garrafão do Norte e Ingaí",Liliete não visitou Cipotânea,0,boolean_coordination
+"Alfreda visitou São Félix, Padre Carvalho, Morro do Pilar, Matinhas, Lagoa dos Patos, Luís Gomes, Itagibá, Ouro Preto do Oeste, Santa Cruz da Conceição, Irapuru, Farias Brito, Vertente do Lério, Itabira e Santópolis do Aguapeí",Assunção não visitou Vertente do Lério,0,boolean_coordination
+"Corine, Felismina, Lilite, Lace, Taciana, Khloe, Constantina, Margaux, Tabatha, Nádeja, Tirza, Benjamina, Tolentina, Ismália, Destiny, Justa e Florencia visitaram Alpercata",Felismina não visitou Alpercata,1,boolean_coordination
+"Malía, Irisalva, Isolete, Numénia, Ellie-Rosa, Kayla, Armandina, Disa, Keira, Naíma e Julita visitaram Luís Domingues",Irisalva não visitou Luís Domingues,1,boolean_coordination
+"Gilberta, Áfrika, Mirna, Mya, Cárin, Mariame, Diná, Marlise, Rihanna, Terência e Apolónia visitaram Ibiracatu",Margarita não visitou Ibiracatu,0,boolean_coordination
+"Lauriana, Climénia, Ilsa, Giraldina, Miah, Nely, Clarinda, Sunamita, Balduína e Nor visitaram Nazaré do Piauí",Clarinda não visitou Nazaré do Piauí,1,boolean_coordination
+"Ilídia visitou Porto Alegre do Piauí, Macaúbas, Alagoa, Santa Cruz do Capibaribe, Potengi, Atalaia, São Sebastião e Santa Inês",Ilídia não visitou Santa Inês,1,boolean_coordination
+"Alexia, Dionísia, Emiliana, Shakira, Marilina, Guarani, Benícia, Josefa, Léanor, Layla e Marli visitaram Patos de Minas",Emiliana não visitou Carlos Gomes,0,boolean_coordination
+"Cácia visitou São José de Ubá, Uruburetama, Santa Luzia e Sulina",Cácia não visitou Iacri,0,boolean_coordination
+"Stephanie, Elaine, Tirsa, Brice, Clementina, Cesaltina, Bella, Caterina, Niceia, Melânia, Myriam, Hortênsia, Elisabeth, Sacha, Climénia, Noiala, Bertilde, Dara e Briolanja visitaram Alto Bela Vista",Bella não visitou Alto Bela Vista,1,boolean_coordination
+"Graciana visitou Caraí, Butiá, Lajeado Grande, Gália, São Luíz do Norte, Capão Alto, Ibirama, Oiapoque, Quirinópolis, Cravinhos, Boa Vista do Ramos e São José do Alegre",Elle não visitou Boa Vista do Ramos,0,boolean_coordination
+"Selene, Marjolene, Briolanja, Flor de Ceres e Lénia visitaram Igaratá",Flor de Ceres não visitou Igaratá,1,boolean_coordination
+"Dominica visitou Palmeiras do Tocantins, São João do Paraíso, Martinho Campos, Nova Campina e Manoel Emídio",Dominica não visitou São João do Paraíso,1,boolean_coordination
+"Odete visitou Maxaranguape, Monte Alegre dos Campos, Araruama, Italva, Terra Roxa, Alto Paraíso, Francisco Dumont e Porto Alegre",Odete não visitou Monte Alegre dos Campos,1,boolean_coordination
+"Naísa visitou Ipeúna, Santa Terezinha, São Pedro do Suaçuí, Olho D'Água do Piauí, Candeias, Camacho, Santa Tereza do Oeste, Carutapera, Conceição da Barra de Minas, Eugenópolis, Pium e Poços de Caldas",Eliete não visitou Santa Tereza do Oeste,0,boolean_coordination
+"Idália, dos Mártires, Reinalda, Maritila, Lilite, Amandina, Natalie, Jennifer, Bibiana, Dinamene, Neide, Salúquia, Josuana, Mariamar, Lizélia, Aliça, Simara, Liliete, Charlene e Joyce visitaram Trombudo Central",Idália não visitou Trombudo Central,1,boolean_coordination
+"Marli, Nayara, Mariah, Antonina, Oliviana, Sahara, Margareta, Eluína, Runa, Lucileine, Noélia, Thalita, Merrita, Aisha, Torpécia, Selina e Constantina visitaram Campo Alegre do Fidalgo",Guislena não visitou Campo Alegre do Fidalgo,0,boolean_coordination
+"Maureen, Miquelina, Tayná, Josabete, Esperança, Ádila, Dinamene, Dominica, Clarissa, Eliseba, Severina, Guislene, Noélie, Carla, Salima, Donatila, Suati, Saga, Leonida e Jorja visitaram Itá",Biana não visitou Itá,0,boolean_coordination
+"Tolentina visitou Ourinhos, São Joaquim, Alto Paraíso, Bernardo Sayão, Boca do Acre, Agrestina, Acauã, Itaguajé, Barra de Santo Antônio, Inhaúma, Mucurici, Umburatiba, Ariranha, Mirassol d'Oeste, Benjamin Constant do Sul, Três Coroas e Tufilândia",Tolentina não visitou Alto Paraíso,1,boolean_coordination
+"Dinarta, Ângel, May, Pulquéria, Betsabé, do Rosário e Mara visitaram Eusébio",Betsabé não visitou Tucuruí,0,boolean_coordination
+"Kaira, Tita, Florisbela, Consolação, Jéni, Leah, Dária, Oscarina, Síria, Namira e Calila visitaram Itapirapuã Paulista",Namira não visitou Governador Valadares,0,boolean_coordination
+"Eárine, Natanaela, Bitia, Priscilla, Honey, Sierra, Nília, Harper, Liberalina, Clícia, Ilca, Ivete, Numénia, Dariana e Benice visitaram Águas de Santa Bárbara",Naomi não visitou Águas de Santa Bárbara,0,boolean_coordination
+"Consuelo visitou Muitos Capões, Populina, Caruaru, Alecrim, Itaguaí e Boa Vista do Incra",Consuelo não visitou Caruaru,1,boolean_coordination
+"Lena visitou Martinho Campos, Florínia, Milagres do Maranhão, Pedro II, Lassance, Juruaia, Serra da Raiz, Campo Novo, Crisólita, Maracanaú, Jucás e Goianira",Lena não visitou Cocal do Sul,0,boolean_coordination
+"Aniana, Caroline, Jacinta, Onélia, Mikaela, Natalina, Erika, Emma, Samantha, Jalmira, Melanie, Cínara, Liete e Glaúcia visitaram Mozarlândia",Melanie não visitou Mozarlândia,1,boolean_coordination
+"Selesa visitou Paranatama, Araguapaz, Pacatuba, Veredinha, São José do Herval, Guabiruba, Santa Rita do Araguaia, Iperó, Presidente Juscelino e Ivaiporã",Selesa não visitou São Gabriel,0,boolean_coordination
+"Rodriga visitou Ferros, Astorga, Nova Esperança, Aracruz, Barracão, São João do Oeste, Caracaraí, Pedra Lavrada, Santa Helena, Upanema, Sananduva, Governador Luiz Rocha, São José do Cedro, Horizontina, Caldas, Alagoinha, Socorro, Resende, Harmonia e Arcos",Mireia não visitou Horizontina,0,boolean_coordination
+"Armandina visitou Jardim Alegre, Sapopema, São José do Rio Pardo, Ponte Alta do Norte, Trindade do Sul, São Jorge d'Oeste, Westfalia, Patos de Minas, Itapagé, Jaguaribara, Dois Riachos, Francisco Morato, Santa Helena, Emilianópolis, Quijingue, Augusto Pestana, Matinhas, Manfrinópolis, Paulo Bento e Cosmorama",Armandina não visitou Iporã do Oeste,0,boolean_coordination
+"Iracema, Alina, Raina, Deborah, Rose, Anísia, Agna, Naira, Angelita, Namira, Julianna, Georgeta, Romã, Líbia, Saphira, Amaia, Nicandra, Olga, Amina e Neireide visitaram Cajazeiras do Piauí",Rihanna não visitou Cajazeiras do Piauí,0,boolean_coordination
+"Agostinha, Agna, Flória, Sade, Jessy e Stanislava visitaram Enéas Marques",Agna não visitou Esperança,0,boolean_coordination
+"de Sales visitou Codajás, Umbuzeiro, Campanha, Porto Firme, Conceição do Coité, Arapiraca, Mandaguaçu, Trizidela do Vale, Bonito, Nossa Senhora de Lourdes, Nova Bandeirantes, Igaporã e Bela Vista de Goiás",de Sales não visitou Tibagi,0,boolean_coordination
+"Mirella visitou Pequi, Montenegro, Paulo Bento, Nova Canaã Paulista, São Gabriel, Ichu, Cordeiro, Ibarama, Ouvidor, Cambuí e Guaçuí",Sally não visitou Ibarama,0,boolean_coordination
+"Marcelina, Carol, Bina, Ida, Dineia e Erin visitaram Barra Mansa",Marcelina não visitou Barra Mansa,1,boolean_coordination
+"Desiree, Mabilda, Domitila, Ornela, Davínia, Dorinda, Dara, Generosa, Geovana, Princess, Rapaz, Ifigénia, Beatrix, Noor e Muriela visitaram Canas",Hermenegilda não visitou Canas,0,boolean_coordination
+"Dagmar visitou Orós, Joaquim Felício, Magalhães de Almeida, Assis Brasil, Trajano de Morais, Rodelas e Pedra do Anta",Cita não visitou Rodelas,0,boolean_coordination
+"Joelma visitou Igaraçu do Tietê, Cantá e Pedro Teixeira",Leona não visitou Pedro Teixeira,0,boolean_coordination
+"Herénia visitou Coxim, João Lisboa, Dezesseis de Novembro, Água Doce do Maranhão, São João da Lagoa, Vera Mendes, São Desidério, Ouriçangas, Paquetá, Itagimirim, Pescador e Saúde",Herénia não visitou Tamboara,0,boolean_coordination
+"Carissa, Auriana, Maíra e Saulina visitaram Coronel Barros",Saulina não visitou Coronel Barros,1,boolean_coordination
+"Constânça visitou São Pedro da União, São Pedro do Suaçuí, Santa Fé, Serranos e João Câmara",Constânça não visitou Tiros,0,boolean_coordination
+"Riana, Marlene e Sarai visitaram Palmital",Marlene não visitou Palmital,1,boolean_coordination
+"Namira, Maia, Estrelle, Marinha, Leonarda, Mariane, Jenny, Sharon e Casimira visitaram Érico Cardoso",Idalisa não visitou Érico Cardoso,0,boolean_coordination
+"Miriã, Duna, Rubina, Irma, Luiza, Firmina, Joya, Eutália, Celisia, Daina, Piedade, Nathália e Analisa visitaram Itaipé",Nathália não visitou Itaipé,1,boolean_coordination
+"Eliane visitou Flor do Sertão, Campina Grande e Cícero Dantas",Eliane não visitou Campina Grande,1,boolean_coordination
+"Coraima visitou Água Boa, Presidente Bernardes, Assaí, Sooretama, Parnarama e Pedro Canário",Lola não visitou Água Boa,0,boolean_coordination
+"Laetitia visitou Barreiras, Vertentes, Tapira, São Gonçalo do Amarante, Jandaia do Sul, Taquaral de Goiás, Presidente Vargas, Arauá, Vargem, Codajás, Mundo Novo e São José do Cerrito",Laetitia não visitou Jacinto,0,boolean_coordination
+Laurinda e Joela visitaram Santa Leopoldina,Laurinda não visitou Santa Leopoldina,1,boolean_coordination
+"Tessa, Deborah, Amanda, Dionísia, Domitília, Ânia, Ingeburga, Altina, Cataleia, Cita, Audete, Leoménia, Kailani, Heda, Carmezinda, Mirandolina e Gema visitaram Boa Hora",Glaúcia não visitou Boa Hora,0,boolean_coordination
+"Formosinda visitou Conceição do Canindé, Capinzal, Santa Maria do Tocantins, São Sebastião do Tocantins, Jacutinga, Elias Fausto, Alto Alegre do Maranhão, Dias d'Ávila, Umuarama e Laurentino",Formosinda não visitou Umuarama,1,boolean_coordination
+"Emie, Malika, Isolda, Évila, Melinda, Katia e Tiana visitaram Santo Antônio dos Milagres",Emie não visitou Guiratinga,0,boolean_coordination
+"Nânci visitou Canavieiras, Irará, Poção de Pedras, Jaguarari, Tamboara, Atibaia, Piranguçu, Bom Jesus do Tocantins, Serra Alta, São Carlos, Muricilândia, Erval Velho, Pantano Grande, Nazaré, São Sebastião do Paraíso, Juína, Desterro de Entre Rios, Jaborandi, Itanhaém e Papanduva",Nânci não visitou Nazaré,1,boolean_coordination
+"Alzira visitou Piracanjuba, São Gabriel, Vitorino Freire, Corumbiara, São Brás do Suaçuí, Guimarães, Taquarituba, Patos, Raposos, Ubaíra e Ivaiporã",Afonsa não visitou Taquarituba,0,boolean_coordination
+"Cleide visitou Palmeira das Missões, Areado, Chã Grande, Douradina, Carangola, Itajá, Pindoba, Adustina, Boa Vista do Incra, Castro, Santana dos Montes, Pedro Teixeira, Mata Grande, Jardinópolis, Santa Rita do Araguaia, Anagé, Formigueiro e Areiópolis",Cleide não visitou Pedro Teixeira,1,boolean_coordination
+"Helga visitou Jussiape, Adelândia, Porto Rico do Maranhão, Franco da Rocha, Araçaí, Morada Nova de Minas, Glicério, Chã Preta e Rolador",Helga não visitou Jussiape,1,boolean_coordination
+"Marli, Alaíde, Celinia, Tabatha, Amável, Engrácia, Selma, Pulquéria, Anaíde, Doriana, Tiara e Lólia visitaram Guaratinga",Lólia não visitou Guaratinga,1,boolean_coordination
+Madre de Deus e Ingeburga visitaram Olho d'Água Grande,Madre de Deus não visitou Olho d'Água Grande,1,boolean_coordination
+"Clarinha, Miraldina, Bethany, Maria João, Mária, Sena, Dámaris, Eleanor, Biana, Lusa, Jamília, Cyntia, Naísa, Florbela, Larisa e Cataleia visitaram Alambari",Bethany não visitou Alambari,1,boolean_coordination
+"Briolanja, Arminda, Britney, Almira, Sássia e Léana visitaram Imbé de Minas",Almira não visitou Imbé de Minas,1,boolean_coordination
+"Marianna visitou Anapu, Camargo, Joca Marques, Pintadas, Sete Barras, Pedreiras, Caxias do Sul, Marcos Parente, Teófilo Otoni, São Sebastião do Umbuzeiro, Itaju do Colônia, Itatira, Arcos e Céu Azul",Marianna não visitou Anapu,1,boolean_coordination
+"Kenya visitou Boa Esperança, Maçambara, Cruzília, Palminópolis, Pereira Barreto e Cascavel",Martinha não visitou Pereira Barreto,0,boolean_coordination
+"Estelle visitou Passa e Fica, Querência e Promissão",Estelle não visitou Passa e Fica,1,boolean_coordination
+"Rodriga, Salomite, Michelle, Antonina, Mina, Tanagra, Eleine, Analisa, Maíra, Liza, Dulcelina, Rosália, Clarissa e Eda visitaram Serra Alta",Marieta não visitou Serra Alta,0,boolean_coordination
+"Cacilda, Ruth, Dídia, Anabel, Macati, Lucelinda, Helga, do Natal, Átina, Carsta, Melânia, Alcíone, Katia e Dirce visitaram Itapirapuã Paulista",do Natal não visitou Itapirapuã Paulista,1,boolean_coordination
+"Julie visitou Pedras de Maria da Cruz, Jaboti, Novo Machado e Santa Maria de Itabira",Julie não visitou Santa Maria de Itabira,1,boolean_coordination
+"Norma, Lubélia, Dulcina, Ondina, Cíntia, Lucete, Alisande, Naísa, Idalisa e Thalia visitaram Iguaí",Norma não visitou Casa Nova,0,boolean_coordination
+"Priyanka, Helen, Aldina, Marie, Adalgisa, Minervina, Silvandira, Aldara, Ifigénia, Aminata, Gonzaga, Bertina, Ivana, Filena, Eurídice, Riu, Sade, Nadine e Jasmine visitaram São João de Pirabas",Ifigénia não visitou São João de Pirabas,1,boolean_coordination
+"Étel visitou Ouro Preto, São Tiago, Alfenas, Nova Itaberaba, Primeira Cruz, Fernando Prestes, Vera Cruz do Oeste, Santa Cruz da Vitória, Francisco Badaró, Rio Novo, Nova Europa e Prudente de Morais",Digna não visitou Alfenas,0,boolean_coordination
+"Etelvina visitou Ponta de Pedras, Ipuaçu, Cachoeira do Piriá e Carnaúba dos Dantas",Linda não visitou Carnaúba dos Dantas,0,boolean_coordination
+"Lucete visitou Careaçu, Antônio João, Desterro do Melo, Pinheiral, Santa Fé, Araguaiana, Cerro Grande, Coluna, Marco, Ponte Branca, Barro Duro e Apiúna",Lucete não visitou Santa Fé,1,boolean_coordination
+"Josete visitou São Gonçalo dos Campos, Babaçulândia, Almino Afonso, Goianinha, Cunha Porã, Santa Maria do Suaçuí, Santarém e Paramoti",Josete não visitou São Gonçalo dos Campos,1,boolean_coordination
+"Orianna visitou Sete Barras, Paraíso, São Valentim do Sul, Ibiaí, Paverama, Remígio, Itá, Bebedouro, Benjamin Constant do Sul e Arara",Orianna não visitou Paraíso,1,boolean_coordination
+"Cacilda visitou João Câmara, Tejuçuoca, Monsenhor Gil e Quatá",Cacilda não visitou Monsenhor Gil,1,boolean_coordination
+"Bartolina, Marianne, do Almurtão, Gislena, Belmonte, Chen, Berta, Cidalina, Joelma, Suellen, Tracy, Clarinha e Anália visitaram Jardim de Piranhas",Desidéria não visitou Jardim de Piranhas,0,boolean_coordination
+"Marilda, Oureana e Elícia visitaram Jandira",Marilda não visitou Itapuranga,0,boolean_coordination
+"Honorina, Georgeta, Justa, Lucie, Raven, Luena, Salúquia, Énia, Indaleta, Anabel, Cidalisa, Alvarina, Suzanne, Georgete, Francília, Ácil, Aisha, Anusca, Margaret e Magnólia visitaram Itaquitinga",Indaleta não visitou Itaquitinga,1,boolean_coordination
+"Lucete, Marlita, Sofie, Joele e Joselina visitaram Montanha",Joele não visitou Montanha,1,boolean_coordination
+Belarmina e Léane visitaram Brejetuba,Rosalie não visitou Brejetuba,0,boolean_coordination
+"Evelyn, Aimara, Carissa, Selésia, Gravelina, Gabriella, Kai e Darcília visitaram Iretama",Éris não visitou Iretama,0,boolean_coordination
+"Estrella visitou Ituberá, Graça Aranha, Ipiranga do Sul, Abreu e Lima, Almas, Quintana, Boa Vista do Ramos, Palmares, Itupiranga, Paramoti, Aparecida do Rio Doce, Campo Largo, Mendes Pimentel, Iturama, Barro Alto, Guapiara e Machado",Estrella não visitou Ipiranga do Sul,1,boolean_coordination
+"Bitia visitou Monte Aprazível, Ivinhema, Dois Irmãos, Taperoá, Cocal do Sul, Passagem Franca do Piauí e Capela",Bitia não visitou Dois Irmãos,1,boolean_coordination
+"Rosebel visitou São José dos Ramos, Pesqueira, Telêmaco Borba, Cordeirópolis, Uiraúna, Rondon, Águas Mornas, Branquinha, Palmópolis, Extremoz, Harmonia, Simolândia, São Francisco do Brejão, Ribeirão Vermelho, Lizarda, São João de Iracema, Seringueiras e Dias d'Ávila",Rosebel não visitou Pesqueira,1,boolean_coordination
+"Nilda, Quélia, Anícia, Geraldina, Brice, Eleonora, Kendra, Brites, Natali, Dulcineia, Mabilda, Giraldina, Constânça, Milagre, Castorina, Sunamita, Eda, Inara e Cataleia visitaram Santa Rita do Novo Destino",Dulcineia não visitou Santa Rita do Novo Destino,1,boolean_coordination
+"Anaíce visitou Caxingó, Parnaguá, Marques de Souza, Cardoso, Ipojuca, Alto Longá, Ibicuitinga, Ceres, Minas Novas, Pedro do Rosário, Ibicaré, Caraá, Salete, Araguaiana, Faxinal e Vitorino",Rondina não visitou Ceres,0,boolean_coordination
+"Ekaterina, Melody, Malvina, Lily, Jaqueline, Oliviana, Noémia, Cremilda, Estelle, Benvinda, Chi, Liberalina e Basilissa visitaram Ivaté",Benvinda não visitou Biritinga,0,boolean_coordination
+"Raissa, Juno, Sade, Lici, Eleia, Daisy, Kendra, Sesira, Maritana, Minervina, Cremilda, Malvina, Demelza, Dionísia e Dulcídia visitaram Muritiba",Dionísia não visitou Muritiba,1,boolean_coordination
+"Flor de Ceres, Taísa, Emídia, Quitéria, Cesaltina, Aimara, Ninfa, Onófria, Natacha, Gara, Rose, Mícia, Feba, Dinamene, Éris, Sahara, Alanis, Edine, Maísa e Africana visitaram Monteiro Lobato",Onófria não visitou Monteiro Lobato,1,boolean_coordination
+"Dorinda, Rosebele, Hilda, Digna, Aisha, Nazária, Ilca, Amina, Idalisa, Tirza, Eponina, Lélia, Aneide, Kenza, Hersília, Alanis, Anaíce e do Amparo visitaram Santa Maria do Oeste",Silvéria não visitou Santa Maria do Oeste,0,boolean_coordination
+"Arminda, Especiosa, Nirina, Malu, Teresinha, Manuella, Calila, Loredana, Katherine, Faustina, Joyce, Rubyana, Delminda, Terência, Ilca, Nicky e Evangelista visitaram Piracanjuba",Teresinha não visitou Piracanjuba,1,boolean_coordination
+"Miquelina visitou Tutóia, Farias Brito, Andradas e Urucuia",Miquelina não visitou Andradas,1,boolean_coordination
+"Clementine, Carminda, Leocádia e Carisa visitaram Parobé",Carisa não visitou Pedro II,0,boolean_coordination
+"Eléonore visitou Frei Gaspar, Porto Rico e Juara",Eléonore não visitou Porto Rico,1,boolean_coordination
+"Jil visitou Potiraguá, Exu, Jacuí, Flora Rica, Guiricema e Ouro Verde de Goiás",Jil não visitou Flora Rica,1,boolean_coordination
+"Geisa, Rosália, Leandra, Orlanda, Estrella, Brenda, Deise, Elisabeth, Keiko, Dulcineia, Kendall, Ellie-Rosa e Eurídice visitaram Querência",Berengária não visitou Querência,0,boolean_coordination
+Delmina e Aleixa visitaram Jacaraú,Aleixa não visitou Monte Mor,0,boolean_coordination
+"Albina visitou Santa Luzia, Casinhas e Assis Brasil",Albina não visitou Casinhas,1,boolean_coordination
+"Edite, Sibila, Selina, Nola, Graciosa, Ácil e Lumi visitaram Vargeão",Nola não visitou Vargeão,1,boolean_coordination
+"Cleonice visitou Iracema, Comendador Gomes, Serra da Saudade, Ventania, Berilo e Ribeirão Branco",Cleonice não visitou Iracema,1,boolean_coordination
+"Nirina visitou Serra Negra do Norte, Ribeirão Claro, Guaraciaba, Carmo do Rio Claro, Tasso Fragoso, Pentecoste, Iguaí, São Pedro das Missões, Lacerdópolis, Tapiramutá, Queimados, Águas Mornas, Pinhão, Luís Domingues, Floresta Azul, Macedônia, Jaguaquara, São Lourenço e Aiuruoca",Soraya não visitou Jaguaquara,0,boolean_coordination
+"Isabella visitou Miravânia, Messias Targino, Lagoa do Piauí, Riachinho, Lamarão, Maripá de Minas, Cascalho Rico, Boa Esperança, Cachoeiro de Itapemirim, Aquidabã e Arvoredo",Isabella não visitou Boa Esperança,1,boolean_coordination
+"Beatrix visitou Nova Bandeirantes, Campo Largo do Piauí e Itapoá",Aníria não visitou Nova Bandeirantes,0,boolean_coordination
+"Diná, Carmel, Joyce, Glicínia, Isaltina, Sáli, Edéria, Lorine e Tess visitaram Wanderley",Glicínia não visitou Wanderley,1,boolean_coordination
+"Graciela, Marcela, Tereza, Edine, Ianesis, Luíza, Carmen e Antonela visitaram Foz do Iguaçu",Clarice não visitou Foz do Iguaçu,0,boolean_coordination
+"Bernardete, Edéria, Meera, Naia, Nice, Cizina, do Céu, Linda, Jacqueline, Nayla, Anícia, Julita, Anaisa, Misaela, Allegra, Natércia, Julinda, Chantal, Mya e Kaira visitaram Elias Fausto",Andreína não visitou Elias Fausto,0,boolean_coordination
+"Hortênsia, Daliana, Magnólia, Carla, Pui, Chanda, Anaíce, Jacqueline, Malika, Marlita, Mariah, Mariamar, Bertina, Neise e Ivy visitaram Epitaciolândia",Malaika não visitou Epitaciolândia,0,boolean_coordination
+"Rafa, Balduína, Dafne, Nikita, Leolina, Suzi, Josabete, Jordana, Angélica, Lea, Francina, Gardela, Tabatha, Evangelina, Lace, Radija e Catrina visitaram Santanópolis",Poliana não visitou Santanópolis,0,boolean_coordination
+"Eliete visitou Malhada de Pedras, Ipanema e São Gonçalo do Gurguéia",Marciana não visitou Malhada de Pedras,0,boolean_coordination
+"Justina, Isolda, Jânia, Almesinda e Margaret visitaram Conselheiro Pena",Isolda não visitou Coronel João Pessoa,0,boolean_coordination
+"Audete, Khloe, Julinha, Namira, Deodete, Nessie, Daniella, Neireide, Bebiana, Piedade, Sylvie, Artemísia, Felisberta, Lucinda, Luisete e Marianna visitaram Catolé do Rocha",Namira não visitou Catolé do Rocha,1,boolean_coordination
+"Sena visitou Jacobina, Tuntum, Pilões, Santana de Cataguases, Osvaldo Cruz, Adamantina, Itapira, Paim Filho, Santo Estêvão, Itapebi, Berilo e Lajedo do Tabocal",Sena não visitou Traipu,0,boolean_coordination
+"Otelinda, Filena, Raísa, Lena, Sophia, Lidiana, Loide, Dorine, Saphira, Adolfina, Olga e Aliana visitaram Souto Soares",Lucie não visitou Souto Soares,0,boolean_coordination
+"Lauriana visitou Maetinga, Linha Nova, São Tomé, Imbé, Ponte Serrada, Igarapé, Catingueira, Alpercata, Gilbués, Cândido Sales, Trajano de Morais, Florânia, Ponta Porã, Rio de Contas, Araguaiana e Jaguaribara",Lauriana não visitou Jaguaribara,1,boolean_coordination
+"Idília visitou Porto do Mangue, São Bento Abade e Tocos do Moji",Idília não visitou Vera Cruz,0,boolean_coordination
+"Brenda, Duna, Serenela, Niah, Tarina, Alaia e Mariline visitaram Faxinal do Soturno",Duna não visitou Faxinal do Soturno,1,boolean_coordination
+"Malaika, Rosélia, Shirley, Sandrina, Cânia, Ângel, Eárine, Trinity, do Nascimento, Eliete, Afra, Eleanor, Heda, Lucie e Elana visitaram São Gabriel",Sandrina não visitou São Gabriel,1,boolean_coordination
+"Adosinda, Étel, Córita, Lucinda, Paraíso, Jaqueline, Jovelina, Quirina, Rossana, Ismália e Felismina visitaram Jambeiro",Jaqueline não visitou Jambeiro,1,boolean_coordination
+"Lais, Harper, Constance, Ivy, Desiree, Jandira, Joaquina, Seni e Joséfa visitaram São Roque do Canaã",Seni não visitou São Roque do Canaã,1,boolean_coordination
+Delisa visitou Madalena e Caldazinha,Delisa não visitou Madalena,1,boolean_coordination
+Silvéria e Paraíso visitaram Ajuricaba,Paraíso não visitou Ajuricaba,1,boolean_coordination
+"Niceia visitou Fraiburgo, Cariús e Tupiratins",Niceia não visitou Tupiratins,1,boolean_coordination
+"Eponina, Aurete, Graciana, Constânça, Medina, Lace, Reece, Aisha, Nour e Ireneia visitaram Salgadinho",Aurete não visitou Nova Tebas,0,boolean_coordination
+"Peyton visitou Palmares do Sul, Santa Luzia, Ibirubá, Divina Pastora, Calumbi e Buerarema",Peyton não visitou Calumbi,1,boolean_coordination
+"Ancha, Isabelina, Benice, Domitila, Dionilde, Castelina, Elísia, Fidélia, Cleonice e Laurinda visitaram Douradina",Isabelina não visitou Douradina,1,boolean_coordination
+"Florisbela visitou Alto Taquari, Carapicuíba, Entre Folhas, Oeiras, Três Passos, Cujubim, Augusto Pestana, Vera Cruz, Alto Rio Doce, Ererê, Canitar, Iúna, Areial, Paranapuã, Alto Rio Novo, Camapuã, Simão Dias e Espigão Alto do Iguaçu",Afra não visitou Três Passos,0,boolean_coordination
+"Emily, Idália, Marquesa, Simona, Laisa, Esperança, Milagre, Ornela, Eliane, Inocência, Lace, Kieza e Arlete visitaram Vale de São Domingos",Marquesa não visitou Neves Paulista,0,boolean_coordination
+"Honey visitou São João da Serra, Novo Horizonte, Caaporã, Bonfinópolis, Picuí, Aratuípe, Argirita, Arambaré, São Gonçalo do Sapucaí, Aldeias Altas, Confresa, Teofilândia, Monteiro, Formosa e Bela Vista do Maranhão",Honey não visitou Arambaré,1,boolean_coordination
+"Susanna, Ada, Ariane, Aniana, Nilce, Brunilde, Lizélia, Ima, Maureen, Lisandra, Kayla, Daliana, Leonardina, Nominanda, Belarmina, Lorraine, Teresinha, Isalda e Consolação visitaram São Raimundo das Mangabeiras",Ariane não visitou Anajatuba,0,boolean_coordination
+"Felisbina, Ella, Hédila, Lorraine, Prazeres, Aruna, Patrocínia, Amorzinda, Aisha, Daniella, Naomi, Alfreda, Alaíde, Lucilina, Lici, Niceia, Stephanie, Lucélia, Deonilde e Ellie visitaram Retirolândia",Aruna não visitou Retirolândia,1,boolean_coordination
+"Aldenora visitou Mesquita, Granito, Tapauá, Godoy Moreira, São José do Jacuri, Águas da Prata, Guarulhos, Santa Rita de Caldas e Tupirama",Aldenora não visitou Águas da Prata,1,boolean_coordination
+"Rihanna visitou Caririaçu, Goianá, Guaramirim, Rio Piracicaba, Paço do Lumiar, Acaraú, Salto do Lontra, Colônia do Gurguéia, Araçaí, Cândido Mota, Santo Antônio do Descoberto, Guapirama, Tonantins, Milton Brandão, General Salgado, Laguna Carapã, Ivinhema, Itapagipe, Jardinópolis e Inconfidentes",Rihanna não visitou Caririaçu,1,boolean_coordination
+"Leane, Suzi, Raphaella, Felisbela, Amabélia, Marilita, do Rosário, Myla, Maia, Silvandira, Nadina, Jalmira, Pietra, Selina, Hilária, Clarinha, Susete e Reyna visitaram Caxambu do Sul",Saula não visitou Caxambu do Sul,0,boolean_coordination
+"Miliza, Atenais e Marion visitaram Consolação",Miliza não visitou Franco da Rocha,0,boolean_coordination
+"Lénia visitou Padre Paraíso, Boa Vista da Aparecida, Cedral, Monte Alegre, Joaíma, Águas Vermelhas, Nova Iguaçu de Goiás, General Salgado, Pongaí, Berilo e Cariré",Lénia não visitou Nova Iguaçu de Goiás,1,boolean_coordination
+"Nereida visitou Boquim, Rialma, Feira da Mata, Gandu, Marechal Deodoro e Parnaguá",Nereida não visitou Santo Antônio do Leverger,0,boolean_coordination
+"Íngride visitou Paulo Lopes, Ibaretama, Santarém, Barra de Guabiraba, Frei Lagonegro, Santa Bárbara do Tugúrio, Bombinhas, Saquarema e Sabino",Neusa não visitou Barra de Guabiraba,0,boolean_coordination
+"Mecília visitou Água Comprida, Pimenta, Guaçuí, Paraopeba, São José do Barreiro, Cláudia e Antonina",Mecília não visitou Guaçuí,1,boolean_coordination
+"Sássia visitou Bueno Brandão, Coronel João Pessoa, Boa Vista das Missões, Itaíba, Novo Oriente de Minas e Aliança",Sássia não visitou Bueno Brandão,1,boolean_coordination
+"Amina, Helda, Mariamar, Malika, Cremilde, Josselina, Taísa, Semíramis, Mathilda, Marinha, Lisete, Aldenir, Alfreda, Mariame, Sylvie e Araci visitaram Guareí",Taísa não visitou Guareí,1,boolean_coordination
+"Cyntia visitou Ipanema, Cedral, Praia Norte, Itaquiraí, Bandeirantes do Tocantins, Mata Grande, Camamu, Marliéria, Nazarezinho, Piên e Patrocínio",Cyntia não visitou Marilena,0,boolean_coordination
+"Áfrika, dos Prazeres, Crisália, Leena, Ariane, Palmira, Dúlia, Marian, Caroline, Domitília, Anunciação, Giselda, Lauren, Patrocínia e Nazarina visitaram Bela Vista do Maranhão",Caroline não visitou Bela Vista do Maranhão,1,boolean_coordination
+"Runa visitou Gentil, Jardinópolis, Calçoene, Mariana, Turvânia e Holambra",Runa não visitou Turmalina,0,boolean_coordination
+"Ilundi visitou Cachoeirinha, Mogi Guaçu, Itapaci, Bariri, Cabo de Santo Agostinho, Rinópolis, Leópolis, Parobé, Macarani, Santo Amaro das Brotas, Caicó, Jardim Olinda, Novais, Seringueiras, Alto Bela Vista, São José da Safira, São Francisco do Guaporé e Taiúva",Jacira não visitou Cabo de Santo Agostinho,0,boolean_coordination
+"Erméria, Irma, Maeva, de Sales, Teolinda, Mélodie, Aldora, Eurídice, Salma, Gerda, Omara e Luizete visitaram Nazaré do Piauí",Mélodie não visitou Guaxupé,0,boolean_coordination
+"Idalete visitou Monte Formoso, Riachinho, Itambacuri, Osasco, Salto Grande, Água Doce, Itaiçaba, Pilar, Muliterno, Ituaçu, Afonso Cláudio, São José de Piranhas, Dumont, Pilão Arcado, Miguel Calmon, Pojuca, São Marcos, Irituia e São João da Urtiga",Idalete não visitou Quarto Centenário,0,boolean_coordination
+"do Amparo visitou Axixá, São José de Ubá e São Roque de Minas",do Amparo não visitou Maiquinique,0,boolean_coordination
+"Tiara, Leonídia, Karen, Talita, Crisanta, Reece, Nila, Etel, Chen, Eleni, Quessia, Élin, Silvéria, Talina, Laís, Idília, Dione e Dineia visitaram Nova Olímpia",Eleni não visitou Berizal,0,boolean_coordination
+"Mikaela visitou Chapada, Afuá, Castanheiras, Goianésia e Divinópolis de Goiás",Mikaela não visitou Goianésia,1,boolean_coordination
+"Almesinda visitou Derrubadas, Jaciara, Nova Campina e Sobradinho",Almesinda não visitou Jaciara,1,boolean_coordination
+"Ceres visitou Brumado, Morro do Chapéu do Piauí, Campo Grande do Piauí, São Bernardino e Trabiju",Ceres não visitou Campo Grande do Piauí,1,boolean_coordination
+"Maëlis visitou Mata Roma, Paraguaçu, Resende Costa, Cabrobó, Campo do Meio, Montividiu, Aquidauana e Pedrinhas",Maëlis não visitou Montividiu,1,boolean_coordination
+"Blandina visitou Araioses, Pedra Azul, Guaraciaba, Lupércio, São José das Palmeiras e Joanésia",Blandina não visitou Pedra Azul,1,boolean_coordination
+"Catalina, Mabel, Constânça, Idália e Josselina visitaram Porto Xavier",Mabel não visitou Porto Xavier,1,boolean_coordination
+"Greta, Nilce, Otelina, Afra, Adelina, Hersília, Niéves, Mélodie, Teresinha, Seni, Onófria, Giselda, Juli, Malika, Ludovice, Ivory e Deise visitaram Anagé",Niéves não visitou Caetés,0,boolean_coordination
+"Otília visitou Cravolândia, Governador Dix-Sept Rosado, Timbaúba dos Batistas, Santana do Maranhão, Patu, Inhuma, Palmeiras do Tocantins, Andirá, Salinas, Acopiara, Recreio, Rancho Alegre, Ouricuri, Pinhalão e Jesúpolis",Suely não visitou Acopiara,0,boolean_coordination
+"Ivy, Emídia, Marquesa, Laurentina, Ânia, Irisalva, Rosalina, Evangelista, Keira e Ticiane visitaram Santa Fé do Araguaia",Hannah não visitou Santa Fé do Araguaia,0,boolean_coordination
+"Gislena visitou Fruta de Leite, Caririaçu, Mário Campos, Mariana, Orleans, Lajedo do Tabocal e Santa Rosa de Lima",Gislena não visitou Promissão,0,boolean_coordination
+"Taína, Sidónia, América, Gáil, Mary, Inocência, Jael, Aleixa, Minervina, Duartina, Flória, Kira, Stacy, Cândida e Deusa visitaram Taguaí",América não visitou Muliterno,0,boolean_coordination
+"Cesarina, Rebeka, Claudina, Genésia, Rossana, Nair e Isaurinda visitaram Canas",Genésia não visitou Bom Jesus do Araguaia,0,boolean_coordination
+"Olga visitou Franciscópolis, Aurilândia, Encantado, São Benedito, Fronteira dos Vales, Bom Jesus das Selvas, Piracaia, Demerval Lobão e Cordeirópolis",Olga não visitou Fronteira dos Vales,1,boolean_coordination
+"Keiko, June, Délia, Kaira, Precília, Inaia, Círia, Dorina, Libertária, Stacy, Precious, Omara, Bernadete e Cinara visitaram Araguatins",Stacy não visitou Araguatins,1,boolean_coordination
+"Hédila visitou Acari, Japonvar, Analândia, Camalaú, Chapada de Areia, Parnarama, São José de Ribamar, Santa Tereza de Goiás, Dois Irmãos do Buriti, Lavrinhas e Junqueiro",Hédila não visitou Lavrinhas,1,boolean_coordination
+"Lauren, Alberta, Laurina, Francine, Nicolina, Diane, Joyce, Liliete, Marcella, Ticiane, Felisbela, Mya, Aurete, Laetitia, Julie, Nayla, Dorinda e Lutgarda visitaram Cândido Godói",Nicolina não visitou Campos Novos Paulista,0,boolean_coordination
+"Florencia visitou Vila Rica, São João de Pirabas, Monte Alegre dos Campos, Cantanhede e Piraquara",Florencia não visitou São João de Pirabas,1,boolean_coordination
+"Atena, de São Luís, Alfreda, Balduína, Dionísia, Nelma, Gilberta, Marcella, Amanda, Domenica, Albertina, Brigite, Jânia, Iracema e Mabel visitaram Planalto",Nelma não visitou Planalto,1,boolean_coordination
+"Niéves, Laurentina, Almerinda, Clívia, Analisa, Reeva, Selesa, Pedrina, Ivone, Arménia, Giulia, Derocila, Dália, Ellen, Hermânia, Melania, Lexie, Deise e Castelina visitaram Erval Grande",Nélia não visitou Erval Grande,0,boolean_coordination
+"Belarmina visitou Santa Juliana, Portelândia, Pinhais, Tamboril do Piauí, Faxinal do Soturno, Piumhi, Icatu, Fátima do Sul e Dom Aquino",Belarmina não visitou Piumhi,1,boolean_coordination
+"Élea visitou Senador Georgino Avelino, Amapá, Santana, Ivolândia, Santa Branca, Novo Oriente do Piauí, Presidente Médici, Poá, Itariri, Tucano, Barra Bonita, Quiterianópolis e Goianinha",Élea não visitou Sorocaba,0,boolean_coordination
+"Tanagra, Greta, Samira, Ceres, Delfina, Ricardina, Hayden, Leena, Ellie-Rosa, Anaíde, Anusca, Antera, Myla, Raven, Naia, Jerónima e Maximiliana visitaram Tanabi",Anaíde não visitou Tanabi,1,boolean_coordination
+"Crestila, Salvação, Pérola, Felisberta, Io, Severina, Lenira, Piedade e Ilca visitaram Brazabrantes",Pérola não visitou Tabatinga,0,boolean_coordination
+"Rosaura, Jezabel, Mariama, Deonilde, Niceia, Dialina, Drusila e Josana visitaram Mirangaba",Rosaura não visitou Afrânio,0,boolean_coordination
+"Bella, Quaresma, Anaísa, Florentina, Guilhermina, Jordana, Fia, Malu, Roana, Lisandra, Girel, Alvarina, Sania, Mariane, de Sales, Katherina, Charlize, Mayara e Tereza visitaram Alto Taquari",Florentina não visitou Alto Taquari,1,boolean_coordination
+"Estrella, Melânia, Rafa, Sirla, Mariema, Doriana, Natalina e Anteia visitaram Palestina de Goiás",Sirla não visitou Palestina de Goiás,1,boolean_coordination
+"Nói, Névia, Serenela, Raquelina, Rosanete, Nadina, Cinira e Keiko visitaram Caraá",Bianka não visitou Caraá,0,boolean_coordination
+"Thérése visitou Pacaembu, Xexéu, São José do Povo, Poço Branco, Sabinópolis, Cândido Godói e Coqueiro Seco",Gracinda não visitou Cândido Godói,0,boolean_coordination
+"Sulamita visitou Barreirinhas, São Benedito do Sul, Dois Irmãos das Missões, Cerro Branco, Barbalha, Paraíso do Norte, Socorro e Atibaia",Sulamita não visitou Paraíso do Norte,1,boolean_coordination
+"Luizete visitou Tufilândia, Monte Alegre dos Campos, Itapororoca, Tamboara, Irituia, Itaguara, Nova América e Capitão Poço",Luizete não visitou Aiuaba,0,boolean_coordination
+"Nazarina visitou Águas Formosas, Nordestina, Campo Novo do Parecis, Onça de Pitangui, Sertanópolis, Florianópolis, Banabuiú, Rio Acima, Godoy Moreira e Santa Vitória",Nazarina não visitou Nordestina,1,boolean_coordination
+"Climénia visitou Santa Rosa, Nova Trento, São Bento do Sapucaí, Queluz, Americana, Divinolândia, Sengés, Touros, São José do Campestre, Lagoa da Canoa, Paranatama, Floreal, Pingo-d'Água, Rialma, Itamarandiba, São Gonçalo do Rio Preto, Muniz Freire, Pedro Alexandre e Itaipé",Armanda não visitou Lagoa da Canoa,0,boolean_coordination
+"Maira, Arménia, Abby, Maritana, Malía, Santa Rita, Emiliana, Riu, Aldenir, Dúlia, Cirila, Dinarta, Donzília, Margaret, Santa Cruz, Íngride, Lilian, Eunice e Anália visitaram Açu",Biana não visitou Açu,0,boolean_coordination
+"Síria, Alzira, Selesa, Briosa, Simona, Celsa, Laureen, Joanina e Dominica visitaram Bonfim do Piauí",Joanina não visitou Bonfim do Piauí,1,boolean_coordination
+"Andrelina visitou Caxias do Sul, Itaporanga d'Ajuda, Santo Anastácio, Várzea Branca, Formosa do Oeste e Cabeceiras",Andrelina não visitou Dionísio,0,boolean_coordination
+"Especiosa visitou Piratininga, Santo Antônio do Itambé, Cabaceiras do Paraguaçu, Teolândia e Luzerna",Especiosa não visitou Piratininga,1,boolean_coordination
+"Ivânia visitou Alto Jequitibá, Brumado, Xambioá, Senhora do Porto, Júlio de Castilhos, Japoatã, Analândia, Timóteo, Gurupi, Itauçu, Ibipeba e Encruzilhada",Ivânia não visitou Senhora do Porto,1,boolean_coordination
+"Eurídice, Petrina, Sally, Deusa, Clarice, Sian, Rosebele, Ariane, Jewel, Danika, Cármina, Corina, Gilda, Lexie, Marilúcia, Miquelina, Rosamar, Lisete, Niceia e Scarlet visitaram Presidente Dutra",Gilda não visitou São Miguel do Fidalgo,0,boolean_coordination
+"Iracema visitou Terra Santa, Mirandópolis, Santo Antônio dos Lopes, Itaguatins, Beberibe, Manoel Vitorino, Juripiranga, Pindamonhangaba, Buíque, Butiá, Lagoa Alegre, Triunfo, Senhora de Oliveira, Doresópolis e Dezesseis de Novembro",Iracema não visitou Senhora de Oliveira,1,boolean_coordination
+"Nikita, Clélia, Carmelita, Romina, Casimira, Osíris, Léna, Giraldina, Otília, Salvadora, Juna, Dircila, Taia e Miguela visitaram Ipupiara",Clélia não visitou Ipupiara,1,boolean_coordination
+"Noelma, Shine, Sury, Quirina, Nali, Erika e Jaqueline visitaram Tuneiras do Oeste",Anaíce não visitou Tuneiras do Oeste,0,boolean_coordination
+"Naomi visitou Caraá, Consolação, Traipu, Pirapora do Bom Jesus, Uru, Inconfidentes, Porto Lucena, São João dos Patos, Uruoca, Pindoba, Angelândia, Figueira, Santana do Itararé, Cristópolis e Assis",Matilda não visitou Assis,0,boolean_coordination
+"Giada, Anatilde, Séfora, Mya, Celisia, Josete, Katia, Anaisa, Dominica, dos Anjos, Nércia, Nausica, Noah, Trinity, Josabete, Lucinda, Leta e de Deus visitaram Guabiruba",Mina não visitou Guabiruba,0,boolean_coordination
+"Selma visitou Bom Jesus da Lapa, Tamboril do Piauí, Serra Redonda, Maranhãozinho, Barueri, Nova Maringá, Mairi, Altos, Alto Taquari, Mineiros, Timburi, Bodó, Augusto Pestana, Cabreúva, Peabiru, Frederico Westphalen e Bambuí",Jasmine não visitou Mairi,0,boolean_coordination
+"La-Salete, Benvinda, Sena, Eleni, Mária, Rafaella, Scarlet, Laisa, Eleonora, Naomi e Amabília visitaram Capitão",Benvinda não visitou Capitão,1,boolean_coordination
+"Dona visitou Esperança, Santa Cruz do Xingu, Arroio Trinta e Sapucaia do Sul",Dona não visitou Marataízes,0,boolean_coordination
+"Justa, Linda, Lucíola, Ilse, Ariane, Gilda, Skylar, Guarani, Jorja, Jacqueline, Darnela e Catalina visitaram Avanhandava",Stacy não visitou Avanhandava,0,boolean_coordination
+"Dora visitou Lagoa dos Patos, Josenópolis, Lagoa da Canoa, São José de Piranhas, Pombos, Conde, Gramado, Rolador, Renascença, Saúde, Butiá, Águas da Prata, Taquaral, São José dos Cordeiros, Carrasco Bonito, Tupanciretã e Luiziânia",Dora não visitou Juranda,0,boolean_coordination
+"Idrisse visitou Santa Terezinha de Itaipu, Jardim Olinda, Bertolínia, Itaipava do Grajaú, Delfinópolis, Teolândia, Terezinha, Wanderlândia, Ouro, Goiatins, Itarumã e Passo de Camaragibe",Idrisse não visitou Alcântara,0,boolean_coordination
+"Brigite visitou Santa Cruz da Baixa Verde, Denise, Córrego do Bom Jesus, Lagoa de Pedras, Major Sales, Novo Oriente de Minas, Nova Soure, Cocal, José Boiteux, Sapucaia, Nepomuceno, Piratininga, Candeias, Coqueiro Seco, Itaueira e Wanderlândia",Brigite não visitou Major Sales,1,boolean_coordination
+"Meiline visitou Caridade, Ourizona, Piracaia, Novo Horizonte, São Francisco do Oeste e Quatis",Meiline não visitou Caridade,1,boolean_coordination
+"Tirsa visitou Tanque d'Arca, Craíbas, João Alfredo, Mundo Novo, Ribas do Rio Pardo e Braço do Trombudo",Tirsa não visitou Serrana,0,boolean_coordination
+"Melinda visitou Ipeúna, Jacutinga, Itapuranga, Coqueiros do Sul, Algodão de Jandaíra, Nova Porteirinha, Presidente Castelo Branco, Bocaina, Nova União, Sardoá, Campo de Santana, Jussiape, Olho-d'Água do Borges, Barra Bonita, Derrubadas e São José do Povo",Melinda não visitou Oeiras,0,boolean_coordination
+"Mara, Maíra, Laia, Mercília e Idrisse visitaram Silva Jardim",Maíra não visitou Silva Jardim,1,boolean_coordination
+"Cristal, Crisálida, Séfora, Emmy, Tabata, Jil, Lucina, Aleixa e Neotera visitaram Piçarra",Cristal não visitou Piçarra,1,boolean_coordination
+"Brenda, Aneide, Farida, Joice e Candice visitaram Itapissuma",Farida não visitou Itapissuma,1,boolean_coordination
+"Julita visitou Araçaí, Espigão D'Oeste, Puxinanã, Flores da Cunha, São João da Fronteira, General Carneiro, Novo Alegre, Santópolis do Aguapeí, Mulungu, Santa Rosa de Viterbo, Poções, Rio Preto da Eva, Maruim, Lagoa de Dentro, Remígio, Iconha, Frei Rogério, Nova Olinda e Nova Aurora",Julita não visitou Nova Olinda,1,boolean_coordination
+"Olinda, Liane, do Amparo, Jorja, Geralda, Lila e Nely visitaram Abaeté",de Fafe não visitou Abaeté,0,boolean_coordination
+"Selene visitou Inhuma, Abadia dos Dourados e Galvão",Selene não visitou Goiatins,0,boolean_coordination
+"Faustina visitou Toropi, Presidente Prudente, Campos do Jordão, Lassance e Juquitiba",Faustina não visitou Juquitiba,1,boolean_coordination
+"Antonina, Alexis, Bitia, Maribel, Lila, Gislena, Dafne, Mária, Estelle, Cindy, Gonçala, Anaíde, do Céu, Formosinda e Joya visitaram Boa Vista do Buricá",Maribel não visitou Dores de Guanhães,0,boolean_coordination
+"Lucileine visitou Farias Brito, Quixaba, Urubici, Juara, Paulista, Berilo, Palmeira d'Oeste, Valença, Analândia, Sobradinho, Pantano Grande e Guaraqueçaba",Lucileine não visitou Valença,1,boolean_coordination
+"Carminda, Belmira, Ivory, Doroteia, Lisbon, Laila, Seong, Talita, Hédila, Deodete, Reyna, Nilce, Gustava, Mabília e Joscelina visitaram Santo Amaro",Laila não visitou Santo Amaro,1,boolean_coordination
+"Eleine visitou André da Rocha, Solonópole, Rio Pomba, Porto Real do Colégio, São José da Safira e São Domingos",Eleine não visitou São Domingos,1,boolean_coordination
+"Bella visitou Muqui, Ocara, Lagoa do Itaenga, Santa Helena, Getúlio Vargas, Ipu, Pacatuba, Macieira, São Gabriel, Concórdia do Pará, Bragança Paulista, Riachão e Boa Vista",Lourdes não visitou Santa Helena,0,boolean_coordination
+"Modesta visitou Campo de Santana, São Pedro da Água Branca, Dois Vizinhos, Porto Seguro, Iati, Terra Rica, Palhoça, Balneário Gaivota, Itupiranga, Presidente Venceslau e Orizânia",Modesta não visitou Presidente Venceslau,1,boolean_coordination
+"Evelin visitou Cananéia, São Joaquim do Monte, Conselheiro Pena, Santa Rita do Novo Destino, Guarani das Missões, Pau D'Arco do Piauí, Canhotinho, Baianópolis, Coronel Martins, Monte Santo de Minas, Ribeirão do Pinhal, Marilândia do Sul, Nísia Floresta, Tonantins, Paripiranga, Lagoa Grande do Maranhão, Itupeva, Abelardo Luz e São Sebastião do Umbuzeiro",Evelin não visitou Porto Amazonas,0,boolean_coordination
+"Anatilde, Malu, Marciana e Juraci visitaram Major Isidoro",Martha não visitou Major Isidoro,0,boolean_coordination
+"Jewel visitou Barra de Santana, Martins, Água Comprida, Santa Cruz do Sul, Mira Estrela, Senador Cortes, Santa Lúcia, Governador Mangabeira, Conceição de Ipanema, Guaraqueçaba, Santa Tereza do Tocantins e Montividiu",Jewel não visitou Meruoca,0,boolean_coordination
+"Nahla, Mariama, Maureen, Dúlia, Agnes, Cleide, Nalini, Prudência, Clementine, Fantina, Linete, Adriela, Myla, Naida, Elisabeta e Carmelinda visitaram Cascavel",Myla não visitou Cascavel,1,boolean_coordination
+"Anísia, Amara, Florisbela, Luanda, Albertina, Hermânia, Soledade, Flor de Maria, Cesaltina, Maia, Rocio, Gáil, Nuna, Hope, Guislena, Gema, Paolla, Jerónima e Donatila visitaram Mariana Pimentel",Luanda não visitou São Brás do Suaçuí,0,boolean_coordination
+"Amaia visitou Guaimbê, Cerro Negro, Maracajá, São Raimundo das Mangabeiras, Araucária, Boa Vista das Missões e Cumaru do Norte",Laurentina não visitou Guaimbê,0,boolean_coordination
+"Marieta visitou Abel Figueiredo, Pindaré-Mirim, Miracema do Tocantins, Rebouças, Sebastianópolis do Sul, Santo Antônio do Palma, Serra de São Bento, São Miguel do Araguaia e Riachão do Jacuípe",Marieta não visitou Santo Antônio do Palma,1,boolean_coordination
+"Karina visitou Arantina, Barra de São Miguel, Jarinu, Nortelândia, Alto Taquari, Rodeio, Batatais, Casserengue, Lucianópolis, Tibau, Novo Cruzeiro, Santa Luzia do Norte, Santa Carmem, Novo Hamburgo e Balneário Barra do Sul",Karina não visitou Tibau,1,boolean_coordination
+Ionara visitou Itaberá e Itauçu,Joselene não visitou Itauçu,0,boolean_coordination
+"Léa visitou Nova Fátima, Campo Grande, Ponte Preta e Darcinópolis",Léa não visitou Darcinópolis,1,boolean_coordination
+"Dária, Didiana, Mikaela, Nel, Alfreda, Almesinda, Geovanna, Sátira, Ireneia e Marlisa visitaram Floreal",Didiana não visitou São Gonçalo do Amarante,0,boolean_coordination
+"Diara visitou Buriticupu, Tenente Ananias, Ibiara, Jardim, Centenário, Quinta do Sol, Rio Acima, Cachoeira Grande, Lacerdópolis, Camacan, Guanhães, São José de Ubá, Mesquita, Lorena, Rio Bonito, Elói Mendes, Tupaciguara e Coruripe",Diara não visitou Centenário,1,boolean_coordination
+"Eárine, Cesaltina, Aleixa, do Nascimento, Salete, Rosália, Aureliana, Teresina, Naíl, Rossana, Ioana, Jacqueline, Gerda, Lacey, Iracema, Nadine, Gravelina, Espírito Santo e Taína visitaram Novo Tiradentes",Eárine não visitou Nova Itarana,0,boolean_coordination
+"Florbela, Paris, Marquesa, Heidi, Safina, Marlene, Rubina, Irisalva, Karina, Ezequiela, Étel, Hermenegilda, Tiara, Anunciação e Jorja visitaram Bonito",Anunciação não visitou Bonito,1,boolean_coordination
+"Eárine visitou Taquaral de Goiás, Poço das Trincheiras, Montanha, Mazagão, Nova Marilândia, Campina Grande do Sul, Presidente Kennedy, Timon, Glaucilândia, Campina da Lagoa, Guaramirim, São João das Duas Pontes, Pouso Novo, Cambuí, Pracinha e Lajinha",Larisa não visitou Campina da Lagoa,0,boolean_coordination
+"Nise visitou Piedade de Ponte Nova, Pompéia, Louveira, Campo do Brito, Maratá e Gurjão",Nise não visitou Piedade de Ponte Nova,1,boolean_coordination
+"Anair, Liza, Jacinta, Surya e Mara visitaram Novo Horizonte do Oeste",Surya não visitou Umburanas,0,boolean_coordination
+"Florbela visitou São Raimundo das Mangabeiras, São Francisco, Curiúva, Ibicaré, Jussari e Santa Luzia",Florbela não visitou Jussari,1,boolean_coordination
+"Kimberly visitou Curral Novo do Piauí, Foz do Jordão, Taquaraçu de Minas, Umbaúba, Gaúcha do Norte, Santa Rita de Caldas, Gongogi, Gameleiras, Águas Frias, Pium, Agudos do Sul, São Domingos do Maranhão, Alvinlândia, Novo Planalto, Balneário Piçarras, Bastos, Santo Amaro da Imperatriz, Capela do Alto Alegre, Engenheiro Beltrão e Lago dos Rodrigues",Kimberly não visitou Novo Planalto,1,boolean_coordination
+"Mavelete, Berta, do Rosário, Briosa, Belinda, Dulcídia, Jacqueline, Rapaz, Emi, Edith, de Deus, Primitiva e Doriana visitaram Tamboril do Piauí",Sesira não visitou Tamboril do Piauí,0,boolean_coordination
+"Romana visitou Campos de Júlio, Apuiarés, Moju, Vista Alegre do Prata, Lagarto, Capim Branco, Sapezal, Altamira, Pitangueiras, Desterro e Porto Franco",Romana não visitou Amargosa,0,boolean_coordination
+"Janina, Davínia, Araci, Cristal, Aldora, Brites, Sacha, Elizabete, Marciana, dos Milagres, Naia, Madre de Deus, Florence, Belarmina, Laurina e Liberalina visitaram Saudades",Rufina não visitou Saudades,0,boolean_coordination
+"Leonisa visitou Itapuca, Miravânia, Porangaba, Quatá, Juruena, Santa Mercedes, Santaluz, São Romão, São João da Barra, Uruguaiana, Vazante, Frei Paulo, Lagoa Nova, Massaranduba, Setubinha, São José do Peixe e Itaitinga",Leonisa não visitou Juruena,1,boolean_coordination
+"Rosie, Casta, Erin, Bibiana, Deodata e Adélia visitaram Luís Antônio",Bibiana não visitou Luís Antônio,1,boolean_coordination
+"Misha visitou Marialva, Foz do Jordão, Candeias, Umarizal, Alcantil, Santa Bárbara do Tugúrio, Lobato e São Bento do Trairí",Misha não visitou Lobato,1,boolean_coordination
+"Hortense, Marilisa, Terência, Isalda, Priscila, Genésia, Lauriana, Heliodora, Deise, Marcelle, Marilda, Gisele, Seong, Sarai, Amável e Rosita visitaram Nerópolis",Marilisa não visitou Nerópolis,1,boolean_coordination
+"Glicínia visitou Damolândia, Analândia, Ouvidor, São Cristovão do Sul, Seberi, Nipoã, Mauá, Monção, Aratiba, Quadra, Fundão, Curvelo, Xambrê, Sericita, Santa Rosa de Lima, Itaquitinga, Itapecerica e Moreilândia",Glicínia não visitou Fundão,1,boolean_coordination
+"Juliette, Eunice, Germana, Demelza, Romina, Maritila, Marieva, Natividade, Jeanete, Riana, Nor, Auriana, Nour, Liduína, Consolação, Princess, Aureliana, Suse e Brites visitaram Balneário Arroio do Silva",Demelza não visitou Balneário Arroio do Silva,1,boolean_coordination
+"Leonília, Armandina, Blásia, Davínia, Mercília, Léa, Juanita, Natanaela, Rosalie, Geraldina, Danielle, Patrocínia, Sophia, Kimberly, Jéni, Emídia e Ceres visitaram Ivolândia",Davínia não visitou Ivolândia,1,boolean_coordination
+"Enilda, Magenta, Amal, Diliana, Anaisa, Rolende, Cármina, Irma, Maria Rita e Alcina visitaram Magda",Ivory não visitou Magda,0,boolean_coordination
+"do Almurtão, Josélia, dos Santos, Minerva, Evangelina, Jesus, Audete, Aldina, Leah, Jalmira, Simaura, Benigna, Dulcineia, Dámaris, Suzanne, Antonela, Ivy e Militana visitaram Matupá",Floriana não visitou Matupá,0,boolean_coordination
+"Laetitia, Marisol, Cataleia e Nádeja visitaram Cruzeiro da Fortaleza",Nádeja não visitou Primavera,0,boolean_coordination
+"Alfreda visitou Miranda do Norte, Buriti Alegre, Figueirópolis, Umirim, São José dos Campos, Gália, Amargosa, Muricilândia, Porto da Folha, São Gabriel, Iepê, Nova Itaberaba, Luiziana, São Paulo das Missões, Imaculada e Quevedos",Lina não visitou Umirim,0,boolean_coordination
+"Marlisa visitou Faxinal do Soturno, São José do Goiabal, Itabira, Tejuçuoca, Pinhão, Mariana Pimentel, Itirapina, Altair, São Gonçalo do Piauí, Jaru e Novo São Joaquim",Marlisa não visitou Itirapina,1,boolean_coordination
+"Suzy visitou Jaíba, Sapé, Jateí, São Tomás de Aquino, Fervedouro, Juarina, Tapejara, Passagem, Moju, Barra, Cortês, Carlópolis, Taquaruçu do Sul, Itapejara d'Oeste e Nova Odessa",Suzy não visitou Tapejara,1,boolean_coordination
+"Constance, Dúlia, Mícia, Nur, Honorina, Evangelina, Laureana, Brázia, Nour, Michelle, Taína, Anísia, Arminda e Franca visitaram Caturité",Liv não visitou Caturité,0,boolean_coordination
+"Leonna visitou Marcelino Ramos, Faxinalzinho, Catas Altas, Serra do Mel, Graça, Vera Cruz, Sena Madureira, Nova Tebas, Alfredo Marcondes, Damianópolis, São Geraldo, Caraúbas, Barros Cassal, Francisco Dumont, Mira Estrela, Miracema do Tocantins, Santa Rosa de Lima, Santos Dumont e Ituberá",Leonna não visitou Ourém,0,boolean_coordination
+"Nessy, Susi, Lumena, Margaux e Carísia visitaram Santo André",Abna não visitou Santo André,0,boolean_coordination
+"Tolentina visitou Porto Ferreira, São Bernardo do Campo, Inhumas, Onda Verde, Caldas Brandão, Santo Antônio do Itambé, Mara Rosa, Cândido Godói, Itabela, Amaraji, Barra do Rio Azul, Alhandra, General Carneiro, Marapoama, Barra do Bugres, Belém de Maria e Araguainha",Tolentina não visitou Faxinal,0,boolean_coordination
+"Julinda visitou Salvador das Missões, São Francisco, Cabeceiras, Palmelo, Porto Amazonas, São Benedito do Rio Preto, Governador Lindenberg, Poté, Taboão da Serra, Morro Redondo, Paraíso, Rio Preto da Eva, Santo Antônio do Amparo, Pau dos Ferros, Santo Antônio do Grama, Brotas, Toledo e Jaramataia",Julinda não visitou São João do Sul,0,boolean_coordination
+"Beanina, Margareta, Amabélia, Milene e Amável visitaram Santa Bárbara",Beanina não visitou Campo Novo,0,boolean_coordination
+"Gracinda, Dolores, Delilah, Bernarda, Ireneia, Dulcina, Quirina e Mariza visitaram Regente Feijó",Acácia não visitou Regente Feijó,0,boolean_coordination
+"Aisha visitou Itapuranga, Tarrafas, Sonora, São Gabriel da Cachoeira, São Tomé, Morretes, São José dos Pinhais, Fátima, Jequitaí, Sete de Setembro, Apiacás, Ouro Branco, Bento Fernandes, Miranorte e São Pedro das Missões",Aisha não visitou Miranorte,1,boolean_coordination
+"Johanna visitou Macururé, São Miguel dos Milagres, Piedade dos Gerais, Acajutiba e Itaboraí",Estrella não visitou Acajutiba,0,boolean_coordination
+"Muna, Lília, Mariluz, Melania, Geisa, Agripina, Suria, Jaquelina, Jacqueline, Gara, Scarlet e Allegra visitaram Itacarambi",Altina não visitou Itacarambi,0,boolean_coordination
+"Suzana visitou Vila Maria, Várzea Branca e São Rafael",Thalita não visitou São Rafael,0,boolean_coordination
+"Olinda, Florinda, Ianesis, Dídia, Naama, Traciana, Magaline e Karen visitaram Santa Cruz das Palmeiras",Traciana não visitou Santa Cruz das Palmeiras,1,boolean_coordination
+"Myla, Shakira, Catrina, Julianna, Clare, Marianne, Anaíde, Idélia, Genésia, Demelza, Quaiela, da Agonia, Sulamita, Kenza, Muriela, Ticiane, Florinda, Rosária e Simaura visitaram Itapororoca",Muriela não visitou Itapororoca,1,boolean_coordination
+"Erica visitou Entre Rios, Alegrete, Carrancas, Japi, Caiçara e Januário Cicco",Erica não visitou Januário Cicco,1,boolean_coordination
+"Saphira visitou Taquaritinga, Abreu e Lima, São Francisco, Varzedo, Jumirim, São Gonçalo do Sapucaí, Aquiraz, Esperança, Alto Paraná, São José do Povo, Jardim, Passa Sete, Jaborandi e Paulistana",Saphira não visitou Santo Antônio do Tauá,0,boolean_coordination
+"Miah visitou Francisco Morato, Nova Olinda do Maranhão, Governador Dix-Sept Rosado, Castanheiras, Vila Rica, Glicério, Pontão e Pojuca",Miah não visitou Glicério,1,boolean_coordination
+"Ariane visitou Carmo, Calçoene, Mata Grande, Miranda do Norte, Urandi, Belo Horizonte, Várzea Nova, Bonito, Faxinal e São José do Seridó",do Rosário não visitou Urandi,0,boolean_coordination
+"Herénia visitou Presidente Bernardes, Alagoinhas, Santa Cruz da Conceição, Presidente Kennedy, Paramirim, São Domingos do Capim, Coqueiro Baixo, Santa Rita do Sapucaí, Tunas, Chalé, Irará, Bannach, Santa Teresinha, Piraí, Queluzito, Bonito, Escada, Malta e Bertópolis",Herénia não visitou São Domingos do Capim,1,boolean_coordination
+"Cosete, Súria, Khaleesi, Catalina, Ellie-Rosa, Brígida, Ioque, Dominica, Isabella, Daina, Dúlia, Julinha, Rhianna, Demétria, Rosina, Aureliana, Raissa, Patrocínia, Liliete e Lourdes visitaram Curionópolis",Patrocínia não visitou Getulina,0,boolean_coordination
+"Elina visitou Indianópolis, Araguari, Presidente Castello Branco, Severiano Melo, Tauá, Formosa do Sul, Divino e Capinzal do Norte",Elina não visitou Belmiro Braga,0,boolean_coordination
+"Selene, Erin, Traciana, Belle, Diane, Bina, Rania, Tabatha, Myra, Sancha, Dakota, Sylvie, Eleanor, Doriana e Celine visitaram Piraju",Myra não visitou Mendes,0,boolean_coordination
+"Geraldina visitou Antônio Cardoso, Taquarituba, Novo Oriente de Minas, Indiana, Bilac, Alvarenga, Chapada de Areia, Colorado, Mata Grande, Caratinga, Ribeirão Cascalheira e Marco",Liduína não visitou Caratinga,0,boolean_coordination
+"Josefa, Aminata, Nola, Natividade, Briolanja, Etel, Jerusa, Joanina, Adalgisa, Katty, Amorzinda, Carmélia, Elza, Amabília, Milana, Saga, Merrita, Étel, Laila e Teresca visitaram Sebastião Leal",Ancha não visitou Sebastião Leal,0,boolean_coordination
+"Digna visitou Tianguá, Orlândia, Abaiara, Floresta do Piauí e Ervália",Leslie não visitou Orlândia,0,boolean_coordination
+"Joelma visitou Cabo de Santo Agostinho, Nova Luzitânia, Bento de Abreu, Centenário do Sul, Tapurah, Sítio d'Abadia, Bom Repouso, São Bento do Sul, Novo Horizonte, Teixeiras e Dores de Campos",Joelma não visitou Cabo de Santo Agostinho,1,boolean_coordination
+"Esther, Íngride, Jandira, Radija, Deonilde, Benigna, Engrácia, Georgiana, Armanda, Daniana, Leolina, Peyton, Ariel, Cita, Benícia, Alexandrina, Rubina e Eudora visitaram Paraíso do Tocantins",Alexandrina não visitou Paraíso do Tocantins,1,boolean_coordination
+"Joaquina, Magaline, Délia, Dulcina, Gabi, Neireide, Elize, Corina, Lorraine, Rosaura, Stacey, Maëlis, Jane, Demelza, Cléo, Amira e Carlinda visitaram Caturité",Laurinda não visitou Caturité,0,boolean_coordination
+"Rosebele visitou Flor da Serra do Sul, Xaxim e Porto de Moz",Rosebele não visitou Monte Horebe,0,boolean_coordination
+"Lorine visitou Irati, Nova Prata do Iguaçu, Guabiju, Forquilhinha, Silvanópolis, Ceres, Corumbá, Presidente Jânio Quadros, Benjamin Constant do Sul, Alto Santo, Gália e Arês",Lorine não visitou Guabiju,1,boolean_coordination
+"Isabelle, Darnela, Jacinta, Naíma, de São Luís, Benjamina, Ilsa, Modesta, Lourdes, Jael, Romy, Misaela, Palmira, Magenta, Lorenza, Sérgia, Dirce, Lhuzie e Raina visitaram São Francisco de Assis do Piauí",Dirce não visitou São Borja,0,boolean_coordination
+"Grace, Juna, Neise e Khloe visitaram Campo Alegre de Goiás",Juna não visitou Campo Alegre de Goiás,1,boolean_coordination
+"Malía, Élin, Mari, Anteia, Isilda, Miliza, Hersília, Katherina, Doroteia, Sulamita, Georgete, Jitendra, Ivânia, Dorinda, Ciana, Elisete, Joanina, Ilsa, Mary e Maíra visitaram Pindobaçu",Dorinda não visitou Novo Planalto,0,boolean_coordination
+"Aldora, Elódia, Jovelina, Iasmina, Irma, Minervina, Raísa, Lucialina, Priscila, Gilberta, Nance, Idalisa e Cristal visitaram Davinópolis",Nance não visitou Davinópolis,1,boolean_coordination
+"Joaninha, Noá, Nayara, Mira, Liberalina, Salima, Misha, Almesinda, Armanda, do Almurtão, Nayma e Lexie visitaram Siriri",Almesinda não visitou Siriri,1,boolean_coordination
+"Gonzaga visitou Parnaguá, Barro Alto, Águas Frias, Alcobaça, Doutor Ricardo, Jeriquara, Porto Mauá, São Domingos, Castelo, Santa Brígida, Ponto Chique, Nossa Senhora das Graças, Atalaia, Capetinga, São Tomás de Aquino, Santiago do Sul, Serrinha e Jenipapo dos Vieiras",Gonzaga não visitou Parnaguá,1,boolean_coordination
+"Luíza, Rosinda e Beanina visitaram Naque",Luíza não visitou Naque,1,boolean_coordination
+"Margaux, Felisberta, Anita, Nazarina, Rolende, Skylar, Cárin, Gema, Muriel, Casimira, Jerónima, Katie, Naraiana, Riana, Graciana e Bebiana visitaram Ribeirão Pires",Muriel não visitou Ribeirão Pires,1,boolean_coordination
+"Josete, Sade, Talina e Natalie visitaram Piranguçu",Heli não visitou Piranguçu,0,boolean_coordination
+"Angélica visitou Ribeira do Amparo, Miradouro, Areia Branca e Itaporã do Tocantins",Angélica não visitou Itaporã do Tocantins,1,boolean_coordination
+"Amável visitou General Salgado, Marilac, Água Doce do Maranhão, Rochedo de Minas, Jerumenha, Sapeaçu, Almirante Tamandaré, Conceição do Almeida, Franco da Rocha, Paulistana, Cotegipe, Chã Preta, Bela Vista de Minas, Cristalândia do Piauí, Igarapé-Açu, Niterói, Canhotinho, Palmeiras, Vicentinópolis e Boa Vista da Aparecida",Amável não visitou Chã Preta,1,boolean_coordination
+"Melinda, Fénix, Nicolina, Silviana, Maísa, Alaia, Juli, Jorja, Louane, Norma, Sira, Melisa, Geisa e Rogélia visitaram Ipixuna do Pará",Silviana não visitou Ipixuna do Pará,1,boolean_coordination
+"Apolónia, Aisha, Carminda, Liana, Silvana, Leonora, Fernandina e Elda visitaram Constantina",Daisy não visitou Constantina,0,boolean_coordination
+"Mireie visitou Ervália, Vila Lângaro, Satuba, Carutapera, Picuí, São José da Barra e Tapurah",Mireie não visitou Carutapera,1,boolean_coordination
+"Taia, Dahlia, Reeva e Anaísa visitaram Alto Alegre",Anaísa não visitou Ilhéus,0,boolean_coordination
+"Harper visitou Carutapera, Rio Vermelho, Presidente Juscelino, Chapada de Areia e Moeda",Climénia não visitou Carutapera,0,boolean_coordination
+"Mariela visitou São Félix do Xingu, Fagundes Varela, Campina da Lagoa, Contagem, Criciúma, Amparo de São Francisco, Santo Antônio do Aventureiro, São João do Ivaí, São João da Fronteira, Planalto, Cristalina e Itapiratins",Mariela não visitou Turmalina,0,boolean_coordination
+"Liete visitou Vargem, Jucati, Vacaria, Morro do Chapéu, Pajeú do Piauí, Lajedinho, Paranacity, Aguanil, Andradas, São Joaquim da Barra, Romaria, São Miguel das Matas, Serrana, Palmas e Riachão do Poço",Liete não visitou Jucati,1,boolean_coordination
+"Ingeburga visitou Getulina, São Bonifácio, Santana dos Montes, São Pedro, Elesbão Veloso, Querência, Alto Longá, Serra, Barracão, Buri, Paulistas, Goianésia do Pará, Marechal Thaumaturgo, Ilhabela, Trindade, Pantano Grande, Quevedos e Funilândia",Marian não visitou Santana dos Montes,0,boolean_coordination
+"Ingeburga, Cataleia, Noémi, Laya, Corália, Karen, Clarina, Marlene, Fiorella, Niah, Dámaris, Fidélia, Prudência, Leonisa, Tomasa, Lília, Raphaela e Donatila visitaram Coronel Pilar",Fiorella não visitou Coronel Pilar,1,boolean_coordination
+"Laureana visitou Carnaubal, Marilena, Puxinanã, Várzea da Roça, Porto Calvo, Pilar do Sul, Pacaembu, Serrania, Lajes Pintadas, Ponte Nova, Cajobi, Vale do Anari, Santa Mônica, Algodão de Jandaíra, Espigão Alto do Iguaçu, Palmitinho, Pingo-d'Água, Campo Alegre e Santa Rita de Caldas",Laureana não visitou Arroio do Padre,0,boolean_coordination
+"Marilita, Lucete, Nelsa, Neide, Mourana, Geovana, Erica e Quélia visitaram Campo Novo de Rondônia",Lucete não visitou Campo Novo de Rondônia,1,boolean_coordination
+"Benilde, Ivânia, Auxília, Maísa, Corália, Íngride, Belisa, Tabata, Liete, Casta, Bertila, Atena, Marieta, Palmira, Dulcelina e Clarina visitaram Lago dos Rodrigues",Clarina não visitou Bom Repouso,0,boolean_coordination
+"Leena, dos Milagres, dos Anjos, Katherine, Tess, Dulcineia, Anquita, Shakira, Orlandina, Giselle, Rosie e Saray visitaram Barro Duro",Shakira não visitou Barro Duro,1,boolean_coordination
+"Carmelina visitou Santa Rosa de Lima, Muriaé, General Sampaio, Marabá, Catuji, Cabeceiras do Piauí, Meridiano, Jacareacanga, Lagoa do Mato, Vila Flores, Caconde, Guaiçara, Mauá, Carnaúba dos Dantas, Magalhães de Almeida, Pains, São Simão e Vereda",Io não visitou Muriaé,0,boolean_coordination
+"Clare visitou Acaiaca, Guaraí, Matias Cardoso, Luís Correia, Isaías Coelho, Miranorte, Estiva, Porto Ferreira, Treviso, Olinda, Babaçulândia, Americana, Jacuizinho, Primeira Cruz, Miracatu, Nova Soure, São Pedro da União, Arinos, Brejo Grande do Araguaia e Canápolis",Clare não visitou Jacuizinho,1,boolean_coordination
+"Castorina, Filena, Dinarta, Miriã e Hebe visitaram Hortolândia",Miriã não visitou Hortolândia,1,boolean_coordination
+"Morian, Angelita, Modesta e Guislena visitaram Porto",Angelita não visitou Porto,1,boolean_coordination
+Adolfina e Rosina visitaram Maringá,Rosina não visitou Maringá,1,boolean_coordination
+"Oksana, Gioconda, Isilda, Roena, Marlise, Jéni, Selene, Celinia, Edna, Maria João, Carla, Liberalina, Idália, Charlene, Lianor, Samantha, Diná, Aldara, Disa e Fiorella visitaram Assaré",Aldara não visitou Tutóia,0,boolean_coordination
+"Nércia, Marlene e Bernadete visitaram Capistrano",Katie não visitou Capistrano,0,boolean_coordination
+"Catherina visitou Presidente Dutra, Lambari e Turvo",Catherina não visitou Osório,0,boolean_coordination
+"Paolla visitou Cana Verde, São João do Ivaí, São Carlos, São Felipe D'Oeste, Cachoeira de Minas, Santa Bárbara de Goiás, Guapiara, Conquista D'Oeste, Serra Grande, Marituba, Bom Jesus do Amparo, Cerro Largo, Presidente Bernardes e Maracanaú",Paolla não visitou Conceição das Pedras,0,boolean_coordination
+"Angie visitou Jaraguá do Sul, Poranga, Sandovalina, Doutor Severiano, Denise, Carvalhos, Santa Rita de Cássia, Altos e Cravinhos",Angie não visitou Paraíso do Norte,0,boolean_coordination
+"Maíra visitou Caieiras, Avaré, Santa Leopoldina, Pimenta Bueno, Silveirânia, Lagoa do Sítio, Tangará, Capitão e Vitorino Freire",Maíra não visitou Alexânia,0,boolean_coordination
+"Graziela visitou Coroatá, Minaçu, Siderópolis, São Domingos do Cariri, Igrapiúna, Rio Brilhante, Tijucas, Bonito, Central de Minas, São José do Herval e Miraselva",Graziela não visitou São Jorge,0,boolean_coordination
+"Pamela visitou Bonfim, Ivaiporã, Senador José Bento, Solânea, Itatim e Miraguaí",Belina não visitou Senador José Bento,0,boolean_coordination
+"Jaqueline visitou Água Fria, Vacaria, Pau Brasil e São Pedro",Jaqueline não visitou São Pedro,1,boolean_coordination
+"Belarmina visitou Barro, Pombos, Bom Jesus do Tocantins, Santa Rosa de Lima, Dilermando de Aguiar, Porto Barreiro, Santa Cecília do Sul, Tucano, Conselheiro Pena, Serra de São Bento, Palmeira, Correntina e Centro do Guilherme",Suse não visitou Pombos,0,boolean_coordination
+"Mina visitou Ichu, Colinas do Sul, Euclides da Cunha, Japaraíba, Itaverava, São Miguel do Aleixo, Santa Luz, Datas e São Pedro de Alcântara",Mina não visitou Santa Luz,1,boolean_coordination
+"Amaia visitou São Félix de Minas, Bonito, Papagaios, Santa Isabel, Morro Redondo e São Valério da Natividade",Amaia não visitou São Miguel do Gostoso,0,boolean_coordination
+"Nanina, Casimira, Edith, Sarai, Luamar, Erika e Isa visitaram Cícero Dantas",Luamar não visitou Vitorino,0,boolean_coordination
+"Osíris visitou Buritinópolis, Mara Rosa, São José do Jacuípe, Bandeirantes, Igaci, Abaeté, Bom Lugar, Irajuba, Muaná, Barão de Melgaço, Tijucas do Sul, Monsenhor Gil e Varjão",Osíris não visitou Orós,0,boolean_coordination
+"Natividade, Énia, Edna, Danika e Ianesis visitaram Rio Bonito",Edna não visitou Fortaleza dos Nogueiras,0,boolean_coordination
+"Selésia visitou Guaimbê, Satubinha, Cururupu, Areia, Morro Cabeça no Tempo, Munhoz de Melo e Olho d'Água das Flores",Selésia não visitou Munhoz de Melo,1,boolean_coordination
+"Lace, Alzira, Nídia e Acélia visitaram Guzolândia",Nídia não visitou Guzolândia,1,boolean_coordination
+"Dircila visitou Lagoa do Ouro, Uiraúna, Bom Jesus da Serra, Paes Landim, Cachoeira Grande, Araçaí, Bananeiras, Icaraíma, Ajuricaba, São Jorge do Patrocínio, Barra de Santo Antônio, Mesópolis, Itaú de Minas, Orleans, Dois Vizinhos, São Mateus, Jundiaí e São Domingos do Cariri",Dircila não visitou Orleans,1,boolean_coordination
+"Naia visitou Nova Ubiratã, Bandeira do Sul, Nova Floresta, Agrolândia e Alvorada D'Oeste",Naia não visitou Joviânia,0,boolean_coordination
+"Margaret visitou Pirpirituba, Apiúna, Guariba, Salto do Céu, Aparecida d'Oeste, Ibema, Alto Rio Doce, Poço das Trincheiras, São José do Belmonte, São Miguel do Iguaçu, Ribeirão Corrente, Triunfo Potiguar, Itaberaba, Xangri-lá e Parobé",Margaret não visitou Tunas do Paraná,0,boolean_coordination
+"Bertina, Marilina, Cassandra, Brizida, Córita, Solôngia e Radija visitaram Carvalhos",Brizida não visitou Nova Venécia,0,boolean_coordination
+"Tirza visitou Chaval, Taciba, Tapira, Poconé, Porto Lucena, Santa Quitéria do Maranhão, Brejões, Faxinal dos Guedes, Barra do Mendes, Felisburgo, Esperantina e Itapicuru",Tirza não visitou Teresópolis,0,boolean_coordination
+"Honey visitou Porto dos Gaúchos, Mauá, Jataizinho, São José dos Ramos, Pinhal, Cansanção, Canela, Fundão, Nioaque, Lavrinhas, Camacan, Arneiroz, Itaobim, Taboleiro Grande, Tanquinho, Pinheirinho do Vale, Alpinópolis, Presidente Dutra e Brazabrantes",Honey não visitou Canela,1,boolean_coordination
+"Rosalie visitou Cedro, Condado, Monte Santo do Tocantins, Florínia, Leandro Ferreira, Aparecida do Taboado, Morro Grande, Pratânia, Mozarlândia, Anicuns e Cumaru",Naima não visitou Anicuns,0,boolean_coordination
+"Leonília, Gloriosa, Carole, Rosaura, Tabatha, Sally, Castorina, Ezequiela e Alanis visitaram Victor Graeff",Carole não visitou Victor Graeff,1,boolean_coordination
+"Dária, Élea, Lou, Mireie, Pamela, Eléonore, Kira, Rosie, Alaia, Cataleia, Mariema e Dalinda visitaram Parobé",Cataleia não visitou Parobé,1,boolean_coordination
+"Josuana, Jani, Raqueline, Katie, Beatrix, Nerea, Radija, Mécia, Helga, Paula, Hermânia, Ada, Silvandira, Jacira, Lourdes, Liduína, Feliciana, Pixie e Formosinda visitaram Bernardino Batista",Josuana não visitou Bernardino Batista,1,boolean_coordination
+"Íngride, Chelsea, Léanor, Marizete, de Sales, Deotila, Anunciação, Anícia, Josiana, Leopoldina, Norvinda, Silvana, Simara, Sienna, Marlise, Floriana, Jessy, Bina e Severa visitaram Campo Alegre do Fidalgo",Íngride não visitou Campo Alegre do Fidalgo,1,boolean_coordination
+"Mariela visitou Abaiara, Igarapé Grande, Terra Alta, Alta Floresta, Pilõezinhos, Araponga, Santana do Seridó e Bocaiúva do Sul",Mariela não visitou Bocaiúva do Sul,1,boolean_coordination
+"Hortênsia visitou Guabiju, Sul Brasil, Mesquita, Paes Landim, Carangola, Ipê, Galinhos e Frei Miguelinho",Hortênsia não visitou Galinhos,1,boolean_coordination
+"Magna, Leonarda, Gilda, Roberta, Julie, Énia e Kayla visitaram Cocos",Magna não visitou Cocos,1,boolean_coordination
+"do Céu, Lícia, Maide, Rebeka, Rebecca, Teresina e de Begonha visitaram São Bento",Suriel não visitou São Bento,0,boolean_coordination
+"Clésia, Raíssa, Abby, Nuna, Ilídia, Haidé e Elize visitaram São José de Espinharas",Clésia não visitou São José de Espinharas,1,boolean_coordination
+"Sian visitou Murutinga do Sul, Coronel Ezequiel, Cristalândia do Piauí, Paranhos, Itanhandu, Abelardo Luz, Caldazinha, Rio dos Bois, Goianésia, Bebedouro e Itaparica",Sian não visitou Damianópolis,0,boolean_coordination
+"Lidiana, Esperança, Salvadora, Sana, Araci, Mira, Darci, Ilse, Nami e Enide visitaram Pouso Alegre",Ilse não visitou Taquaral,0,boolean_coordination
+"Norvinda, Azul, Nayla e Mariama visitaram Pedra Preta",Nayla não visitou Pedra Preta,1,boolean_coordination
+"Sátia visitou Assaí, Ibiporã, Quixaba, Coronel Martins, São Vendelino, Brotas de Macaúbas, Vargem Grande Paulista, Morretes, Bela Vista, Araputanga, Brejo do Cruz, Tijucas, Itabaiana e Guarantã",Simara não visitou Ibiporã,0,boolean_coordination
+"Giulia visitou Lagoinha do Piauí, Gurinhém, Andorinha, Bom Jardim, Palhano, Seringueiras e Valparaíso de Goiás",Giulia não visitou Gurinhém,1,boolean_coordination
+"Grace visitou São José dos Quatro Marcos, Salmourão, Vale Verde, Coronel Barros, Contagem, Santa Cruz, Reduto, Braúna, Peruíbe, Condado, Coração de Maria, Cruzaltense e Carmo do Cajuru",Grace não visitou Papagaios,0,boolean_coordination
+"Edite, Cristal, Sátira, Cesaltina, Leana, Marlene, Amabília e Johanna visitaram Três Arroios",Jil não visitou Três Arroios,0,boolean_coordination
+"Carmelina, Shine, Fiorella, Adália, Carmela, Ersília, Dircila, Ricardina, Léonie, Aurete, Lucileine, Kaira, Cassilda, Carisa, Myriam e Eleanor visitaram Baianópolis",Dulcelina não visitou Baianópolis,0,boolean_coordination
+"Nilda visitou Altamira do Maranhão, Rio Sono, Fernando Prestes, Ubaporanga, Espírito Santo do Turvo, São Gonçalo do Piauí, São João, Dom Pedrito, Campo Alegre de Lourdes, São Luís do Curu, Paulo Afonso, Nossa Senhora do Socorro, Cafelândia, São José, João Neiva, Paranhos, São Luís e Tabaí",Nilda não visitou Davinópolis,0,boolean_coordination
+"Belarmina visitou Laje do Muriaé, Rosário da Limeira, Santarém, Laje, Mirim Doce, São Sebastião do Anta, Ribamar Fiquene, Bernardino de Campos e Seabra",Belarmina não visitou Laje,1,boolean_coordination
+"Milagre visitou São João do Pacuí, Rianápolis, Ibertioga, Ourizona, Coroaci, Aguaí, Quatipuru, Pirapora do Bom Jesus, Candiota, Turvolândia, Aurora do Pará, São Mateus, Nova Prata do Iguaçu, São Sebastião do Passé e São Mateus do Maranhão",Milagre não visitou Turvolândia,1,boolean_coordination
+"Santa Cruz, Julita, Marcelle, Grace, Elda, Glenda, Nathália, Miguela, Lucie, Dalida, Nivalda, Sylvie, Artemísia e Sasha visitaram Gouveia",Nathália não visitou Gouveia,1,boolean_coordination
+"Justina visitou Pariconha, Cajazeiras do Piauí, Ciríaco, Valente, Pirajuí, Pajeú do Piauí, Santa Quitéria, São Francisco do Brejão, Pontão, Poranga, Ribeirão Bonito, Assunção do Piauí, Novo Cabrais, Itapuranga, Chiador, Santo Antônio da Barra, Manhumirim e São Félix",Justina não visitou Cabrobó,0,boolean_coordination
+"Sátia visitou Guarará, Barra do Piraí, Cacaulândia, Monsenhor Gil, Angical do Piauí, Presidente Dutra, Presidente Castello Branco, Iguatemi, Gabriel Monteiro, Presidente Getúlio e Santa Bárbara do Leste",Sátia não visitou São José do Cedro,0,boolean_coordination
+"Maira, Marilina, Énia, Johanna, Ondina, Merrita, Isilda, Leonilda, Kendra e Mirandolina visitaram Campestre",Ondina não visitou Campestre,1,boolean_coordination
+"Rolende visitou Aguiarnópolis, Cafezal do Sul, Valença do Piauí, Santana do Jacaré, Padre Carvalho, Congonhinhas, Itacoatiara, Salto do Itararé, Coimbra, Messias, Irineópolis, Feliz Deserto e Chiapetta",Rolende não visitou Itacoatiara,1,boolean_coordination
+"Luena, Matrosa, Nalini, Naly, Jael, Flória e Suria visitaram Mafra",Nalini não visitou Mafra,1,boolean_coordination
+"Henriette, Sulamita, Adriele, Lilly e Orlanda visitaram Eldorado",Sulamita não visitou Eldorado,1,boolean_coordination
+"Selénia, Ragendra, Marisol, Belle, Jennifer, Marian, Liliane, Niah, Leonilde e Glaúcia visitaram Santana do Ipanema",Jennifer não visitou Santana do Ipanema,1,boolean_coordination
+"Teolinda visitou Brotas de Macaúbas, Cedro, Jequeri, Senador Firmino, Guapirama e Novo Horizonte do Norte",Teolinda não visitou Senador Firmino,1,boolean_coordination
+"Nila visitou São Pedro, Sericita, Caraúbas, Abreu e Lima, Magalhães de Almeida, Santa Cruz do Arari, Irapuru, Passabém, Araripina, Marapoama, Santa Tereza do Tocantins, Nova Hartz, Poço Redondo e Prado Ferreira",Nilza não visitou Prado Ferreira,0,boolean_coordination
+"Tabatha, Ocridalina, Dara, Rosalinda, Marinha, Andrelina, Alaíde, Paola, Rosário, Delmira e Brizida visitaram Mozarlândia",Marinha não visitou Mozarlândia,1,boolean_coordination
+"Anaísa visitou Caparaó, Nova Rosalândia, Tapira e Lagoa Dourada",Danielle não visitou Nova Rosalândia,0,boolean_coordination
+"Holly, Domenica, Açucena, Eleia, Orange, Jerónima, Oana, Joselina, Jil, Florbela, Ácil, Isalda, Pulquéria, Gaori e Jordana visitaram Iguaba Grande",Jordana não visitou Iguaba Grande,1,boolean_coordination
+"Loreta, Nimi, Almara, Marieta, Grace, Gregória, Lucina, Fani, Mabel, Gileade e Bina visitaram Turvo",Marieta não visitou Marechal Deodoro,0,boolean_coordination
+"Giulia visitou Tejupá, Limoeiro do Norte, Andradas, Igarapé, Nerópolis e Buriti Alegre",Giulia não visitou São Pedro da Serra,0,boolean_coordination
+"Lucília visitou Santana do Maranhão, Nazaré Paulista, Porto Mauá, São Ludgero, Orós, Caxias, Paço do Lumiar, Itirapina, Santa Lúcia, Santa Bárbara do Monte Verde, Jaupaci, Ouro Verde de Minas, Barreirinha, Ourinhos, Cachoeiro de Itapemirim e Glória D'Oeste",Lucília não visitou Caxias,1,boolean_coordination
+"Davina visitou Colíder, Afonso Bezerra, Silvanópolis, Cachoeira Grande, Contendas do Sincorá, Vera Cruz, Ouro, São José da Tapera e Imbuia",Davina não visitou Silvanópolis,1,boolean_coordination
+"Graciete, Seomara, Sisa, Sofie, Domitília, Marilisa, Raísa, Reyna, Amaia, Shine, Marieva, Anísia, Lya, Castelina e Felisbina visitaram Luís Correia",Anísia não visitou Luís Correia,1,boolean_coordination
+"Miriã visitou Raposos, Nova Mamoré, Andorinha, Goiânia, Sete Lagoas, São Domingos do Maranhão, Barra do Quaraí, Tuparendi, Barro Preto, Paranã, Caraguatatuba, Beneditinos, Major Sales, Laranjal do Jari e Jandaia",Miriã não visitou Mairi,0,boolean_coordination
+"Antonina visitou Ribamar Fiquene, Vitorino Freire, Três Pontas, Buriti de Goiás, Braga, Pilões, Horizonte, Capela do Alto, Vertentes, Palmares do Sul, Benevides, Lindoeste, Arabutã, Buri, Berilo, São José da Bela Vista, Nova Tebas e Boa Vista da Aparecida",Antonina não visitou Arabutã,1,boolean_coordination
+"Belosinda, Darci, Elana, Patrocínia, Afonsa, Leonilda, Rafa, Cindy, Mireie, Ânia, Cassandra, Gileade, Dakota, Genciana, Crisanta, Terência, Lucinda e Skylar visitaram São Thomé das Letras",Terência não visitou São Thomé das Letras,1,boolean_coordination
+"Deméter, Ellen, Silvie, Suzy, Nilce, Riana, Lucília, Aldara, Noor, Namira, Isilda, Josana, Misha, Brunilde, Kenzi e Oureana visitaram Itamarati de Minas",Ellen não visitou Porteirão,0,boolean_coordination
+"Liliane, Selesa, Lucília, Susi, Saray e Celinia visitaram São Sebastião da Amoreira",Mikaela não visitou São Sebastião da Amoreira,0,boolean_coordination
+"Orange visitou Rodelas, Rodrigues Alves, São José do Hortêncio, Terra Nova, Catolé do Rocha, Fortuna, Areial, São Domingos do Araguaia, Paraíso do Norte, Dom Feliciano, Nanuque, Limeira do Oeste, São Gonçalo do Amarante, Santo Antônio do Aventureiro, Quixadá, Barroso e Aramari",Orange não visitou Seropédica,0,boolean_coordination
+"Catherine visitou Muqui, Santo Antônio do Caiuá, Presidente Juscelino, Canindé de São Francisco, Calçoene, Marmelópolis, São José do Barreiro, Amaraji, Sidrolândia, Bueno Brandão, Gouveia, Boqueirão do Leão, Campina Grande, Rifaina, Urussanga, São José dos Ramos, Ponta de Pedras, São Francisco e Faro",Raíssa não visitou Boqueirão do Leão,0,boolean_coordination
+"Élea visitou São Miguel dos Milagres, Currais, São Thomé das Letras, Barra do Jacaré, Mata de São João e Caridade do Piauí",Élea não visitou Araújos,0,boolean_coordination
+"Marieta visitou Miranda do Norte, Novo Machado, Cerro Largo, São Francisco do Conde, Coqueiral e Jurema",Marieta não visitou Amapá,0,boolean_coordination
+"Caterina visitou Soledade, Jerônimo Monteiro, Laranjal do Jari, Ribeirão do Largo, Medicilândia, São José do Ouro, Marilac, Alto Parnaíba, Estreito, Barra do Corda, Montalvânia, Conceição, Braga, Governador Jorge Teixeira, Rio Bonito do Iguaçu, Limoeiro do Ajuru, Capim Grosso e Davinópolis",Leya não visitou Alto Parnaíba,0,boolean_coordination
+"Herénia, Nessy, Lubélia, Lilá, Eunice, Donatella, Carela e Felisbela visitaram Caatiba",Rosebel não visitou Caatiba,0,boolean_coordination
+"Emilie, Runa e Jezabel visitaram Cachoeirinha",Jezabel não visitou Cachoeirinha,1,boolean_coordination
+"Cizina, Roana, Nia e Muriela visitaram Tabira",Selena não visitou Tabira,0,boolean_coordination
+"Afonsina visitou Cascavel, Lizarda, Carlinda, Caicó, Tupanciretã, Pedra do Anta, Queimadas, Desterro, Estrela do Norte, Teodoro Sampaio, Godofredo Viana, São Domingos das Dores e Araguaçu",Afonsina não visitou Porciúncula,0,boolean_coordination
+"Samaritana, Primitiva e Quésia visitaram Sonora",Quésia não visitou Aracoiaba,0,boolean_coordination
+"Naíra visitou Brasília de Minas, Conceição de Macabu, Palmas, Santa Fé de Goiás, São Joaquim, Nova Campina, Uarini, Concórdia do Pará, Miguelópolis, Pimenta, São João do Ivaí, Santa Rosa do Tocantins, Bastos, São José do Cerrito, Catuípe, Zortéa, Carneiros, Giruá e Aporá",Naíra não visitou Santa Fé de Goiás,1,boolean_coordination
+"Aldina, Leoménia, Cármen, Sásquia, Maira, Cânia, de Pádua, Auriana, Lucy, Belisa, Grimanesa, Madre de Deus, Lucíola, Suéli, Dora, Manuella, Anícia e Letízia visitaram Cerquilho",Manuella não visitou Cerquilho,1,boolean_coordination
+"Génesis visitou Caçador, Caiçara do Norte, Godofredo Viana, Presidente Getúlio, Santa Terezinha, Bonfinópolis, Manaus, São Lourenço e Otacílio Costa",Génesis não visitou Santa Terezinha,1,boolean_coordination
+"Hannah, Gáil, Antonela, Anquita, Naíma, Manuella, Florisa, Geovanna, Salvadora, Lou, Eloise, Carmelinda, Léah, Sophia e Joyce visitaram Perolândia",Maíra não visitou Perolândia,0,boolean_coordination
+"Lorina visitou Tamboril, Morpará e Barra do Chapéu",Lorina não visitou Tamboril,1,boolean_coordination
+"Bertina, Mariame, Mona, Elodia, Anísia, Destiny, Generosa, do Rosário, Josina, Adosinda, Dinora, Benjamina, Alberta, Erika, Dolores, Lenira, Amira, Melisa e Hortense visitaram Astolfo Dutra",Amira não visitou Astolfo Dutra,1,boolean_coordination
+"Anaíde visitou Palminópolis, Planalto, São Domingos do Prata, Eldorado do Sul, Alfredo Chaves, Porto Murtinho, Uirapuru, São José da Varginha, Guanambi, Cotia, Miraíma, Aruanã e São Nicolau",Anaíde não visitou Cotia,1,boolean_coordination
+"Graciosa, Kenza, Lucileine, Quaresma e Libéria visitaram Nacip Raydan",Graciosa não visitou Viçosa do Ceará,0,boolean_coordination
+"Gertrudes visitou Aguiarnópolis, Afonso Cunha, Santa Rosa de Lima, Lourdes, Monte Alegre dos Campos, Capão da Canoa, Ponto Chique, Bagé, Pompéu, São Paulo de Olivença, Tanabi, Estrela de Alagoas e Porecatu",Gertrudes não visitou Monjolos,0,boolean_coordination
+"Melinda, Iráis, Neusa, Myla, Mavília, Minervina, Orlanda, Agna, Lorina, Natacha, Belosinda, dos Santos, Sérgia, Mimosa, Liana, Tess, Maia e Maribel visitaram Vera Cruz do Oeste",Tess não visitou Vertente do Lério,0,boolean_coordination
+"Ivy visitou Lagoa, Isaías Coelho, Anhumas, Palminópolis, Canhotinho, Itapecerica da Serra e Lizarda",Ivy não visitou Caturité,0,boolean_coordination
+"do Livramento, Maíra, Juvita, Maritila, Ecaterina, Ariane, Luena, Miquelina, Cora e Catrina visitaram Umburatiba",Juvita não visitou Campo Novo,0,boolean_coordination
+Mariane e Josete visitaram Campo Alegre de Goiás,Josete não visitou Campo Alegre de Goiás,1,boolean_coordination
+"Anaísa, Aldara, Emídia, Ifigénia, Florencia, Cibele, Cris e Cristele visitaram Santa Rita do Araguaia",Nadina não visitou Santa Rita do Araguaia,0,boolean_coordination
+"Graciete visitou Lagoa d'Anta, Cidreira, Alegrete, Terra de Areia, Peixoto de Azevedo, Conselheiro Mairinck e Mangaratiba",Graciete não visitou Sobradinho,0,boolean_coordination
+"Lidiana, Paolla, Audete, Lily, Joscelina, Jânia, Pedrina, Santa Cruz, Diane, Jaquelina, Suzy, Dalida, Anália, Rosário, Iana, Naíde, Suzana, Jasmim, Marcella e Deótila visitaram Caém",Prazeres não visitou Caém,0,boolean_coordination
+"Quaresma, Cármen, Sáli, Bibiana, Karen, Serenela e Gonzaga visitaram Alto Alegre dos Parecis",Bibiana não visitou Alto Alegre dos Parecis,1,boolean_coordination
+"Jewel visitou Belém, Irapuã e Estância",Jewel não visitou Belém,1,boolean_coordination
+"Georgete, Dominica, Jezabel, Deborah e Gilma visitaram Cáceres",Georgete não visitou Cáceres,1,boolean_coordination
+"Numénia, Taísa, Rafaella, Elsinda, Gaitana, do Almurtão, Lilite, Siana, Mavelete, Lilian e Dores visitaram Turmalina",Numénia não visitou Turmalina,1,boolean_coordination
+"Carmelinda visitou Luiziânia, Delmiro Gouveia, Saudades, Caiçara, São Jorge do Patrocínio, Santana do Maranhão, Anapurus, Santo Amaro das Brotas, Campos Novos, Sinimbu, Tangará da Serra e Sud Mennucci",Carmelinda não visitou Campos Novos,1,boolean_coordination
+"Oureana visitou Muriaé, Cristalândia do Piauí, Siriri, Grandes Rios, Tauá, Barreiras, Sapucaia, Cabrália Paulista, São Bentinho, Goianésia do Pará, Caetanópolis, Silvânia, Rio Pardo de Minas, Caucaia, Japaratuba, Governador Newton Bello, São Sebastião do Caí e Colorado",Oureana não visitou Cabrália Paulista,1,boolean_coordination
+"Semíramis visitou Paranapoema, Cachoeirinha, Fortaleza de Minas, Cristais, Lucianópolis, Nova Aliança do Ivaí, União dos Palmares, Santo Antônio dos Lopes, Pedro Avelino, General Carneiro, Rodelas, Matriz de Camaragibe, Conceição do Coité e Taguaí",Semíramis não visitou Lucianópolis,1,boolean_coordination
+"Anésia visitou Ribeirão Branco, Tupirama, Gramado, Canudos do Vale, Luciára e Barra do Jacaré",Andreína não visitou Ribeirão Branco,0,boolean_coordination
+"Jasmim visitou Varre-Sai, Jaboticatubas, Ribeira do Piauí, Taquarituba, Paraí, Itatiaia e Sobral",Jasmim não visitou Sobral,1,boolean_coordination
+Honorina e Farida visitaram Limoeiro do Ajuru,Salomite não visitou Limoeiro do Ajuru,0,boolean_coordination
+"Adalgiza, Inoi, Flor de Maria, Serenela, Idália, Raphaela, Cynthia, Dircila, Líria, Brásia, Bétia, Auriana, Glenda, Cristiana e Calila visitaram Simão Pereira",Calila não visitou Simão Pereira,1,boolean_coordination
+"Maria Rita, do Paraíso, Eponina, Anícia, Mari, Huguete, Marilina, Rosária, Nimi, Salima, Nor, Esther, Rosandra, Iracema, Chanel e Delilah visitaram Parobé",Casimira não visitou Parobé,0,boolean_coordination
+"Ondina, Dagmar, Crisanta, Khaleesi, Nânci, Almara, Albina, Bina, Nicky, Paula e Gabrielle visitaram Taquaruçu do Sul",Bina não visitou Taquaruçu do Sul,1,boolean_coordination
+"Climénia visitou Ivoti, Belém do Piauí, Hidrolândia e Rolante",Climénia não visitou Hidrolândia,1,boolean_coordination
+"Maria Leonor visitou Itapiranga, Xique-Xique, Cantagalo, São José, Novo Oriente, Itapetininga, Boa Vista do Incra, Paranã, Coruripe, Ascurra, Ibitinga, Imbuia, São Fernando, Morro Redondo e Santa Luzia",Maria Leonor não visitou São Fernando,1,boolean_coordination
+Reece e Rosandra visitaram Buritama,Reece não visitou Santa Rosa do Piauí,0,boolean_coordination
+"Hermana visitou Novo Horizonte, Itanhém, Novo Gama, Jacaraú, João Câmara, São Carlos e Sena Madureira",Hermana não visitou Paragominas,0,boolean_coordination
+"Maria Rita, Graciliana, Cremilda, Cléo, Trasila, Salvação, Ioque e Miranda visitaram Olivença",Salvação não visitou Olivença,1,boolean_coordination
+Corália e Benícia visitaram São Patrício,Benícia não visitou São Patrício,1,boolean_coordination
+"Isaurinda visitou Guanambi, Descanso e General Carneiro",Margarete não visitou General Carneiro,0,boolean_coordination
+Sophie e Delisa visitaram Mairipotaba,Sophie não visitou Mairipotaba,1,boolean_coordination
+"Bertilde visitou Santo Ângelo, São José do Ouro, Manoel Ribas, Maranhãozinho, Nova Era, Anaurilândia, Condado, São Félix de Balsas, Itapirapuã e Novo Jardim",Bertilde não visitou Cruzália,0,boolean_coordination
+"Demétria, Ernestina, Felismina, Altina, Marjolene, Melida, Teresina, Joaninha, Ludmila, do Nascimento, Alexia, Claire, Dinarta, Miguela, Julita, Raqueline, Chantal e Margaux visitaram Frei Lagonegro",Altina não visitou Frei Lagonegro,1,boolean_coordination
+"Gaori visitou Alvinlândia, Perolândia, Caldas, Sales Oliveira, Montanha, Avaí e Divinópolis de Goiás",Gaori não visitou Divinópolis de Goiás,1,boolean_coordination
+"Angelita visitou Acrelândia, Peixe, Nova Colinas, Araguainha, Augusto Pestana, Tupanci do Sul e Santa Filomena",Angelita não visitou Jeremoabo,0,boolean_coordination
+"Runa visitou André da Rocha, Nova Olinda do Norte, São Francisco do Guaporé, Breves, Itápolis, Rodolfo Fernandes, Boca da Mata, Santana do Acaraú, Gilbués, Coroaci, Dois Irmãos do Buriti, Bodó, Dueré, Carandaí, Itapitanga, Gurinhém e Currais Novos",Runa não visitou Santarém,0,boolean_coordination
+Amal e Círia visitaram Sardoá,Digna não visitou Sardoá,0,boolean_coordination
+"Titânia visitou Alto Araguaia, Santo Hipólito, São João dos Patos, Itambé, Ciríaco, Itiquira, Nova Erechim, Italva, Bom Jesus do Amparo, Muçum, Jacareacanga, Lapa e Adelândia",Titânia não visitou Santo Hipólito,1,boolean_coordination
+"Semíramis, Claudiana, Darlene, Sephora, Greer, Lucie, Denisa, Marion, Abby, Nereida, Arinda, Marilina, Acácia, Ausenda e Anusca visitaram São Pedro da União",Sephora não visitou São Pedro da União,1,boolean_coordination
+"Miliza visitou Nova Era, Itapitanga, Brejolândia, Massapê, Coivaras, Cianorte, Galvão, Jaborandi, Serra Alta, Fênix, Caaporã, Campo Erê, Monte das Gameleiras, Chapada Gaúcha, Jaguaribara, São José da Bela Vista, Cafarnaum e Cocalinho",Doroteia não visitou Galvão,0,boolean_coordination
+"Fara, Margarete, Ada, Dólique, Círia, Noah, Reinalda e Jia visitaram Paraibuna",Margarete não visitou São Lourenço do Oeste,0,boolean_coordination
+"Tabata, Albana, Melânia, Cesária, Maëlis, Aminata, Flória, Alaina e Alvarina visitaram Afonso Cláudio",Flória não visitou Afonso Cláudio,1,boolean_coordination
+Clementine visitou Igaratá e Contenda,Clementine não visitou Barra do Piraí,0,boolean_coordination
+"Agna, Melinda, Salete, Carísia, Lucelinda, Geraldina e Deótila visitaram Borba",Carísia não visitou Borba,1,boolean_coordination
+"Énia, Bérnia, Cornélia, Ariane, Anita, Haidé, Lélia, Janaína, Siana, Skylar, Carela, Tabata, Charlene e Silvéria visitaram Luisburgo",Lélia não visitou Luisburgo,1,boolean_coordination
+"Marcelle visitou Araçu, Itaituba, Pedro de Toledo, Reginópolis, Alvarenga, Jaboticabal, Barra do Chapéu, Bofete, Juru e Quirinópolis",Farah não visitou Juru,0,boolean_coordination
+"Mya, Nísia, Thai, Joele, Sofie, Niceia, Lourdes, Justa, Anusca, Carisa, Herénia, Guendolina, Cleonice, Alina, Liduína, Clícia, Luisete, Fara e Charlotte visitaram Jerumenha",Niceia não visitou Jerumenha,1,boolean_coordination
+"Jorja, Gaela, Rebecca, Anunciação, Encarnação, Roena, Jorgina, Alida, Carmélia, Muriel, Deborah, Kimberly e Nelsa visitaram Salto do Jacuí",Etéria não visitou Salto do Jacuí,0,boolean_coordination
+"Joelma, Helda, Aldenir e June visitaram Juazeiro do Norte",June não visitou Juazeiro do Norte,1,boolean_coordination
+"Encarnação, Hermenegilda, Anquita, Jitendra, Bertina e Jezabel visitaram Tapira",Jezabel não visitou Tapira,1,boolean_coordination
+"Hersília, Felismina, Olinda, Louane, Eárine, Marieva, Nícia, Córita, Marieta, Évila, Liv, Miah, Lici, Duana e Natacha visitaram Guiricema",Córita não visitou Sigefredo Pacheco,0,boolean_coordination
+"Nur, Romina, Joya, da Agonia, Paraíso, Celine, Marisol e Eurídice visitaram Nova Roma",Josana não visitou Nova Roma,0,boolean_coordination
+"Rubyana visitou Alvorada do Gurguéia, Renascença, Uauá e Westfalia",Rubyana não visitou Westfalia,1,boolean_coordination
+"Erméria visitou Vitória do Jari, Barcelona, Lamim e Pojuca",Erméria não visitou Pojuca,1,boolean_coordination
+"Seomara, Idrisse, Orlanda, Nanci, Doriana, Macati, Marilina, Lucinda, Mélodie, Nise, Lhuzie, Líbia, Lace, Oureana, Cataleia, Eline, Aruna, Maxine, Kayla e Loredana visitaram Santo Cristo",Aruna não visitou Santo Cristo,1,boolean_coordination
+"Chloé, Elle, Lorraine, Gabi, Lya e Darnela visitaram Pongaí",Elle não visitou Pongaí,1,boolean_coordination
+"Samantha visitou Indianópolis, Santana do Paraíso, Bacuri, Santo Estêvão, Ibiam, Lambari D'Oeste, Barra Longa, Itu, Frei Rogério, São João do Ivaí, Novo São Joaquim, Teresina, Serra do Ramalho, Divino de São Lourenço, Luzerna, Santa Cruz da Baixa Verde, Santa Inês, Santa Rita do Araguaia e Araruna",Samantha não visitou São Brás do Suaçuí,0,boolean_coordination
+"Formosa visitou Vale do Paraíso, Frei Lagonegro, Paraíso, Ilha Solteira, Bandeira, Gastão Vidigal, Alcântaras, José da Penha, Além Paraíba, Forquetinha, Chapecó, Oriente, Messias Targino e Cachoeira do Piriá",Formosa não visitou Além Paraíba,1,boolean_coordination
+Mara e Mavelete visitaram Pacoti,Mavelete não visitou Pacoti,1,boolean_coordination
+"Leonilde, Gaitana, Cristal e Marinha visitaram Roseira",Leonilde não visitou Roseira,1,boolean_coordination
+"Dele visitou Rialma, Paes Landim, Mariápolis e Verdelândia",Scarlet não visitou Mariápolis,0,boolean_coordination
+"Cácia, Manuella, Cipora, Demétria, Silvina, Rubina, Jaqueline, Maria João, Orianna, Norma, Grace, Tomasa, Sisa, Lisbon e Crisálida visitaram Cruzeta",Maria João não visitou Faxinal,0,boolean_coordination
+"Ermengarda visitou Inhumas, Mirandópolis, Sumidouro, Bom Jesus do Tocantins, Guatapará, Serra Redonda, Granja, Carandaí, Adrianópolis, Governador Lindenberg e Maranguape",Ermengarda não visitou Petrolina de Goiás,0,boolean_coordination
+"Formosa, Raquelina, Siana, Taíssa, Pietra, Erica, Ilca, Feba, Chloé, Graciliana, Ellie e Graciela visitaram Laranjal",Adelina não visitou Laranjal,0,boolean_coordination
+"Gema visitou Araguainha, Encruzilhada, Nepomuceno, Governador Dix-Sept Rosado, Manoel Emídio, Clementina, Cotia, Upanema, São Caitano, Platina, Rio das Ostras, Veranópolis, Ivorá, Juvenília, Viçosa, Mairi, Biritiba-Mirim e Olho d'Água do Casado",Gema não visitou Manoel Emídio,1,boolean_coordination
+"Castelina visitou Guimarães, Santa Cruz do Piauí, Além Paraíba, Regeneração, Colméia, Santópolis do Aguapeí, Manoel Ribas, Goiás, Tomazina, Tiradentes, Exu, Itatiaiuçu, Santanópolis e Novo Horizonte",Castelina não visitou Santa Cruz do Piauí,1,boolean_coordination
+"Afonsa visitou Floresta Azul, Óbidos, Brejinho, Uiraúna e Nova Mamoré",Afonsa não visitou Uiraúna,1,boolean_coordination
+"Rhianna visitou Rifaina, Cubatão, Barroso, Palmitos, Rio Claro, Francisco Badaró, Marliéria, Cerro Grande, Pimenteiras, Tomazina e Vitória do Xingu",Rhianna não visitou Tomazina,1,boolean_coordination
+"Aimara visitou Pacajus, Chapecó, Santana, Santo Afonso, Tapiratiba, Rio Sono, Águas de Chapecó, Moju, José Bonifácio e Inocência",Aimara não visitou Chapecó,1,boolean_coordination
+"Gara, Edith, Tereza, Jéni, Sade, Lucélia, Noá, Cordélia, Elísia, Saula, La-Salete, Nausica e Emi visitaram Paranaíta",Cinira não visitou Paranaíta,0,boolean_coordination
+"Gáil visitou Guanhães, Livramento de Nossa Senhora e Morpará",Gáil não visitou Morpará,1,boolean_coordination
+"Daniella visitou Costa Marques, São Miguel dos Milagres, Capivari, Santana, Porto de Pedras e Princesa Isabel",Daniella não visitou Porto de Pedras,1,boolean_coordination
+"Patrícia visitou Nossa Senhora de Lourdes, Várzea, Água Santa, Itaúna, Parnaíba, São Caitano, Analândia, Paulistas, Campo Bom, General Câmara, Eldorado do Sul, Afonso Cunha, Três Corações, Campos Altos, Mortugaba, Itaguaçu, Alumínio e Curral de Cima",Patrícia não visitou Três Corações,1,boolean_coordination
+"Jorgina visitou São Jerônimo da Serra, Governador Mangabeira, Belém de São Francisco, Marco, Augustinópolis, Lajeado do Bugre, Campina das Missões, Queluzito, Pilões e Populina",Sierra não visitou Populina,0,boolean_coordination
+"Nilsa, Sienna, Elaine, Elza, Rosalinda, Susanna e Graciete visitaram Santo Antônio de Goiás",Susanna não visitou Santo Antônio de Goiás,1,boolean_coordination
+"Licínia visitou Medicilândia, Ituiutaba, Turvolândia, Betim, Paraibano, Valença do Piauí, Fátima, Santana da Boa Vista, Três Ranchos, Rio Negro, Nova Monte Verde, Fartura do Piauí, Verdelândia, Iporã, Cumari, Joaquim Gomes, Brasil Novo, Sítio do Quinto e Senador Georgino Avelino",de Begonha não visitou Brasil Novo,0,boolean_coordination
+"Lola visitou Buenópolis, Nova Lacerda, Lagoa Salgada, Aracatu, Marquinho, Paracatu e Catanduva",Jussara não visitou Marquinho,0,boolean_coordination
+"Indira, Caterina e de São Luís visitaram Santa Luzia do Norte",Caterina não visitou Jequeri,0,boolean_coordination
+"Luamar, Liliete, Agustina, Belarmina, Sierra, Fiorella e Mirella visitaram São Pedro do Ivaí",Mirella não visitou São Pedro do Ivaí,1,boolean_coordination
+"Deótila, Elisabeta, Jasmim, Brites, dos Santos, Letízia, Tabata, Naida, Ireneia, Lucialina, Cleide, Muriel, Bartolina, Dámaris, Romy, Kaya, Daina e Teresca visitaram Restinga",Ireneia não visitou Restinga,1,boolean_coordination
+"Seong, Énia, Rebeka, Dalva, Tirsa, Gaitana, Julinda, Diná, Amabília, Hélia, Ivete, Georgete e Leonila visitaram Rio Grande",Sharon não visitou Rio Grande,0,boolean_coordination
+"Briosa visitou Taquaraçu de Minas, Canápolis, Milhã, Porteiras, Dourados, Ouriçangas, São José da Boa Vista, Zacarias, Presidente Médici e Cambé",Briosa não visitou Cambé,1,boolean_coordination
+"Nísia, Assunta, de São Luís, Farah, Lubélia, de Sales, Hosana, Edith e Miliza visitaram Santo Cristo",Geovanna não visitou Santo Cristo,0,boolean_coordination
+"Luizete visitou Santa Rosa do Piauí, Quixabeira, Belo Horizonte, Santa Salete, Barcelos, Humaitá, Passos Maia, Vitória Brasil, Delfinópolis, Coroados, Santarém e Apuiarés",Luizete não visitou Vitória Brasil,1,boolean_coordination
+"Drusila, Isalda, Kendall, Nereida, Julinda, Liberalina, Patrocínia, Miguela, Aisha, Liza, Adolfina, Délia, Nicolina, Laurine e Julinha visitaram Jacarezinho",Julinda não visitou Jacarezinho,1,boolean_coordination
+"Naida, Salomite, Stella, Danika, Jorja, Emídia, Inocência, Caia, Cyntia, Polina, Taísa, Daliana, Kathleen, Deise, Grimanesa, Andreína, Rossana, Bernadete e Josiana visitaram Iracemápolis",Carmela não visitou Iracemápolis,0,boolean_coordination
+"Léane visitou Major Sales, Petrolina de Goiás, Anaurilândia, Fortuna de Minas e Quixeramobim",Léane não visitou Major Sales,1,boolean_coordination
+"Trisha, Juanita, Idalete, Abby, Melody, Salete, Clívia, Numénia, Brenda, Leta, Lucilina, Florentina e Sury visitaram Santa Rosa do Sul",Nola não visitou Santa Rosa do Sul,0,boolean_coordination
+"Norvinda, Suzana, Donzília, Adélia, Jerusa, Agnes, Juliette, Jorgina, Cristene e Tiara visitaram Galvão",Taísa não visitou Galvão,0,boolean_coordination
+"Glenda, Nazaré, Josiane, Cris, Almara, Adália, Mirna, Eularina e Saula visitaram Condeúba",Adália não visitou São Miguel do Guaporé,0,boolean_coordination
+"Alina, Dakota, Marlene, Erica, Briolanja e Jó visitaram Marmelópolis",Gaori não visitou Marmelópolis,0,boolean_coordination
+Domenica visitou Domingos Martins e Bela Vista do Maranhão,Domenica não visitou Domingos Martins,1,boolean_coordination
+Cândida visitou Casserengue e Guaíra,Deise não visitou Casserengue,0,boolean_coordination
+"Mabília, Balbina, Gislena, Dorina, Mariema, Nélia, Eline, Ernestina, Carlinda, Alaina, Aldora e Seomara visitaram Saudades",Balbina não visitou Nossa Senhora Aparecida,0,boolean_coordination
+"Miguela, Bernadete, Kailani, Ionara, Joraci, Joselene, Dinamene, de Sales, Ália, Julianna e Catalina visitaram Monte Sião",Siomara não visitou Monte Sião,0,boolean_coordination
+"Betsabé visitou Caçador, Rio Novo do Sul, Piranhas, Tejupá, Alvorada de Minas, Japoatã, Lavras, João Pessoa, Amparo, Mundo Novo, Ubajara, Itaú, Faxinalzinho, Ibiquera, Mairinque e Campinápolis",Betsabé não visitou Lamarão,0,boolean_coordination
+"Karina, Saulina e Loide visitaram Marco",Saulina não visitou Marco,1,boolean_coordination
+"Carmelina visitou João Lisboa, Conceição do Castelo, Porto Feliz, Varre-Sai, São Vicente do Sul, São Domingos, Santa Cruz do Escalvado, Balsas, Lajinha, Capanema, Barra do Garças, Mirante, Itagi, São Pedro do Suaçuí, Paquetá, Marmeleiro, Itaiçaba, Ribeirãoeto e Guaiçara",Carmelina não visitou Porto Feliz,1,boolean_coordination
+"Chema visitou Porto Alegre do Norte, São João do Oriente, Murici, Enéas Marques e Santa Leopoldina",Chema não visitou Murici,1,boolean_coordination
+"Cindy visitou Chopinzinho, Caiana, Itaporã, Itaitinga, Presidente Olegário, São João del Rei, Marataízes, Paraguaçu Paulista e Indaiabira",Sáli não visitou Indaiabira,0,boolean_coordination
+"Sophia visitou Grão Mogol, Perolândia, Caeté, Sonora, Petrolândia, Queiroz, Nossa Senhora Aparecida, Mogeiro, Santa Cruz do Sul, Apucarana, Medeiros Neto, Santa Maria do Suaçuí, Santa Quitéria e Grossos",Glenda não visitou Medeiros Neto,0,boolean_coordination
+"Gelsemina visitou Indiaroba, Ipixuna do Pará, Santa Bárbara, Igarapé, Ibema, Pedrinhas, Algodão de Jandaíra, Itabuna, Monteirópolis, Saubara, Mirassol d'Oeste, Jaboatão dos Guararapes, Ipaba e Heitoraí",Gelsemina não visitou Pedrinhas,1,boolean_coordination
+"Naida, Saula, Liberdade, Maeva, Georgiana, Chema, Diamantina, Onélia, Mathilda, Hermânia, Gregória, Laurinda, Nayara, Diná, Ninfa, Aruna, Belle, Ianesis, Lucy e Princess visitaram São Ludgero",Liberdade não visitou São Ludgero,1,boolean_coordination
+"Almara, Idália, Ilídia, Faith, Edmunda, Analu, Crisálida, Ália, Emilie, Edine, Marilita, Danielle, Ivete, Lucileine e Simona visitaram Itamarandiba",Ália não visitou Itamarandiba,1,boolean_coordination
+"Piedade, Nausica, Gracinda, Caterina, Marie e Idalisa visitaram Paineiras",Piedade não visitou Paineiras,1,boolean_coordination
+"Niceia, Taísa, Natividade, Leane, Lizia, Leslie, Nereida, Cayetana, Ismália, Geralda, Nayla, Miraldina e Gisele visitaram Campo Alegre",Niceia não visitou Campo Alegre,1,boolean_coordination
+"Auta visitou Itabira, Santana da Ponte Pensa e Aratiba",Auta não visitou Maria Helena,0,boolean_coordination
+"Aldara, Cornélia, Arlinda, Edite, Kathleen, Abby, Melodia, Davina, Basilissa, Kendall e Paraíso visitaram Buíque",Arlinda não visitou Buíque,1,boolean_coordination
+"Caroline visitou Matinhas, Caetanos, Duas Barras, Itaperuna, Santa Salete, Urussanga, São Bento do Sapucaí, Desterro do Melo, Mato Grosso, Turmalina, Miracema, Milton Brandão, Cajuri, São João, Balneário Barra do Sul, Quixeré, Bagre, São José da Barra e Morro do Pilar",Caroline não visitou São João,1,boolean_coordination
+"Cataleia, Mathilde, Mécia, Átina e Siomara visitaram Lagoa dos Três Cantos",Léa não visitou Lagoa dos Três Cantos,0,boolean_coordination
+"Flor de Ceres, Daniella, Joaninha, Jane, Miriã, Florentina, Auta, Fénix, Aníria, Ceres, Numénia e Esméria visitaram Ipirá",Ceres não visitou Vila Rica,0,boolean_coordination
+"Jasmine visitou Pedro de Toledo, Capela, Rincão, Riachuelo, Jaupaci, Iracema, Uarini, Divino de São Lourenço, Jataí, Serraria, Nova Palma, Prudentópolis, Canaã, Benedito Leite, Salinópolis, Anitápolis, Simplício Mendes e Sertão Santana",Jasmine não visitou Rincão,1,boolean_coordination
+"Pámela visitou Guaraniaçu, São João da Serra, São José do Rio Claro, Teolândia, Sebastião Leal, Charqueada, Santa Lúcia, Santo Antônio do Jacinto, Campestre, Álvares Machado, Nhamundá e Panorama",Hermana não visitou Teolândia,0,boolean_coordination
+"Albertina, Liliete, Aneide, Lucília, Felisbela e Corina visitaram Castilho",Lucília não visitou Castilho,1,boolean_coordination
+"Derocila, Semíramis, Sunamita, Elva, Melania, Sáli, Olga e Margaret visitaram União",Margaret não visitou União,1,boolean_coordination
+"Constance, Bella, Cesarina, Engelécia, Isabelle, Sira, Jessie, Lenira, Raqueline, Jacqueline, Jerusa, Benícia, Léonie, Briolanja, Melodia, Mavília, Neiza, Nor, Ionara e Lariana visitaram Vila Valério",Lariana não visitou Vila Valério,1,boolean_coordination
+"Persília visitou Paudalho, Glorinha, São Miguel, Jati, Marques de Souza, Brunópolis, Selvíria, Serra Azul de Minas, São Luís de Montes Belos, Porto Esperidião, Esteio, Sete Lagoas, Cláudio, Lagarto, Mimoso de Goiás e Santa Rosa do Piauí",Lenora não visitou Jati,0,boolean_coordination
+"Eleni visitou Buritis, Ibema, Palmas de Monte Alto, Areia Branca, Nuporanga, Wall Ferraz, Bom Lugar, Iraí, Ribeirão Bonito e Trindade",Eleni não visitou Buritis,1,boolean_coordination
+Naida e Benícia visitaram Ponte Preta,Naida não visitou Porto,0,boolean_coordination
+"Solôngia, Chi, Délia, Marcília, Marilina, Carsta, Sátira, Geraldina, Davina, Leonília, Gabi, Sophia, Jenny, Dircea, Sury, Genciana, Dionilde e Lena visitaram Ituverava",Dionilde não visitou Dois Vizinhos,0,boolean_coordination
+"Misha visitou Jacarezinho, Nova Timboteua, Sananduva, Potengi, São Raimundo Nonato, Rio do Sul, Dois Lajeados, São José do Rio Claro, Camocim de São Félix, Brusque, Gaurama e Camocim",Misha não visitou São Raimundo Nonato,1,boolean_coordination
+"Cibele visitou Guaíra, Tomé-Açu, Poço de José de Moura, Comercinho, Ilha Comprida, Monte Belo, Paraisópolis, Chorrochó, São José da Boa Vista, Santa Cruz dos Milagres, Triunfo, Picos, Monteirópolis, Manacapuru e Luiz Alves",Cibele não visitou Monteirópolis,1,boolean_coordination
+"Sharon, Myra, Floriana, Córita, Dirce, Nilda, Léah, do Amparo, Jil, Heda e Harper visitaram Santo Antônio de Goiás",Córita não visitou Santo Antônio de Goiás,1,boolean_coordination
+"Suati visitou Pindamonhangaba, Lutécia, Itirapuã, Glória de Dourados, Logradouro, Encantado, Ferraz de Vasconcelos, Portalegre, Não-Me-Toque, Caracol, Joaquim Nabuco, São Manoel do Paraná, Tanguá, Balneário Piçarras e São Félix de Minas",Susi não visitou Balneário Piçarras,0,boolean_coordination
+"Maria Leonor, Gioconda, Mabilda, Priscilla, Saphira, Papoila, Nikita e Chanda visitaram Monte Mor",Maria Leonor não visitou Monte Mor,1,boolean_coordination
+"Iberina visitou Marapanim, Arvoredo, Carmópolis, São Bento e Ibirapitanga",Iberina não visitou Ibirapitanga,1,boolean_coordination
+"Jéni visitou Ipaussu, Divinópolis do Tocantins, Frei Martinho e Itaju do Colônia",Jéni não visitou Ipaussu,1,boolean_coordination
+"Gaela, Bertina, Emanuella, Marinela e Gilma visitaram Benedito Novo",Emanuella não visitou Benedito Novo,1,boolean_coordination
+"Sylvie, Mícia, Jandira, Simy, Leonora, Sunamita, Taia, Auxília, Lina, Elícia, Cristene, Niceia, Ida e dos Mártires visitaram Palmitos",Marieva não visitou Palmitos,0,boolean_coordination
+Florisbela e Khaleesi visitaram São Tomás de Aquino,Idélia não visitou São Tomás de Aquino,0,boolean_coordination
+"Joaninha visitou Amélia Rodrigues, Dois Irmãos das Missões, Monsenhor Hipólito, Itaberaba, São Paulo, Mataraca, Doutor Maurício Cardoso, Cristal do Sul e Lajeado do Bugre",Joaninha não visitou Aimorés,0,boolean_coordination
+"Terezinha visitou Caldas Brandão, Cunha, Coivaras, Coromandel, Vazante, Capim, Comendador Levy Gasparian, Alagoinhas, Borrazópolis, Maraú, Inhangapi e Herval",Terezinha não visitou Coivaras,1,boolean_coordination
+"Nesta visitou São Vendelino, General Carneiro, Viana, Várzea Nova, Carvalhópolis, Caraúbas, Frutuoso Gomes, Serrita e Teodoro Sampaio",Azul não visitou Carvalhópolis,0,boolean_coordination
+"Clívia, Mariamar, Lusa, Aníria, Rebeka, Gaitana, Encarnação, Taia, Luizete, Mirna, Melisa, Graciela, Cirila, Cândida, Marguerita, Milana, Sulamita e Melody visitaram Campestre da Serra",Miriã não visitou Campestre da Serra,0,boolean_coordination
+"Flamínia, Edna, Aldara, Brice, Holly, Alida, Leonília, Bétia, Mourana, Nicolina e Jessy visitaram João Dourado",Selena não visitou João Dourado,0,boolean_coordination
+"Claudemira visitou Jandaíra, Piraí do Sul, Bom Jardim de Goiás, Itaitinga, Acari, Bofete, Currais, Santo Inácio do Piauí, Sinimbu, Senador Elói de Souza, Gravatal, Bandeirantes, Nazaré do Piauí, Candiota, Touros, Iguape e Lima Campos",Claudemira não visitou Iguape,1,boolean_coordination
+"Cesária, Eárine, Azul, Brice, Laurina, Maxine, Graciliana, Gelsemina, Talita, Titânia, Andreína, Iriana, Dora e Mícia visitaram Ouricuri",Eárine não visitou Ouricuri,1,boolean_coordination
+"Aldora visitou Farroupilha, Vitor Meireles, Lagoa Bonita do Sul, Aramari, Barra da Estiva, Viamão, Prata do Piauí, São João da Ponte, Cuité, Bacabal, Aurilândia, Sertão, Teresina de Goiás, Santa Fé de Minas, Vianópolis, Viana, Tapejara, Caridade do Piauí, Careiro e Placas",Florence não visitou Santa Fé de Minas,0,boolean_coordination
+"Siomara, Sâmia, Anusca, Quaiela, Gertrudes, Beatrix, Mathilde, Ioana, Amy, Anunciação, Dorina, Clare, Marita, Justa, Adelina, Ilsa, Afonsa, Edine, Estrelle e Léana visitaram Abaetetuba",Edine não visitou Abaetetuba,1,boolean_coordination
+"Dominika visitou Guaíba, Cunhataí, Boa Vista do Incra, Areado, Dom Expedito Lopes, Esperantinópolis, Sengés e Moreilândia",Dominika não visitou Boa Vista do Incra,1,boolean_coordination
+"Noá, Agostinha, Felisbela, Helda, Oliviana, Nicoleta, Cáren, Eudora, Dores, Cesaltina, Lilite, Dialina e Chema visitaram Montes Altos",Helda não visitou Montes Altos,1,boolean_coordination
+"Jorja visitou Querência, Três Fronteiras, Propriá, Nova Londrina, Maracás e Urupema",Jorja não visitou Nova Londrina,1,boolean_coordination
+"Leonardina visitou Tabatinga, Braga, Salvador, São Raimundo das Mangabeiras, Tio Hugo, Regeneração, Verdejante, Timbiras e Ponte Nova",Leonardina não visitou Guapiara,0,boolean_coordination
+"Cesarina visitou Taperoá, Senador Amaral, Dezesseis de Novembro, São Sebastião do Alto, Contenda, Mirabela, Barão do Triunfo, Maturéia, Serra Azul, Fátima do Sul e Juti",Especiosa não visitou Fátima do Sul,0,boolean_coordination
+Cremilda visitou Espinosa e Salto de Pirapora,Cremilda não visitou Marília,0,boolean_coordination
+"Etel, Énia, Kieza, Thaís, Scarlet, Salúquia, Inácia, Bartolina, Salvação, Marieva, Peyton, Anunciada, Noiala, Ceres e Leoménia visitaram Novo Planalto",Inácia não visitou Monte do Carmo,0,boolean_coordination
+"Joyce, Francina, Mercília, do Socorro, Saga, Melânia, Tarina e Liberdade visitaram Ibiracatu",Saga não visitou Ibiracatu,1,boolean_coordination
+"Mariam, Suzanne, Calila, Marilda, Lici, Gislene, Precious, Bonifácia, Lorina, Constantina, Mirela, Simy, Anésia, Nominanda, Eleanor e Clarissa visitaram Caldas Novas",Eleanor não visitou Caldas Novas,1,boolean_coordination
+"Eleine visitou Carneiros, Pirenópolis, Pugmil, Itatuba, João Dias, São Sebastião da Vargem Alegre, Mandaguaçu, Vieiras, Pastos Bons, Vargem Grande do Rio Pardo, Areado, Tapiraí, Capela Nova, Conceição da Feira, Gavião, Palmeiras, Quixeré, Quatis e Coronel Pacheco",Eleine não visitou Itatuba,1,boolean_coordination
+"Nazaré, Ramna, Dores, Bebiana, Prazeres, Katherine, Bertina e Adalgisa visitaram Cachoeira de Pajeú",Dores não visitou Barra de Guabiraba,0,boolean_coordination
+"Eduina, Lilá, Alaia, Bérnia, Sextina, Digna, Arminda, Lenora, Elizabeth, Soledade, Meiline, Keiko, Silvandira, Astride, Dalinda, Castorina e Mavilde visitaram Soledade",Samantha não visitou Soledade,0,boolean_coordination
+"do Natal, Elle, Lilian, Ohana, Primitiva, do Nascimento, Nilsa, Taína, Julinda, Ambrósia, Raphaela, Francesca, Analu, Lucíola, Nola, Gertrudes, Rosalina, Kathleen e Melania visitaram Alvorada",Julinda não visitou Taubaté,0,boolean_coordination
+"Clésia visitou Borebi, Manfrinópolis e Itacajá",Clésia não visitou Manfrinópolis,1,boolean_coordination
+"Iracema visitou Aroazes, Datas, Tambaú, Moreira Sales, Cardoso Moreira, Laranjal, Primavera do Leste, Barro, Sul Brasil, Morro do Chapéu do Piauí, Araguaína, Irupi, Monções, Ribeiro Gonçalves, Platina, Joaquim Pires, Frecheirinha, Terenos, Andirá e Mariana Pimentel",Iracema não visitou Ribeiro Gonçalves,1,boolean_coordination
+"Jaqueline, Soraya, Dilsa e Edéria visitaram Verdejante",Edéria não visitou Inhangapi,0,boolean_coordination
+"Paris visitou Itainópolis, Gavião Peixoto, Cristalina, Sapeaçu, Sananduva, Tijucas, São José do Jacuri, Coronel Fabriciano, Barro Duro e Ponte Preta",Paris não visitou Farroupilha,0,boolean_coordination
+"Delza visitou Pedras de Fogo, Itatiaiuçu, Planalto, Vale de São Domingos, Santana do Ipanema, Santa Luzia e Abdon Batista",Delza não visitou Itatiaiuçu,1,boolean_coordination
+"Étel, Miah, Raqueline, Selesa, Ariadne, Libânia, Ausenda, Miquelina, Reece, Élin, Ada, La-Salete, Farah, Aliana, Afra e Nádeja visitaram Brejo do Piauí",Irisalva não visitou Brejo do Piauí,0,boolean_coordination
+"Acélia, Leia, Maribel, Bebiana, Ekaterina, Terezinha, Scarlet, Jil, Jewel, Sâmia e Mayara visitaram Corrente",Amaia não visitou Corrente,0,boolean_coordination
+"Fara visitou Ponta Porã, Acopiara, Santa Rosa, Terra Rica, Nova Alvorada, Itapetininga, São Miguel do Tocantins, Chapada de Areia, Dois Irmãos, Lagoa Vermelha, Marliéria, Itaquaquecetuba, Bom Jesus e Currais Novos",Neireide não visitou Lagoa Vermelha,0,boolean_coordination
+Bertila visitou Sandovalina e Quissamã,Bertila não visitou Sandovalina,1,boolean_coordination
+"Sally visitou Serraria, Boqueirão, Serra do Mel, Breu Branco, Pitangueiras, Araguapaz e Lagoinha",Sally não visitou Várzea Nova,0,boolean_coordination
+"Jalmira visitou Corinto, Frei Miguelinho, Marataízes, São Gabriel do Oeste, Conceição do Lago-Açu, Crisólita, Amaporã, Arambaré, Flores de Goiás, Japaratinga, Cláudio, Joaquim Pires, Aveiro, Coronel Sapucaia, Paraíso e Cupira",Jalmira não visitou Crisólita,1,boolean_coordination
+"Jennifer, Daniella, Solôngia, Skylar, Gaela, Florisa, Oksana, Arinda, Catherina, Angélica, Sania, Florence e Hortênsia visitaram Jacinto",Cíntia não visitou Jacinto,0,boolean_coordination
+"Lólia, Julinha, Sophie, Justina, Stacey, Akira e Bitia visitaram Miracema",Bitia não visitou Miracema,1,boolean_coordination
+"Cremilda, Raísa, Chanel, Clarice, Brena, Keira, Gaela, Brásia, Rubina, Kylie, Bérnia, Lubélia, Joanina, Bertilde, Cizina, Amável, Rosélia, Ersília, Mariame e Aimara visitaram Cordislândia",Brena não visitou Cordislândia,1,boolean_coordination
+"Emi, Otelinda, Kira, Dalva, Numénia, Aldora e Justa visitaram Assaré",Justa não visitou Nazareno,0,boolean_coordination
+"Sátia, Pixie, Bernarda, Tisha, Joelma, Marilisa, Carela, Brenda, Eleonora, Silvandira e Bétia visitaram Pereira Barreto",Silvandira não visitou Pereira Barreto,1,boolean_coordination
+"Adália visitou Milagres, Ampére, São Luís de Montes Belos, Praia Norte, Mantena, Boituva, Padre Carvalho, Santa Terezinha, Macaíba, Belém, Ingazeira, São Fernando, Bela Vista do Maranhão e Coronel Macedo",Adália não visitou São João da Urtiga,0,boolean_coordination
+"Naila visitou Passo de Camaragibe, Guaraci, Jussara, Ametista do Sul, Pedro Laurentino, Nova Nazaré, Tatuí, Augusto Severo, Damião e Jaguaretama",Tolentina não visitou Tatuí,0,boolean_coordination
+"Margarita visitou Vitória do Mearim, João Pessoa, Água Santa, Belmonte, Morro da Garça, Imbé, Jaborandi, Orós, Massaranduba, Careiro, Rodeio, Mutunópolis, Ampére, Nova Pádua e Presidente Epitácio",Margarita não visitou Belmonte,1,boolean_coordination
+"Pamela, Etéria, Sulamita, Tirsa, Duartina, Consuelo, Blásia, Noémia, Assunta e Dejanira visitaram Senhora de Oliveira",Duartina não visitou Ronda Alta,0,boolean_coordination
+"Dinarda visitou Araruama, Aragarças, Pedra Preta, Granjeiro e Barbalha",Dinarda não visitou Araruama,1,boolean_coordination
+"Marieva, Milagre, Amável, Louisa, Edna, Lusa, Alaina, Bétia, Erméria, Idalisa, Bertila, Amara, Gracinda, Namira, Chanel, Melinda e Anatilde visitaram Sonora",Chanel não visitou Canindé de São Francisco,0,boolean_coordination
+"Olga, Talita, Amável, Castorina, Ludmila, Nazária, Dilsa, Gileade e Aminata visitaram Jóia",Gileade não visitou Jóia,1,boolean_coordination
+"Marsília visitou Monsenhor Gil, Urupá, Pimenta Bueno, Aracoiaba, Combinado, Bom Jardim de Goiás, Siqueira Campos, São João do Piauí, Ibirapitanga, Piratininga, Ouroeste e Vargem Grande Paulista",Alfreda não visitou Vargem Grande Paulista,0,boolean_coordination
+Jorgina e Araci visitaram Igaratá,Jorgina não visitou Igaratá,1,boolean_coordination
+"Gabi visitou Pão de Açúcar, Dobrada, Vicentinópolis, Magda, Cujubim, Cocalinho, Barros Cassal, Silvânia, Anhumas, Tabocas do Brejo Velho, Ibertioga, Bernardo Sayão, Santo Antônio do Içá, Aimorés, Ibatiba, Itapiranga e Três Marias",Magaline não visitou Pão de Açúcar,0,boolean_coordination
+"Lurdite, Léonie, Lacey, Shania, Thaís, Leonna, Morgiana, Tomasa, Fani, Maide, Aliça, Lianor, Evangelista, Clementine, Paraíso e Isabelle visitaram Água Doce do Norte",Fani não visitou Água Doce do Norte,1,boolean_coordination
+"Frida, do Livramento, Mary, Julinda, Cassilda, Digna, Évila, Derocila, Emi, Karen, Akira, Eluína, Teresina, Adélia, Moana e Gislene visitaram Fraiburgo",Évila não visitou Fraiburgo,1,boolean_coordination
+"Jalmira visitou Passagem Franca do Piauí, Laranjal do Jari, Jijoca de Jericoacoara, Piracuruca e Tuparendi",Jalmira não visitou Laranjal do Jari,1,boolean_coordination
+"Tita, Encarnação, Dólique, Bernarda, Ália, Ivete, Margarita, Leanor, Grimanesa, dos Anjos, Nadina, Noémi, Miah, Dolores e Jitendra visitaram Rubim",Dólique não visitou Rubim,1,boolean_coordination
+"Dádiva visitou Quipapá, Sapucaia do Sul, Araças e Araguaína",Dádiva não visitou Araguaína,1,boolean_coordination
+"Jorja, Cora, Caterina, Átina, Bianka, Elisete, Maia, Dineia, Agostinha, Raphaella, Engrácia, Riana, Albana e Milene visitaram Adolfo",Alcíone não visitou Adolfo,0,boolean_coordination
+Quirina visitou Arapoti e Porto de Moz,Salúquia não visitou Porto de Moz,0,boolean_coordination
+"Nola, Benvinda, Miranda, Engrácia, Olga, do Socorro, Kayla e Acácia visitaram Conde",do Socorro não visitou Conde,1,boolean_coordination
+"Suely visitou Cajari, Colares, Santa Maria do Salto, Coelho Neto e Igaci",Seara não visitou Coelho Neto,0,boolean_coordination
+"Lace visitou São Miguel dos Milagres, Caldas Brandão, Campestre da Serra, Pará de Minas, Arabutã, Crissiumal, Juazeiro do Norte, Mato Leitão, Bela Vista da Caroba, Dirceu Arcoverde, Alto Paraíso de Goiás, Inhuma, Riachão, Riachão do Bacamarte e Ferreiros",Lace não visitou Passo de Torres,0,boolean_coordination
+"Stacey, Sylvie, Agustina, Ramna, Belmonte, Genciana, Patrocínia, Naama, Armanda e Cynthia visitaram Alegrete do Piauí",Ramna não visitou Alegrete do Piauí,1,boolean_coordination
+"Marieta, Fidélia e Nessa visitaram Cerqueira César",Fidélia não visitou Cerqueira César,1,boolean_coordination
+"Dália, Silvéria, Talina, Haidé, Ivone, Filena, Kira, Suéli, Silvie, Naiane, Dinora, Adriela, Cácia, Cândida, Ruth e Janina visitaram Ibirataia",Filena não visitou Arapoema,0,boolean_coordination
+"Brigite, Brásia e Ireneia visitaram São Carlos",Ireneia não visitou Guaraciaba,0,boolean_coordination
+"Taia visitou Terra Roxa, Caatiba, Camapuã, Macapá, Bady Bassitt, São Sebastião do Paraíso, São José de Ubá e Couto de Magalhães de Minas",Taia não visitou São José de Ubá,1,boolean_coordination
+Nessie e Astride visitaram Panorama,Sena não visitou Panorama,0,boolean_coordination
+"Sássia visitou Tabaí, Rolador, Bom Jardim, Pão de Açúcar, Itororó, Valença do Piauí, Xambrê, Pequizeiro, Ibaté, Poxoréo, Padre Marcos, Rosário do Ivaí e Indiaporã",Sássia não visitou Indiaporã,1,boolean_coordination
+"Shana visitou São Nicolau, Goianira, São José do Cerrito, Araçoiaba da Serra, Vila Maria, Barcelona, São Pedro da Água Branca, Buritama, Serrolândia, Chorrochó, Araguanã e Igaraçu do Tietê",Shana não visitou São Nicolau,1,boolean_coordination
+"Jenny visitou Nova Olinda do Norte, Aparecida d'Oeste, Fortaleza dos Nogueiras, São Francisco de Goiás, Piranga, Morro Agudo, Macajuba, Deodápolis, Santa Terezinha, São José do Brejo do Cruz, Marechal Cândido Rondon, Água Branca, São Gonçalo do Amarante, Tacuru, Santo Amaro, General Câmara, Campina do Monte Alegre, Caririaçu, Serra do Ramalho e Altinópolis",Jenny não visitou Água Branca,1,boolean_coordination
+"Bartolina visitou Sátiro Dias, Catolândia, Tapurah, Canavieiras, Nova Veneza, Fernandes Tourinho, Messias Targino, Gandu e Lagoa Formosa",Bartolina não visitou Esmeralda,0,boolean_coordination
+"Domitila, Chelsea, Etelvina, Nisa, Araci, Leandra, Flor de Maria, Bernarda e Ludovice visitaram Timbiras",Ludovice não visitou Timbiras,1,boolean_coordination
+"Saula visitou Espera Feliz, Carlópolis, São Paulo das Missões, São Luís de Montes Belos, Governador Nunes Freire e Calçado",Saula não visitou São Luís de Montes Belos,1,boolean_coordination
+"Romana, Leonisa, Castelina, Desiree e Marianna visitaram Seringueiras",Marianna não visitou Seringueiras,1,boolean_coordination
+"Idília, Nene, Bonifácia, Talita, Ione, Cyntia, Nathalie e Lussinga visitaram Cachoeira da Prata",Nene não visitou Luisburgo,0,boolean_coordination
+"Miriã visitou Marapoama, Igarapé do Meio, Riachão do Poço, Porto Calvo, Alto Longá, Riachinho, Nova Laranjeiras, Areias, Gurinhatã e Resende",Amara não visitou Gurinhatã,0,boolean_coordination
+"Castorina, Salúquia, Albertina, Constânça, Biana, Anaísa, Rosalina, Irma, Bérnia, Cleide, Gislena, Noiala e Maria João visitaram Santa Mercedes",Johanna não visitou Santa Mercedes,0,boolean_coordination
+"Evangelista, Mariame, Neusa e Aleixa visitaram Jaborá",Aleixa não visitou Jaborá,1,boolean_coordination
+"Dinarta, Catherine, Fânia, Rosamar, Mariza, Nuna, Domitília, Rossana, Gabrielle, Lumena, Neusa, Saga, Carsta, Suzanne, Derocila, Bebiana e Silvéria visitaram Segredo",Suzanne não visitou Segredo,1,boolean_coordination
+"Alberta visitou Ribeirão Pires, Aurora do Tocantins, Rio Negro, Paulo de Faria, Paraíba do Sul, Goiabeira, Caraíbas, Itaara, Antônio João, Pirajuba, Horizontina, Tracuateua, Santa Isabel do Rio Negro, Cacimba de Areia, Parati, Nova Olinda do Maranhão, Mirangaba e Santa Bárbara d'Oeste",Precious não visitou Goiabeira,0,boolean_coordination
+"Gelsemina visitou Aiuruoca, Princesa, Santa Rita de Cássia, Salgado de São Félix, Bom Jesus do Galho, São Miguel do Tapuio, Biquinhas, Santa Inês, Messias Targino, Jacupiranga, Aramina, Cachoeira dos Índios, Brasilândia do Sul, Sertão, Sarapuí, Jenipapo de Minas, São Geraldo do Araguaia e Palestina de Goiás",Martha não visitou Brasilândia do Sul,0,boolean_coordination
+"Belmonte visitou Califórnia, Mato Queimado, Lajedo do Tabocal, Itajaí, Caldeirão Grande, Pinhal de São Bento, Trabiju, Delfim Moreira, Altinho, Água Doce do Maranhão, Bananeiras, Pontal, Firmino Alves, Barbosa, Ruy Barbosa e São José das Palmeiras",Belmonte não visitou Quixeré,0,boolean_coordination
+"Francine visitou Junqueiro, Carrancas, Engenheiro Beltrão, Palmital, Posse e Colinas",Francine não visitou Palmelo,0,boolean_coordination
+"Marizete visitou Peritoró, Sussuapara, Graça, Carlos Gomes, Centro Novo do Maranhão, Portel, Amaturá, Morro do Chapéu, Itá, Mandaguari e Canápolis",Marizete não visitou Itá,1,boolean_coordination
+"Felismina visitou São Pedro dos Crentes, Rodelas, Guarará e Xique-Xique",Noiala não visitou Rodelas,0,boolean_coordination
+Giuliana e Catalina visitaram Rubiataba,Giuliana não visitou Rubiataba,1,boolean_coordination
+"Romina, Noah, Bérnia, Jamília, Enilda, Francina, Leonna, Athena, Amy, Odette, Cinira, Riana, Laureen, Aléxia, Josuana, Edéria, Clarissa e Léanor visitaram Buritinópolis",Edéria não visitou Buritinópolis,1,boolean_coordination
+Julinda visitou Santana dos Montes e Tamboril do Piauí,Julinda não visitou Arapongas,0,boolean_coordination
+"Rosália visitou Sumidouro, Presidente Kennedy, São Gabriel da Cachoeira, Ibiam, Águas Vermelhas, Porto Firme, Taubaté, Eugênio de Castro, Itauçu, Paraguaçu e Afuá",Rosália não visitou Itauçu,1,boolean_coordination
+"Marion, Chanel, Susanna, Sahara, Inoi, Amy, Neide, Josabete, Basília, Gabi, Ausenda, Marise, Décia, Hália, Amira, Cizina, Fani e Luena visitaram Arapongas",Amira não visitou Arapongas,1,boolean_coordination
+"Rosária, Ioque, Shirley, Rosélia, Lilian e Gloriosa visitaram Passagem Franca",Dakota não visitou Passagem Franca,0,boolean_coordination
+"Dina visitou Fortaleza, Renascença, São João do Paraíso, Caratinga, Candeal, Cedro, Reserva do Cabaçal, Rubiataba, Nova Timboteua, Dom Viçoso, Lago dos Rodrigues, Dumont, Papanduva, São Bernardino, Itapirapuã Paulista, Campos do Jordão, Maruim, São José dos Campos, Pinheiral e Pedra Branca",Dina não visitou Lago dos Rodrigues,1,boolean_coordination
+"Cesária visitou Sem-Peixe, Cafeara, Santa Isabel do Ivaí, Brás Pires e São João das Missões",Martinha não visitou Sem-Peixe,0,boolean_coordination
+"Balduína, Elis, Marcelle, Laurina e Mariela visitaram Pirapora",Elis não visitou Pirapora,1,boolean_coordination
+"Malu visitou Balsa Nova, Brejinho, Sidrolândia, Presidente Olegário, Coribe, Lagoa do Itaenga, Jaboatão dos Guararapes, Maruim e Nova Esperança do Sul",Dinarta não visitou Coribe,0,boolean_coordination
+"Formosinda, Evelyn, Lea, Darlene, Norma, Névia, Gonzaga, Elódia e Edmunda visitaram Maribondo",Fara não visitou Maribondo,0,boolean_coordination
+"Donatella, Nali, Geisa, Idélia, Belarmina, de São Luís, Felismina, Filena, Hedviges, Luciana, Felisbina, Lisbon, Oureana, Ocília, Evelyn e Nair visitaram Itapeva",Nair não visitou Colíder,0,boolean_coordination
+"Pixie, Rosanete, Basilissa, Isolina, Grimanesa, Delisa, Mabília, Justina, Josiane, Marianne, Ercília, Amaia, Lici, Louise, Nair, Delminda, Eutália, Briolanja, Aldina e Cleide visitaram Cruzeiro do Iguaçu",Amaia não visitou Cruzeiro do Iguaçu,1,boolean_coordination
+"Muna, Jéni, Idília, Fani, Mary, Gracinda, Aruna, Tabatha, Safina, Rosaura, Gisete, Taísa, Solôngia, Charlene, Iracema, Emídia, Kathleen, dos Mártires, Eutália e Eularina visitaram Sem-Peixe",Fani não visitou Paramirim,0,boolean_coordination
+"Luiza visitou Icaraíma, Anísio de Abreu, Cristópolis, Andaraí, Eusébio, Correia Pinto, Peixe-Boi, Abre Campo, Floresta do Piauí, Porto da Folha, Caraíbas, Balneário Camboriú, Ibiapina, Encantado, Sarandi, Santa Maria de Jetibá, Beneditinos e Belo Jardim",Luiza não visitou Custódia,0,boolean_coordination
+"Ellie visitou Cujubim, Eliseu Martins, Ibirapuitã, Serra do Mel, São José da Varginha, Marques de Souza, Igarapé-Miri, Glorinha, Tasso Fragoso, Acrelândia, Agricolândia, Alexandria, Paraguaçu Paulista, Araçagi e Lunardelli",Gabi não visitou Acrelândia,0,boolean_coordination
+"Siomara, Leopoldina, Jada, Noelma, Apolónia, Carmorinda, Maira, Amandina, Biana, Joraci, Formosa, Aíko, Chen, Bella, Magenta, Lutgarda, Natacha e Myra visitaram Hidrolina",Noelma não visitou Monção,0,boolean_coordination
+"Carol visitou Ibiporã, Martinópole, Santa Bárbara do Sul, Tamandaré, Tapiraí, Paty do Alferes, Limoeiro do Norte, Ribeirão, Orizona, Itapuã do Oeste, Júlio Mesquita, Pio XII, São Manoel do Paraná, Teixeira de Freitas e São José de Piranhas",Carol não visitou Teixeira de Freitas,1,boolean_coordination
+"Tabata, Mireia e Leya visitaram General Maynard",Lauriana não visitou General Maynard,0,boolean_coordination
+"Rafa visitou Mairipotaba, Manoel Vitorino, Caibi e Vereda",Rafa não visitou Mairipotaba,1,boolean_coordination
+"Sahara, Delmina, Almerinda, Magdalena, Cármina, Rebecca, Daliana, Donatila, dos Prazeres, Bertilde, Josiana, Linda, Dúlia, Enilda, Leonna, Alcina, Dianna, Elisabeth e Luisete visitaram Ouricuri",Daliana não visitou Vargem Bonita,0,boolean_coordination
+"Rosalinda visitou Carandaí, Formosa, Macambira, Cristina, Araguainha, Barão do Triunfo, Frei Miguelinho, Maribondo, Albertina, Lapa e Ibitinga",Rosalinda não visitou Ibitinga,1,boolean_coordination
+"Astride, Josete, Sunamita, Mathilda, Orlandina, Clarinda, Elaine e Dominica visitaram Brasília de Minas",Mathilda não visitou Brasília de Minas,1,boolean_coordination
+"Nícia visitou Ribeirão Pires, Itariri, Itaquitinga, Cidade Gaúcha, Astorga, Guaiçara, Goianinha, Vitória do Mearim, Lavras, Chapadão do Sul, Ubaíra, Santa Rita do Sapucaí, Luiziana, Anadia, Paulicéia, Presidente Castello Branco, Itobi, Maracaju, Biritiba-Mirim e Cabo de Santo Agostinho",Nícia não visitou Itobi,1,boolean_coordination
+"Almerinda visitou Capitão Gervásio Oliveira, Estiva, Nova Laranjeiras, Ibirité, Matias Cardoso, Aramari, Santana do Maranhão, Martinópole, Santa Tereza do Oeste, Vianópolis, Ponto Belo, Embu-Guaçu, Teresina de Goiás, Bernardino Batista, Caruaru, Ouro Branco, Uruana de Minas, Balneário Pinhal, Cabrobó e Nova Xavantina",Almerinda não visitou Uruana de Minas,1,boolean_coordination
+"Malía visitou Axixá, Bom Despacho, Santa Rita do Novo Destino, Tucumã, Prados, Santa Maria do Herval, Braganey, Caraúbas, Virgem da Lapa, Rorainópolis, Dom Pedro de Alcântara, Goianinha, Urucará e Pequizeiro",Malía não visitou Virgem da Lapa,1,boolean_coordination
+"Candy visitou Salto de Pirapora, Mamonas, Macatuba, Durandé, Guajará, Betânia, Alto Longá, Paranapanema, Toledo, Igaci, Junco do Maranhão e Parapuã",Candy não visitou Damião,0,boolean_coordination
+"Inácia, Melida, Cris, Diomar e Orange visitaram Curionópolis",Juna não visitou Curionópolis,0,boolean_coordination
+"Ninfa, Alaia, Naira, Maximiliana, Gardela, Farida, Elísia, Arabela, Sibila e Nureia visitaram Itaju do Colônia",Gardela não visitou Itaju do Colônia,1,boolean_coordination
+Nair e Marilisa visitaram Júlio Mesquita,Marilisa não visitou Toritama,0,boolean_coordination
+"Juli visitou Santa Rita do Trivelato, Nova Canaã, Carmópolis de Minas, Agricolândia, Terra Nova, São Roque de Minas, Rodolfo Fernandes, Guaraçaí, Betim, Jaraguá, Joanésia, São José dos Pinhais, Cafarnaum, Santana da Vargem, Nonoai, Tramandaí e Tenente Laurentino Cruz",Juli não visitou Betim,1,boolean_coordination
+"Sienna, Marion e Jalmira visitaram Pindorama do Tocantins",Jalmira não visitou Capetinga,0,boolean_coordination
+"Harper visitou Curral Velho, Itambacuri, Dourado, Luís Correia, Sem-Peixe e Iraí de Minas",Mourana não visitou Dourado,0,boolean_coordination
+"Alina visitou Tapiramutá, Dumont, Ibiúna, Tanhaçu e Santo Amaro",Alina não visitou Montezuma,0,boolean_coordination
+"Taína visitou São João das Missões, Salto do Lontra, Aurora, Tururu, Alvorada de Minas, Cândido Sales, Graça Aranha, Girau do Ponciano, Bom Jesus do Galho, Parisi, Curitibanos, Água Clara, Jatobá, Presidente Alves, Capivari de Baixo, Guaíba, Cajueiro, Chaval, São Martinho da Serra e Petrolândia",Taína não visitou Petrolândia,1,boolean_coordination
+"Paola visitou Lagoa da Canoa, Belo Horizonte, Cachoeira Paulista, Pureza, Gália, Igarapava, Bom Jesus dos Perdões, Campo Belo, Marco, Parambu, Ewbank da Câmara, Água Doce do Maranhão, Júlio Borges, Caputira, Sagrada Família, Catuípe, Elói Mendes, Santa Rosa de Lima e São Pedro da Serra",Paola não visitou Lagoa da Canoa,1,boolean_coordination
+"Myra, Naama, Carol, Alvarina, Espírito Santo, Charlene, Giraldina, Nilda, Leolina, Analu, Aldenora, Corine, Eluína, Leandra e Helga visitaram Uruçuca",Leandra não visitou Uruçuca,1,boolean_coordination
+"Sátia visitou União do Sul, Loanda, Vila Nova dos Martírios, Abel Figueiredo, Cametá, Marechal Thaumaturgo, Ribeirão Grande, João Dias, Itaguara e Curitibanos",Sátia não visitou Campina do Monte Alegre,0,boolean_coordination
+"Salma, Líria, Nahla, Petrina, Pui, Iasmina, Onélia, Ianesis, Nubiana, Simona, Évila, Sancha, Amara, Lena, Louisa, Duna, Maira, Sade e Selesa visitaram Jacundá",Sancha não visitou Jacundá,1,boolean_coordination
+"Carmen visitou Cabo Frio, Santa Maria de Jetibá, Cerro Branco, Turmalina, Curitiba, Aramari, São João Batista, São Pedro do Butiá, Nova Palma, Itaguaçu da Bahia, Piraju, São Felipe, Riachão do Poço, Afonso Bezerra, Pio IX, Mata Grande e Querência do Norte",Carmen não visitou Anhanguera,0,boolean_coordination
+"Julianna, Léanor e Riana visitaram Marcolândia",Léanor não visitou Luminárias,0,boolean_coordination
+"Mariline, Matrosa, Délia, Katherine, Runa, Leonilda, Eleni, Duna, Deótila, Graciete, Sade, Leslie, Elisete e Marilúcia visitaram Quiterianópolis",Lexie não visitou Quiterianópolis,0,boolean_coordination
+"de Pádua visitou Pedranópolis, Floriano Peixoto, Itaituba, São Cristóvão, Jussiape, Ubiretama, Dirce Reis, Bueno Brandão, Arceburgo e Acaiaca",Juna não visitou Floriano Peixoto,0,boolean_coordination
+"Demétria visitou Guanambi, Darcinópolis, Matão, São João Batista, Paramoti, Mateus Leme, Rio de Contas, Brasópolis, Ruy Barbosa, Cambuci, Itu, Espinosa, Santo Antônio dos Milagres e Matos Costa",Dânia não visitou Santo Antônio dos Milagres,0,boolean_coordination
+"Lilly, Analisa, Meiline, Cleodice, Hilda, Leonarda, Marsília, Mariame, Líbia, Graziela, Irisalva, Cássia, Hayden, Kenza, Doralice, Chanda, Seara, Gracinda, Agustina e Diza visitaram Bonfim",Analisa não visitou Kaloré,0,boolean_coordination
+"Ilsa, Clésia, Eloise, Assunta, Marcelle, Nivalda, Analice, Idalete, Kylie, Salvação e Gertrudes visitaram João Dias",Marcelle não visitou João Dias,1,boolean_coordination
+"Jennifer, Geovana, Huguete, Denisa, Aliana, Mariah, Joanina, Farah, Dulcelina, Cibele, Michelle, Formosinda e Giraldina visitaram Lagoa Bonita do Sul",Geovana não visitou Itapevi,0,boolean_coordination
+"Carmel visitou Redenção do Gurguéia, Jaguaripe, Pranchita, Paraibuna, Pacujá, Pedrinhas, Itapaci, Itaquara, São Simão, Santa Terezinha de Goiás, Ituiutaba, Lunardelli, Central de Minas, Antônio Dias, Paial, Tupirama, Cabo de Santo Agostinho, Iporanga, Espumoso e Santana do Maranhão",Dorinda não visitou São Simão,0,boolean_coordination
+"Talita, Ludmila, Líbia, Gravelina, Rosandra, Cleide, Primitiva, Estéfana, Tanagra, Leonora, Santa Cruz e Terência visitaram Congo",Líbia não visitou Congo,1,boolean_coordination
+"Greer visitou Cordeiros, Novo Triunfo, Serra do Navio, Taperoá, Mortugaba, Itaberaí, Várzea da Roça, Água Boa, Formoso, Bonfinópolis de Minas, Tupanciretã, Barroquinha, Consolação, Sagrada Família, Moreno, Varginha, Barra do Chapéu e São Martinho da Serra",Greer não visitou Mortugaba,1,boolean_coordination
+"Cléo visitou Ipê, Vargem Alegre, Nova Floresta, Mar de Espanha, São José do Jacuípe, Conceição da Barra, São Sebastião da Grama, Jaraguari, Rebouças, Candeal, Santana da Vargem, Araioses, Tailândia, Quixabeira e Jandaíra",Huguete não visitou Tailândia,0,boolean_coordination
+"Ingeburga visitou Três de Maio, Monte Azul, Cafelândia, Glicério, Seridó, Rio Maria, Ribeirãozinho, Mombuca e Serrolândia",Ingeburga não visitou Monte Azul,1,boolean_coordination
+"Oliviana visitou Calmon, Alto Horizonte, Nova Odessa, Palestina, Presidente Tancredo Neves, Baixa Grande, Ivaiporã, São José dos Quatro Marcos, Pantano Grande e Rio Doce",Oliviana não visitou Baixa Grande,1,boolean_coordination
+"Elvina visitou Chorozinho, São José do Calçado, Aratuba, Guamaré, Nossa Senhora de Nazaré, Serrinha dos Pintos, Ubaíra e Teofilândia",Elvina não visitou Serrinha dos Pintos,1,boolean_coordination
+"Cesaltina, Sénia, Carla e Magdalena visitaram Itanhangá",Carla não visitou Itanhangá,1,boolean_coordination
+"Florence, Greer, Aimara, Elizabeth, Igelcemina, Fédora, Amandina, Miliza, Cipora, Stacy, Assunção, Santa Rita, Roena, Taciana, Jael, Donzélia e Léna visitaram Bady Bassitt",Nely não visitou Bady Bassitt,0,boolean_coordination
+"Nicolina visitou General Carneiro, Oliveira dos Brejinhos, Constantina, Juranda, Dom Pedrito, Carmo do Cajuru, Alto Santo, Tanque d'Arca, Segredo, Francisco Ayres, Santana do Piauí, Porto Rico, Capitão Andrade, Pedras Grandes e Pilões",Nicolina não visitou Unaí,0,boolean_coordination
+"Ida visitou Frei Lagonegro, Viana, Piranguçu, Angatuba, Paudalho, Tapira, Almeirim, Cabrobó, Rosário do Sul, Lagoa da Canoa, Rubinéia, São José da Safira, Imbituva, Jussara, Maurilândia do Tocantins, Iraí, Terra Rica e Ielmo Marinho",Elisabeta não visitou Frei Lagonegro,0,boolean_coordination
+"Nia, Greer, Dária, Lumi, Luela, Misaela, Nene, Anusca, Ricardina, Flamínia, Clésia, Greta, Alfreda, Shana e Cáren visitaram Olivença",Nia não visitou Monsenhor Paulo,0,boolean_coordination
+"Paris visitou Goiatins, Catuípe, Chã de Alegria, Igarapé do Meio, Nova Veneza, Montes Claros, João Pinheiro, Jupi, Guabiju, Guanambi, São José da Barra, Murici dos Portelas, Diamante D'Oeste, Sertaneja, Esperantina, Poté e Espigão D'Oeste",Hulda não visitou Jupi,0,boolean_coordination
+"Claudine, Nely, Ilídia, Sian, Sira, Carlotta e Ercília visitaram Tunas",Sian não visitou Visconde do Rio Branco,0,boolean_coordination
+"Leya visitou São Gonçalo do Rio Preto, Vieirópolis, São Francisco do Brejão, Nova Resende, Santa Maria de Jetibá, Rio das Antas, Atalaia, Cafezal do Sul, Minas do Leão, Rio Grande do Piauí e Vitória Brasil",Leya não visitou Santa Terezinha do Progresso,0,boolean_coordination
+"Dilsa, Faith, Tess, Súria, Chelsea, Leena, Meiline, Cleonice, Mimosa, Analice, Beanina, Cosete, Leire, Siomara, Louane, Merita e Jânia visitaram Ipuiúna",Merita não visitou Porto Lucena,0,boolean_coordination
+Melodia visitou Crato e Tabira,Melodia não visitou Tabira,1,boolean_coordination
+"Crisálida visitou Potirendaba, Ajuricaba, Mandirituba, Marechal Cândido Rondon, Pompéu, Glória do Goitá, Cantagalo, Sacramento e Barra do Chapéu",Crisálida não visitou Pompéu,1,boolean_coordination
+"Giraldina visitou Taió, Hidrolina, Tabaporã, Figueirão, Curvelândia, Guaribas, Nova Castilho, Nova Russas, Valparaíso de Goiás, Poço das Trincheiras, São Sebastião do Rio Preto, Canapi e São Nicolau",Giada não visitou São Nicolau,0,boolean_coordination
+"Loide, Taia, Manoela, Neide, Clícia, Joscelina, Matilda, Corine, Albina, Ohana, Angélica, Cordélia, Crisálida, Pippa, Jéni e Misha visitaram Pratânia",Joscelina não visitou Pratânia,1,boolean_coordination
+"Jewel, Sophie, Jacinta, Marieta, Drusila, Cárita, Diane, Chema, Guislena, Kendall, Iva, Mourana, Tina e Noémia visitaram Água Preta",Tina não visitou Água Preta,1,boolean_coordination
+"Lizia visitou Nova Iguaçu, Lavrinhas, Nova Tebas, Careaçu e Baixa Grande do Ribeiro",Silviana não visitou Baixa Grande do Ribeiro,0,boolean_coordination
+"Priscila, Semíramis, May, Juna, Patrocínia, Daisi e Serenela visitaram São Ludgero",May não visitou São Ludgero,1,boolean_coordination
+"Iberina visitou Linha Nova, Boa Esperança, Nova Guarita, São Joaquim da Barra, Araxá, Figueirão, Marianópolis do Tocantins, Ibiassucê, Santa Tereza, Presidente Getúlio, Teotônio Vilela, Itabuna, Bannach, Rio das Flores, Jupi e Campina Grande",Iberina não visitou Roncador,0,boolean_coordination
+"Gala visitou Cerrito, Conceição do Castelo, Itabuna, Coronel João Pessoa, Romelândia, Prainha, Rosana, Manoel Vitorino, Lima Duarte, Caaporã, Novo São Joaquim, Feira da Mata, Jequiá da Praia e Ouro Fino",Gala não visitou Torixoréu,0,boolean_coordination
+"Gaori, dos Prazeres, Clementina e Safina visitaram Tucano",Safina não visitou Matão,0,boolean_coordination
+"Raphaela, Andrelina, Mirela, Hermânia, Deliana, Fia, Rania, Nila, Rihanna, Dilma e Briolanja visitaram Atibaia",Nila não visitou Atibaia,1,boolean_coordination
+"La-Salete visitou Morro da Garça, Timbaúba, Porangaba, Landri Sales, Santo André, Marilândia, Martinópole e Taiaçu",La-Salete não visitou Taiaçu,1,boolean_coordination
+"Sássia, Hilda, Rubyana, Leonida, Nair, Orlandina, Nia, Lilite, Maribel e Leanor visitaram Rafael Fernandes",Lilite não visitou Rafael Fernandes,1,boolean_coordination
+"Ifigénia visitou Serrana, Santa Maria, Ivaiporã, Demerval Lobão, São Pedro de Alcântara, Piedade dos Gerais, Tasso Fragoso, Santana do Livramento, Campos Borges, São José do Cerrito, Penedo, Cristalina, Munhoz de Melo, Valente, Campinas do Sul, Ribeirão Claro, Ribeira, Abelardo Luz, Nova Friburgo e Goianira",Ifigénia não visitou Ituporanga,0,boolean_coordination
+"Digna, Nília, Mariama, Leia, Linete, Florisa, Patrocínia, Catalina, Erica, de Pádua, Acácia, Janina, Carlotta, Louise e Saulina visitaram Poções",Patrocínia não visitou Poções,1,boolean_coordination
+"Natércia, Solôngia, Alida, Noémia, Sacha, de Pádua, Thalita, Ácil, Onélia, Grimanesa, Aneide, Katie e Severa visitaram Piranhas",Deótila não visitou Piranhas,0,boolean_coordination
+"Alcíone, Alexandrina, Diva, Lucy, Béatrice e Hélia visitaram Muzambinho",Idália não visitou Muzambinho,0,boolean_coordination
+Chiara visitou Cabixi e Gouveia,Chiara não visitou Dezesseis de Novembro,0,boolean_coordination
+Herédia visitou Anori e Meruoca,América não visitou Anori,0,boolean_coordination
+"Edith visitou Pedra Branca do Amapari, Santa Bárbara de Goiás, Relvado, São Miguel dos Milagres, Bandeirantes, Taparuba, Encruzilhada do Sul, Angélica, Flores do Piauí, Pedra Bela, Nova União, Cerquilho e Amparo",Edith não visitou Taparuba,1,boolean_coordination
+"Joele visitou Andradina, Rio das Flores, Minas Novas, Cipó, Divinolândia, Cianorte, Registro, Santana do Araguaia, Theobroma, Rosário do Ivaí, Guaçuí, Colatina, São João da Urtiga, São Francisco de Assis, Demerval Lobão, Teofilândia, Piranga, Dom Joaquim, Alto Rio Doce e Piên",Joele não visitou Colatina,1,boolean_coordination
+"Sophie, Ernestina, Ivânia, Priscilla, Brites, Dorisa, Stephanie, dos Prazeres, Mimosa, Jenny, Dahlia, Diomar e Noiala visitaram Belford Roxo",Brites não visitou Belford Roxo,1,boolean_coordination
+"Etelvina visitou São Félix, Bujari, Tangará, Lamim, Alfenas, Itapecuru Mirim, Iporanga, Remanso, Benedito Novo e Pinhalão",Etelvina não visitou Pindorama,0,boolean_coordination
+"Jasmim, Precious, Aureliana, Cácia, Dionísia, Sancha, Maximiliana, Danila, Juno, Gisete e Desidéria visitaram Mira Estrela",Danila não visitou Mira Estrela,1,boolean_coordination
+"Papoila visitou Mendes, Janaúba, Andirá, Santo Antônio do Jardim, Luziânia, Luiziânia e Cabeceiras do Piauí",Papoila não visitou Santa Tereza do Oeste,0,boolean_coordination
+Arlinda visitou Monsenhor Paulo e Eugênio de Castro,Precious não visitou Monsenhor Paulo,0,boolean_coordination
+"Simara visitou Chorozinho, Triunfo Potiguar, Riachão, Itaguara, Alegre, Santa Rita de Cássia, Piranguçu, Ararendá, Herval, Itajobi, Vieiras, São Gonçalo dos Campos e Sete Barras",Simara não visitou Combinado,0,boolean_coordination
+"Lorina, Leah e Silvana visitaram Muriaé",Silvana não visitou Nossa Senhora do Livramento,0,boolean_coordination
+"Gabi visitou Mirante, Pratânia, Ponte Branca, Imbituva, Manaíra, Dom Pedrito, Novo Santo Antônio, Itaverava, Vila Maria, Anhembi, Bocaiúva, Araguapaz, Barra de Santo Antônio e Selbach",Gabi não visitou Selbach,1,boolean_coordination
+"Ireneia visitou Manaquiri, Alto Paraíso, Nova Tebas, Conselheiro Mairinck, Delta, Mirangaba, Altônia, Jundiaí, Amaraji, Baixa Grande do Ribeiro, Sales Oliveira, Itaporanga d'Ajuda, Santo Antônio de Jesus e Volta Grande",Ireneia não visitou Ibaiti,0,boolean_coordination
+"Romilda, Naira, Raven, Claudiana, Geralda, Ella, Iva, Io, Sharon e Sandy visitaram Vila Nova do Sul",Albina não visitou Vila Nova do Sul,0,boolean_coordination
+"Letízia visitou Massaranduba, Altinópolis, Mara Rosa, Estação, Itapecerica, Pinheiro Machado, Sorocaba, Dom Cavati e Capitão Andrade",Silke não visitou Capitão Andrade,0,boolean_coordination
+"Constânça, Jerusa, Rocio, Mavilde, Carmelita, Cinara, Agna, Jia, Nice, Jéni, Jeanete, Lola, Marcelina e Moana visitaram Miguel Leão",Marcelina não visitou Miguel Leão,1,boolean_coordination
+"Fedra, Katherina, Lucíola, Joanina, Quézia, Alcíone, June, Albertina, Odília, Josiana, Eline, Guendolina, Francesca, Lorina, Delfina, Constânça, Dione, Léonie, Dámaris e Inocência visitaram São Luís Gonzaga do Maranhão",Guendolina não visitou São Luís Gonzaga do Maranhão,1,boolean_coordination
+"Auriana visitou Jacinto, Mendes, Doutor Severiano, Bom Lugar, Nova Crixás, Guarulhos, Francisco Beltrão, Piracicaba, Estrela do Sul, Itaporanga, Arabutã, Catolé do Rocha, Cerro Azul, Paulicéia, Mataraca, Guarujá, Oliveira dos Brejinhos, Itaobim, Laranjeiras e São João do Jaguaribe",Dianna não visitou Catolé do Rocha,0,boolean_coordination
+"Joselina visitou Passagem Franca, Feira Nova, Lagoa de São Francisco, Assis, Bom Repouso, Candelária, Maracaju, Anita Garibaldi, Taiobeiras, Heliodora, Rio Pomba, Goianésia do Pará, Novo Planalto, Guarani e Curral de Dentro",Joselina não visitou Maracaju,1,boolean_coordination
+"Geralda, Rapaz, Marita, Teolinda, Lisdália, Dominica, Hédila e Auta visitaram Manaus",Teolinda não visitou Paraná,0,boolean_coordination
+"Carísia, Jaquelina, Iracema, Moana, Adriele e Jalmira visitaram Matões do Norte",Jaquelina não visitou Matões do Norte,1,boolean_coordination
+"Anaisa visitou Palmares Paulista, Paraisópolis, Cumbe, São Félix, Chapada de Areia, Tabuleiro, Augusto Severo, Piraí do Sul, Taquari e Cromínia",Isolete não visitou São Félix,0,boolean_coordination
+"Ellen, Naísa, Armandina, Bella, Márvia, Anésia, Audete, Candy, Lucilina, Antonela, Bartolina, Claudina, Anteia, Dejanira, Hortênsia e Tiffany visitaram Juara",Márvia não visitou Entre Rios,0,boolean_coordination
+"Etéria, Fia, Lízi, Selina e Íngride visitaram Rio Fortuna",Selina não visitou Rio Fortuna,1,boolean_coordination
+"Balduína visitou Aracruz, Campos Belos, Cruzeiro do Sul, Santa Helena, Porto Rico do Maranhão, Várzea Alegre, Pacatuba, Correntes, Redentora, Chorrochó e Manaquiri",Balduína não visitou Santa Helena,1,boolean_coordination
+"Mariama visitou São Geraldo da Piedade, Porto Feliz, Monsenhor Paulo, Sítio Novo, Olho d'Água, Porto de Pedras, Boa Vista do Sul, São José da Varginha, Frei Inocêncio e Camocim de São Félix",Mariama não visitou Olho d'Água,1,boolean_coordination
+"Terezinha, Delminda, Jaquelina, Kieza, Sory, Dele, Brenda, Nia, Candice, Mathilda e Julita visitaram Serra da Raiz",Candice não visitou Serra da Raiz,1,boolean_coordination
+"Katherina, Ândria, Mya, Florisa, Torpécia, Alberta, Nayla, Nadine, Noémi, Delmira e Naama visitaram Sete Barras",Torpécia não visitou Sete Barras,1,boolean_coordination
+"Odette visitou Matriz de Camaragibe, Toledo, Vitorino Freire, Vila Flor, Chorrochó, Estância, Ponto Chique, Dores do Indaiá, Dourados, Goianorte, Angical, Mara Rosa, Itaipé, Silves, Itaipava do Grajaú, Santa Luzia D'Oeste, Heitoraí, Campestre do Maranhão e Pau Brasil",Síria não visitou Dourados,0,boolean_coordination
+"Clemência visitou Motuca, Ouro Velho, Nova Monte Verde, São Paulo de Olivença, Paço do Lumiar, Sorocaba, São Fidélis, Brodowski, Américo de Campos, Conceição do Canindé, Jacareí e Juruaia",Clemência não visitou São Fidélis,1,boolean_coordination
+"Roquelina, Ausenda, Belina e Emídia visitaram Sardoá",Belina não visitou Sardoá,1,boolean_coordination
+"Dídia, do Nascimento, Nazarina, Simoneta, Susete, Guendolina, Levina, Marie, Alita, Dinarda, Romy, Selma, Etel, Bertina, Ondina, Elva, Brunilde, Akira e Cristele visitaram Lavínia",Susete não visitou Lavínia,1,boolean_coordination
+"Josy visitou Castelândia, Piedade do Rio Grande, Guarantã do Norte, Buerarema, Camaragibe, Dianópolis, Riacho de Santo Antônio, Cachoeira do Piriá, Monte Alegre de Minas, Guaribas, Santana de Pirapama, Cajazeiras do Piauí, Francisco Alves, Nova Olímpia, Formosa do Sul e Anchieta",Mabília não visitou Buerarema,0,boolean_coordination
+"Saula visitou Maravilha, Ituaçu, São João da Fronteira, Bernardo do Mearim, Itapetinga, Campo Alegre do Fidalgo, Guaporema, Santa Quitéria do Maranhão, Herval d'Oeste, Ribas do Rio Pardo, Bagre, Campo Grande do Piauí, Anamã, Taquara, Itinga do Maranhão, Tucuruí, Guarinos, Presidente Alves, Doutor Severiano e Sentinela do Sul",Engrácia não visitou Santa Quitéria do Maranhão,0,boolean_coordination
+"Castorina visitou Rubiataba, Matelândia, Itacambira, Ponte Nova, Ourizona e Taquaraçu de Minas",Castorina não visitou Santa Cruz Cabrália,0,boolean_coordination
+"Orianna, Marilúcia, Lucilina, Josiane, Romã e Saga visitaram Serrinha",Romã não visitou Ribeiro Gonçalves,0,boolean_coordination
+"Ellen visitou Rio Espera, Jequiá da Praia, São Bento do Sul e Morungaba",Ellen não visitou Jequiá da Praia,1,boolean_coordination
+"Ivete visitou Equador, Almino Afonso, Ilha das Flores, Roseira, Pedrinhas, Oliveira de Fátima, Soure, Bacurituba, Porto Ferreira, Carandaí, São Joaquim do Monte e Malhada",Ricardina não visitou Oliveira de Fátima,0,boolean_coordination
+"Alzira, Ocília, Terezinha, Sana, Luzinira e Edite visitaram Jataizinho",Sana não visitou Lucena,0,boolean_coordination
+"Lorina visitou Nossa Senhora das Dores, Santana do Manhuaçu, Ciríaco, Rubiataba, Nova Independência, Santa Maria do Pará, Coronel Sapucaia, Pedras de Maria da Cruz, João Lisboa, Taguaí, São Fernando e Rialma",Lorina não visitou Santana do Manhuaçu,1,boolean_coordination
+"Giselle, Benice, Mecília, Espírito Santo, Celinia, Salomite, Francine, Militana, Belinda e Arminda visitaram São Gonçalo do Sapucaí",Celinia não visitou Jaguaruana,0,boolean_coordination
+"Cléo, Carmélia e Tomasa visitaram São Miguel do Oeste",Bitia não visitou São Miguel do Oeste,0,boolean_coordination
+"Eunice visitou Cosmorama, Fazenda Vilanova, Espírito Santo do Dourado, Rio Sono, Minador do Negrão, Lagoa dos Três Cantos, Senador Modestino Gonçalves e Sussuapara",Eunice não visitou Cosmorama,1,boolean_coordination
+"Taína, Belosinda, Delilah, Armandina, Eglantina, Laurentina, Laurine, Loide, Marcella, Hebe, Salúquia, Léah, Nur, Bibiana, Célia, Amandina, Layla, Sian e Rihanna visitaram Ivaté",Layla não visitou Maracaí,0,boolean_coordination
+"Jandira, Estrelle e Méline visitaram Glória D'Oeste",Jandira não visitou Glória D'Oeste,1,boolean_coordination
+"Huguete visitou Lontra, Nova Candelária, União do Oeste, Solânea, Sengés, Itaquiraí, Tigrinhos, São José da Lapa, Diamante D'Oeste e Santos Dumont",Huguete não visitou Diamante D'Oeste,1,boolean_coordination
+"Alberta, Lisandra, Idalisa e Khloe visitaram Vitória das Missões",Lisandra não visitou Vitória das Missões,1,boolean_coordination
+Bebiana e Joela visitaram Papagaios,Kenzi não visitou Papagaios,0,boolean_coordination
+"Lucy, Abna e Clívia visitaram Novo Horizonte do Oeste",Abna não visitou Ouro Verde,0,boolean_coordination
+"Mélodie visitou Moraújo, Conceição do Almeida, Piacatu, Lago dos Rodrigues, Novo Horizonte, Itajobi, Bocaina do Sul, Monsenhor Paulo, Naque, Capixaba, Tabaí, Nova Esperança, Piranguçu, Messias Targino, Nova Rosalândia e Brejetuba",Mélodie não visitou Conceição do Almeida,1,boolean_coordination
+"Élea, Guarani, Abília, Constânça, Lexie, Morian, Corine, Lace, Katherina, Dionilde, Marilda, Ariane, Diomar, Marlise, Benigna e Magali visitaram Adamantina",Teodósia não visitou Adamantina,0,boolean_coordination
+"Anália, Gisele, Joelma, Peyton, Suéli, Emi, Sidónia, Guilhermina, Neotera, Simy, Obdúlia, Geraldina, Etel, Soledade, Cordélia, Leana, Adelaide e Estrella visitaram Campina Grande",Peyton não visitou Campina Grande,1,boolean_coordination
+"Ireneia, Abna, Tessa, Patrocínia, Edmunda, Orange, Ioana, Araci, Arabela, Léah, Biana, Mimosa, Josy, Hilária, Osíris, Dorina, Mary e Josiana visitaram Palmelo",Osíris não visitou São Pedro da Água Branca,0,boolean_coordination
+"Romilda, Prudência, Eléonore, Elísia, Linete, Ohana, Auriana, Ambrósia, Lélia, Elmira, Ionara, Adriane, Rolende, Nayara e Líbia visitaram Westfalia",Nayara não visitou Westfalia,1,boolean_coordination
+Idrisse e Lumena visitaram Cunha Porã,Idrisse não visitou Cunha Porã,1,boolean_coordination
+"Liv, Graciana, Donatella, Edna, Delza, Margarete, Juna, Amabélia, Macati e Raquelina visitaram São João das Missões",Raquelina não visitou São João das Missões,1,boolean_coordination
+"Susanna, Cirila, Aleixa, Arinda, Niah, Milene, Eglantina, Andrelina, Gravelina, Angie, Mariam, Faustina, Fânia, Nila, Magdalena, Jeanete, Indaleta, Nair, Hersília e Dalida visitaram Curitiba",Ivana não visitou Curitiba,0,boolean_coordination
+"Balbina, Iana e Donatila visitaram Madre de Deus de Minas",Donatila não visitou Madre de Deus de Minas,1,boolean_coordination
+"de Sales visitou Protásio Alves, Sampaio, Jequitaí, Salesópolis, São José da Boa Vista, Santa Rita de Caldas, São Félix de Minas, Nazaré do Piauí, Ererê, Itapé, Jardim Alegre, Perobal, Santo Amaro da Imperatriz, Anitápolis, Barro Alto, Cantanhede e Estreito",de Sales não visitou Jardim Alegre,1,boolean_coordination
+"Blásia visitou Guaratuba, Capão Bonito, Planalto, Itabi, Miradouro, Sertânia e Harmonia",Blásia não visitou Sertânia,1,boolean_coordination
+"Mabília, Lucília, Jó, Nami, Cácia, Thaís, Lya, Skylar, Kate, Briosa, Cristele, Mónia, Arlanda, Maria Leonor, Taína, Angie, Chi, Lucialina, Harper e Gerta visitaram Colônia do Piauí",Mikaela não visitou Colônia do Piauí,0,boolean_coordination
+"Athena visitou Centro Novo do Maranhão, Condado, Jaguariúna, Paripiranga, Vera, Agudos do Sul, Cuiabá e Dracena",Melody não visitou Paripiranga,0,boolean_coordination
+"Carsta visitou Paraisópolis, Jataí, Ipu, Jucurutu, Uibaí, Alfredo Wagner, Cidade Gaúcha, Lagoa do Itaenga, Araricá, Iramaia, Lábrea, Colíder, Tupanatinga, Santa Mônica, Saloá, Centralina, Feijó, Campina Verde, Riversul e Caridade",Carsta não visitou Tupanatinga,1,boolean_coordination
+"Gilda visitou Belágua, Tabaí, São João do Pacuí, Palmeira d'Oeste, Santa Teresinha, Juscimeira, Magalhães Barata, São José do Rio Claro, Bataguassu e Águas de Chapecó",Gilda não visitou Paiva,0,boolean_coordination
+"Énia, Sulamita, Rómula, Cândida, Deliana, Pámela, Florencia, Shania, dos Prazeres, Feba, Adosinda, Gloriosa e Marlise visitaram Eugênio de Castro",Adosinda não visitou Eugênio de Castro,1,boolean_coordination
+"Crisanta, Serenela, Ciana, Luiza, Luizete, Margaret, Malvina, Jane, Heda, Castorina e Erin visitaram Palmeirândia",Serenela não visitou Palmeirândia,1,boolean_coordination
+"Seomara visitou Acarape, Olho D'Água do Piauí, Jesúpolis e Uarini",Seomara não visitou Acarape,1,boolean_coordination
+"Trasila, Marieta, Ingeburga, Etéria, Faia, Leonete, Saga, Dariana, Michelle e Dulcídia visitaram Ouricuri",Leonete não visitou Ouricuri,1,boolean_coordination
+"Gardela visitou Guarapari, São Leopoldo, São Sebastião do Alto, São Miguel, Taboão da Serra, Avelinópolis, Boa Vista do Sul, Aloândia, Satubinha, Jaguarari, Paulo Bento, Boca da Mata, Sertaneja, Zabelê, Guaraí, Mathias Lobato, Palestina do Pará e Fernando Prestes",Hortense não visitou Fernando Prestes,0,boolean_coordination
+"Dircila visitou Chapada dos Guimarães, Guaiçara, Cariús, Santo Expedito do Sul, Lima Duarte, Bom Jesus do Araguaia, Cerrito, Iguape, São Bernardo e Pedro Avelino",Rebecca não visitou Lima Duarte,0,boolean_coordination
+"Emily visitou São Geraldo, Coelho Neto, Irapuru, Bonfim do Piauí, Brazabrantes, Iati, Ivaí, Ibituruna, Goiana, Santiago do Sul, Patis, Neópolis, Boa Esperança do Iguaçu e Porto de Moz",Adélia não visitou Irapuru,0,boolean_coordination
+"Thalia visitou Xavantina, Juti, Silvanópolis, Santa Luz, São Francisco do Brejão, Bom Retiro, São Pedro dos Ferros, Governador Lindenberg, Serra Azul de Minas, Jundiá, Planalto, Miguel Leão, Carneirinho, Aspásia e Três Rios",Thalia não visitou Santa Luz,1,boolean_coordination
+"Clementine, Aniana, Florisbela, Poliana, Lisete, Delmira, Esménia, Mathilde, Jacira, Joaquina, Tita, Ilsa, Celine, Ciana, Maria João, Libéria, Cíntia, Shania e Samantha visitaram São Nicolau",Maria João não visitou São Nicolau,1,boolean_coordination
+"Dara visitou Juarina, Bueno Brandão, Rio Bom, Luminárias, Pracuúba, Mineiros, Bom Jesus da Penha, Curvelo e Taquara",Dara não visitou Luminárias,1,boolean_coordination
+"Oksana, Lilá, Constânça, Márvia, Numénia, Eárine, Joele, Basilissa, Salvadora, Aimara, Nícia, Lucinda, Malika, Naísa, Saray e Cidalisa visitaram Alterosa",Saray não visitou Bom Retiro,0,boolean_coordination
+"Lorina, Isalda, Lícia, Deonilde, Amaia, Adriela, Eleia, Faia, Agatha, Isaurinda, Juvita, Josuana, Dariana, Eleni, Militza e Mireia visitaram Anguera",Simona não visitou Anguera,0,boolean_coordination
+"Carsta, Abna, Celine, Felismina, Dineia, Titânia, Carla, Engelécia, Lízie, Francília, Paula, Ida, Desiree, Cornélia, Márvia, Marilina e Fernandina visitaram Castelândia",Desiree não visitou Salgado de São Félix,0,boolean_coordination
+"Gardela, Nirina, Generosa, Africana, Hannah, Angélica, Agna, Malu, do Céu e Catrina visitaram Ouro Preto do Oeste",Suse não visitou Ouro Preto do Oeste,0,boolean_coordination
+"Jânia, Perpétua, Rafa, Hulda, Elizabete, Anésia, Mathilda, Sierra e Luisete visitaram Porto Acre",Sierra não visitou Porto Acre,1,boolean_coordination
+"Isaltina visitou Corumbataí, Salesópolis, Ipira, Taió, Quatiguá, Mucugê, Cabeceiras do Piauí, Piaçabuçu, Diamante D'Oeste, Saldanha Marinho, Balneário Gaivota, Bernardino Batista e Riversul",Isaltina não visitou Anchieta,0,boolean_coordination
+"Teolinda visitou Iati, Buritizal, Macieira, Engenheiro Caldas, Vicentina, Imbuia, Itaguara e Nova Bandeirantes",Teolinda não visitou Santana do São Francisco,0,boolean_coordination
+"Dionísia, Persília e Dilma visitaram Bonópolis",Persília não visitou Bonópolis,1,boolean_coordination
+"Ismália visitou Riachinho, Pedro Teixeira, Itaporanga e Riozinho",Ismália não visitou Pedro Teixeira,1,boolean_coordination
+"Mariema, Benice, Chen, Precília, Silvana, Delmira, Pámela, Benícia, Carsta, Elodia, Glicínia, Albertina, Dorisa, Teodósia, Mária, Décia, Fara, Lizia e Persília visitaram Paraibano",Lourdes não visitou Paraibano,0,boolean_coordination
+"Cáren, Marieta, Alaia, Nazária, Sena, Nureia, Dionilde, Niceia, Otília, Geisa, Guimar, Saphira, Kieza, Arminda, Paula e Denisa visitaram Jateí",Kieza não visitou Nobres,0,boolean_coordination
+"Nazarina visitou Nova Santa Rita, Monte Sião, Ilhota, Berizal, Santiago do Sul, Itatira, Santa Maria do Cambucá, Santa Gertrudes, Cidade Ocidental, Bom Sucesso de Itararé e Coqueiros do Sul",Nazarina não visitou Berizal,1,boolean_coordination
+"Aldenora visitou Ararendá, Pilar do Sul, Rio de Janeiro, Ibateguara, Nova Marilândia, Nova Palma, Forquilhinha, Timbé do Sul, Iporã e Santa Isabel do Rio Negro",Aldenora não visitou Iporã,1,boolean_coordination
+"Preciosa visitou Piratininga, Ariranha, Itajuípe, Afrânio, Patos, Martinópole, Serra Negra do Norte, Camocim de São Félix, Salinas da Margarida, Rio Real, Santo Antônio de Goiás, São Félix do Tocantins, Turiúba, Urucará, Cachoeira dos Índios, Santa Bárbara de Goiás, Itatira, Franca, Dois Irmãos e Joaquim Gomes",Preciosa não visitou David Canabarro,0,boolean_coordination
+"Elísia visitou Brejões, Tapauá, São João da Ponte, Camboriú, Britânia, Glória D'Oeste, Jacupiranga, Contagem, Formiga, Montes Claros de Goiás, Rolândia, Novo Tiradentes, Claro dos Poções, Itanhandu, Monte Belo, Guapirama, Major Sales e São Miguel do Anta",Nimi não visitou Monte Belo,0,boolean_coordination
+"Gisete visitou Catingueira, Castelo e Pinhalzinho",Ercília não visitou Catingueira,0,boolean_coordination
+"Delmira visitou Sengés, Ilha Grande, Três Fronteiras, Catanduvas, Equador, Matupá, João Dourado, Major Gercino, Euclides da Cunha, Conceição dos Ouros, Alto Paraguai, Cacoal e Banabuiú",Delmira não visitou Uiraúna,0,boolean_coordination
+"Leopoldina, Akira, Selene, Lusa, Peyton, Luiza, Rihanna, Jana, Atenais, Joanina, Porciana, Mirela, Kaya, Sylvie, Firmina, Formosa, Nominanda, Alberta e Fani visitaram Santa Cruz de Minas",Ausenda não visitou Santa Cruz de Minas,0,boolean_coordination
+"Ambrosina, Lisete, Thai, Muriel, Shana, Aléxia, Erica, Shania e Margarita visitaram Alto Araguaia",Margarita não visitou Alto Araguaia,1,boolean_coordination
+"Dorina, Suse, Espírito Santo, Marquesa, Shania, Fânia, Antonina e Miah visitaram Vila Propício",Dorina não visitou Carpina,0,boolean_coordination
+"Denisa, Luiza, Farida, Noor, Thérése, Franca, Nara, Cândida, Emie, Elva, Leocádia, Emanuella e Cordélia visitaram Santa Maria da Vitória",Cordélia não visitou Santa Maria da Vitória,1,boolean_coordination
+"Nia, Donzélia, Karina, Marquesa, Marilda, do Livramento, Mathilde, Lubélia, Bárbora, Lélia, Magaline, Anunciação, Morena, Sátira, Lilá e Caia visitaram Alagoa Grande",Bárbora não visitou Umirim,0,boolean_coordination
+"Belmira, Ocridalina, Leya, Balduína, Emanuella, Rosalinda, Dariana, Natacha, Teodósia, Brena, Pixie, Tayná, Margaux, Aleixa, Radija, Basília, Adriela, Artemísia, Nelma e Bérnia visitaram Antônio Almeida",Basília não visitou Antônio Almeida,1,boolean_coordination
+"Cizina visitou Imbé, Cristiano Otoni, Maracanã, Lagamar, Davinópolis, Boa Vista do Ramos, Matelândia, Cuiabá, Recursolândia, Córrego Novo, Silveira Martins, Dianópolis, Campinorte, Iguaraci, Guzolândia, Tremembé, Theobroma, Piancó, Barra do Ouro e Jaru",Cizina não visitou Barrinha,0,boolean_coordination
+"Niéves visitou Pracuúba, Peritoró, São Marcos, Alumínio, Campinas do Piauí, Igrejinha, Santanópolis, Santa Luzia, Fama, São José do Alegre, Porto da Folha, Valentim Gentil, Cerro Grande, Valença, Igarassu, Fazenda Rio Grande, São Valério do Sul, Catende e Tejuçuoca",Tirza não visitou São José do Alegre,0,boolean_coordination
+"Cipora visitou Itapejara d'Oeste, Entre Rios, Vertentes, Jupi, Itaparica, Pedra Preta e Aruanã",Cipora não visitou Rio Real,0,boolean_coordination
+"Melida, Guimar, Béatrice, Tina, Graciana, Nola e Emily visitaram Passo de Torres",Nola não visitou Penedo,0,boolean_coordination
+"Kylie, Leona, Ingeburga, Graziela, Riana e Mavelete visitaram Salgadinho",Leona não visitou Salgadinho,1,boolean_coordination
+"Helen, Evandra e Selésia visitaram Pastos Bons",Evandra não visitou Pastos Bons,1,boolean_coordination
+"Disa, da Agonia, Albertina, Stanislava, Jovelina, Clementine e Niceia visitaram São José do Povo",Clementine não visitou São José do Povo,1,boolean_coordination
+"Roena, Estrelle, Leonarda, Mirandolina, Rossana, Clarissa, Áfrika, Caia, Florentina, Rachel, Rhianna, Edmunda, Agripina, Geraldina e Lidiana visitaram Itamonte",Leonarda não visitou Talismã,0,boolean_coordination
+"Delmina, Leona, Liana, Léanor, Tabata, Laurinda, Almesinda, Liduína, Josélia, Rogélia, Naíma e dos Prazeres visitaram Nossa Senhora dos Remédios",Silviana não visitou Nossa Senhora dos Remédios,0,boolean_coordination
+"Soledade, Daniella, Maíra, Formosinda, Josiana, Coraima, Sophie, Tayná, Daenerys, Cris, Denisa, Élia, Aleixa, Moana, Stanislava, Faustina, Gracinda, Marlisa, Leonardina e Etel visitaram Arroio Grande",Denisa não visitou Arroio Grande,1,boolean_coordination
+"Herénia visitou Mairinque, Coronel Murta, Riacho das Almas, Campina da Lagoa, Novo Airão, Bertópolis, Laranjal, Redenção, Bela Vista de Minas e Paranavaí",de Fafe não visitou Paranavaí,0,boolean_coordination
+Deodata visitou Pontal e Roncador,Deodata não visitou Roncador,1,boolean_coordination
+"Cânia, Noor, Bethany, Cayetana e Lumena visitaram Belmonte",Noor não visitou Belmonte,1,boolean_coordination
+"Muna, Líria, Simaura, Carmorinda, América, Martha, Luzinira, Martinha, Maísa, Fara, Leocádia, Chelsea, Saga, Laetitia, Melisa, Ermengarda, Hedviges, Nur, Leya e Marlise visitaram São Roque",Martinha não visitou Barra Bonita,0,boolean_coordination
+"Ireneia, Fedra, Evelyn, Nádeja, Évila, Nour, Clarinda e Nayla visitaram Riacho das Almas",do Paraíso não visitou Riacho das Almas,0,boolean_coordination
+"Tita, Rafaella, Tina, Romilda, Josiana, Natanaela, Paula, Dores, Espírito Santo e Jasmine visitaram Passo Fundo",Josiana não visitou Passo Fundo,1,boolean_coordination
+"Kenya visitou Itaperuna, Parintins, Mutunópolis, Santana do Piauí, Itaboraí, Ipecaetá, Ubarana, Piratininga, Jequitibá, Aripuanã, Deputado Irapuan Pinheiro, Poço das Antas, São Braz do Piauí, Pirassununga, Quiterianópolis e Arroio do Meio",Kenya não visitou Santana do Piauí,1,boolean_coordination
+"Carminda, Selesa, Sofie, Célia, Clorinda, Josina, Janina, Gonçala, Otelina, Julinha, Clementine, Jorgina e Elsinda visitaram Olho d'Água",Clorinda não visitou Olho d'Água,1,boolean_coordination
+"Charlotte visitou Lagoa Grande, Rochedo, Vera Cruz, Dom Pedro, Santo Ângelo e São Sebastião do Tocantins",Charlotte não visitou São Miguel das Missões,0,boolean_coordination
+Mírtila e Romana visitaram Monte Alegre de Goiás,Romana não visitou Monte Alegre de Goiás,1,boolean_coordination
+"Sienna, Agostinha, Laureana, Aidé, Bianka e Ândria visitaram Capinzal",Ândria não visitou Baixa Grande,0,boolean_coordination
+"Maxine, Mireia, Isabella, do Paraíso, Albana, Sania, Rosebel, Leontina, Éola, Amanda, Seara, Levina, Béatrice, Ticiane e Osvalda visitaram Belmiro Braga",do Paraíso não visitou Couto de Magalhães,0,boolean_coordination
+"Sophia, Erméria, Ima, Jacira, Guimar, Clarina, Monroe, Sam, Nice, Jânia e Clarice visitaram Mirante do Paranapanema",Clarina não visitou Mirante do Paranapanema,1,boolean_coordination
+"Leonila, Felisbina, Marieta, Darcília, Gaori, de Begonha, Dionísia, Cleodice, Elis e Cleia visitaram Muriaé",Brunilde não visitou Muriaé,0,boolean_coordination
+"Iracema visitou Varzedo, Cachoeira do Piriá, Sapucaia, Monsenhor Gil, Água Doce do Norte, Santo Estêvão e Vila Rica",Iracema não visitou Santo Estêvão,1,boolean_coordination
+"Idalete visitou Torrinha, Campo Alegre de Goiás, Xinguara, Cachoeira Dourada e Lauro de Freitas",Idalete não visitou Itatiba do Sul,0,boolean_coordination
+"Gaela, Cleópatra, Rondina, Jewel, Lícia, Darnela, Aniana, Sienna, Oksana, Quézia, Geovana, Marisol e Iolanda visitaram Lontra",Jewel não visitou Lontra,1,boolean_coordination
+"Cristene visitou São José da Safira, Engenho Velho, Magalhães de Almeida, Entre Rios, Parintins, Matina, Cacoal, Caldas Brandão, Santa Filomena, São Vicente de Minas, Araguari, Jardim de Angicos, Santa Rita do Trivelato, Caracol, Iraquara e Monte Alegre do Piauí",Angie não visitou Monte Alegre do Piauí,0,boolean_coordination
+Taísa e Cosete visitaram Santo Antônio do Descoberto,Taísa não visitou Santo Antônio do Descoberto,1,boolean_coordination
+"Emma visitou Castanheira, Guairaçá, Sul Brasil, Capitão Gervásio Oliveira, Alvorada de Minas, Araporã e Lajedinho",Emma não visitou Humberto de Campos,0,boolean_coordination
+"Elisabeth visitou Maravilha, Baixa Grande, São João do Piauí, Paranavaí, Belém, Itaberaí, Goianinha, Andradas, Marechal Floriano, Taquaral, Jurema, São Sebastião do Maranhão, Nova Prata, Abreulândia, Serra Negra, Alto do Rodrigues, Aurilândia e Miranorte",Chanda não visitou São Sebastião do Maranhão,0,boolean_coordination
+Agna visitou Elias Fausto e Assaré,Agna não visitou Assaré,1,boolean_coordination
+"Anunciação, Patrícia, Carela, Lexie, de São Luís, Analice, Clícia e Demelza visitaram Fronteiras",Carela não visitou Guimarânia,0,boolean_coordination
+"Edmunda visitou Machacalis, Campos Sales, Itamarati de Minas, Itaparica, Itaguaçu da Bahia, Barra da Estiva, São José dos Basílios, Magda, Ibicuí, Serra Branca, Hugo Napoleão, Porto Vera Cruz, Cajuri e Santa Rita de Caldas",Edmunda não visitou Itaguaçu da Bahia,1,boolean_coordination
+"Rocio, Eleine, Titânia, Nalini, Delisa, Luiza, Tayná, Cinira, Bina, Liberdade, Ermengarda, Rose, Priscilla e Elma visitaram Itapiratins",Liberdade não visitou Itapiratins,1,boolean_coordination
+"Quaresma visitou Bossoroca, Caseara, Feira Nova, Rio Bonito do Iguaçu, São Bento do Tocantins, Silves, Tanabi, Dilermando de Aguiar, Alenquer, Barra de Santo Antônio, Senhora do Porto, São Luiz, Tacaratu, Japi, Ubaitaba, São Brás, Capela Nova e Chapada de Areia",Quaresma não visitou Barra de Santo Antônio,1,boolean_coordination
+"Carla visitou São Mateus do Sul, Bacabeira, Porto Calvo, Taquaritinga do Norte, Vigia, Águas Formosas, Guiricema, Água Fria e Três de Maio",Carla não visitou Jardim de Piranhas,0,boolean_coordination
+"Amara, Onófria, Círia, Cristele, Mariluz, Milene, Florença, Laurina e Hilda visitaram Recreio",Cristele não visitou Jaciara,0,boolean_coordination
+"Sarina, Rodriga, Jorgina, Casimira, Elisabeta, Oksana, Orange, Arlete, Miah, Noélia, Graziela, Eleonora, Élin e Kathleen visitaram Segredo",Eleonora não visitou Jati,0,boolean_coordination
+"Rihanna visitou Catuti, Macaé, Sarapuí, Inhapim, Milton Brandão, Baianópolis, Santa Maria do Cambucá, Porto Seguro, Cacimbinhas, Riachão das Neves e Senador Sá",Rihanna não visitou Maracaju,0,boolean_coordination
+"Caroline, Acácia, Tabatha, Joele, Bertila, Safia, Bertina, Delminda, Salomite, Karen, Quaresma, Emídia, Simona, Shakira e Licínia visitaram Ribamar Fiquene",Salomite não visitou Morro Cabeça no Tempo,0,boolean_coordination
+"Clívia visitou Água Doce do Norte, Rifaina, Piranga, Miguel Leão, Sarandi, Peritoró, Ipirá, Salinas da Margarida, Santa Bárbara do Leste, Chapada de Areia, Aiuruoca, Angico e Anitápolis",Clívia não visitou Aiuruoca,1,boolean_coordination
+"Tara, Mavília, Cleodice, Nazarina, Rosalinda, Elis, Calila, Teresina, Olinda, Cizina, Graciosa, Inaia, Sarai, Angie, Mírtila, Taísa, Leoménia, Leonisa, Constanza e Ione visitaram Biguaçu",Leoménia não visitou Cairu,0,boolean_coordination
+"Si visitou São Francisco do Brejão, Poção, Tenente Portela, Pinheirinho do Vale, Sandovalina, Três Arroios, Aceguá, Araraquara e Areal",Si não visitou Sandovalina,1,boolean_coordination
+Nola visitou Ipecaetá e Vitorino,Nola não visitou Vitorino,1,boolean_coordination
+"Deotila visitou Horizonte, Matutina, Lamarão, Rio Grande da Serra, Colinas, Cordeiros, Guaraciaba, Alfredo Wagner, Itaí, Santa Cruz do Capibaribe, Francisco Ayres, São Gabriel da Cachoeira, Jarinu, Ibitiúra de Minas, Anchieta, Passo Fundo e Tibagi",Deotila não visitou Anchieta,1,boolean_coordination
+"Magenta visitou Itaporã, Santo Antônio do Pinhal, Sangão, Guaraciaba do Norte, Camaquã, Caarapó, Rio Crespo, Engenheiro Paulo de Frontin, Tartarugalzinho, Conceição do Jacuípe, Cachoeira, Presidente Nereu, Morro da Fumaça, Rio Bonito do Iguaçu, Teodoro Sampaio, Padre Carvalho e Arroio do Padre",Magenta não visitou Machadinho D'Oeste,0,boolean_coordination
+"Anatilde visitou Casa Branca, Sítio Novo, Barra de Santo Antônio, Sousa, Francisco Macedo, São Roque de Minas, Ouro, São Cristóvão, Colorado, Jataizinho, São José do Brejo do Cruz, Santa Tereza de Goiás, Antonina, Joinville, Guaiúba, Rio do Pires e Amontada",Anatilde não visitou Casa Branca,1,boolean_coordination
+"Arinda visitou Tomazina, Caraúbas do Piauí, Pedras Grandes, Missal, Campos Sales, Jatobá, Camanducaia, Presidente Lucena, Urucuia, Prata, Guiratinga, Piracaia, Anita Garibaldi, Goiânia, São Brás do Suaçuí e Tacaimbó",Arinda não visitou Prata,1,boolean_coordination
+"Joraci visitou Itapirapuã, Santa Inês, Presidente Kubitschek, Itapaci, Edealina, Santana de Mangueira, Américo Brasiliense, Tarabai, Catolé do Rocha, Herval, Honório Serpa, Grajaú, Paraopeba e Palmital",Joraci não visitou Edealina,1,boolean_coordination
+"Rosário visitou Mundo Novo, Loreto e Sardoá",Miliza não visitou Loreto,0,boolean_coordination
+"Elaine, Isilda, Peyton, Mirella, Jaquelina, Mabel, Leah, Flor de Maria, Ida, Gilma, Bárbora, Darci, Angélica e Isalina visitaram Jordão",Levina não visitou Jordão,0,boolean_coordination
+"Selina visitou Nova Maringá, Paraú, Castanheira, Erechim e Apiacás",Selina não visitou Arandu,0,boolean_coordination
+"Engelécia, Tess, Sophie, Dionísia, Cipora, Omara, Margot, Clésia, Raíssa, Muriel, Isabelle e Heli visitaram Cipotânea",Muna não visitou Cipotânea,0,boolean_coordination
+"Roena, Cordélia e Tracy visitaram Guarujá",Iracema não visitou Guarujá,0,boolean_coordination
+Clarinha e Constânça visitaram Aperibé,Clarinha não visitou Frei Miguelinho,0,boolean_coordination
+"Aureliana visitou Monte Carmelo, Estreito, Iracema, São Raimundo Nonato, Araçatuba, São Miguel do Oeste, Campestre da Serra, Catarina e Aspásia",Especiosa não visitou Catarina,0,boolean_coordination
+"Misha, Donatella, Anália, Elda, Blandina, Sarai, Ionara, Deméter, Ilundi, Marjolene, Paula, Brázia, Clívia, Nice, Digna e Chantal visitaram Canas",Chantal não visitou Canas,1,boolean_coordination
+"Seong visitou Acauã, Manaus, Guaraíta, Japeri, Uruguaiana, Indianópolis, Alvarenga e Santa Isabel do Rio Negro",Seong não visitou Manaus,1,boolean_coordination
+"Libânia visitou Barra do Rocha, Barra Bonita, Jacuípe, Rosário da Limeira, Oscar Bressane, Missal, Rancho Queimado, Augusto Corrêa, Catu, Piraúba, Sooretama, Barra do Quaraí e Monsenhor Tabosa",Lumena não visitou Catu,0,boolean_coordination
+"Rosário, Climénia, Duartina, Romã, Romana, Arlete, Florisbela, Ivana, Indira, Mira, Edine, Jael, Celsa, Carísia, de Deus, Tessa, Clementina, Dana e Dejanira visitaram Unistalda",Carela não visitou Unistalda,0,boolean_coordination
+"Moana, Liana, Carisa, Jewel, Liberdade, Taciana, Janaína, Terência, Edna, Mourana, Darcília, Guilhermina, da Cruz, Lólia, Iana, Consuelo e Niah visitaram Pontão",Katia não visitou Pontão,0,boolean_coordination
+"Ambrosina, Aliça, Gabrielle, Lurdes, Deusa, Brázia, Inaia, Nazaré, Orange, Bertina e Leonarda visitaram Ribeira do Piauí",Inaia não visitou Ribeira do Piauí,1,boolean_coordination
+"Sierra, Cleide, Jerusa, Otelina, Emily, Maeva, Sarai e Hedviges visitaram Pirapora",Sarai não visitou Pirapora,1,boolean_coordination
+"Diza visitou São Francisco do Pará, Curral Velho, Pastos Bons, Vila Nova dos Martírios, Contenda, Conceição do Rio Verde, Alcobaça e Lagoa da Canoa",Diza não visitou Cururupu,0,boolean_coordination
+"Romana, Fani e Rose visitaram Felipe Guerra",Rose não visitou Nova Veneza,0,boolean_coordination
+"Rafa, Lucina, Leonete, Marcela, Suellen, Catila, Candy, Iolanda, Pulquéria e Moana visitaram Passo de Torres",Marcela não visitou Passo de Torres,1,boolean_coordination
+"Bia, Etel, Berengária, Ilídia, Aleixa, Cayetana, Génesis, Glaúcia, Kenzi, Carmo, Elizabeth, Isalina, Fedra e Rosalie visitaram Belo Jardim",Fedra não visitou Belo Jardim,1,boolean_coordination
+"Clarice, Lidiana, Ricarda, Mícia, Davínia, Obdúlia, Isalda, Eleanor, Blandina, Cristele, Almira, Marlita, Acácia e Córita visitaram Belmonte",Clarice não visitou Belmonte,1,boolean_coordination
+"Adosinda visitou Votorantim, Conquista D'Oeste, Loreto, Simolândia, Olho d'Água, Bom Jesus da Penha, Coronel João Pessoa, Vargem Grande do Rio Pardo, Planura, Primavera do Leste, Bodó, Santa Vitória, Cruzeta, São Jerônimo e Nova Brasilândia D'Oeste",Adosinda não visitou Simolândia,1,boolean_coordination
+Ânia e Perpétua visitaram Antonina,Perpétua não visitou Mongaguá,0,boolean_coordination
+"Seara, Chi, Greta, dos Prazeres, Merita, Liara, Simona, Dianna, Esther, Davínia, Ecaterina, Oceane e Marita visitaram Calçado",Seara não visitou Calçado,1,boolean_coordination
+"Amanda visitou Brumadinho, Bastos, Primeira Cruz, Alcantil, Jangada, Cantá, Lima Duarte, Juazeirinho, Lunardelli, Santa Carmem, Ibirajuba, Nilópolis, Divinésia, Francisco Alves, Penápolis, São José do Rio Claro, Goianápolis, Bela Vista, Marliéria e Santa Helena",Amanda não visitou Pinhal de São Bento,0,boolean_coordination
+"do Paraíso, Catila e Joelma visitaram Amaraji",Lucília não visitou Amaraji,0,boolean_coordination
+"Fédora, Lace, Dinarta, Igelcemina, Laureen, Amy, Kai, Tessa, Geovanna, Sharam, Naia, Pixie, Prudência, Harper, Ludmila, Charlize, Carmen, Gara e Corália visitaram Itapirapuã Paulista",Bernadete não visitou Itapirapuã Paulista,0,boolean_coordination
+"Nilda visitou Vitorino, Salete, Guaraqueçaba, Moji Mirim, Mata Roma, Guanambi, Santo Antônio do Içá, Conceição do Tocantins, Roque Gonzales e Sátiro Dias",Nilda não visitou Mata Roma,1,boolean_coordination
+"Daliana, Enide, Isa, Joela, Lorine, Alcina, Amorzinda, Emmy, Orlandina, Jacqueline, Leoménia, Kendra, Benjamina e Filena visitaram Bom Jesus do Galho",Filena não visitou Bom Jesus do Galho,1,boolean_coordination
+"Cacilda, Guarani, Doralice, Gerda, Deliana, Nelma, Nureia, Jovelina, Oureana, Marlise, Flor de Maria, Aléxia, Tanagra, Nené, Luena e Assunção visitaram Gonçalves",Luena não visitou Gonçalves,1,boolean_coordination
+"Loreta visitou Penalva, Alto Boa Vista, Tupaciguara, Aracaju e Taiobeiras",Loreta não visitou Taiobeiras,1,boolean_coordination
+"Jacqueline, Sade, Disa, Naia, Graziela, dos Mártires, Levina, Biana, Kenzi, Darci, Léana, Clícia, Constantina e Henriette visitaram Vieirópolis",Jacqueline não visitou Ubatuba,0,boolean_coordination
+"Lena visitou Mãe do Rio, Rio das Ostras e Maquiné",Lena não visitou Entre Rios de Minas,0,boolean_coordination
+"Duana visitou André da Rocha, Medianeira, Ibiassucê, Indaial, Nova Independência, Dois Irmãos do Buriti, Marcolândia, Rondon do Pará, Icém, Santa Maria do Suaçuí, Paulo Ramos, Conceição do Araguaia, Heitoraí, Rio Manso, Guarani das Missões e Lupionópolis",Duana não visitou Rio Manso,1,boolean_coordination
+"Natércia, Leocádia, Ticiane e Marieta visitaram Canudos",Leila não visitou Canudos,0,boolean_coordination
+"Darlene, Liliane, Tásia, Cássia, Justina, Neusa, Merita, Léa, Sierra, Idalete, Modesta, Briosa, Emi, dos Santos, Ângel, Trisha e Nazarina visitaram Ibirarema",Graciliana não visitou Ibirarema,0,boolean_coordination
+"Ádila, Sana, Síria, Seni, Dulcina, Clarinha, Ella, Aimara, Sextina, Alexis, Nicandra, Décia, Sénia e Sirla visitaram Paranapanema",Sana não visitou Paranapanema,1,boolean_coordination
+"Hermana, Léonie, Iracema, Dólique, Lilite, Mari, Cipora, Janina, Margareta, do Paraíso, Mária, Alaina e Crisálida visitaram São Pedro do Piauí",Élin não visitou São Pedro do Piauí,0,boolean_coordination
+Sunamita e Erin visitaram Assunção,Sunamita não visitou Porto do Mangue,0,boolean_coordination
+"Justina, Jandira, Nanci, do Rosário, Felismina, Priscila, Castorina, Muna, Isalina, Rodriga, Nilda, Taísa, Gala, Henriette, Delmina, Elisete, Bernadete, Nilsa, Sátia e Matrosa visitaram Lajinha",Muna não visitou Lajinha,1,boolean_coordination
+Tiara visitou São Miguel das Missões e Canarana,Tiara não visitou Nova Guarita,0,boolean_coordination
+"Alcíone visitou Varjota, Nioaque, Capitão Poço, Jacarezinho e Cachoeirinha",Alcíone não visitou Capitão Poço,1,boolean_coordination
+"Tarina, Norma, Brice, Dalva, Peyton, Rosália, Malu, Elis, Donatila, Eularina e Sharam visitaram João Ramalho",Constância não visitou João Ramalho,0,boolean_coordination
+"Samira, Círia, Isália, Flor de Ceres, Sabrina, Liberdade e Arminda visitaram Paraí",Sabrina não visitou Paraí,1,boolean_coordination
+Mara e Daisi visitaram Rio das Antas,Mara não visitou Avelinópolis,0,boolean_coordination
+"Oscarina, Alexis, Poliana, Lily, Lusa, Niceia, Hortênsia, Étel, Leonilda, Joséfa, Nessie e Serenela visitaram Bela Vista de Goiás",Hortênsia não visitou Bela Vista de Goiás,1,boolean_coordination
+"Sam, Bina, Marlene, Rosalinda, Anunciação, Ramna, Evelyn, Safia, Agustina, Cornélia, Emídia, Cipora, Luena, Nereida, Loela e Marianne visitaram Acrelândia",Charlene não visitou Acrelândia,0,boolean_coordination
+"Riana visitou Ampére, Maçambara, Itaberaí, Cajueiro da Praia, Cerro Negro, São Gonçalo do Sapucaí, Rincão, Rio de Janeiro, Itanhandu, Japurá, Bom Jesus do Amparo, Gurupá, Jeceaba, Carambeí, Missão Velha, Anta Gorda e Ermo",Riana não visitou Cantanhede,0,boolean_coordination
+"Silvina, Leta, Aldina, Isolete, Severa, Julinha, Runa e Helen visitaram Rio Pardo",Aldina não visitou Rio Pardo,1,boolean_coordination
+"Aruna visitou Encruzilhada, Rio Bom, Serrana, Centralina, Itaperuna, Campos Sales, Santos, Palmeiras de Goiás, São Vicente do Sul, Dolcinópolis, Araguaçu, Sete Barras, Marajá do Sena, Guarujá e Sagrada Família",Aruna não visitou Araguaçu,1,boolean_coordination
+"Liseta visitou São Paulo das Missões, Campo Grande, Canavieira, Itapé, Meleiro, Romaria e Érico Cardoso",Liseta não visitou Itapé,1,boolean_coordination
+"Ezequiela, Simaura, Salma, Iana, Jasmim, Sesira, Ella, Lurdite, Maureen, Sacha, Marion, Magna, Brásia, Sérgia, Naly, Elaine, Elva, Tessa e Dircila visitaram Jerumenha",Iana não visitou Padre Paraíso,0,boolean_coordination
+"Mónia, Shirley, Fara, Adelaide, Ocridalina, Idalete, Kaya, Ália, Patrocínia, Afonsa, Rubyana, Noor, Mara, Thalia, Anaíde, Persília e Carmelita visitaram Entre Rios do Sul",Anaíde não visitou Entre Rios do Sul,1,boolean_coordination
+"Flória, Cirila, Julie, Poliana, Gema, Hortênsia, Mavília, do Céu, Angelita, Aldina, Cindy, Savannah, Indira, Marlise, Genciana e Filena visitaram Consolação",Hortênsia não visitou Luís Gomes,0,boolean_coordination
+"Leonora, Pámela, Margaux, Belle, Sian, Isalina, Emmy, Ancha, Juanita, Aliana, Dana, Rachel, Cirila, Crisante, Giada e Ivory visitaram Caiapônia",Ivory não visitou Caiapônia,1,boolean_coordination
+"Andreína visitou Dourados, Castro Alves, Mirinzal, Quinta do Sol, Goianinha, Utinga, Janduís, Ipameri, Paranaguá e Iepê",Andreína não visitou Mirinzal,1,boolean_coordination
+"Dina, Amanda, Romina, Inocência, Juvita, Cora, Abby, Celsa, Jezabel, Anteia, Cremilde e Adriela visitaram Rio Negro",Adriela não visitou Diogo de Vasconcelos,0,boolean_coordination
+"Libéria visitou Arraial do Cabo, Delfinópolis, Meleiro, São Domingos das Dores, Itaperuçu, Bonito, Itambé, Guamaré, Orizânia, Salto, Alto Santo, Maurilândia, Estrela Dalva, Aparecida do Rio Doce e Ipiranga",Libéria não visitou Bonito,1,boolean_coordination
+"Carla, Catrina, Júnia, Anabel, Francine, Maritana, Natacha, Ambrosina, Lília e Dara visitaram Adelândia",Anabel não visitou Adelândia,1,boolean_coordination
+Énia e Selésia visitaram Colômbia,Selésia não visitou Itapissuma,0,boolean_coordination
+"Naraiana visitou Barreiras, Cezarina, Paço do Lumiar, Alvorada de Minas e São José da Laje",Naraiana não visitou Paço do Lumiar,1,boolean_coordination
+"Arménia, Keiko, Naira e Brenda visitaram Maruim",Naira não visitou Maruim,1,boolean_coordination
+"Crestila, Cleonice, Diná, Malía, Maureen, Kaya, Lucíola, Suellen, Seomara, Luanda, Eleanor, Luara, Ilse, Ermengarda, Desiree e Layla visitaram São Gonçalo dos Campos",Luanda não visitou Jataúba,0,boolean_coordination
+"Elisabeth visitou Érico Cardoso, Jaciara, Seringueiras, Campo Largo do Piauí, Itumirim, Urucurituba, Pau Brasil, Francisco Dumont, Santana de Pirapama, Peixoto de Azevedo, Novais, Moita Bonita, Cristal do Sul, Pilar, Serra Branca, Tarrafas, Piçarra, Formosa do Sul, Onda Verde e Mirandiba",Giuliana não visitou Tarrafas,0,boolean_coordination
+"Maira visitou Conselheiro Pena, Ipueiras, Camacho, Santa Juliana, Monte Alegre, São Francisco do Piauí, Campinas, Campo Bonito, Soledade de Minas, Iranduba, Macaé, Jandaíra, Aragoiânia, Porto Seguro, Serra Redonda, Tunápolis, Teodoro Sampaio e Aroeiras",Maira não visitou Serra Redonda,1,boolean_coordination
+"Orianna visitou Sampaio, Senador Pompeu, Alegre, Álvaro de Carvalho, Ribeira do Pombal, Presidente Venceslau, Nova Canaã Paulista, Barra do Mendes, Carvalhos, Cícero Dantas, Santa Cruz da Conceição, Miracatu, São Francisco de Sales, Goianésia do Pará, Campinas do Piauí, Japi, Itaara e Coromandel",Orianna não visitou Álvaro de Carvalho,1,boolean_coordination
+"Mireie visitou Cantanhede, Ribeiro Gonçalves, Kaloré, Juruti, Sertão Santana, São Desidério, Pequizeiro, São Lourenço do Piauí, Boninal, Erval Grande, Ilhota, Mata Verde, Mulungu do Morro, Governador Celso Ramos, Paraúna, Marechal Thaumaturgo e Carrancas",Mireie não visitou Boninal,1,boolean_coordination
+"Chelsea visitou Campina da Lagoa, Goianápolis, Muçum, Cândido Mendes e Piracicaba",Persília não visitou Piracicaba,0,boolean_coordination
+"Riu visitou Alto Jequitibá, Igarassu, Jaqueira e Riacho de Santana",Riu não visitou Jaqueira,1,boolean_coordination
+"Léna visitou Marcelândia, Carrapateira, Jussari, Dueré, Dom Basílio, Descalvado, Galinhos, Pariquera-Açu, Barro Preto, Barrinha, Araguapaz, Tunas, União de Minas, Cosmorama, Itapagé e Capão Bonito do Sul",Léna não visitou Pariquera-Açu,1,boolean_coordination
+"Romilda visitou Cabrália Paulista, Ibema, Pedra do Anta, Barra do Bugres, Pocrane, Cocal dos Alves, Anita Garibaldi, Moreilândia, Santa Luzia, São Gonçalo do Rio Preto, Gramado dos Loureiros, Taperoá, Teixeira de Freitas, Imigrante, Marataízes, Periquito, Borrazópolis, Rio Bonito e Urucuia",Romilda não visitou Cocal dos Alves,1,boolean_coordination
+"Tina visitou Ibiraçu, Pedro Velho, Luiz Alves, Mata Roma, Alto Paraíso de Goiás, Barro, Carlópolis, Taquari e Uru",Sally não visitou Luiz Alves,0,boolean_coordination
+"Laurine, Benice, Cayetana, Lou, Elda, Pulquéria, Rosina, Amina e Bibiana visitaram Ipueiras",Benice não visitou Ipueiras,1,boolean_coordination
+"Jerusa, Keira, Ima e Sana visitaram Três Fronteiras",Sana não visitou Pavussu,0,boolean_coordination
+"Rossana, Gloriosa, Martinha, Clarina, Teresinha, Marcelina, Laurinda, Mara, Francesca, Clívia, Liberalina, Fédora, Ilca e Roquelina visitaram Piranga",Laurinda não visitou Piranga,1,boolean_coordination
+"Laila visitou Campina das Missões, Simplício Mendes, Apuiarés, Iporanga, Flórida, Ipê, Buriti, Medicilândia, Piacatu, Novo Oriente, Caracol e Toledo",Mina não visitou Iporanga,0,boolean_coordination
+"Hermânia, Jorja, Marjolene, Margaux, Belmonte, Thalita, Tolentina, Gustava, Preciosa, Lisbon, Isa, Honorina, Marli e Maribel visitaram Jandira",Jó não visitou Jandira,0,boolean_coordination
+"Floriana visitou Muricilândia, Major Isidoro, Buritis e Quitandinha",Anaíde não visitou Quitandinha,0,boolean_coordination
+"Margaux visitou Silva Jardim, Lajes Pintadas, São Gonçalo do Amarante, Morada Nova de Minas, Lagoa dos Patos, Tabocas do Brejo Velho, Volta Grande, Colíder, Passo Fundo, São Geraldo da Piedade e Pantano Grande",Margaux não visitou Pantano Grande,1,boolean_coordination
+"Lucileine visitou Pacajus, Balneário Piçarras, Santo Antônio do Retiro, Curvelândia, São Tiago, Indiaroba, Almeirim, Honório Serpa, Areia de Baraúnas, Uruana e Barra do Rocha",Lucileine não visitou Teodoro Sampaio,0,boolean_coordination
+"Crisanta visitou Upanema, São João da Baliza, Vila Flores, Rio Branco, Diorama, Nova Alvorada, Martinho Campos, Paraíso, Ituporanga, Timóteo, Barra do Turvo, Baldim, Reserva, Bom Sucesso de Itararé, Siderópolis, Conselheiro Mairinck e Redenção",Crisanta não visitou Barra do Turvo,1,boolean_coordination
+"Esménia visitou São José do Vale do Rio Preto, Consolação, Érico Cardoso, Jandaíra, Alto Boa Vista, Nova Esperança, Aguiar, Ipeúna, Assunção do Piauí, Itaguatins e Santa Maria do Pará",Esménia não visitou Manoel Urbano,0,boolean_coordination
+"Maia, Clare, Inara, Ilse, Rafa, Emmy e Almira visitaram Junco do Seridó",Inara não visitou Junco do Seridó,1,boolean_coordination
+"Eleanor, Constance, Chanel, Oriane, Isalina, Safia, Hortense, Eloise, Cornélia, Celisia, Iberina, Arinda, Espírito Santo e Salete visitaram Tasso Fragoso",Anícia não visitou Tasso Fragoso,0,boolean_coordination
+"Estrella, Rosanete, Juvita, Raíssa, Fédora, Erika, Riu, Suati, Sisa, Sam e Adália visitaram Desterro do Melo",Erika não visitou Itapira,0,boolean_coordination
+"Ellie, Taísa, Magnólia, Myla, Leia, Osvalda, Carlinda, Carela e Hortense visitaram São Gonçalo do Pará",Carlinda não visitou São Gonçalo do Pará,1,boolean_coordination
+"Neide visitou Caraúbas, Maribondo, Itiquira, Entre Rios, Teodoro Sampaio, Bom Jesus dos Perdões, Miraíma, Mogi das Cruzes, São João Evangelista, Iporanga, Urutaí, Sul Brasil, Imigrante, Água Doce, Carlos Chagas, Campo Alegre de Lourdes e Porto Nacional",Clívia não visitou Teodoro Sampaio,0,boolean_coordination
+"Pippa visitou Espírito Santo do Turvo, Ibitinga, Irajuba, Socorro, Estrela, Taperoá, Itagimirim, Itatiaia e Muçum",Pippa não visitou Ibitinga,1,boolean_coordination
+"Melida visitou Paragominas, São Miguel do Anta, Alto do Rodrigues, Sooretama, Arcoverde, Congonhal, Cedro de São João, Boa Ventura de São Roque, Victor Graeff, Belém e Itaquitinga",Melida não visitou Arcoverde,1,boolean_coordination
+"Celisia visitou Rio Branco, São João da Fronteira, São João do Paraíso, Nova Granada, Aquidauana, Massaranduba e Pedro Laurentino",Celisia não visitou Cacimba de Dentro,0,boolean_coordination
+"Síria visitou Angelim, Botucatu, Taió, Parnarama, Esperança do Sul, Salto de Pirapora e Santana do Itararé",Síria não visitou Salto de Pirapora,1,boolean_coordination
+"Delilah visitou Arcos, Guaiçara, Três Rios, São Sebastião do Rio Preto e Xambrê",Delilah não visitou Três Rios,1,boolean_coordination
+"Taia, Runa, Norvinda, Salúquia, Ornela, Marsília, Katherine, Especiosa, Sássia, Magenta, Filena, Numénia, Selene, Biana e Louane visitaram Santa Rita de Caldas",Quessia não visitou Santa Rita de Caldas,0,boolean_coordination
+Leonília visitou Anaurilândia e São Bento do Sul,Leonília não visitou Pão de Açúcar,0,boolean_coordination
+Elise visitou Faxinal dos Guedes e Santo Antônio do Caiuá,Elise não visitou Lupionópolis,0,boolean_coordination
+"Tisha visitou Capão do Leão, Santo Antônio do Pinhal, Santa Helena de Goiás, Paulistas, São Lourenço da Serra, Antônio Gonçalves, Registro, Bozano, Maraial, Guarantã, Peritiba, Batatais, Jacinto, Monte Azul Paulista, Santa Rita do Itueto, Santa Luzia do Paruá, Conceição das Pedras, Rio Manso, Autazes e Blumenau",Sira não visitou Santo Antônio do Pinhal,0,boolean_coordination
+"Ricarda, Margaux, Hilária, Nahla, Mariam, Elza, Domitília, Germana e Marinela visitaram São Miguel do Tapuio",Selénia não visitou São Miguel do Tapuio,0,boolean_coordination
+"Cínara, Modesta, Ancha, Inácia, Graciete, Diomar, Isabelle, Dália, Fidélia, Diane, Ellie, Dólique, Siana, Sahara, Leonarda e Jânia visitaram Recreio",Albana não visitou Recreio,0,boolean_coordination
+"Clementine, Marquesa, Kaira, Bitia, Dalida, Dária, Ersília, Giada, Inga e da Cruz visitaram Baturité",Hedviges não visitou Baturité,0,boolean_coordination
+"Darci, Naíra, Florisa, Mona, Jovelina, Cesaltina, Fantina, Indaleta, Lidiana, do Rosário, Anaíde, Dária e Florence visitaram Lagoa Real",Cesaltina não visitou Lagoa Real,1,boolean_coordination
+"Romã visitou Cachoeira Dourada, Vera Cruz, Santo Antônio do Leste, Cananéia, Baixa Grande do Ribeiro, São Bento do Una, Itaju, Barra do Chapéu, Siriri, Mondaí, Jaquirana, Planalto, Princesa Isabel, União dos Palmares, Brazabrantes, Sarandi e Santo Antônio do Aventureiro",Romã não visitou Mondaí,1,boolean_coordination
+"Darlene, Liberalina, Mavelete, Quessia, Mariema, Donzília, Ersília e Josy visitaram Francisco Morato",Ersília não visitou Francisco Morato,1,boolean_coordination
+"Ácil visitou Peritoró, Nova Iorque, São Sebastião da Vargem Alegre, Ponte Alta do Bom Jesus, Presidente Kubitschek, Paraú, Aratiba, Lagoa da Confusão e Santa Bárbara do Monte Verde",Ácil não visitou Itaberaba,0,boolean_coordination
+Naíma visitou Santo Amaro das Brotas e Itapetim,Celinia não visitou Santo Amaro das Brotas,0,boolean_coordination

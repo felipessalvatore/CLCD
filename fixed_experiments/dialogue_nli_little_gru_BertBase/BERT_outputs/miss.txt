@@ -1,0 +1,59 @@
+text,pred,label
+i attend school mit i graduated from mit with a degree in engineering yeah i am homes ##cho ##ole ##d so i made my own friend his name is spark ##y,0,1
+i has profession 0 jan ##itor my job is cleaning out cages at a research facility i stand right at five feet tall,1,0
+i mis ##c attribute liberal i tend to be more liberal in my political beliefs i disagree every sunday i am in church generally the more conservative are there,0,1
+i other vega ##n i am a vega ##n i eat ham,0,1
+i have pet 1 cat i have one cat i have three cat,0,1
+i attend school mit i graduated from mit with a degree in engineering i had a best friend but she took my boyfriend we no longer speak,0,1
+i want job archaeologist i strive to find long lost arctic explorers and return them home they would not survive in my work environment and i am gone a lot,1,0
+i school status graduated i graduated a few years ago i am glad i am no longer in elementary,1,0
+i marital status engaged i am engaged to be married i have a husband who i love very much,0,1
+i marital status single congratulations as a single lady i drink more than i should on blind dates i have never been married,1,0
+i dislike all not really i work for a fast food company i am an animal lover,0,1
+i favorite animal cat my cats are acting weird and i am having writers block i am a kitty lover,1,0
+i like animal dog do you have any pets i have a dog i love dogs but hate cats,1,0
+i has profession pediatric ##ian i am a pediatric ##ian i am a registered nurse in the pediatric wing at the hospital here,0,1
+my mother has profession doctor my mother is a medical doctor she is a nurse in a hospital,0,1
+i has profession 12 real estate agent i have been working as a real estate agent for the past 12 years he was a very talented singer,1,0
+i have sibling 7 sibling i am also i have a big family 6 sisters and one brother i have six older sisters and one younger brother,1,0
+i employed by company mcdonald ##s i serve happy meals jobs in general are a pain i am currently looking for a new one as is,1,0
+i school status graduated i just graduated from college two years ago i work as a kindergarten teacher i love kids,1,0
+i like drink water the plants in my garden are dying from lack of water please help i am hydro ##phobic,1,0
+i mis ##c attribute conservative that is cool i grew up super conservative i tend to be more liberal in my political beliefs,0,1
+i attend school university i have got two more years in college i am homes ##cho ##ole ##d,0,1
+i has profession 12 real estate agent i have been working as a real estate agent for the past 12 years i have been working as a real estate agent for the past nineteen years,0,1
+i physical attribute short no very short just like me i am five foot my height is 60 inches,1,0
+i want children its great to have family i want to find love but no kids for me i do not want kids,1,0
+i school status blank i was once on the football team in highs ##cho ##ol you seem to have a very fun job i just graduated college so still looking for work,1,0
+i like animal dog dogs are my favorite animal i love dogs but hate cats,1,0
+i attend school university i am currently in college i am studying to be a teacher you my best friend took my boyfriend in high school,0,1
+i gender male hey there i am a 40 year old male tell me about yourself i am a guy,1,0
+i has profession manager i am a manager i can ##t i work i am a managerial consultant,0,1
+my favorite food pizza my favorite food is pizza hanging with friends and eating pizza my favorite food quick for a registered nurse like me,1,0
+i live in city ##sta ##tec ##ount ##ry new york i live in new york and work as a model even at my age i am not married single is my status,1,0
+i marital status married i am married with children i am so excited i just got engaged,0,1
+i favorite food sar ##dine ##s i eat sar ##dine ##s for breakfast daily i do go to church we go out for vega ##n su ##shi afterwards,0,1
+i dislike environment that is inform ##ative i also watch videos on the environment i am worried about the environment,1,0
+i employed by company mcdonald ##s i will do anything to leave mcdonald ##s i serve happy meals,1,0
+i employed by general factory i work in a factory 14 10 my boys the ohio state buck ##eye ##s are up by 4 what music,1,0
+i school status graduated i graduated from college last year i do think i went to grace college last year,1,0
+i has profession explorer i am an arctic explorer i was a teacher than ice became more interesting,1,0
+i has profession 18 real estate agent i work in real estate i have been doing it for about 18 years what about you i work in real estate i have been doing it for about 12 years what about you,0,1
+i marital status single i am single i am a model from new york,1,0
+i has profession doctor nice my profession is a doctor i enjoy it apart from body building my job is to save peoples lives,1,0
+i want to graduate i am studying to be on stage after graduation listening to pink floyd helps me study bacon,1,0
+i school status dropped out i dropped out of high school i wish i could but i live in a crap ##py apartment,1,0
+i mis ##c attribute conservative i am very conservative i tend to be more liberal in my political beliefs,0,1
+i has profession 20 real estate agent wow good for you i have been a real estate agent for 20 years now wow good for you i have been a real estate agent for 12 years now,0,1
+i has profession writer i am a writer that is so cool i wish i did something more reward ##ing than sales,0,1
+i employed by general healthcare i work in the healthcare industry that is cool i a short one so they make fun of me at times,1,0
+i favorite activity hiking i am single mom so other than hiking a lot of running my boys around to sports i enjoy nature walks,1,0
+i has age baby boom ##er i am what people call a baby boom ##er 65 just a kid keeping up my parents legacy proud american immigrants,1,0
+i place origin wisconsin wisconsin born and raised macedonia seems exotic i am originally from the state that is famous for cheese,1,0
+i like drink water for sure and possibly work through your fear of water i am afraid of water,0,1
+jordan has profession vet ##erina ##rian hey there my name is jordan and i am a vet ##erina ##rian cool i live in florida so lots of doctors here,1,0
+my father previous profession army my dad was in the army during wwii my father served in our military in the war,0,1
+i job status employed i brush daily i am unable to work at a job because of a disability,0,1
+i marital status divorced i am divorced and have a kids nope a man like a 40 y ##r old man so,1,0
+my father has profession truck driver my dad drove a semi driver and i was on the road with him my dad has a car dealers ##hip,0,1
+i employed by general military i have a job in the military violence is why my mom moved me from puerto rico,1,0

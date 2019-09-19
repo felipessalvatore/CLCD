@@ -1,0 +1,1001 @@
+sentence1,sentence2,label,label_form
+Linda has visited only twenty-three places and only twelve people,"Linda has visited Tupelo, Louisville, Terre Haute, San Marcos, Grand Rapids, Emmitsburg, Harrisburg, Piqua, Bethany, Socorro, Chester and Opelousas",0,counting
+Elsie has visited only four places and only three people,Elsie has visited Rhonda and Megan,0,counting
+Tara has visited only thirty places,"Tara has visited Martinez, Canton, New Jersey, Manassas, Nebraska City, Neenah, Marysville, West Haven, Baker City, Painesville, Columbus, Middletown, Bisbee, Tiffin, Boulder, Sheridan, Victoria, Alabama and Georgia",0,counting
+Shelly has visited only twenty-nine places and only seventeen people,"Shelly has visited Charleston, Bloomfield Hills, Nebraska City, Lake Oswego, New Rochelle, Jacksonville, Tarrytown, Ohio, Chapel Hill, Yuba City, East Point, Essex, Ukiah, Myrtle Beach, Duxbury, Pagosa Springs, Babylon, Enterprise, Florida, Sanford, Long Branch, Jersey City, Adrian, Steubenville, Charles City, Devils Lake, Oraibi, Burlington, Longmont and Reedsport",1,counting
+Stella has visited only nine places and only six people,"Stella has visited Sabrina, Tina, Bonnie and Margarita",0,counting
+Shirley has visited only five places,Shirley has visited Coulee Dam,0,counting
+Dorothy has visited only sixteen places,"Dorothy has visited East Saint Louis, Weymouth, Greenville, Laramie, Gallatin, Columbus, Charles City, Homer, Sacramento, West Chester, Bedford, Silver Spring, Norris, Plattsburgh, Manitowoc, Winter Haven and Dahlonega",1,counting
+June has visited only one place,June has visited San Mateo,0,counting
+Mattie has visited only fourteen places and only fourteen people,"Mattie has visited Chester, Smyrna, Lexington, Ocean City and Bellevue",0,counting
+Martha has visited only sixteen places and only six people,"Martha has visited Samantha, Wanda, Brandy and Hazel",0,counting
+Lillian has visited only seven places and only five people,"Lillian has visited Joann, Joan, Sharon, Jamie, Alicia and Lucy",1,counting
+Sharon has visited only nineteen places,"Sharon has visited Babylon, El Reno, Oklahoma, Huntsville, Vernal, Findlay, West Palm Beach, Kewanee, Houlton, Mesquite, Phoenix, Ann Arbor, Chautauqua, San Gabriel, Annapolis and Monmouth",0,counting
+Billie has visited only sixteen places and only one people,"Billie has visited Lubbock, Colorado, Oklahoma, Sand Springs, Florence, Nevada, Jeffersonville, Wisconsin, Queens, Lebanon, Muncie, Minot, Glen Ellyn, Logan, Okmulgee, Maysville and Gillette",1,counting
+Genevieve has visited only one people,Genevieve has visited Kristin and Claudia,1,counting
+Georgia has visited only nineteen places and only ten people,"Georgia has visited Marilyn, Renee, Christina, Laurie, Jill, Linda, Joanne, Lillian and Kathy",0,counting
+Charlene has visited only one place and only one people,Charlene has visited Claire and Deanna,1,counting
+Stephanie has visited only one place,Stephanie has visited Auburn,0,counting
+Phyllis has visited only twenty-three places and only thirteen people,"Phyllis has visited Naomi, Stephanie, Lola, Sarah, Agnes, Katie, Alison, Kristine, Charlene and Catherine",0,counting
+Bernice has visited only twenty-three places and only fifteen people,"Bernice has visited Sonya, Shelly, Erica, Tina, Carla, Nancy, Joann and Marguerite",0,counting
+Claire has visited only twenty-nine places,"Claire has visited Durham, Biloxi, Cambridge, Catonsville, Salt Lake City, Calais, Towson, Abbeville, Gillette, El Paso, Takoma Park, Princeton, Bayonne, Cedar City, Jacksonville, Lexington, River Forest, Waukegan, Estes Park and Reston",0,counting
+Lynda has visited only eight places,"Lynda has visited Rensselaer, Prineville and Columbus",0,counting
+Gloria has visited only seventeen places and only one people,"Gloria has visited West Covina, North College Hill, Texas City, Boise, Medford, Summit, Darlington, Ypsilanti and Lewiston",0,counting
+Christine has visited only twenty-three places and only fifteen people,"Christine has visited Jane, Stella, Stephanie, Kristina, Maryann, Maxine, Lola, Pearl, Christy, Juanita, Lucille, Megan, Bobbie, Vickie, Joann and Kristin",1,counting
+Nora has visited only ten people,"Nora has visited Jodi, Julia, Melody, Verna, Angela, Denise, Eunice, Brenda, Rachel, Peggy and Ruby",1,counting
+Samantha has visited only twenty-four places,"Samantha has visited West Springfield, Altoona, The Village, Effingham, Falmouth, Arkansas, Wellfleet, Concord, Washington, Arizona, Sweetwater, Camden, Spanish Fork, Mesquite, Caldwell, Wickford, Chickasaw, Nashville, Puyallup, Menlo Park, Ocean City, Burlington, Alamogordo, Cleveland and Fulton",1,counting
+Kathryn has visited only eighteen people,"Kathryn has visited Ramona, Jeanette, Suzanne, Amy, Julie, Natalie, Paula, Brenda, Evelyn, Georgia, Doris, Tanya, Lula, Beth, Billie, Ana, Gina, Lucille and Alicia",1,counting
+Kristine has visited only twenty-two places and only twenty-two people,"Kristine has visited Bemidji, Fullerton, Homer, Shawneetown, Missouri, Bountiful, Gulfport, Chapel Hill, Tewksbury, Arlington Heights, Waukegan, Benton Harbor, Westminster, Kotzebue, Bradenton, Winter Haven, Fort Collins, Meriden, Weatherford, Boston, Randolph, Borger and Oklahoma",1,counting
+Katherine has visited only nineteen places and only fifteen people,"Katherine has visited Julia, Sandy, Carolyn, Thelma, Hazel and Heather",0,counting
+Lena has visited only eighteen places,"Lena has visited Parsippany–Troy Hills, New Brunswick, Winston-Salem, Wyandotte, Burlington, Cedar City, San Bernardino, Takoma Park, Westerly, Camden, Arkadelphia, New Haven, Pennsylvania, Whittier, Pittsburgh, Janesville and Carbondale",0,counting
+Caroline has visited only twenty-one people,"Caroline has visited Christy, Joanna, Sylvia, Rita, Lynn, Kristy, Nina, Opal, Candace, Ann, Jeanne, Julia, Sandra and Bessie",0,counting
+Dolores has visited only fourteen people,"Dolores has visited Amelia, Stephanie, Kim, Bernice, Annie, Marguerite, Julie, Connie, Darlene, Mildred, Candace, Frances, Billie, Erica and Maureen",1,counting
+Susan has visited only three places and only one people,"Susan has visited Crookston, Beverly Hills, Berlin and Saint Joseph",1,counting
+Maureen has visited only eight places,Maureen has visited Huntington and Wilmette,0,counting
+Evelyn has visited only eight places and only one people,"Evelyn has visited San Diego, Superior, Tewksbury, Oberlin, Windsor and Nags Head",0,counting
+Dianne has visited only nineteen places,"Dianne has visited Chillicothe, Smith Center, Hillsboro, Reno, Grand Forks, Alexandria, Fallon, Goshen, Kansas City, Petersburg, Ely, Stockton, Kansas, Monticello, Concord, Oklahoma, Champaign, Englewood, Ajo and Simsbury",1,counting
+Beulah has visited only twenty-nine places and only twenty-three people,"Beulah has visited Maria, Lillie, Verna, Lee, Nina, Rebecca, Renee, Judith, Sue, Margaret, Pauline, Amelia, Judy, Hattie, Marie, Velma, Georgia, Shelley, Cindy, Annie, Peggy, Delores, Gina and Gertrude",1,counting
+Leona has visited only twenty places and only ten people,"Leona has visited West Virginia, Lincoln, Mount Vernon, Lewiston, Henderson, Priest River, Milwaukee, Winter Park, Needles, Baton Rouge, Jefferson City, Owatonna, Massachusetts, Winsted, Eastchester, Williamstown, Laconia and Kennebunkport",0,counting
+Barbara has visited only twenty-eight people,"Barbara has visited Irma, Madeline, Elizabeth, Barbara, Sheryl, Paula, Vicki, Tamara, Opal, Jeanne, Jacqueline, Victoria, Glenda, Maggie, Regina, Roberta, Hazel, Sheila, Jackie, Louise, Theresa, Esther, Laurie, Peggy, Erin, Tina and Kimberly",0,counting
+Thelma has visited only nineteen places and only four people,"Thelma has visited Dover, Gainesville, Orlando, Harpers Ferry, York, Ticonderoga, Glens Falls, Pittsfield, Silver City, Decatur, Waynesboro, Moab, Carlsbad, Arkansas, Littleton, South Holland, Uvalde, Mattoon, Gastonia and White Plains",1,counting
+Rosa has visited only two places and only two people,Rosa has visited Lake Oswego,0,counting
+Sherri has visited only eight people,Sherri has visited Vickie,0,counting
+Josephine has visited only thirty people,"Josephine has visited Mae, Evelyn, Yolanda, Helen, Monique, Brenda, Claire, Allison, Katie, Guadalupe, Daisy, Charlotte, Kristen, Jean, Diane and Audrey",0,counting
+Bertha has visited only twenty-four places,"Bertha has visited Estes Park, Oskaloosa, Chelmsford, San Luis Obispo, Houghton, Tarpon Springs, Omaha, Tempe, Springfield, Bend, Taunton, Twin Falls, South Saint Paul, Springville, Charleston, Albert Lea, Albuquerque, Lake City, Truro, Mount Vernon, Hattiesburg, Levittown, Texas, Amana Colonies and Leadville",1,counting
+Marilyn has visited only twenty-four places,"Marilyn has visited Marblehead, Union, Guymon and Aberdeen",0,counting
+Victoria has visited only thirty people,Victoria has visited Kristin and Mary,0,counting
+Brandi has visited only ten places,"Brandi has visited Ansonia, Stockton, Trenton, Harrison, New Bern, Sharon, Rock Island and Wethersfield",0,counting
+Tina has visited only nine places,"Tina has visited Tuscaloosa, Charleston, Jacksonville, Richland, Glassboro, Nashville, Florence, Bowling Green, Sag Harbor and Bainbridge",1,counting
+Jeanne has visited only twenty places,"Jeanne has visited Bristol, Bay City, Knoxville, Layton, Dunkirk, Midwest City, Ilion, Winona, Charleston, Texarkana and Lynchburg",0,counting
+Roberta has visited only thirteen places and only ten people,"Roberta has visited Fredonia, Fullerton, Delray Beach, Stockbridge, Green Bay, Evanston, Pennsylvania and Manchester",0,counting
+Leona has visited only twenty-one places and only one people,"Leona has visited Daytona Beach, Lexington, Central Falls, Litchfield, Wailuku, Manchester, Irvington, Easton, Glens Falls, Gary, Phoenix, Tennessee, North Kingstown, Watertown, San Fernando, South Carolina, Minden, Glen Ellyn, McMinnville, Bedford, Vancouver and Hopkinsville",1,counting
+Amelia has visited only eleven people,"Amelia has visited Elaine, Geneva, Janet, Charlene, Maureen, Jessie, Lucy, Shannon, Kristine and Elsie",0,counting
+Holly has visited only twenty-two places,"Holly has visited Auburn, Somerville, Fitzgerald, New Iberia, Houston, Portsmouth, Fort Collins, Glenview, Kaskaskia, Harrisburg, Chickasaw, West Plains, Arlington, Manchester, El Paso, Huntington, Evanston, Ansonia, Ellsworth, Artesia, Helena, Bessemer and Elmira",1,counting
+Dolores has visited only twenty-four places and only eight people,Dolores has visited Stratford,0,counting
+Alma has visited only seven places and only one people,Alma has visited Ella,0,counting
+Blanche has visited only twenty-nine people,"Blanche has visited Tina, Brandi, Ann, Deborah, Cora, Laurie, Leslie, Beatrice, Roberta, Janice, Connie, Michele, Ana, Megan, Georgia, Courtney, Verna, Tammy, Lisa, Kristin, Julie, Sylvia, Gloria, Lynda, Geraldine, Maria, Gertrude, Willie, Susie and Natalie",1,counting
+Sheryl has visited only nineteen people,"Sheryl has visited Brandy, Dawn, Lois, Judy, Opal, Joanne, Audrey, Alice, Margie, Belinda, Pamela, Kristine, Tina, Evelyn and Ethel",0,counting
+Brandi has visited only twenty-five places and only fourteen people,"Brandi has visited Sabrina, Brenda, Claudia, Marcia, Dora, Becky, Cynthia, Valerie, Alison, Hazel, Charlene, Edith, Dianne, Crystal and Allison",1,counting
+Minnie has visited only twenty-two places and only seven people,"Minnie has visited South Carolina, Troy, Charlottesville, New Martinsville, Anaconda, Fort Benton, Bound Brook, Alma and Gaffney",0,counting
+Ellen has visited only twenty places and only two people,"Ellen has visited Riverside, Hackensack, Douglas, New Rochelle, Moore, Niles and West Chester",0,counting
+Yvonne has visited only five people,Yvonne has visited Christina and Dolores,0,counting
+Phyllis has visited only seven places and only three people,Phyllis has visited Karen,0,counting
+Pamela has visited only sixteen places and only eight people,"Pamela has visited Lower Southampton, Macon, Halifax, Maryland, Dayton, Sacramento, Lakeview, Hershey, Independence, Santa Cruz, Bath, Niles, Rexburg, Honaunau, Saint Joseph, Stockton and Douglas",1,counting
+Marlene has visited only eleven places and only three people,"Marlene has visited Wethersfield, Rye, Forest Hills, Charlotte, Mount Pleasant and Gastonia",0,counting
+Toni has visited only four places and only four people,"Toni has visited Eau Claire, Central Falls and Bedford",0,counting
+Erica has visited only twenty-five people,"Erica has visited Theresa, Marsha, Esther, Kathryn, Shirley, Madeline, Deanna, Gail, Bertha, Sandra, Joy, Angela, Jennifer, Gina, Beatrice, Lois, Iris, Carolyn, Tracey and Mattie",0,counting
+Sue has visited only fourteen places,"Sue has visited California, Canton, Pharr, North Hempstead, Cadillac, Worland, Racine, New London, Virginia, Plattsburgh, Corydon, Boise, Hartsville, Virginia City and Alcoa",1,counting
+Cynthia has visited only nineteen people,"Cynthia has visited Veronica, Theresa, Brenda, Denise, Juana, Yolanda and Mae",0,counting
+Jean has visited only twelve places,"Jean has visited Everett, Catonsville, Hartsville, Anderson, Takoma Park, Danville, Lakewood, Henderson, Totowa, Sallisaw, Norwich, Waycross and Hopewell",1,counting
+Mildred has visited only twelve places,"Mildred has visited West Bend, Alcoa, Parkersburg, Cookeville, Longview, College Park and Jacksonville",0,counting
+Lynn has visited only twenty-eight places,"Lynn has visited Sharon, San Leandro, Bangor, Ephrata, Alexandria, Normal, Calais, San Jose, Elwood, Puyallup, Cumberland and Brattleboro",0,counting
+Rose has visited only twenty-one places,"Rose has visited Germantown, Port Washington, Hamilton, Kahului, Garland, Keokuk, Attleboro, Florence, Leominster, Babylon, Shepherdstown, Arkansas City, York, Cooperstown, Tennessee, Worland, Salisbury, Culver City, Davenport, East Hampton, Stamford and Coeur d’Alene",1,counting
+Lena has visited only nineteen places,"Lena has visited Weirton, Camden, Ripon, Tulsa, Morehead City, Cumberland, Wayne, Barstow, Newport, Fort Wayne, Steubenville, Calistoga, Ishpeming, Bastrop, Kitty Hawk, Perry, Ventura, De Land, Shiprock and Mentor",1,counting
+Pauline has visited only sixteen places,"Pauline has visited Rome, Walpi, West Virginia, Heber City, Fredericksburg, Fitzgerald, Bryan, Reading, Grand Forks, Alexandria, Fremont, Amesbury and South Bend",0,counting
+Claire has visited only sixteen places and only sixteen people,"Claire has visited Chicopee, Hyattsville, Milford, Michigan City, Fallon, Houghton, Arkansas, Boca Raton, Gainesville, Bedford, Independence, Pasadena, Demopolis, Elmira, Brighton, Aurora and Monroe",1,counting
+Veronica has visited only twenty-four places and only eight people,Veronica has visited Molly and Janie,0,counting
+Marie has visited only eleven people,"Marie has visited Jessie, Verna, Wendy, Allison, Anita, Lynda, Holly, Toni, Patricia, Sara, Natasha and Jeanne",1,counting
+Bertha has visited only nine places,"Bertha has visited Athens, Fairhaven, Delaware, Denver, La Grande, Goshen, Staten Island, Clarksville, Charlotte and San Francisco",1,counting
+Charlotte has visited only twenty people,"Charlotte has visited Fannie, Donna, Terri, Marjorie, Crystal, Judy and Christina",0,counting
+Constance has visited only twenty places,"Constance has visited Lewistown, West Bridgewater, Taos, Beverly, Warren, Rye, Meadville, The Village, Beckley, Steamboat Springs, Rockford, Newton, Paris, Lubec, Hillsborough, Bloomfield Hills, Shelton, Logan, Claremore, Royal Oak and Big Spring",1,counting
+Jessica has visited only five places,"Jessica has visited Salem, Woodstock, Jacksonville, Monroe, Fullerton and Kawaihae",1,counting
+Sabrina has visited only twenty-eight places,"Sabrina has visited Rochester, Pass Christian, Newark, Port Angeles, Mansfield, Scarborough, Blytheville, Brockton, Hawaii, Mystic, Royal Oak, Gillette, Pittsfield, Coeur d’Alene, Auburn, Mississippi, Abilene, Gulfport, Sallisaw, Lead, Greenville, Fairmont, Vermillion, North Las Vegas, Camden, Salinas, Mount Vernon, Shelton and Fremont",1,counting
+Wanda has visited only one place,Wanda has visited Mishawaka,0,counting
+Sherri has visited only twenty-six people,"Sherri has visited Claudia, Angela, Janie, Kristina, Carla, Harriet, Vivian, Rosemary, Bernice, Bessie, Hazel, Lee, Lula, Kelly, Renee, Cassandra, Teresa, Beth, Shelley, Tammy, Velma, Tiffany, Fannie, Delores, Sara, Georgia and Amy",1,counting
+Patricia has visited only twenty-eight people,"Patricia has visited Rose, Veronica, Katherine, Jill, Darlene, Carla, Erica, Marion, Kristina, Laura, Lena, Kristy, Christy, Lola, Suzanne, Luz, Lorraine, Virginia, Leona, Annie, Margie, Louise, Dianne, Kelly, Betty, Mae, Genevieve, Irene and Susan",1,counting
+Elsie has visited only five people,Elsie has visited Audrey and Megan,0,counting
+Audrey has visited only fifteen places,"Audrey has visited Concord, Euclid, La Grange, Harmony, Geneva, Woonsocket, West Lafayette, New York City, Hannibal, Kingsville, South Orange Village and Sheboygan",0,counting
+Willie has visited only twenty-seven people,"Willie has visited Dora, Shannon, Jessica, Candace, Melinda, Linda, Lydia, Jan, Crystal, Cynthia, Beatrice, Rosie, Sue, Phyllis, Lucy, Ramona, Daisy and Mae",0,counting
+Lois has visited only twenty-nine places,"Lois has visited Tempe, Santa Rosa, Middletown, East Orange, Oak Harbor, Wheaton, Gunnison, New Castle, Gretna, Laredo, Illinois, South Saint Paul, Plymouth, Moscow, Lake Wales, New Ulm, Mishawaka, Chadron, Fairfield, Des Moines, Arizona, Clinton, Opelousas, Port Lavaca, Gallup, Randolph, Claremont, Wethersfield, Minot and West Haven",1,counting
+Cassandra has visited only thirty places,"Cassandra has visited Fremont, Clifton, Niagara Falls, Lisle, Cambridge, North Haven, New Orleans, Johnstown, Berea, Maine, Bogalusa, Boulder City, Englewood, Lafayette, Alexandria, Philadelphia, Tamaqua, Tucson, Uniontown, Minnesota, West Lafayette, Salem, Wilmington, Belmont, Coronado, Stony Point, Rockland, Macomb, York, Tupelo and New York City",1,counting
+Deborah has visited only fifteen places and only ten people,"Deborah has visited Huntsville, Cedar Rapids, New York City, Torrington, Chillicothe, Middletown, Monticello, Uniontown, Jackson, Cincinnati, Pipestone, Dalton and Clarksville",0,counting
+Isabel has visited only twenty places,"Isabel has visited Morganton, Gadsden, Bowling Green and Lewistown",0,counting
+Evelyn has visited only five people,"Evelyn has visited Ana, Audrey, Marian, Ella, Joy and Samantha",1,counting
+Vera has visited only four places,Vera has visited Atlanta and Elgin,0,counting
+Juanita has visited only twenty-five places and only two people,"Juanita has visited Sandusky, Troy, Prescott, Ocean City, Ellsworth, Haines, Concord, Union, The Dalles, Lodi, Charlestown, Fall River, Saco, Watertown, Bridgeport, Nephi, Oshkosh, Gardiner, Clearwater, Tewksbury, Clarksburg, Socorro, Albany, Gainesville, Panguitch and Harrison",1,counting
+Rosie has visited only three people,"Rosie has visited Naomi, Myrtle, Ella and Janice",1,counting
+Jean has visited only twenty-seven people,"Jean has visited Diana, Felicia, Kristin, Bobbie, Wendy, Marian, Maryann, Hattie, Ashley, Olivia, Michele, Jill, Janet, Alicia and Jeanette",0,counting
+Shelly has visited only twenty-one places,"Shelly has visited Elmhurst, Lakehurst, Kent, Elgin, Chicago, Bristol, Cadillac, Falmouth, Washington, Anderson, Gillette, Bronx, Fort Lauderdale, Parma, Cleveland, Clinton, Terre Haute, Huntsville, The Village, New Rochelle, Houghton and Roswell",1,counting
+Rhonda has visited only six places and only four people,Rhonda has visited Deming and Corning,0,counting
+Toni has visited only four places and only four people,"Toni has visited San Fernando, Wahiawa, Chickasaw, Idaho City and Dedham",1,counting
+Martha has visited only twenty-two places and only twelve people,"Martha has visited Anita, Clara, Janet, Erika, Cathy, Agnes, Charlene, Velma, Melissa, Melinda, Sally, Erica and Glenda",1,counting
+Nellie has visited only twenty-one places and only twenty people,"Nellie has visited Judith, Tina and Leah",0,counting
+Edna has visited only fourteen people,"Edna has visited Bessie, Kristine, Sherry, Leslie, Theresa, Susie, Madeline, Juanita, Anna, Connie, Tina, Faye, Daisy, Ida and Caroline",1,counting
+Charlene has visited only eighteen places and only seventeen people,"Charlene has visited Fannie, Kim, Carolyn, Beth, Joann, Cecilia, Terry, Angela, Agnes, Eleanor, Inez, Beverly, Janie and Tamara",0,counting
+Helen has visited only twelve places,"Helen has visited Sheffield, Indiana, Rome, Clinton, Henderson, Bloomfield Hills, Palmyra, Tuscumbia, Monmouth, Anaconda, Youngstown, Totowa and Andersonville",1,counting
+Lena has visited only one place and only one people,Lena has visited Joy and Laurie,1,counting
+Beverly has visited only twenty-six places,"Beverly has visited Weehawken, San Marino, Revere, Collinsville, Newark, Bossier City, Chickasha, Santa Barbara, Oklahoma, Derby, Goshen, Denison, Wooster, Newport, Escanaba, Providence, Philadelphia, Laramie, Charlestown, Savannah, Port Lavaca, Wahpeton, Cedar Falls, Levittown, Reston, Bloomfield and Windsor",1,counting
+Angie has visited only ten places,"Angie has visited Lovington, Redlands, Eagle Pass and White Plains",0,counting
+Heather has visited only five places and only five people,"Heather has visited Pearl, Maxine, Agnes, Kayla, Doris and Janie",1,counting
+Cheryl has visited only two places,"Cheryl has visited Ferguson, Steubenville and Arlington Heights",1,counting
+Norma has visited only twenty-five places and only twenty-four people,"Norma has visited Constance, Shelly, Joanna, Beulah, Lindsay, Madeline, Lola, June, Rachel, Guadalupe, Molly, Opal, Myrtle, Luz, Theresa, Sonya, Katrina, Mamie, Sylvia, Danielle, Suzanne, Paula, Lillie, Cynthia and Miriam",1,counting
+Marjorie has visited only twenty-eight places,"Marjorie has visited Kittery, Clinton, Ukiah, Carthage, Point Pleasant, New Smyrna Beach, Joliet, Rocky Mount, Lawton, Grand Island, Wichita, Long Beach, Barstow, Waynesboro, Charleston, Nacogdoches, Alton, Uniontown, Steubenville, Garden City, Dahlonega, Perry, Tamaqua, Marblehead, Ridgewood, Magnolia, Terre Haute, Hanalei and Prescott",1,counting
+Jamie has visited only ten places and only eight people,"Jamie has visited Laurie, Ada, Catherine, Fannie, Sue, Olga, Kathy, Jennifer and Wanda",1,counting
+Terri has visited only five places,"Terri has visited Dedham, Dunkirk, San Antonio, Billings, Cleburne and Salem",1,counting
+Stella has visited only twenty-six places and only seventeen people,"Stella has visited Ella, Erin, Phyllis, Cheryl, Deanna, Anna and Monica",0,counting
+Jane has visited only eleven places and only five people,"Jane has visited Judith, Vanessa, Misty, Andrea, Heather and Rosie",1,counting
+Amanda has visited only twenty-six places,"Amanda has visited Pasco, Fort Pierce, Nashville, Kingsville, Jim Thorpe, West Lafayette, Bloomfield Hills, Shawneetown, Fort Payne, Gastonia, Tiffin, Paducah and Grafton",0,counting
+Bonnie has visited only four people,Bonnie has visited Jacqueline,0,counting
+Suzanne has visited only five places and only two people,"Suzanne has visited Hamilton, Skagway and Bardstown",0,counting
+Lucy has visited only five people,"Lucy has visited Susan, Beverly, Doris, Sylvia, Renee and Agnes",1,counting
+Deborah has visited only eleven places and only two people,Deborah has visited Daisy,0,counting
+Connie has visited only twenty-one people,"Connie has visited Lynda, Deborah, Vicki, Inez, Sherri, Kim, Vera, Nellie, Betty, Jeanne, Belinda, Colleen, Beulah, Alicia, Eunice, Margie, Kelly, Jessie, Sally, Myrtle, Sandy and Gertrude",1,counting
+Claire has visited only six places,"Claire has visited Johnson City, Guthrie, Roanoke and Middletown",0,counting
+Maggie has visited only twenty-eight people,"Maggie has visited Delores, Claudia, Monica, Tracy, Emily, Vera, Debbie, Dawn, Leona, Maxine, Christine, Kimberly and Ellen",0,counting
+Brenda has visited only twenty-eight places and only eight people,"Brenda has visited Marinette, Yazoo City, Asbury Park, Santa Cruz, Parsippany–Troy Hills, Cuyahoga Falls, Van Buren, Salem, New Glarus, Willmar, New Milford, Warrensburg, Corpus Christi, Walpi, Homer, Mansfield, Bozeman, Gary, Moscow, Narragansett, New Jersey, Honesdale, Arkansas, Hodgenville, Bastrop, Woods Hole, Guymon, New Castle and Rumford",1,counting
+Tiffany has visited only ten places and only three people,"Tiffany has visited Garden City, Lawrence, Ishpeming, Baton Rouge, International Falls, Washington, Downey and Fulton",0,counting
+Paula has visited only twenty-four people,"Paula has visited Connie, Rosie, Jamie, Velma, Kristin, Lindsay, Lynda, Gladys, Ida, Mabel, Melody, Florence, Rachel, Marjorie, Irene, Dianne, Juana, Glenda, Isabel, Wendy, Shannon, Rita, Thelma, Stephanie and Christy",1,counting
+Lee has visited only sixteen people,Lee has visited Allison,0,counting
+Candice has visited only twenty-six places,"Candice has visited Oxford, Osawatomie, Brookings, Bedford, Hobart, Florence, Nebraska, Charleston, Lansing, Saint Martinville, Geneva, Manhattan, Gallatin, Bloomfield, Indio, Hanover, Piqua, Cahokia, Fernandina Beach, Clarksburg, Granite City, Cincinnati and Santa Cruz",0,counting
+Teresa has visited only twenty people,"Teresa has visited Lucy, Allison, Rebecca, Lauren, Katie, Mary, Vanessa, Iris, Cheryl, Patricia, Lydia, Lucille, Bernice, Susan, Charlene, Joan, Sara, Kathy, Carolyn, Eileen and Valerie",1,counting
+Erin has visited only twenty places and only eighteen people,Erin has visited Sue and Lynn,0,counting
+Sonia has visited only fourteen people,"Sonia has visited Jill, Pamela, Christy, Daisy, Lee, Gloria, Jenny, Kayla, Eunice, Lola, Megan, Mattie, Amber, Charlotte and Tanya",1,counting
+Jacqueline has visited only thirty places and only nineteen people,"Jacqueline has visited Hattiesburg, Holyoke, Charles City, Greeneville, Grand Rapids, Cohasset, Claremore, Harlem, Huntington, Corinth, Lincoln, Jonesborough, Kingston, Kawaihae, Saint Joseph, Anacortes, Edinburg, Tuscaloosa, Socorro, Flint, Wichita, Jim Thorpe, Barstow, Carthage, Newport Beach, Ossining, Monroe, Washington, Macomb, Alma and Irvington",1,counting
+Rosa has visited only twenty-four places and only six people,"Rosa has visited Constance, Louise, Nicole, Arlene, Helen, Bessie and Sylvia",1,counting
+Monique has visited only twenty-three people,"Monique has visited Ada, Geraldine, Tina, Naomi, Natasha, Denise, Carrie, Eileen, Ellen, Lillie, Toni, Maggie, Kristina and Carla",0,counting
+Vivian has visited only twenty-seven places and only fifteen people,"Vivian has visited Fulton, Burlington, Mount Clemens, Osawatomie, Youngstown, Bluefield, New Iberia, Baraboo, Richmond, Lubec, Lebanon, Tahlequah, Lakeview, New London, Fairmont, Bozeman, Park City, Hackensack, Groton, Richland, Bellevue, Lehi, Ohio, Germantown, American Fork, Albuquerque, Borger and Woodbridge",1,counting
+Beulah has visited only twenty-six people,"Beulah has visited Bernice, Judith, Bessie, Shirley, Lee, Velma, Ella, Carmen, Melinda, Anna, Katherine, Alice, Tracy, Brandi, Darlene, Martha, Geraldine, Candace, Melanie, Verna, Sherry, Emily, Esther, Patsy, Lisa, Gina and Elsie",1,counting
+Velma has visited only thirteen places and only two people,"Velma has visited Greensburg, Rutherford, Spring Green, Cranston, Lake Geneva, Rome, Webster City, Weirton, Weymouth, Fort Lauderdale, Beacon, Louisiana, Fort Valley and Redmond",1,counting
+Sonia has visited only ten places,"Sonia has visited Portsmouth, Gettysburg, Warm Springs and Westerly",0,counting
+Erica has visited only sixteen places,"Erica has visited Northfield, Sheffield, Kingsport, Goldsboro, Bremerton, Henderson, Pharr, Jeannette, Littleton, Bogalusa, Georgia, Hobart, Plano, Simsbury, Huron, Corona and Utah",1,counting
+Mae has visited only five people,"Mae has visited Rose, Debra, Tracey, Dora, Rhonda and Katie",1,counting
+Kayla has visited only twenty-eight places,"Kayla has visited Junction City, South Saint Paul, Boonesborough, Pasadena, Gloversville, Santa Fe, Coffeyville, Sausalito, Starkville, Tampa, Uvalde, La Junta and Palm Beach",0,counting
+Alicia has visited only eleven places,"Alicia has visited Fremont, Cleburne, Randolph, Biloxi, Saranac Lake, Lancaster and Belleville",0,counting
+Janice has visited only twenty-two people,"Janice has visited Rachel, Billie, Laurie, Josephine, Debbie, Frances, Katrina, Wanda, Mamie, Antoinette, Janet, Doris, Margie and Kristy",0,counting
+Samantha has visited only twenty-nine places,"Samantha has visited Enid, Pomona, Lewistown, Belleville, Canton, Rawlins, Estes Park, Saint Johnsbury, Utica, Carlisle, Cocoa Beach, Interlochen, Ormond Beach, Calexico, Hollywood, Royal Oak, Parsippany–Troy Hills, West Bridgewater, Albany, Laredo, Spartanburg, Stuttgart, Lafayette, Boise, Warren, Mundelein, Georgia, Orange, Lancaster and Nashville",1,counting
+Marjorie has visited only sixteen places,"Marjorie has visited Globe, Amarillo, Seaside, Athol, High Point, Beverly Hills, Sterling, Madison, Ajo, Dickinson, Chelsea, Yakima, Buffalo, Garden City, Palatka, Greeley and Oakland",1,counting
+Lindsay has visited only sixteen people,"Lindsay has visited Jessie, Jennifer, Sylvia, Susie and Cecilia",0,counting
+Rebecca has visited only twenty-eight places and only four people,"Rebecca has visited Hickory, Houston, New Orleans, Manhattan, Sunbury, Martinez, Amesbury, Washington, Park Forest, Fairmont, Dubuque, Shaker Heights, Gillette, Vicksburg, Saint Charles, Cody, Portsmouth, Durham, Biddeford, Minneapolis, Shelton, Lima, Middletown, Yakima, Columbia, Philadelphia, Hempstead, Hobbs and Missouri",1,counting
+Anna has visited only twelve people,Anna has visited Kimberly,0,counting
+Marion has visited only twenty-three places and only sixteen people,"Marion has visited Olivia, Billie, Michele, Julia, Renee, Leah, Tamara, Ada, Kristi, Monica, Sarah, Marlene, Diane, Heather and Clara",0,counting
+Laurie has visited only eleven places,"Laurie has visited Berlin, Cedar Rapids, Manhattan, Turlock, Petaluma, Bryan, Rhode Island, Orange, Palmyra, Moses Lake, Indianola and Elizabeth City",1,counting
+Sheryl has visited only twelve places and only two people,"Sheryl has visited Kaneohe, Millville, Macon, Turlock, Campbellsville, Wooster, Beckley, Port Orford, New Hope, Portage, Belvidere, Marquette and Bar Harbor",1,counting
+Roberta has visited only fifteen people,"Roberta has visited Colleen, Victoria, Lillian, Leah, Jennie, Valerie, Isabel, Florence, Katie, Margie, Christine, Mae, Kathy, Joann, Jessica and Ethel",1,counting
+Sonia has visited only fifteen places and only nine people,"Sonia has visited Salem, Danville, Glendive, Spring Green, Mackinaw City, Winooski, Chickasha, Rhinelander, Levittown, Columbia, Waterville and Peekskill",0,counting
+Becky has visited only eleven people,"Becky has visited Bessie, Willie, Nina, Jean, Tamara, Maureen, Margarita, Peggy, Sandra and Verna",0,counting
+Lillie has visited only eighteen places and only fifteen people,"Lillie has visited Scarsdale, Watkins Glen, Jeffersonville, Belmont, Taunton, Cooperstown, Hudson, Little Falls, Smyrna, Cleveland, Lancaster, Whitman, Towson, Morgan City, Santa Clarita, De Smet, Connecticut, Freeport and Richmond",1,counting
+Carrie has visited only three people,"Carrie has visited Juanita, Pauline, Angie and Jenny",1,counting
+Jill has visited only two places,"Jill has visited Centralia, Tucumcari and Manhattan",1,counting
+Madeline has visited only five places and only five people,"Madeline has visited Rosemary, Janet, Bonnie, Leah, Iris and Renee",1,counting
+Irene has visited only thirty places and only ten people,"Irene has visited Watertown, Waterbury, Lawrence, Exeter, Saco, South Holland, Laurel, Kelso, Steubenville, Evanston, Harrodsburg, San Simeon, Lumberton, Dedham, Kentucky, Marlborough, Hood River, Bend, Ephrata, Valparaiso, Freeport, Irving, Idaho City, Missoula, Douglas, Middletown, Hawaii, Indianapolis, Wisconsin, Wood River and Georgia",1,counting
+Kathleen has visited only twenty-eight people,"Kathleen has visited Wilma, Carmen, Laurie, Susie, Bertha, Lindsey, Vera, Georgia, Belinda, Debra, Bonnie, Cathy, Marguerite, Lisa, Melody, Molly, Brittany, Cindy, Amelia, Kathryn, Vivian, Hilda, Phyllis, Agnes, Mabel, Dorothy, Colleen, Louise and Charlene",1,counting
+Melody has visited only thirteen people,"Melody has visited Juana, Opal, Marcia, Natasha, Lydia, Kristin, Stacy, Miriam, Veronica, Becky, Helen, Shannon, Amelia and Carla",1,counting
+Laurie has visited only seven places,"Laurie has visited Fayetteville, Santa Barbara, Madison, Oceanside, Charles Town, Shaker Heights, Red Wing and Aberdeen",1,counting
+Connie has visited only eight places and only five people,"Connie has visited Goldfield, Newcastle, Canon City, Prineville, Arkansas City, Redding, Olympia, Nebraska City and Artesia",1,counting
+Jean has visited only twenty-nine places,"Jean has visited South San Francisco, Boothbay Harbor, Saint Johnsbury, Woonsocket, Bisbee, Park Ridge, West Bend, Garden City, Vallejo, McPherson, Savannah, Guymon, North Platte, Lancaster, Tullahoma, Petoskey, Rogers, Plano, Homestead, Coney Island, Cranford, Towson, Morristown, Plattsburgh, Great Barrington, Grants, Carlinville, Hagerstown, New Market and Wilkes-Barre",1,counting
+Cindy has visited only sixteen people,"Cindy has visited Janie, Priscilla, Sara, Amanda, Michele, Cecilia, Inez, Belinda, Barbara, Jeanette, Candice, Jacqueline, Nancy, June, Stephanie, Lynda and Lucille",1,counting
+Beverly has visited only thirteen places,"Beverly has visited Klamath Falls, New Market, Council Grove, Santa Rosa, Portland, Canton, New Castle, Saint Joseph, Clovis, Mundelein and Hinton",0,counting
+Maggie has visited only twenty-one places and only four people,Maggie has visited Valerie,0,counting
+Wanda has visited only sixteen places,"Wanda has visited Enterprise, South Holland, Bloomfield Hills, Estherville, Grand Forks, Harrisburg, Harwich, Panama City, Newton, Helena, Bisbee, Wood River, Coral Gables, San Leandro, Murray, Berlin and Cicero",1,counting
+Joy has visited only four places and only two people,"Joy has visited Bernice, Misty and Luz",1,counting
+Darlene has visited only twenty-four places,"Darlene has visited Lower Southampton, Bloomfield Hills, Cohasset, Sylacauga, Watertown, Wisconsin Dells, Santa Ana, New Hope, Jamestown, McAllen, Plattsmouth, Auburn, Albany, Sturgeon Bay and Lahaina",0,counting
+Veronica has visited only twenty-one places and only thirteen people,"Veronica has visited York, Arthur, Aberdeen, North Carolina, New Kensington, Rochester, Willingboro, Franklin, Somerville, Bellingham, Quincy, Green Bay, Mobile, Watertown, Boothbay Harbor, Atmore, Meridian, Warner Robins, Hickory, Shawnee, Nashville and Starkville",1,counting
+Shannon has visited only five places and only four people,"Shannon has visited Texas, Knoxville, Marion, Racine, Juneau and Macon",1,counting
+Beth has visited only two places,Beth has visited Texas City,0,counting
+Dora has visited only fourteen people,"Dora has visited Carrie, Ruth, Marjorie, Elaine, Colleen, Florence, Lindsay, Bertha, Erica and Carmen",0,counting
+Alison has visited only eleven places and only five people,"Alison has visited Ashley, Katrina and Ruby",0,counting
+Margie has visited only twenty-three places,"Margie has visited Petaluma, Westfield, Keyser, Hastings, Hayward, Wallingford, Defiance, Chicopee, Lakewood, Kalispell, Lead, Hempstead, Cambridge, East Hartford, Lenox, Boone, Danville, French Lick, Zion, Evanston, Morrilton, Bay City, Greenville and Corinth",1,counting
+Sylvia has visited only seven people,"Sylvia has visited Lillie, Elaine, Rita, Loretta, Sheryl, Patsy, Doris and Brenda",1,counting
+Natasha has visited only one place and only one people,Natasha has visited Rosemary,0,counting
+Brenda has visited only twenty-eight people,Brenda has visited Diana,0,counting
+Edna has visited only thirteen places,"Edna has visited Littleton, Burns, Oklahoma, Ocean Springs, Centralia, Summit, Denison, Englewood and Wewoka",0,counting
+Antoinette has visited only fifteen places,Antoinette has visited Canton and Logan,0,counting
+Sara has visited only five places and only five people,"Sara has visited Flora, Yvette, Marion, Clara, Sherry and Shirley",1,counting
+Genevieve has visited only three places,"Genevieve has visited Baker City, Carmel, Ypsilanti and Blackfoot",1,counting
+Marion has visited only seventeen places and only twelve people,"Marion has visited Tanya, Betty, Charlene, Megan, Debbie, Josephine, Gail, Candace, Olga, Ella and Sylvia",0,counting
+Bertha has visited only thirteen places and only six people,Bertha has visited Laura and Roberta,0,counting
+Nellie has visited only thirteen places,"Nellie has visited Wilkes-Barre, Charlottesville, Nebraska, Corvallis, Harwich and Oakland",0,counting
+Thelma has visited only twenty-eight people,"Thelma has visited Rita, Connie, Tracey, Eva, Eileen, Sandra, Grace, Erica, Victoria, Leslie, Ada, Amy, Rose, Emily, Mattie, Dorothy, Linda and Phyllis",0,counting
+Courtney has visited only nineteen people,"Courtney has visited Gina, Judith, Rosa, Margie, Harriet, Barbara, Candace and Leslie",0,counting
+Anne has visited only eighteen places and only twelve people,"Anne has visited Suzanne, Wilma, Miriam, Esther, Daisy, Lauren, Constance, Barbara, Linda, Melanie, Leona, Rose and Angie",1,counting
+Joyce has visited only thirty places and only twenty-one people,"Joyce has visited Fredericksburg, Globe, Menominee, Clifton, Anaconda, Hartsville, Estherville, Wauwatosa, Sebring, Custer, Chico, Clinton, Bakersfield, Las Vegas, Cleburne, Philadelphia, Flint, Manchester, Pawtucket, Monroeville, Suffolk, Salem, Johnson City, Beloit, Newton, Columbus, El Paso, Visalia, Vallejo, Huntsville and Milbank",1,counting
+Myrtle has visited only twenty-four people,"Myrtle has visited Lena, Cassandra, Darlene, Nora, Amber, Stephanie, Jennie, Tamara, Anita, Louise, Eva, Anne, Mary, Joy, Hilda, Elizabeth, Kay, Lindsey, Dora, Mattie, Gail, Kimberly, Dolores, Thelma and Leslie",1,counting
+Leona has visited only eight people,"Leona has visited Renee, Carrie, Ethel, Margarita, Alma, Belinda, Dolores, Edna and Brittany",1,counting
+Willie has visited only twelve people,"Willie has visited Rosemary, Cindy, Amy, Natasha, Regina and Beverly",0,counting
+Agnes has visited only nineteen places,"Agnes has visited Naperville, Saint Marys City, Saint Johnsbury, Passaic, Selma, Greenfield, Hazleton, Alpine, Colorado, Carthage, Vail, Boston, Norwood, Bowling Green, Riverside, Cadillac, Pontiac, Mississippi, Cocoa-Rockledge and New Madrid",1,counting
+Lois has visited only twenty-four places and only nineteen people,"Lois has visited Belle Fourche, Burbank, Springville, Houma, Owensboro, Lawrence, Portage, Tonawanda, Cleveland Heights and Fontana",0,counting
+Elsie has visited only two places and only one people,Elsie has visited Monica and Sheila,1,counting
+June has visited only fourteen people,"June has visited Jacqueline, Irene, Marguerite, Jackie, Gina, Velma, Geneva, Margie and Sonya",0,counting
+Sally has visited only thirty places and only twenty-eight people,"Sally has visited Lumberton, Belle Glade, Warm Springs, Oshkosh, Springfield, Kitty Hawk, Oak Harbor, Coronado, Guymon, Norfolk, Bellevue, Hazard, Petersburg, Napa, Aspen, Virginia, Arkansas Post, Redmond, Lompoc, Glens Falls, Watertown, Ilion, Clearfield, Sapulpa, Walnut Creek, Knoxville, Bristol and Hilo",0,counting
+Beverly has visited only eighteen places,"Beverly has visited Omaha, Mandan, Alva, Fairhaven, Interlochen, Geneva, Opelika, Ponca City, Roseburg, Lexington, Ypsilanti, Corvallis, Quincy, Watervliet, Monterey, Redmond, Fillmore, Starkville and Wellfleet",1,counting
+Barbara has visited only seventeen places,"Barbara has visited Oxford, Wickford, Renton, San Antonio, Jeannette, Amana Colonies, Coeur d’Alene, Tillamook, Dartmouth, Fairfield, Pendleton, Knoxville, Machias, Carmel, Sharon, Campbellsville, Appleton and Twin Falls",1,counting
+Carla has visited only fifteen people,"Carla has visited Sharon, Shelly, Kristine, Vicki, Tammy, Jean, Jill, Erika, Willie, Carole, June, Beverly, Joanne, Norma, Michele and Vivian",1,counting
+Janet has visited only twenty-two people,"Janet has visited Karen, Mae, Natasha, Joann, Margie, Maryann, Roberta, Jeanne, Tiffany, Dianne, Melinda, Vanessa, Nicole, Rita, Monique, Megan, Marilyn, Natalie, Fannie, Lisa, Lauren, Allison and Catherine",1,counting
+Nicole has visited only twenty-six places and only twenty people,"Nicole has visited Georgia, Colleen, Lucille, Edna, Melissa, Louise, Eunice, Lydia, Hilda, Penny, Samantha, Norma, Constance, Pauline, Annette, Cindy, Ramona, Rosie, Kathy, Florence and Jo",1,counting
+Stacy has visited only twenty-seven places and only twenty-five people,"Stacy has visited Atchison, Shawnee, Nahant, Anderson, Des Plaines and Toledo",0,counting
+Toni has visited only fourteen places,"Toni has visited Duluth, Flagstaff, Sherman, Superior, Bedford, Neosho, Marlborough, Brighton, Fort Benton, Monticello, Ruston, Belle Fourche, Valparaiso, Bloomfield Hills and Skokie",1,counting
+Brandy has visited only twenty-seven people,"Brandy has visited Maxine, Blanche, Peggy and Geneva",0,counting
+Lindsey has visited only eighteen places,"Lindsey has visited Salisbury, Osawatomie, Columbus, Tampa, Marion, Fort Kent, Malibu, Mount Vernon, Bridgeton, Perry, Mount Clemens, Port Angeles, Saint Cloud, Lancaster, Groton, Mentor and Greenwich",0,counting
+Megan has visited only twenty-six people,"Megan has visited Angie, Elizabeth, Elaine, Flora, Rachel, Carol, Lola, Wendy, Nancy, Maryann, Dana, Guadalupe, Darlene, Viola, Diana, Marsha, Audrey, Eva, Lillie, Cindy, Madeline, Claire, Annie, Jeanette, Bobbie, Judith and Danielle",1,counting
+Wilma has visited only twenty-three places,"Wilma has visited Batavia, Asbury Park, Marietta, Greenfield, Mississippi, Evansville, Smyrna, Mexico, San Mateo, Lancaster, Kotzebue, Pocatello, Burlington, Buckhannon, Whitman, Boone, Huntsville, Interlochen, Renton, Morgantown, Klamath Falls, Cheboygan, Chicago Heights and East Moline",1,counting
+Amber has visited only twenty-six people,"Amber has visited Bessie, Glenda, Jodi, Megan, Dianne, Eleanor, Toni, Isabel, Ruth, Sharon, Lula, Brandi, Carmen, Erika, Gladys, Cathy, Amanda, Marjorie, Dora, Lorraine, Kristin, Tonya, Gina, Rhonda, Sherri, Nina and Joann",1,counting
+Debra has visited only eight places and only four people,"Debra has visited Chautauqua, Weston, Hays, Alhambra, Berea, Saco, Helena, Bellevue and Kansas City",1,counting
+Terry has visited only nine people,"Terry has visited Natalie, Michelle, Theresa, Inez, Josephine and Ashley",0,counting
+Julia has visited only nine places,"Julia has visited Burlington, Lackawanna, Brigham City, Tamaqua, Seneca Falls, Lombard, Gretna, Barnstable, Willimantic and Lincoln",1,counting
+Ada has visited only nine places and only two people,"Ada has visited Stacey, Ruby and Charlotte",1,counting
+Delores has visited only twenty-two places and only twenty-two people,"Delores has visited Lula, Joann and Willie",0,counting
+Nellie has visited only thirty places and only five people,"Nellie has visited Amesbury, Lincoln, Santa Rosa, Hillsborough, Silverton, Andersonville, Homestead, Abingdon, Milton, Gretna, Providence, Green River, Biloxi, Maryville, Birmingham, Bedford, Wisconsin Dells, Flushing, Kennewick, Grosse Pointe, Ironwood, Elmira, Petersburg, Madison, Provo and Fort Smith",0,counting
+Vanessa has visited only sixteen places and only twelve people,"Vanessa has visited Jane, Dana, Sonya, Virginia, Leah, Florence, Verna, Jessie, Brandy, Martha and Sara",0,counting
+Miriam has visited only seven places and only five people,"Miriam has visited San Francisco, Stuttgart, Watts, Raton and Wewoka",0,counting
+Marion has visited only five places and only two people,"Marion has visited Tamara, Miriam and Ella",1,counting
+Candace has visited only four people,Candace has visited Constance,0,counting
+Anne has visited only twenty-three places,"Anne has visited Harlan, Oregon, Lafayette, Chattanooga, Milledgeville, Narragansett, Weston, Norristown, Charlottesville, Cedar Rapids, Trenton, Greeneville, Delaware, Abilene and Sallisaw",0,counting
+Danielle has visited only eight places and only seven people,"Danielle has visited Georgia, Sheridan, Birmingham, Ten Sleep, Sarasota, Mesa, Iowa City, Peekskill and Crawfordsville",1,counting
+Toni has visited only five places and only four people,"Toni has visited Monroeville, Stevens Point, Tucumcari, Raton, Cambridge and Westerly",1,counting
+Eleanor has visited only twenty-four places,"Eleanor has visited Grants, Moscow, Norwalk, Auburn, West Bend and Watervliet",0,counting
+Ashley has visited only twenty-one places,"Ashley has visited Pagosa Springs, Clifton, Frankfort, Franklin, Casper, Petersburg, Cedar Rapids, Prineville, Louisiana, Greenville, Malden, Napa, Leadville, Mobile, Pawhuska, Laguna Beach, Lawrence, Eureka, Beatrice, Binghamton, Bellevue and Jefferson City",1,counting
+Angie has visited only twenty-five places and only one people,"Angie has visited Greenbelt, Palm Bay, Van Buren, Coos Bay and Canton",0,counting
+Anne has visited only sixteen places and only seven people,"Anne has visited Dubuque, Fairmont and Zanesville",0,counting
+Pearl has visited only twenty-five places,"Pearl has visited Fort Valley, Kennewick, Norfolk, Douglas, Santa Clarita, Walnut Creek, Lexington, Hibbing, Chula Vista, Las Vegas, Paris, Thermopolis, South Holland, Columbia, Cedar Falls, Camden, Santa Fe, Montpelier, Mansfield, San Marino, Hartsville, Anadarko, Sonoma, Romney, Tombstone and Shawnee",1,counting
+Lois has visited only twenty-nine places,"Lois has visited Sand Springs, Neenah, Cahokia, Marlborough and Gaffney",0,counting
+Sarah has visited only twelve places and only nine people,"Sarah has visited Valparaiso, Acoma, Granite City, Erie, Kaskaskia, Amana Colonies, Texas, Saint Ignace, Temple, Casper, Plainview, Westerly and Moundsville",1,counting
+Edith has visited only twenty-seven places,"Edith has visited Bay Saint Louis, Cordova, Dayton, Estes Park, Redmond, Stony Point, Jacksonville, New Hope, Palo Alto, Clarksdale, Louisville, Marietta, Paris, Magnolia, Barnstable, New Paltz, Sitka, Bedford, Webster City, DeKalb, Bremerton, Wisconsin, Lubbock, Antioch, Lakeland, Fort Pierce, Okmulgee and North Kingstown",1,counting
+Cora has visited only seventeen places and only one people,"Cora has visited Plains, Deadwood, Petersburg, Charlotte, Silver City, Terre Haute, Port Huron and Washington",0,counting
+Cindy has visited only eighteen people,"Cindy has visited Vicki, Yolanda, Rita, Katherine, Sabrina, Nellie, Erica, Penny, Sheila, Marcia, Kristi, Sonya, Charlene, Linda and Beth",0,counting
+Colleen has visited only eleven places and only two people,"Colleen has visited Palatine, Pharr, Carbondale, Jacksonville, New Braunfels, Hanover, Petersburg, Torrance, Hayward, Gloversville, Salem and Valley City",1,counting
+Sarah has visited only sixteen places and only twelve people,"Sarah has visited Lebanon, Hartford, Saint Cloud, Santa Clarita, Wellsburg, Dalton, Massillon, Demopolis, Jackson, Cleveland Heights, North Las Vegas and Cleveland",0,counting
+Erin has visited only twenty-five places,"Erin has visited New Castle, Sarasota, Milledgeville, Falmouth, Sturbridge and Morrilton",0,counting
+Shirley has visited only fourteen people,"Shirley has visited Jenny, Dorothy and Valerie",0,counting
+Violet has visited only twenty-three places and only five people,"Violet has visited Georgia, Holly, Ida, Nellie, Sarah and Guadalupe",1,counting
+Karen has visited only fifteen places,"Karen has visited Kennebunkport, Ansonia, Massachusetts, Toledo, Goldfield, Davenport, La Crosse and Oceanside",0,counting
+Carolyn has visited only fourteen places and only nine people,"Carolyn has visited Dearborn, Norristown, Titusville, Berkeley, Falls Church, Chicago Heights, Little Falls, Hollywood, Warren, Lakeview, Portsmouth, Plymouth, Battle Creek, Socorro and Greenville",1,counting
+Mildred has visited only twenty-six places and only eleven people,"Mildred has visited Allison, Joy, Nancy, Anna and Iris",0,counting
+Melody has visited only twenty-six places and only ten people,"Melody has visited Anaheim, Rochester, Richmond, Murray, Canton, Topeka, Tulsa, Jonesborough, Montana, Pueblo, Trinidad, Stillwater, Uvalde, Hillsboro, Plymouth, Ontario, Sweetwater, Cortez, Menlo Park, Paducah, Kewanee, Ajo, Sauk Centre, Clinton, Ely, Schenectady and Bridgeton",1,counting
+Arlene has visited only twenty-two places and only seventeen people,"Arlene has visited Wahiawa, Port Angeles, Alexander City, Lovington, Amherst, Union City, Troy, Caldwell, Leavenworth, North Adams, San Leandro, Charles City, Garden City, Herrin, Bogalusa, Elizabeth, Paducah, Englewood, La Salle, Naugatuck, Findlay, Cranston and Decatur",1,counting
+Denise has visited only nineteen places and only nine people,"Denise has visited Cleveland Heights, Cripple Creek, Oberlin, Peoria, Lewiston, Indianola, Menlo Park, Monroeville, Winter Park, Idaho, Milton, Kingston, Miles City, Douglas, Warren, Oregon, Saint Louis, Harlingen, Harrison and Middletown",1,counting
+Eva has visited only twenty-one places,"Eva has visited Castine, Bloomsburg, Columbus, Newcastle, Rogers, Hamilton, Bardstown, Aberdeen, Phoenixville, Everett, Minnesota, Glassboro, De Land, Ocean City, Elko, Amana Colonies, Bainbridge, Shreveport, Austin, Monroeville, Elizabethtown and Missoula",1,counting
+Madeline has visited only fifteen places,"Madeline has visited Bethesda-Chevy Chase, Wichita Falls, Point Pleasant, Mesa, Middlebury, Norfolk, Bemidji, McKeesport, El Cerrito, Redlands, Tuskegee, Troy, Alton, Prairie du Chien, Ashland and Fergus Falls",1,counting
+Marilyn has visited only twenty-five places and only three people,"Marilyn has visited Aspen, Appleton, Quincy, Hyattsville, Lock Haven, Beaufort, Minot, De Land and Niagara Falls",0,counting
+Sherry has visited only twenty places and only eleven people,Sherry has visited Priscilla and Sherry,0,counting
+Daisy has visited only twelve people,"Daisy has visited Maxine, Lillian, Ethel and Nancy",0,counting
+Stephanie has visited only fourteen places and only five people,"Stephanie has visited Bardstown, Amarillo, Batavia, Watkins Glen, Woodland, Rutherford, Carthage, Ashland, Bloomington, Mineola, Newberg, Sharon, Hillsborough, Perry and Yonkers",1,counting
+Lynda has visited only seventeen people,Lynda has visited Marguerite and Ann,0,counting
+Kelly has visited only seven people,Kelly has visited Audrey,0,counting
+Jean has visited only seventeen places and only sixteen people,"Jean has visited Winter Park, Watertown, Chester, Kingsport, Fremont, Falls Church, Potsdam, Hobbs, Barbourville, Torrington, Rantoul, Kalamazoo, Sheridan, Tulsa, New Britain, Anadarko, Blairsville and Queens",1,counting
+Anita has visited only seventeen places and only thirteen people,"Anita has visited Douglas, Plattsmouth, Taos, Las Vegas, North Carolina, Galesburg, Elk City, Brookfield, New Britain, Laurel, Clifton and San Francisco",0,counting
+Martha has visited only sixteen places and only two people,"Martha has visited Dothan, Minneapolis, New Castle, Tyler, Pontiac, American Fork, Madison, Edgartown, Charleston, Hartford, Bethlehem, Cedar Rapids, Taos, New Britain, Easton, West Point and Florida",1,counting
+Eileen has visited only twenty-nine people,Eileen has visited Shelley,0,counting
+Miriam has visited only nineteen places,"Miriam has visited Muskegon, Racine, Abingdon, Oroville, Arlington, San Luis Obispo, Louisiana, Hamilton, Jacksonville, Tempe, Davenport, Camden, Claremont, Laconia, Salem, Culver City, Tombstone, Anchorage, Peoria and Hopkinsville",1,counting
+Angie has visited only four places and only three people,Angie has visited Clinton and Kirksville,0,counting
+Karen has visited only twenty-four people,"Karen has visited Lorraine, Georgia, Joy, Rosemary, Elizabeth, Tina, Maria, Sonya, Candace, Peggy, Luz, Ruth, Viola, Constance, Myrtle, Janet, Teresa, Karen, Wendy, Kristen, Angie, Clara, Phyllis, Helen and Alberta",1,counting
+Sonya has visited only fifteen places and only two people,"Sonya has visited Billie, Bobbie and Rachel",1,counting
+Belinda has visited only two places,Belinda has visited Essex,0,counting
+Kristen has visited only sixteen places and only one people,Kristen has visited Flora and Annie,1,counting
+Vickie has visited only four places and only three people,"Vickie has visited New Philadelphia, Oyster Bay, Rock Hill, Idaho City and Minneapolis",1,counting
+Erika has visited only ten places,"Erika has visited Rocky Mount, Covington, Kotzebue, Hugo, Claremont, Texas City, Andersonville, Sturgis, Concord, Chicago Heights and El Dorado",1,counting
+Jodi has visited only three people,"Jodi has visited Marilyn, Janet, Cecilia and Pauline",1,counting
+Beatrice has visited only twenty-five places,"Beatrice has visited Glendive, Inglewood, New York, New Bedford, Plainfield, Decatur, Idaho, Orange, Rome, Sunbury, Columbus, Hot Springs, North Las Vegas, Baraboo, Adrian, Willingboro, Custer, Fayetteville, Dover and Goldfield",0,counting
+Jenny has visited only twenty-nine places and only sixteen people,"Jenny has visited Lauren, Beulah, Melanie, Rebecca, Alicia, Alice, Josephine, Sheryl, Alma, Misty, Naomi, Diana, Jenny, Marian, Iris, Olga and Antoinette",1,counting
+Anna has visited only twenty-three people,"Anna has visited Carole, Jo, Caroline, Ada, Amy, Tara, Nancy, Angela, Suzanne, Joan, Jenny, Jamie, Erica, Katie, Emma, Nicole, Kayla, Darlene, Josephine, Megan, Anita, Leslie, Claire and Kristen",1,counting
+Angie has visited only twenty-four places and only seventeen people,"Angie has visited East Moline, Burlington, Arlington, Effingham, Worland, Painesville, Hoboken, Lynchburg, El Paso, Lakewood, Whitman, Hugo, Ossining, Lakeland and Raton",0,counting
+Sharon has visited only fifteen people,"Sharon has visited Sarah, Flora, Lisa and Edna",0,counting
+Candice has visited only seven places and only five people,"Candice has visited Chandler, Bloomsburg, Ontario, Lynchburg and Meridian",0,counting
+Lucille has visited only nine places and only nine people,"Lucille has visited Ella, Cassandra, Deanna, Loretta, Jill, Sally, Mary, Ethel, Renee and Tara",1,counting
+Vivian has visited only twenty-seven people,"Vivian has visited Sally, Alma, Gladys, Michele and Megan",0,counting
+Delores has visited only ten people,"Delores has visited Terri, Ella, Jeanne, Kimberly, Andrea, Natalie, Julie, Joanna, Tamara, Amelia and Nicole",1,counting
+Beatrice has visited only twenty-four places and only eight people,"Beatrice has visited Crystal, Patsy, Margarita, Loretta, Julie, Lindsay, Edith, Sara and Charlotte",1,counting
+Jamie has visited only seven places,"Jamie has visited Newton, Watkins Glen, Monterey, Lancaster, Warrensburg, Clarksdale, Richmond and Lake Wales",1,counting
+Bertha has visited only twenty-five places,"Bertha has visited Northampton, Middletown, Mamaroneck, Corpus Christi, Harlem, Lockport, Kapaa, Roswell, Forrest City, Pullman, Winsted, Ketchikan and Natchitoches",0,counting
+Jennie has visited only thirty people,Jennie has visited Melissa and Nicole,0,counting
+Virginia has visited only six places and only two people,"Virginia has visited Moore, Carlsbad, Plymouth and Park Forest",0,counting
+Lena has visited only twenty-four places and only eleven people,"Lena has visited Valdosta, Arlington Heights, Alhambra, California, Syracuse, Orange, Lake Placid, Dover, Framingham, Bar Harbor, Saint Martinville, Phoenixville, Menominee, Woburn, Farmington, Owensboro, Paterson, Walla Walla, Covington, Sheridan, Pinehurst and Mayfield",0,counting
+Jan has visited only four places and only one people,"Jan has visited Springfield, Ossining, Long Beach, Clifton and Santa Barbara",1,counting
+Natalie has visited only sixteen places,"Natalie has visited Weston, Weehawken, Daly City, Seymour, Indiana, Bemidji, Nags Head, Mandan, Enfield, Port Arthur, Englewood, Macomb, Spring Green, Burlington, Corydon, Elkhart and Palm Springs",1,counting
+Amy has visited only nine places and only two people,Amy has visited Viola,0,counting
+Carole has visited only thirty places,"Carole has visited Nauvoo, Montgomery, Franklin, Louisiana, Batavia, Pontiac, Sainte Genevieve, Andalusia, Kent, Nome, Williston, Rye, Buffalo, Perry, Wayne, Sault Sainte Marie, Springfield, Harmony, Henderson, Fullerton, Connersville, Ambridge, Saint Albans, Corydon, Morgantown, Fairfax, Davis, Shelton, Wilmington, Jonesboro and East Lansing",1,counting
+Katherine has visited only five places and only three people,Katherine has visited Inez,0,counting
+Norma has visited only twenty-one places,"Norma has visited Warren, Newport, Buffalo, Malibu, Ojai, Corinth, Grants, Union City, Richmond, Plymouth, Richardson, Franklin, Wabash and Kingston",0,counting
+Olivia has visited only fifteen places and only thirteen people,"Olivia has visited Sherri, Catherine and Margaret",0,counting
+Olga has visited only twenty places and only one people,"Olga has visited Anacortes, Syracuse, Iron Mountain, Chula Vista, Clarksville, Lockport, Vail, Peabody, Brainerd, Casper, Aiken, Mundelein, Moore, Idaho Falls, Bloomfield, Saco, Marietta, Huntsville, Uvalde, Berea and Middletown",1,counting
+Anna has visited only twenty-seven people,"Anna has visited Viola, Jeanne, Claire, Denise, Patricia, Regina, Cynthia, Amber, Jo, Wanda and Becky",0,counting
+Antoinette has visited only twenty-one places and only thirteen people,"Antoinette has visited Killeen, Corning, Zanesville, Plainfield, Amherst, Mobile, Wichita, Columbus, Evansville, Perth Amboy, Windsor Locks, Carlsbad, Bisbee, Salem, Paducah, Brigham City, Bogalusa, Marshall, Key West, Paris, Daytona Beach and Ormond Beach",1,counting
+Clara has visited only twenty places and only nineteen people,"Clara has visited Dora, Janet, Lucille, Maggie, Sarah, Carmen, Tracey, Mary, Myrtle, Joan, Eileen, Cindy, Catherine, Lee, Margaret, Lola, Michele, Sandra, Natasha and Amelia",1,counting
+Genevieve has visited only nine people,"Genevieve has visited Sherry, Charlene, Irene, Patricia, Yvonne, Jeanette, Edna, Carole, Mary and Kimberly",1,counting
+Melanie has visited only twenty-two places and only twenty-one people,"Melanie has visited Nahant, Arizona, Brookline, Winslow and Columbia",0,counting
+Geraldine has visited only seventeen places and only seven people,"Geraldine has visited Lynda, Carrie, Janie, Bertha, Margarita, Jo, Marilyn and Vickie",1,counting
+Jo has visited only eight places and only four people,Jo has visited Jill,0,counting
+Theresa has visited only fifteen places,"Theresa has visited Baker City, Bardstown, Hampton, Kellogg, Warwick, Winooski, Rye, Thibodaux, Gillette, Manhattan, Claremont, Greensboro, Stuttgart and Gettysburg",0,counting
+Judy has visited only twenty-one people,"Judy has visited Norma, Emily, Eva, Katrina, Susan, Diane, Hattie, Jane, Victoria, Clara, Patsy, Olga, Ruby, Antoinette, Claire, Peggy, Sheryl, Loretta, Amelia, Vivian, Gail and Georgia",1,counting
+Sheryl has visited only twenty-six places,"Sheryl has visited Hattiesburg, Albuquerque, Petersburg, Escanaba, Southington, Austin, Hialeah, Gainesville, Hanover, Owensboro, The Dalles, Aberdeen, Ukiah, Glen Ellyn, Montgomery, Osceola, Bloomfield, Newberg, Lexington, Bordentown, Hammondsport, Alva, Harrodsburg, Vail, Hollywood, Minneapolis and Saugus",1,counting
+Glenda has visited only eleven places and only ten people,Glenda has visited Kristine and Wendy,0,counting
+Kelly has visited only six places and only one people,Kelly has visited Jonesboro,0,counting
+Michele has visited only twenty-three people,"Michele has visited Eva, Martha, Christina, Melissa, Audrey, Shelley, Dawn, Rebecca, Maxine, Carrie, Iris and Rosa",0,counting
+Lula has visited only thirteen places and only two people,"Lula has visited Teresa, Bertha and Louise",1,counting
+Kim has visited only twenty-three places and only fourteen people,Kim has visited East Hartford and Fredonia,0,counting
+Marcia has visited only eight places and only seven people,"Marcia has visited Visalia, Newton, Oregon City, Elmira, White Sulphur Springs, Presque Isle, Kingsport, Deming and New Kensington",1,counting
+Nicole has visited only nine places and only three people,"Nicole has visited Jennifer, Velma, Hazel and Alice",1,counting
+Ashley has visited only thirteen places,"Ashley has visited Silverton, Garden City, Douglas, Loveland, Levittown and Normal",0,counting
+Tammy has visited only twenty-four places,"Tammy has visited Stratford, Hope, Moab, Lebanon, Carthage, Santa Barbara, La Grande, Machias, Bronx, Kennewick, Leadville, Williamsburg, Rocky Mount, Ilion, San Marino, Union, Barnstable, Plano, Boulder City, Kanab, Overland Park, Mount Vernon, Titusville, Lumberton and Washington",1,counting
+Yvette has visited only eight people,"Yvette has visited Nora, Annette, Kristy, Agnes, Sue, Cheryl, Ella, Andrea and Sheryl",1,counting
+Dorothy has visited only thirty places,"Dorothy has visited Virginia City, Bluefield, Tuscaloosa, San Juan Capistrano and Baton Rouge",0,counting
+Lula has visited only thirteen places and only one people,Lula has visited Melinda and Antoinette,1,counting
+Clara has visited only twenty-four places and only seven people,"Clara has visited South Dakota, Searcy, Jonesborough, Jersey City, Natchitoches, Carlinville, Sharon, Corydon, Palm Beach, Claremont, Anaheim and Auburn",0,counting
+Toni has visited only twenty-eight places and only eleven people,"Toni has visited Melody, Marie, Connie, Roberta, Maureen, Brittany, Bertha, Diane, Bernice, Alicia, Terry and Ruth",1,counting
+Jackie has visited only three places,"Jackie has visited Edmond, San Rafael, Danville and Sudbury",1,counting
+Kim has visited only thirteen places,"Kim has visited Seattle, Redmond, Iowa, Camden and Vandalia",0,counting
+Kristy has visited only five people,"Kristy has visited Erica, Ida, Minnie and Jo",0,counting
+Kristy has visited only twenty-four places and only eight people,Kristy has visited Stonington and Meridian,0,counting
+Nicole has visited only eighteen places and only twelve people,"Nicole has visited Katie, Caroline, Sherri, Margie, Cynthia, Kristine, Viola, Victoria, Ruth, Jo, Willie, Nina and Jane",1,counting
+Brandy has visited only twelve places and only ten people,Brandy has visited Deming and Bethany,0,counting
+Marguerite has visited only thirty people,"Marguerite has visited Julie, Ruth, Lillie, Allison, Blanche, Cora, Stacy, Carla, Carole, Carmen, Laura, Jeanette, Melinda and Ramona",0,counting
+Dawn has visited only five places and only four people,Dawn has visited Iris,0,counting
+Isabel has visited only five people,"Isabel has visited Laura, Kristi, Marie, Kathleen, Florence and Jessie",1,counting
+Marion has visited only twenty-six places and only one people,"Marion has visited Royal Oak, Des Plaines, Quincy, Trenton, Greeley, Benton, Stony Point, Somerville, Neosho, Hayward, Bloomington, Powell, Glassboro, Chicago Heights, Owensboro, Salem, Laramie, Hartsville, New Milford, Arkansas, Fitzgerald, Caribou, Middlesboro, Sherman, East Hartford, Morehead City and Indiana",1,counting
+Donna has visited only nine people,"Donna has visited Ramona, Gina, Joanna, Sabrina, Clara, Shannon, Ashley, Claire, June and Lindsey",1,counting
+Audrey has visited only six places and only two people,"Audrey has visited Northampton, Sturgis, East Greenwich and Chesapeake",0,counting
+Luz has visited only eighteen places and only fourteen people,"Luz has visited Ella, Sabrina, Maria, Valerie, Anne, Carla, Nina, Darlene, Leona, Belinda, Lindsay, Edna, Dorothy, Ana and Melanie",1,counting
+Grace has visited only four places and only four people,Grace has visited Daisy and Connie,0,counting
+Elaine has visited only twenty-nine places and only seven people,"Elaine has visited Lori, Emily, Charlene, Willie, Candace and Rebecca",0,counting
+Ann has visited only twenty-three places and only seventeen people,"Ann has visited Lori, Amber, Cindy, Candice, Ada, Cora and Frances",0,counting
+Arlene has visited only twenty-six places and only fourteen people,Arlene has visited Troy and Michigan City,0,counting
+Esther has visited only three people,Esther has visited Jane,0,counting
+Dora has visited only ten places,"Dora has visited Worcester, Peshtigo, Torrance, Sturbridge, Orange, Dillon, Portsmouth, New Castle, Florence, Westport and Boonesborough",1,counting
+Kristy has visited only fifteen people,"Kristy has visited Diana, Vicki, Lori, Kathy, Vickie, Christine, Marie, Gertrude, Dawn, Janet, Irma, Bertha, Amy and Denise",0,counting
+Cathy has visited only twenty-six people,"Cathy has visited Geraldine, Arlene, Fannie, Rosemary, Eileen, Shirley, Dora, Kristen, Lula, Christine, Suzanne, Gladys, Sonya, Louise, Stella, Blanche, Dolores, Charlene, Lindsay, Jo, Jessica, Sue, Sonia, Linda, Lucille, Wendy and Vera",1,counting
+Natasha has visited only eight places,"Natasha has visited Boonville, Bainbridge, Owensboro, Davenport, Libertyville, Indiana, Oakland, Chickasha and Auburn",1,counting
+Lorraine has visited only twenty-two places and only seven people,"Lorraine has visited Jamie, Cecilia, Marlene, Dora, Darlene, Tina, Brandi and Judy",1,counting
+Ada has visited only twenty-four places and only eight people,"Ada has visited Brandi, Diana, Lauren, Christine, Miriam, Claire, Tonya, Denise and Margie",1,counting
+Monica has visited only twelve people,"Monica has visited Cathy, Andrea, Margie, Samantha, Dolores, Candice, Gladys, Antoinette, Erika, Emily, Claudia, Ellen and Charlene",1,counting
+Debra has visited only eighteen places,"Debra has visited Kellogg, Cleveland Heights, Alexandria, Joplin, Battle Creek, Fort Collins, Rogers, Columbia, Valley City, Natchez, El Dorado, Saint Marys City, Riverton, Stony Brook, Bloomfield Hills, Iron Mountain, Rawlins, Fayetteville and Freeport",1,counting
+Marilyn has visited only nineteen places and only eighteen people,"Marilyn has visited Amber, Lee, Jennifer and Charlene",0,counting
+Leslie has visited only eight places and only four people,"Leslie has visited Parkersburg, Woodstock, Middletown, Kawaihae and New Haven",0,counting
+Sandra has visited only twenty-nine places and only thirteen people,"Sandra has visited Council Bluffs, Salem, Norman, Glens Falls, Lynn, Saint Martinville, San Mateo, Salt Lake City, South Dakota, Brookfield, Williamstown, Hibbing, Franklin and Worthington",0,counting
+Agnes has visited only twenty-one places and only fifteen people,"Agnes has visited Des Plaines, Hodgenville, Asheville, Lockport, Abilene, Wickford, Moab, Salina, Delaware, Beckley, New Windsor, Mexico, Dillon, Columbus, Jonesboro, Hibbing, Barre, Ocala, Rantoul, Mundelein, West Palm Beach and Amesbury",1,counting
+Rosemary has visited only thirty people,"Rosemary has visited Doris, Betty, Dawn and Geraldine",0,counting
+Jill has visited only one place and only one people,Jill has visited Thermopolis,0,counting
+Viola has visited only two people,"Viola has visited Stella, Lynn and Amelia",1,counting
+Gertrude has visited only ten places and only seven people,"Gertrude has visited Malibu, Minot, Saint Johnsbury, Easton, Sarasota, Bossier City, Vicksburg and Illinois",0,counting
+Melinda has visited only twenty-six people,"Melinda has visited Juana, Violet and Dolores",0,counting
+Maureen has visited only twenty-four places,"Maureen has visited Helena, Barre, Lander, Webster City, Concord, Cheektowaga, Albany, Hollywood, Hamilton, Beaumont, Alpine, Port Huron, Jacksonville, Havre, Kewanee, Oberlin, Saint Augustine, Abington, Lebanon, Connersville, Bradenton, San Gabriel, Rockville, Highland Park and Pullman",1,counting
+Deborah has visited only twelve places,"Deborah has visited Stamford, Cheektowaga, Muscatine, Guymon and Ontario",0,counting
+Ella has visited only twenty-five people,"Ella has visited Carla, Rosie, Lucy, Margarita, Norma, Joan, Patricia, Gertrude, Melissa, Donna, Josephine, Helen, Elsie, Lorraine, Alberta, Emily, Violet, Isabel, Kim, Renee, Anita, Maxine, Gloria, Geneva, Marjorie and Antoinette",1,counting
+Carmen has visited only five places and only one people,Carmen has visited Denise and Gloria,1,counting
+Jenny has visited only twenty-eight people,"Jenny has visited Judith, Terri, Christy, Erin, Marian, Darlene, Cathy, Juana, Suzanne, Cora, Catherine, Teresa, Penny, Debra, Ruth and Sally",0,counting
+Patsy has visited only nineteen places,"Patsy has visited Wailuku, Dickinson, Abilene, Tooele, Centralia, Princeton, La Salle, Warm Springs and Irvington",0,counting
+Bobbie has visited only eighteen places and only eighteen people,"Bobbie has visited Katherine, Hazel, Rose, Sherry, Beth and Gina",0,counting
+Sherry has visited only ten people,"Sherry has visited Juanita, Jill, Stacy, Daisy, Danielle, Kristy, Charlotte, Georgia, Megan, Jamie and Marie",1,counting
+Anita has visited only twenty places and only thirteen people,"Anita has visited Fayetteville, French Lick, Midwest City, Warren and Normal",0,counting
+Sylvia has visited only two places and only two people,Sylvia has visited Heber City,0,counting
+Beulah has visited only eight people,Beulah has visited Robin,0,counting
+Nancy has visited only twenty-four places and only twelve people,"Nancy has visited Jessie, Diane, Rosie, Marie, Marcia, Denise, Stacy, Rita, Anita, Julia, Hattie, Kimberly and Shirley",1,counting
+Esther has visited only twenty-five people,"Esther has visited Darlene, Alison, Christy, Patsy, Margie, Jessica, Gina, Dora, Claudia, Nina, Marie, Phyllis, Yvette and Eva",0,counting
+Clara has visited only three places and only three people,"Clara has visited Suzanne, Rosie, Patsy and Marsha",1,counting
+Beatrice has visited only sixteen places and only thirteen people,"Beatrice has visited Linda, Catherine, Miriam, Daisy, Rosie, Juana, Becky, Pauline, Yvette, Darlene, Melissa, Irene, Denise and Christine",1,counting
+Luz has visited only nineteen places and only eleven people,"Luz has visited New Glarus, East Saint Louis, Baytown, Catonsville, Great Bend, Glendale, San Juan Capistrano, Yakima, Nashua, Greenfield, Newport, Simsbury, Kalamazoo, Hazleton, Guilford, Urbana, Fairfield, Danbury, Sturbridge and Montana",1,counting
+Charlotte has visited only ten places and only two people,Charlotte has visited Julia,0,counting
+Courtney has visited only thirty places and only one people,Courtney has visited Sandra,0,counting
+Ellen has visited only eleven people,"Ellen has visited Candice, Yolanda and Hilda",0,counting
+Rosemary has visited only seventeen places and only thirteen people,"Rosemary has visited Xenia, Louisiana, Kearney, Pawhuska, American Fork, Kingman, New Castle, Arlington, Mattoon, Glassboro, Bayonne, Rugby, Guntersville, Excelsior Springs, Warwick, Pottsville, Glen Ellyn and Marquette",1,counting
+Amber has visited only thirty places,"Amber has visited Oneida, Gallatin, Pine Bluff, Menominee, Jasper, Fallon, Springville, East Cleveland, Honaunau, Livermore, Santa Monica, Barstow, Priest River, Sausalito, Redlands, Madison, Seaside and Fairbanks",0,counting
+Maggie has visited only six places,"Maggie has visited Elkhart, Calistoga, Price, North Hempstead, Shelbyville, Jonesborough and Allentown",1,counting
+Wilma has visited only fifteen places and only five people,"Wilma has visited Ozark, Millville, Missoula, Starkville, Newburgh, Wyandotte, Laguna Beach, Mission, Coral Gables, Eveleth, Windsor and Longview",0,counting
+Tracey has visited only twenty people,"Tracey has visited Bessie, Glenda, Caroline, Irene, Judy, Claire, Sue, Lee, Lindsey, Marguerite, Diana, Monique, Dawn and Kristi",0,counting
+Deanna has visited only five places,"Deanna has visited Clearfield, McMinnville, Lakewood, Avondale, San Marino and Saratoga Springs",1,counting
+Emily has visited only eleven places and only seven people,"Emily has visited Wyoming, Canton, Blackfoot, Harmony, Zion, Brunswick, Rock Hill, Kinston and Oak Ridge",0,counting
+Nina has visited only twenty-two places and only nine people,"Nina has visited Prichard, Glendive, Ames, Plymouth, Valley City, Cairo, Lancaster, Ocean City, Panguitch, Naples, Lebanon, Sanford, Lumberton, Chester, West Chester, Exeter, Anchorage, Bayonne, Birmingham, Waukegan, Lafayette, Fayetteville and Rolla",1,counting
+Audrey has visited only five places and only five people,"Audrey has visited New Hope, Lancaster and Port Lavaca",0,counting
+Heidi has visited only nine people,"Heidi has visited Cheryl, Anna, Lillie, Kristina, Christy, Janice, Ada, Natasha, Erika and Janet",1,counting
+Constance has visited only thirty people,"Constance has visited Priscilla, Theresa, Maggie, Katie, Julia, Lindsey, Renee, Anna, Holly, Eleanor, Iris, Courtney, Dora, Stephanie, Lynda, Ida, Bobbie, Jill, Samantha, Alma, Anne, Genevieve, Crystal, Florence, Vanessa and Margarita",0,counting
+Iris has visited only ten people,"Iris has visited Kathy, Alison, Deanna, Susan, Molly, Gwendolyn, Andrea, Naomi, Theresa, Janet and Diane",1,counting
+Roberta has visited only eight places and only six people,Roberta has visited Sandy and Amy,0,counting
+Sue has visited only twenty-seven places,"Sue has visited North Hempstead, Syracuse, Fort Smith, Newport Beach, Bemidji, Midland, Plainfield, American Fork, Cambridge, Troy, Springfield, Wellfleet, Seaside, Saint Louis, Coulee Dam, Akron, Gaffney, Galesburg, Carrollton, Effingham, Hilo, Kingston, Mobile, Estes Park, Delaware, Sarasota, New Hampshire and Alliance",1,counting
+Terry has visited only sixteen places,"Terry has visited Southampton, Arizona, Dunkirk, Crown Point, Salisbury, Huntington Beach, Spring Green, Columbia, Cookeville, Red Wing, Jamestown, Perry and Guilford",0,counting
+Yolanda has visited only twenty-seven places,"Yolanda has visited Northampton, Marysville, Tennessee, New Albany, Scranton, Rhode Island, Austin, Haddonfield, Hyde Park, Sanford, Cushing, Moundsville, Harpers Ferry, Newton and Calumet City",0,counting
+Iris has visited only three places and only one people,Iris has visited Beth and Amy,1,counting
+Lori has visited only twenty-five places and only six people,"Lori has visited Lindsey, Alberta, Kim, Lula, Ann, Samantha and Charlotte",1,counting
+Maxine has visited only twenty-six places and only fifteen people,"Maxine has visited Mundelein, Hillsborough, Orem, Fort Wayne, Oak Harbor, Chillicothe, Shawnee, Revere, Pontiac, Oswego, Natchitoches, Aspen, Westport, Bristol and Waterbury",0,counting
+Kathy has visited only six places,Kathy has visited Chanute,0,counting
+Ella has visited only seven places and only seven people,"Ella has visited Buffalo, Deming, Flushing, Watkins Glen and Sturgeon Bay",0,counting
+Louise has visited only twelve places and only three people,Louise has visited Nicole and Eleanor,0,counting
+Genevieve has visited only twenty-two places and only seventeen people,"Genevieve has visited Ashley, Maureen, Jennifer, Frances, Michelle, Theresa, Mamie, Ruth, Jacqueline, Lydia, Mabel, Denise, Sherry, Brittany and Kelly",0,counting
+Kelly has visited only twenty-seven places and only seven people,"Kelly has visited Vickie, Terri, Lois and Bonnie",0,counting
+Jessie has visited only nine places and only five people,"Jessie has visited Janie, Madeline and Ana",0,counting
+Delores has visited only two places and only one people,Delores has visited Jacqueline,0,counting
+Vickie has visited only twenty-one places and only twenty-one people,Vickie has visited Lackawanna and Rensselaer,0,counting
+Sabrina has visited only ten places and only seven people,"Sabrina has visited Point Pleasant, Rochester, Great Barrington, North Adams, Johnstown, Palmdale, Smith Center, Steamboat Springs, Pierre, Kilgore and Monroe",1,counting
+Lucy has visited only twelve places,"Lucy has visited West Palm Beach, Alameda, McAllen, Bristol, Jackson, Goldsboro, Cedar Rapids, Iowa City, Pottsville, Marlborough, Abilene, Kentucky and Provo",1,counting
+Tiffany has visited only three places and only one people,"Tiffany has visited Washington, Whittier, Junction City and Elyria",1,counting
+Annie has visited only nineteen places and only thirteen people,"Annie has visited New Brunswick, Florence and Harrison",0,counting
+Cheryl has visited only twenty-eight places and only twenty-two people,"Cheryl has visited Pierre, Shelbyville, Belen, Ironwood, West New York, Sudbury, Newcastle, New Haven, Hallandale Beach, Dartmouth, Bellingham, Huntington, Eufaula, Morrilton, Alaska, Belvidere, Effingham, Manchester, Warren, Hancock, Ashland, Klamath Falls, San Luis Obispo, New Milford, Homestead, Buckhannon, Junction City, Aberdeen and Yonkers",1,counting
+Peggy has visited only eighteen places and only six people,"Peggy has visited Hazel, Michelle, Donna, Lindsay, Iris, Jessica and Jane",1,counting
+Jeanne has visited only seven places,Jeanne has visited Jeannette and Santa Ana,0,counting
+Amelia has visited only twenty-one places and only twenty people,Amelia has visited Viola,0,counting
+Constance has visited only twenty-seven people,"Constance has visited Alison, Carol, Kristi, Josephine, Ashley, Veronica, Tamara, Flora, Dolores, Nora, Lisa, Joan, Sandra, Louise, Tanya, Marjorie, Madeline, Samantha, Geraldine, Marie, Alma, Holly, Patsy, Allison, Mabel and Maxine",0,counting
+Rosie has visited only twenty-eight places,"Rosie has visited Rolla, Beloit, Madison, Lakewood, El Reno, Knoxville, Guilford, Manti, Berkeley, South Hadley, Lewistown, Nephi, Colorado Springs, Conneaut, Pryor, Darien, Alamogordo, Bonners Ferry, Portland, Freeport, Monterey, Panguitch, Hammondsport, Ontario, Blairsville, Mattoon, Potsdam, Canton and Staten Island",1,counting
+Gladys has visited only twenty-five places,"Gladys has visited Escanaba, Oil City, Lufkin, Salina, Martins Ferry, Newark, Highland Park, Perry, Virginia, Ketchikan, San Diego, Effingham, Covington and Niles",0,counting
+Mary has visited only seven people,"Mary has visited Nancy, Marguerite, Belinda, Amanda and Ashley",0,counting
+Rebecca has visited only twenty-six people,"Rebecca has visited Susie, Billie, Marion, Tracy, Erica, Inez, Becky, Nora, Marie, Ruth, Jo, Theresa, Jeanne, Clara, Hilda, Melissa, Janie, Lorraine, Naomi, Shannon, Juanita, Robin, Nellie, Antoinette, Rosie, Constance and Faye",1,counting
+Thelma has visited only fourteen places,"Thelma has visited San Bernardino, Salem, Minnesota, Aspen, Rawlins, Biloxi, Adrian, Abbeville, Fresno, Sheboygan, Newport, Coeur d’Alene, Owensboro, Gainesville and Killeen",1,counting
+Alison has visited only thirty places,"Alison has visited Dedham, Magnolia, Hialeah, Garden City, Bedford, Marlborough, Springfield, Glens Falls, York, Honaunau, Fort Scott, Framingham, Rapid City, Northampton, Rugby, Redlands, Bonners Ferry, Princeton, Bartlesville, Stonington, Winooski, Calais, Amarillo, Connecticut, Columbia, Livonia, Athens, Granite City, Cincinnati, Starkville and Iowa",1,counting
+Betty has visited only thirteen places and only four people,"Betty has visited Bainbridge, Martinez, Welch, Bessemer, Norris, Brookings, Fort Valley, Jasper, Levittown, Fort Wayne, Bradenton, Montpelier, Clarksville and Lake City",1,counting
+Stacey has visited only two places,Stacey has visited Fitzgerald,0,counting
+Annie has visited only four places,"Annie has visited Montgomery, Boulder, Hammondsport, Exeter and Lincoln",1,counting
+Ethel has visited only nineteen places and only one people,Ethel has visited Bayonne and Jacksonville,0,counting
+Shannon has visited only eleven places and only ten people,"Shannon has visited Suzanne, Danielle, Angela, Veronica, Martha, Faye, Ann, Jackie, Tanya, Maxine and Catherine",1,counting
+Sabrina has visited only twenty-three places,"Sabrina has visited Independence, Parkersburg, Amesbury, Arlington, Belvidere, Phoenix, San Francisco, Holdenville, Indiana, Barre, Marietta, York, Layton, Barstow, Cleveland, Lake Wales, Saint Albans, Neosho, San Simeon, Bloomsburg, Philadelphia, Minneapolis, Branford and Peekskill",1,counting
+Elizabeth has visited only twenty places and only fifteen people,"Elizabeth has visited Janet, Gail, Alison, Cecilia, Sheryl, Arlene, Wilma, Lee, Martha, Blanche, Misty, Renee, Terri, Andrea, Kristy and Opal",1,counting
+Thelma has visited only fifteen places and only eleven people,"Thelma has visited Woods Hole, Huntington, San Rafael, Conway, Canton, Manchester, Shreveport, Tullahoma, West Covina, Brookings, Newton, Monroe, Kirksville, New Brunswick, Centralia and Utah",1,counting
+Rosie has visited only twenty-four places,"Rosie has visited Provincetown, Moline, Houston, Centralia, Santa Monica, Downey, Eveleth, Bangor, Ishpeming, Simsbury, Darien, Huntsville, Sandwich, Muskogee, Hayward, Demopolis, Panguitch, Fall River, Warren, Orange, Las Cruces, Davis, Port Arthur, Plainview and Pass Christian",1,counting
+Claudia has visited only twenty-two places and only thirteen people,"Claudia has visited Alameda, Mesa, San Felipe, Eastham, Wethersfield, Steubenville, Hanover, Fargo, Brownsville, Emporia, Loveland, Freeport, Simsbury, Henderson, Spearfish, Montgomery, New Glarus, Manassas, Miami and Plymouth",0,counting
+Phyllis has visited only sixteen places and only nine people,"Phyllis has visited Chadron, Yakima, Carlisle, Lakeland, Lumberton, Arlington Heights, Virginia City, Fargo, Springfield, Winona, International Falls, Parma and Grafton",0,counting
+Becky has visited only twenty-nine places,"Becky has visited Livingston, Alamogordo, Asbury Park, Missouri, Decatur, Calhoun, Lawrence, Escondido, Nappanee, Virginia City, Pawtucket, Monroe, Summit, Nashua, Canton, Vandalia, Las Vegas, Bend, Milbank, Hastings and Longview",0,counting
+Lula has visited only nineteen places,"Lula has visited Priest River, Tucumcari, Mount Pleasant, Bloomington, Virginia City and Andersonville",0,counting
+Melinda has visited only fifteen places,"Melinda has visited Paterson, Kirksville, Weehawken, Hobbs, Elizabethtown, Daytona Beach, De Land, Wichita, West Virginia, Roselle, Canon City, Carson City, Washington and Tiverton",0,counting
+Edna has visited only twelve people,"Edna has visited Isabel, Viola, Ruth and Rebecca",0,counting
+Jacqueline has visited only twenty-nine people,"Jacqueline has visited Emma, Jan, Fannie, Victoria, Lynn, Candace, Lucille, Becky, Madeline, Antoinette, Velma, Doris, Cecilia, Loretta, Alison, Ruby, Gertrude, Donna, Misty, Susan, Elizabeth, Crystal, Eva, Kristine, Irene, Rosie and Florence",0,counting
+Mamie has visited only ten places and only two people,"Mamie has visited Hanover, Fort Scott, Brighton, Wood River, Boone, Prichard, Smith Center, Greensboro, Hugo, Honolulu and Salem",1,counting
+Jacqueline has visited only fifteen places,"Jacqueline has visited Berea, Rochester, Franklin, Lowell, Union, Cape Girardeau, Enid, Hickory, Cedar Falls and Warwick",0,counting
+Tina has visited only eleven places and only four people,Tina has visited Downey and Bedford,0,counting
+Vera has visited only fourteen places and only fourteen people,"Vera has visited New Kensington, Fairfield and Santa Clarita",0,counting
+Claudia has visited only twenty-seven people,"Claudia has visited Molly, Susan, Judith, Elaine, Allison, Nora, Vivian, Rebecca, Phyllis, Nicole, Billie and Jean",0,counting
+Joy has visited only twenty-three places and only ten people,"Joy has visited Glenda, Bessie, Jennifer, Robin, Irma, Esther, Sylvia, Lauren, Michele, Ann and Melinda",1,counting
+Leslie has visited only nine people,"Leslie has visited Rebecca, Sherri, Diana, Victoria, Edna, Anita, Carrie, Geneva, Sarah and Jo",1,counting
+Lois has visited only twenty-six places and only three people,"Lois has visited Pasadena, Shepherdstown, Falls Church, Fort Collins, Elko, Carmel, Shamokin, Martinsburg, Bristol, Crystal City, Indiana, Cushing, Smith Center, San Francisco, Lexington, South Saint Paul, New York City, Odessa, Washington, Red Bluff, Sauk Centre, Berlin, Rancho Cucamonga, Royal Oak, Kawaihae, Lawrence and Oak Park",1,counting
+Brittany has visited only twenty-eight places,"Brittany has visited Groton, Columbus, Braintree, Needles, Galveston, Keokuk, Kelso and Bellingham",0,counting
+Dolores has visited only twenty-six places and only fourteen people,"Dolores has visited Courtney, Hazel, Laura, Carrie, Olga, Sue, Carol, Daisy, Iris, Minnie, Priscilla, Lee, Deborah, Darlene and Eileen",1,counting
+Kristy has visited only twenty-seven places and only eleven people,"Kristy has visited Ipswich, Great Neck, Fremont, Holly Springs, New Madrid, Salisbury, Prescott, Hillsboro, Alliance, Columbus, Camden, Knoxville, Jonesborough, Albany, Kingman, Sitka, Cranford, Oregon, Cuyahoga Falls, Bangor, Monmouth, Hagerstown, Nebraska, Smyrna, Valparaiso, Longmont, Olathe and Brookings",1,counting
+Terry has visited only twenty-one places,"Terry has visited Middletown, Dearborn, North Hempstead, Stockbridge, Auburn, Peshtigo, Logan, Titusville and Paducah",0,counting
+Gloria has visited only sixteen places and only fifteen people,"Gloria has visited Prairie du Chien, McCook and Salem",0,counting
+Eleanor has visited only twelve places and only three people,Eleanor has visited Hilda,0,counting
+Terri has visited only twenty-six places and only seven people,"Terri has visited Vinita, Stoughton, Needles, Peoria, Hoboken, Claremore, Peekskill, Delaware, Syracuse, Fargo, Vernal, Richmond, Castine and Westerly",0,counting
+Deanna has visited only twenty-six places and only twenty-six people,"Deanna has visited Corpus Christi, Cape Coral, Sumter, Barnstable, Duxbury, Saranac Lake, Vancouver, Muskogee, Bethlehem, Alamogordo and Lewistown",0,counting
+Sue has visited only twenty-eight places,Sue has visited Santa Clarita,0,counting
+Donna has visited only twenty-one places and only fourteen people,"Donna has visited Heidi, Sharon, Julia, Marjorie, Cindy, Wilma and Jacqueline",0,counting
+Ella has visited only two people,"Ella has visited Hilda, Laura and Iris",1,counting
+Beth has visited only seventeen places and only fourteen people,"Beth has visited Josephine, Felicia, Emily, Nora, Joanna, Monique, Jo, Marsha, Connie, Kayla, Joanne, Priscilla, Glenda, Esther and Kay",1,counting
+Grace has visited only twenty-one places,"Grace has visited Norris, Greeley, Portland, Bozeman, Dartmouth and Rock Springs",0,counting
+Jeanne has visited only five people,Jeanne has visited Tracey and Stacey,0,counting
+Beth has visited only fourteen places and only eight people,"Beth has visited Sheila, Cassandra, Lois and Willie",0,counting
+Willie has visited only fourteen places and only four people,"Willie has visited Bryan, Laguna Beach, Philadelphia, Jacksonville, Old Saybrook, Cullman, Barbourville, Leadville, Cherokee, Clifton, Sand Springs, Portland, Carlsbad, Nahant and Great Barrington",1,counting
+Leona has visited only twenty-four people,"Leona has visited Eleanor, Stella, Diana and Judy",0,counting
+Renee has visited only eight places and only six people,Renee has visited Fall River,0,counting
+Lydia has visited only eight places and only three people,"Lydia has visited Philadelphia, Orderville, Alabama, Hialeah, Atlantic City, Marlborough, Highland Park, Missoula and Grand Haven",1,counting
+Kristen has visited only sixteen places and only seven people,"Kristen has visited Tombstone, Gila Bend, West Springfield, La Salle, Garden City, Costa Mesa, Calexico, Alexandria, Abilene, Hillsboro, Muncie, Oberlin, El Monte, Kodiak, Abbeville, Hampton and Susanville",1,counting
+Grace has visited only two people,Grace has visited Loretta,0,counting
+Samantha has visited only four places,Samantha has visited Washington and Duncan,0,counting
+Sandy has visited only seven places and only five people,"Sandy has visited Lexington, Middletown, Roseburg, Americus, Huntsville, Alexandria, Bordentown and Jefferson City",1,counting
+Martha has visited only four places and only four people,"Martha has visited Wayne, Marietta, North College Hill, Sedalia and Ottumwa",1,counting
+Ashley has visited only thirteen places and only three people,"Ashley has visited North Carolina, Red Cloud, San Fernando, Red Bluff, East Hartford, Deming, Jackson, Lakehurst, Marquette, Youngstown, Waukesha, Cranford, Little Rock and Claremont",1,counting
+Nina has visited only six places and only five people,"Nina has visited Brainerd, Cherokee, Woods Hole, Menasha, Rolla, Massachusetts and Laurel",1,counting
+Ada has visited only twenty-seven places and only twelve people,"Ada has visited Esther, Lori, Valerie, Bertha, Amelia, Lois, Helen, Leah and Holly",0,counting
+Alicia has visited only twenty-six people,"Alicia has visited Peggy, Beulah, Angela, Toni, June, Shelly, Flora, Lillie, Lori, Danielle, Candace, Jill, Wanda, Constance, Katrina, Gail, Nellie, Christine, Myrtle, Elsie, Dawn, Eileen, Leona, Rose and Luz",0,counting
+Andrea has visited only thirteen people,"Andrea has visited Sue, Irma, Marguerite, Alicia, Pauline, Hattie, Margarita, Margaret, Jenny, Maryann, Kathy, Florence, Dolores and Viola",1,counting
+Holly has visited only eight people,"Holly has visited Maxine, Rosie, Linda, Sheila, Ella, Shelley, Anne, Verna and Bernice",1,counting
+Suzanne has visited only ten people,"Suzanne has visited Irene, Theresa, Stacy, Jennie, Cora, Ann, Rosemary, Beulah, Tonya, Ellen and Caroline",1,counting
+Jeanette has visited only twenty-nine people,"Jeanette has visited Julie, Ashley, Rosie, Connie, Ann, Dolores, Darlene, Genevieve, Beatrice, Hattie, Viola and Elsie",0,counting
+Sara has visited only seven places and only six people,"Sara has visited Eleanor, Mary, Cynthia, Sara, Margie, Faye and Pauline",1,counting
+Geraldine has visited only twenty-two people,"Geraldine has visited Heather, Yvette, Barbara, Lola, Pearl, Renee, Miriam, Joanna, Teresa, Phyllis, Candice and Nora",0,counting
+Deborah has visited only nineteen places,"Deborah has visited Bloomington, Enfield, Mount Clemens, Buffalo, Orange, Hartford, Irvington, Columbus, Milbank, Salem, Jim Thorpe, Decatur, Fargo, Richland and Okmulgee",0,counting
+Cynthia has visited only three people,Cynthia has visited Jackie and Kristin,0,counting
+Penny has visited only twenty-eight places,"Penny has visited North College Hill, Richmond, Canton, West Seneca, Calais, Austin, Pauls Valley, Anaconda, Missoula, New Castle, Alta, Hobart, Liberal, Cleveland, Waycross, Cookeville, Charlotte, Eastham, Mission, Everett, Suffolk, Bangor, South San Francisco, Keyser, Halifax, Williamsburg, Amarillo, Brownsville and New Windsor",1,counting
+Deborah has visited only nineteen places,"Deborah has visited Yuma, Mexico, Everett, Maine, Cohoes, Rantoul, Elkton, Norfolk, Lockport, Waterloo, Warren, Ten Sleep, Cheektowaga, Holyoke, Brainerd, Ishpeming, Jamestown, Bellingham, Nevada and Canton",1,counting
+Gwendolyn has visited only twenty-two places and only twenty-one people,"Gwendolyn has visited Margarita, Evelyn, Sylvia, Darlene, Kristina, Molly, Susan, Crystal, Minnie, Dolores, Samantha, Cindy, Agnes, Juana, Alberta, Vickie, Janie, Beatrice, Brandy, Faye, Lee and Kelly",1,counting
+Natalie has visited only twenty-five places,"Natalie has visited Fontana, Quincy, Oyster Bay, Ottawa, Kingman, Hobbs, Kotzebue, Miles City, Martins Ferry, Oxford, Dahlonega, Livingston, Salt Lake City, Nanticoke, Hyattsville, Bar Harbor, New Haven, Orange, Chickasaw, Wausau, Santa Ana, Hamden, Waco, Fresno, Corpus Christi and Greenbelt",1,counting
+Valerie has visited only twenty-four places and only ten people,"Valerie has visited Bluefield, Charlotte, Woodbridge, Middletown, Sterling, Stony Brook, Takoma Park, Hazard, Fullerton, Lakehurst, Trenton, Seymour, Springfield, Hallandale Beach, Long Beach, Anacortes, Hanover, Sioux Falls, Danbury, Midland, Ludlow, Bar Harbor, Casper, Ipswich and Charles Town",1,counting
+Clara has visited only ten places and only five people,Clara has visited Eunice and Tina,0,counting
+Dolores has visited only three places,"Dolores has visited Perth Amboy, Plymouth, Yuma and Culver City",1,counting
+Joanne has visited only seventeen people,"Joanne has visited Stacy, Elaine, Josephine, Christy, Pearl, Glenda, Eileen, Rosemary, Yvonne, Kathy, Kristen, Evelyn, Jenny, Charlotte, Melody, Clara, Wanda and Crystal",1,counting
+Becky has visited only eighteen places and only sixteen people,"Becky has visited Shirley, Brandi, Kristy, Carolyn, Anne and Cathy",0,counting
+Hazel has visited only eleven places,Hazel has visited Athens,0,counting
+Misty has visited only twenty-one people,"Misty has visited Julie, Julia, Lula, Constance, Janet, Judith, Ann, Misty, Renee, Flora, Stephanie, Doris, Heather, Victoria, Lisa, Joyce, Pamela, Erin, Pearl, Monique, Beth and Eileen",1,counting
+Bessie has visited only eleven places,"Bessie has visited Great Barrington, Atmore and Lincoln",0,counting
+Candace has visited only seventeen places,"Candace has visited Andover, Shelbyville, Hackensack, Cape May, Hazard, Enfield, Newark, Keyser, Fort Pierce, Grand Junction, North Adams, Exeter, Cairo, Augusta, Alton, Normal, New Castle and Zion",1,counting
+Eunice has visited only eight places and only six people,Eunice has visited Florissant,0,counting
+Peggy has visited only twenty-four places and only eighteen people,"Peggy has visited Pagosa Springs, Norwalk, El Reno, Warm Springs, Richmond, Fort Myers, Summersville, Joplin, Bradenton and West Bend",0,counting
+Michelle has visited only ten places and only five people,"Michelle has visited Summit, Oakland, Bay Saint Louis, Urbana, Antioch, Goliad, Waterloo, Osceola, Port Angeles, New York City and Canyon",1,counting
+Erin has visited only twenty-four places and only eight people,"Erin has visited Joy, Bonnie and Geraldine",0,counting
+Sheila has visited only eighteen places and only seventeen people,"Sheila has visited Athens, Summersville, Marietta, Carbondale, New Windsor, Watertown, Abbeville, Maryville, Bountiful, Westfield, Manhattan, Palm Bay, San Diego, Geneva, Midland, Hopewell, Buena Park, Huron and Fort Scott",1,counting
+Jean has visited only twenty-two places and only fourteen people,"Jean has visited Minnesota, Mansfield, Wilkes-Barre, Warren, Hillsborough, Ecorse, South Charleston, Newcastle, Oraibi, Georgia, Pharr, Kennebunkport, Redondo Beach, Lawrence, Norristown, Ajo, Rhinelander, Barre, Oneida, San Antonio, Waimea, Greenwich and Santa Cruz",1,counting
+Nina has visited only fifteen places and only four people,"Nina has visited Billings, Wenatchee, Ipswich, Huntsville, Rockford, Kankakee, Windham, Marion, Olympia, Chicago Heights, Quincy and Lewes",0,counting
+Regina has visited only six places and only three people,"Regina has visited Columbia, Idaho Falls, Council Bluffs, Alta, Winter Haven, Henderson and New Hampshire",1,counting
+Betty has visited only three places and only two people,"Betty has visited Bedford, Cahokia, Gila Bend and Portsmouth",1,counting
+Mattie has visited only seven places,"Mattie has visited Waimea, Hope, McAlester, Rapid City, Eastham, Lebanon, Elwood and Bessemer",1,counting
+Jennie has visited only twelve places and only five people,Jennie has visited Arcadia,0,counting
+Stacey has visited only eight people,"Stacey has visited Rhonda, Ramona, Tracey, Melanie, Antoinette, Joanna, Christy, Katrina and Denise",1,counting
+Maria has visited only twenty-nine places and only twenty-seven people,"Maria has visited Kathryn, Julia, Dorothy, Shelley, Ramona, Luz, Melissa, Caroline, Charlotte, Ethel, Nina, Kristina, Fannie, Rachel, Kristine, Connie, Marguerite, Isabel, Jenny, Patsy, Angie, Iris, Jeanette, Norma, Madeline, Kristy, Loretta and Barbara",1,counting
+Yvette has visited only seventeen places and only nine people,"Yvette has visited Sauk Centre, McMinnville, Bremerton, Huntsville, Parkersburg, Virginia, Vandalia, Wilmington, Bisbee, Kaskaskia, Woonsocket, Hickory, New Castle, Sacramento, Delaware, Liberal, Derby and Illinois",1,counting
+Evelyn has visited only ten places and only ten people,"Evelyn has visited Cathy, Myrtle, Ethel, Sue, Rebecca, Elizabeth, Edna, Beth, Joann, Sandy and Anita",1,counting
+Dana has visited only twenty-seven places and only fifteen people,"Dana has visited Joyce, Sonya, Annette, Sharon, April, Gladys, Clara, Gina, Harriet, Michelle, Amber, Regina, Ida and Joan",0,counting
+Lorraine has visited only twenty-one places and only twelve people,"Lorraine has visited Ruth, Eileen, Elaine, Eva, Lois, Dianne, Marcia, Annette and Irma",0,counting
+Marian has visited only nine people,"Marian has visited Ramona, Cheryl and Nancy",0,counting
+Anita has visited only nine people,"Anita has visited Dorothy, Cora, Geneva, Suzanne, Erika, Flora, Yvonne and Erica",0,counting
+Felicia has visited only twenty-five people,"Felicia has visited Mabel, Louise, Sheryl and Danielle",0,counting
+Marlene has visited only twenty-two places and only twenty people,"Marlene has visited Clarksburg, Grand Junction, Texas City, Ysleta, Baytown, East Haven, Evansville, Cushing, Independence, Stamford, Bedford, Lansing, Worcester, Indianapolis, Perry, South Dakota, New London, Elkhart, Sidney, Tacoma, New Market, Grenada and Sheboygan",1,counting
+Emma has visited only twenty people,"Emma has visited Irene, Georgia, Nicole, Penny, Cynthia, Sherry, Marion, Alice, Beverly, Helen, Lola, Kelly, Delores, Emma, Maria, Joanna, Lynda, Rosa, Linda, Kayla and Marcia",1,counting
+Nora has visited only twenty-four places and only ten people,"Nora has visited Crawfordsville, Clearwater, Phenix City, Eufaula, Winter Haven, Prairie du Chien, Batavia, Chelsea, Corvallis, Fort Lee, York, Paducah and Belen",0,counting
+Shirley has visited only three places and only two people,"Shirley has visited Ocean City, Lake Charles, Paducah and Kilgore",1,counting
+Holly has visited only three places and only one people,Holly has visited Ramona,0,counting
+Danielle has visited only twenty-five people,"Danielle has visited Wilma, Tammy, Elsie, Judy, Lindsey, Leah, Mamie, Terri, Marian, Allison, Juana, Gertrude, Kathryn, Joanne, Kayla, Lucy, Pearl, Betty, Janice and Caroline",0,counting
+Joanna has visited only fifteen places and only seven people,"Joanna has visited Sonia, Mabel, Erin, Delores, Katie, Lillian, Wilma and Claudia",1,counting
+Kay has visited only fourteen places and only three people,Kay has visited Geraldine,0,counting
+Katie has visited only ten places and only two people,"Katie has visited Levittown, Port Lavaca, Bend, Houma, San Juan Capistrano, Des Moines, Oconto, Victoria, Plattsburgh, Bedford and Lisle",1,counting
+Agnes has visited only thirteen places and only thirteen people,"Agnes has visited Melody, Kimberly, Sandy, Ashley, Kristine, Alicia, Kathleen, Joyce and Lori",0,counting
+Shelly has visited only twenty-seven places and only twelve people,"Shelly has visited Eunice, Mattie and Naomi",0,counting
+Rosemary has visited only six places and only six people,"Rosemary has visited West Point, Reading, Madison, Vermillion and Atlanta",0,counting
+Nora has visited only two places and only one people,"Nora has visited Elizabeth, Alton and Willmar",1,counting
+Rhonda has visited only twenty-five people,"Rhonda has visited Melody, Jo, Holly, Billie, Ruth, Janie, Juana, Ida, Bonnie, Julia, Betty, Lucy, Lena, Connie, Sarah, Wilma, Miriam, Rosa, Cheryl, Marion and Bobbie",0,counting
+Vera has visited only twenty-six places and only four people,"Vera has visited Oakland, Boise, Meadville, Portland, Escondido, Shaker Heights, Highland Park, Kilgore, Wichita, Glendale, Winter Park, Burns, Hollywood, North College Hill and Cleburne",0,counting
+Sarah has visited only five places and only four people,"Sarah has visited Honolulu, Compton and Madison",0,counting
+Yvette has visited only eighteen people,"Yvette has visited Mabel, Marian, Victoria, Elaine, Terri, Gladys, Amber, Constance, Georgia, Norma and Cathy",0,counting
+Erika has visited only ten places and only one people,Erika has visited Wanda and Jackie,1,counting
+Katie has visited only twenty-eight people,"Katie has visited Juana, Kay, Marguerite, Melissa, Maureen, Alicia, Laura, Tracey, Genevieve, Eva, Belinda, Marcia, Phyllis, Bertha, Virginia, Monique, Gertrude, Tonya, Vickie, Geneva, Stephanie, Sheila, Mae, Jamie, Misty, Bessie, Lena, Caroline and Elizabeth",1,counting
+Christina has visited only fourteen places and only three people,"Christina has visited Olga, Veronica, Belinda and Evelyn",1,counting
+Gina has visited only eight places,"Gina has visited Malibu, Brighton, Salem, North Haven, Saco, Naples, Jamestown, Helena and Reno",1,counting
+Alison has visited only ten people,"Alison has visited Marian, Ellen, Colleen, Sally, Theresa, Laura, Eleanor, Monique, Kathryn, Elaine and Julia",1,counting
+Ruth has visited only sixteen places and only fifteen people,"Ruth has visited Lucille, Isabel, Christy, Elizabeth, Alicia, Edna, Cathy, Janice, Mattie, Hilda, Jean, Leona, Mary, Laurie, Connie and Shelly",1,counting
+Madeline has visited only seventeen people,"Madeline has visited Regina, Geneva, Faye, Elsie, Cathy, Wanda, Wendy, Louise, Lucille, Eva, Marlene, Jennifer, Marian, Carolyn, Rebecca and Melissa",0,counting
+Alice has visited only twenty-three places and only three people,"Alice has visited Cecilia, April, Blanche and Leslie",1,counting
+Angela has visited only ten places and only four people,"Angela has visited Ypsilanti, Fort Benton, Tuskegee, Bangor, Kaneohe, Greenville, Saint Petersburg and Halifax",0,counting
+Isabel has visited only five places,"Isabel has visited Menominee, Warm Springs and Great Bend",0,counting
+Harriet has visited only twenty-seven places and only twenty-four people,"Harriet has visited Hamilton, Panguitch, Harlan, Okmulgee, Iowa City, Sylacauga, Enfield, Manchester, Benton, Cumberland, Groton, Richmond, Lakewood, Johnstown, Cape May, The Dalles, Washington, Mamaroneck, Racine, Redlands, Ten Sleep, Windsor, Flushing, La Habra, Oregon, Lubec, Oraibi and Bethesda-Chevy Chase",1,counting
+Ruby has visited only two places,Ruby has visited Lubbock,0,counting
+Laurie has visited only seven places and only five people,"Laurie has visited Nina, Colleen and Anna",0,counting
+Joanna has visited only twenty-nine people,"Joanna has visited Sarah, Iris, Anita, Hilda, Claire, Erin, Mattie, Constance, Virginia, Kayla, Sandra, Margaret, Crystal, Samantha, Stacey, Maxine, Jean, Cathy, Lindsay, Diane, Anna, Lori, Elizabeth, Jeanne, Tracey, Katherine, Judith, Emma, Vicki and Patricia",1,counting
+Arlene has visited only twelve places and only one people,"Arlene has visited Reedsport, Sudbury, Stony Brook, Tooele, La Crosse, Pawtucket, Saint Cloud, Searcy, Rocky Mount, Barbourville, Willmar, Faribault and Baton Rouge",1,counting
+Sherry has visited only fifteen people,"Sherry has visited Carrie, Lauren, Ida, Joyce, Peggy, Genevieve, Marjorie, Inez, Elizabeth, Megan, Naomi, Erika, Clara, Charlotte, Joann and Elaine",1,counting
+Mamie has visited only twenty-three places and only two people,"Mamie has visited Dora, Deborah and Lena",1,counting
+June has visited only twenty-nine places,"June has visited Baytown, Bartlesville, Baker City and Wallingford",0,counting
+Rita has visited only eighteen places and only two people,Rita has visited Eleanor,0,counting
+Faye has visited only twenty-eight places and only fifteen people,"Faye has visited Gallipolis, Kittery, Port Washington, Oroville, Eastport, Des Plaines, Asheboro, Cordova, Illinois, Virginia, Ludington, Brattleboro, Summersville, Ellensburg and Port Gibson",0,counting
+Kim has visited only ten people,Kim has visited Harriet,0,counting
+Lindsey has visited only five places and only one people,Lindsey has visited Renee and Bernice,1,counting
+Lorraine has visited only seven places,Lorraine has visited Ocala and Belfast,0,counting
+Peggy has visited only seven places,"Peggy has visited Eureka, Fayetteville, Norwood, Ludlow, Falmouth, Ansonia, Traverse City and Kalispell",1,counting
+Jill has visited only eight places and only eight people,"Jill has visited Cassandra, Heidi, Ruth, Elsie, Marion, Kimberly and Jane",0,counting
+Gertrude has visited only twenty-seven places and only twenty-six people,"Gertrude has visited Bertha, Jeanette, Ramona and Daisy",0,counting
+Vickie has visited only twenty-nine people,"Vickie has visited Loretta, Esther, Darlene, Roberta, Nicole, Ellen, Laurie, Gloria, Joan, Marlene, Monica, Renee, Audrey, Vickie, Veronica, Ruth, Candace, Caroline and Melody",0,counting
+Brittany has visited only twenty-seven places and only twenty people,"Brittany has visited Marcia, Alison, Carmen, Stephanie, Lynda, Margarita, Theresa, Faye, Gladys, Frances, Marjorie, Jeanette, Edith, Nina, Hazel, Laurie, Wilma, Jacqueline, Joann, Ramona and Ida",1,counting
+Erica has visited only twenty-one places and only ten people,"Erica has visited Allentown, Marysville, Sausalito, Abington, Richmond, Fort Morgan, Pullman, Boothbay Harbor, Globe, Sarasota, Palm Bay, Chambersburg, Laredo, Guilford, Santa Cruz, Truth or Consequences, North Las Vegas, Berlin, North Dakota, Vandalia, Altoona and Cedar City",1,counting
+Kristy has visited only twelve places and only eleven people,"Kristy has visited Yvonne, Joyce, Nora, Bonnie, Esther, Tracey, Cindy, Renee, Marian, Lori, Marcia and Lydia",1,counting
+Kathryn has visited only four places and only four people,"Kathryn has visited Jackie, Michelle, Vicki, Joanna and Leona",1,counting
+Stacy has visited only thirty places and only twenty-one people,"Stacy has visited Brandy, Kristi, Margarita, Beulah, Tracey, Terri, Jodi, Dorothy, Renee, Rosemary, Rosie, Andrea, Lynn, Terry, Evelyn, Mildred, Jackie, Arlene, Jamie, Christina, Lucy and Molly",1,counting
+Dora has visited only twenty-eight places and only four people,Dora has visited Debra and Susie,0,counting
+Susie has visited only thirteen places,"Susie has visited Hyannis, Bristol, Tulsa and Aiken",0,counting
+Diana has visited only thirteen places and only four people,"Diana has visited Atlanta, Columbus, White Springs, Sharon, Las Cruces and Hawaii",0,counting
+Jackie has visited only twenty-nine places and only twenty people,"Jackie has visited Renee, Rita, Beatrice, Angela, Iris, Jacqueline, Terry, Ann, Wendy, Emily, Melanie, Susan, Pearl, Sara, Julia, Bernice, Janice, Juana, Kelly, Katherine and Annette",1,counting
+Beulah has visited only twelve places and only four people,"Beulah has visited Madeline, Toni and Joyce",0,counting
+Iris has visited only nineteen places,"Iris has visited Easton, Streator, Perth Amboy, Arlington Heights, Cleburne, Princeton, Santa Clarita, Columbus, Montpelier, Spanish Fork, Tarrytown, Olympia, Culver City, Fredericksburg, Lexington, Summit, Sioux City, Andalusia, College Station and Rochester",1,counting
+Ashley has visited only fourteen places,"Ashley has visited Bay City, Harlingen, Washington, Brighton, Vicksburg, Lake Forest, Piqua, Wellesley, Petersburg, Fallon, Royal Oak, Leavenworth, Lamar, East Chicago and Terre Haute",1,counting
+Rita has visited only thirteen people,Rita has visited Sonia and Florence,0,counting
+Ada has visited only twenty-five places and only twenty people,"Ada has visited Rye, Kinston, Mishawaka, Chicago, Wailuku, Lewistown, Lewiston, Ventura, Calhoun, Effingham, Santa Fe, Richland, Reston, Payson, Davis, Puyallup, Columbia, Saint Joseph, Claremont, Merced, Edmond, McCook, Edison, Wheeling, San Antonio and Breckenridge",1,counting
+Elsie has visited only eight places,"Elsie has visited Hagerstown, Nebraska, Atlantic City, Marion, Huntington and Revere",0,counting
+April has visited only fifteen places,"April has visited Kentucky, Cleburne, Mount Pleasant, Bowling Green, Baltimore, Lake Havasu City, Nome, Fort Pierce, Fitzgerald and New Castle",0,counting
+Leona has visited only ten places,"Leona has visited Pawtucket, Oceanside, Dover, Huron, Concord, Ysleta, Carrollton, Florissant, Bayonne, Cohasset and Old Saybrook",1,counting
+Hilda has visited only twenty-four people,"Hilda has visited Eileen, Joanne, Suzanne, Cheryl, Samantha, Renee and Diane",0,counting
+June has visited only thirty places and only eight people,"June has visited Naomi, Megan, Kristi, Josephine and Ellen",0,counting
+Judy has visited only six people,"Judy has visited Sonya, Marcia, Alison and Susie",0,counting
+Sherri has visited only thirty places and only eight people,"Sherri has visited Tampa, Lebanon, Perth Amboy, Jacksonville, Williamsburg, Kennebunkport, Oil City, Tuscaloosa, Rugby, Hillsborough, Helena, Astoria, Paducah, Laie, Lake Oswego, Chillicothe, Saugus, Cahokia, Laurel, Xenia, Evansville, Pittsfield, Athens, Janesville, Coffeyville, Hobart, Glassboro, Berkeley, McPherson, Greeneville and West Bridgewater",1,counting
+Deborah has visited only twenty people,"Deborah has visited Valerie, Jodi, Alma, Nina and Laura",0,counting
+Alison has visited only five places and only one people,Alison has visited Tamara,0,counting
+Brandi has visited only twenty people,"Brandi has visited Colleen, Kathryn, Jo, Tonya, Lindsey, Pamela, Ashley, Sarah, Opal, Kristy, Sheryl, Phyllis, Tanya, Nancy, Esther, Yvonne, Nicole, Myrtle, Guadalupe, Yolanda and Vickie",1,counting
+Bessie has visited only sixteen places and only thirteen people,"Bessie has visited Christy, Myrtle, Amy, Juana, Leona, Bobbie, Anne, Cynthia, Marion, Melody, Eva, Diana, Dianne and Suzanne",1,counting
+Cathy has visited only nine places and only one people,"Cathy has visited Mount Vernon, Youngstown, Clayton, Portsmouth, Elmira, Port Orford, Pittsburgh, Fort Wayne, Monroe and Wichita",1,counting
+Nicole has visited only fifteen people,"Nicole has visited Elizabeth, Gloria, Ida, Sandy, Carole, Paula and Miriam",0,counting
+Fannie has visited only eight people,"Fannie has visited Mamie, Audrey, Connie, Tamara, Jeanette, Marguerite, Cathy, Kristin and Carole",1,counting
+Patsy has visited only nine people,"Patsy has visited Penny, Lillie, Pamela, Fannie, Inez, Hilda, Willie, Joanne, Vicki and Kristine",1,counting
+Wilma has visited only eighteen places and only eight people,"Wilma has visited Mamie, Agnes, Alma, Esther, Leah, Beverly, Barbara, Sheryl and Lucy",1,counting
+Flora has visited only twenty-nine places,"Flora has visited Shelby, New Paltz, Springfield, Richland, Alpine, Barre, McKeesport, Watervliet, Washington, Hyattsville, New Bern, Middletown, Camden, Oklahoma, Olathe, Moscow, Grinnell, Chelmsford, Conneaut, Norwich, Wayne, Alta, Farmington, Bourne, Findlay, Salina, Priest River, East Cleveland, Biddeford and Salem",1,counting
+Maryann has visited only nineteen places and only eight people,"Maryann has visited Harriet, Holly, Sheryl, Alma, Tanya, Sherry, Christina, Danielle and Paula",1,counting
+Sharon has visited only twelve places and only four people,"Sharon has visited Mount Pleasant, Saint Augustine, Saint Ignace, Tulsa, Panguitch, Stillwater, Harrisburg, Englewood, Santa Monica and Barre",0,counting
+Heather has visited only thirty places and only twenty-three people,"Heather has visited McCook, Hilo, Coeur d’Alene, Lamar, Cortez, Monett, Orlando, New Hampshire, Mountain View, Muskogee, Waimea, Los Alamos, Logan, Salem, Phoenixville, Honaunau, Hot Springs, Red Cloud, Freeport, Jacksonville, Cooperstown, Canon City, Edmond, Johnson City, Moscow, Redwood City, Carbondale, Mandan, Chula Vista, Barstow and San Luis Obispo",1,counting
+Eva has visited only three places,Eva has visited Montana,0,counting
+Penny has visited only twenty-two places and only two people,"Penny has visited Sapulpa, Presque Isle, Bartow, Vermont, Nauvoo, Waterloo, Abington, Miami, Brainerd, Havre, Novato, Freeport, Warm Springs, Great Bend, Topeka, Florida, Bethesda-Chevy Chase, Cleveland Heights, Kingston, Steubenville, Columbia, Fredonia and West Covina",1,counting
+Patsy has visited only twenty-eight people,"Patsy has visited Teresa, Joann, Isabel, Alicia, Beatrice, Renee, Jodi, Sarah, Veronica, Christy, Norma, Carrie, Irma, Debra, Katie, Bernice, Ruby, Rosa, Janice, Genevieve, Ethel, Monique, Dora, Charlene, Christine, Terri, Sandy, Carmen and Jill",1,counting
+Jacqueline has visited only twenty-four places,"Jacqueline has visited The Village, Green River, Glassboro, Shamokin, Ithaca, Redmond, Santa Clara, Pawhuska, Fairfield, Chapel Hill, Excelsior Springs, Charleston, Montrose, Beatrice, Globe, Evanston, La Junta, Summit, Lubbock, Daytona Beach, Cleveland Heights, Charles Town, Chelsea, Rochester and Claremont",1,counting
+Rebecca has visited only twelve people,"Rebecca has visited Veronica, Judith, Juanita, Cora, Lillian, Jill, Alison, Lucille and Loretta",0,counting
+Luz has visited only twenty-four places and only nineteen people,Luz has visited Cape May,0,counting
+Samantha has visited only fifteen places and only fourteen people,"Samantha has visited Salisbury, Southampton, Tahlequah, Utah, Winter Haven, Lompoc, Climax, Santa Monica, Bedford, Kentucky, Palmer, Oklahoma City, Quincy, Wewoka, Buffalo and Laurel",1,counting
+Kathy has visited only six places and only one people,Kathy has visited Lewes,0,counting
+Glenda has visited only ten places,"Glenda has visited River Forest, Branford, Wyandotte, Shepherdstown, West Hartford, Belle Glade, Williamstown, Des Plaines, New London, Charlotte and Aurora",1,counting
+Claire has visited only twenty-one places,"Claire has visited Cordova, Chester, Palmyra, Franklin, Fitchburg, Bremerton, Monmouth, Decatur, Williamson, New Ulm, Richmond, Monterey, Greenfield, Rugby, Hannibal, Charles City, Mount Pleasant, Phenix City, Trinidad, Van Buren, Colorado and Camden",1,counting
+Mary has visited only nine places and only four people,Mary has visited Georgia and Vivian,0,counting
+Allison has visited only three places,"Allison has visited Springfield, Natchitoches, Oklahoma and San Pedro",1,counting
+Ethel has visited only twenty-four people,"Ethel has visited Bertha, Diana, Lucy, Sarah, Diane, Carla, Rosie, Kimberly, Suzanne, Jessica, Luz, Leslie, Viola, Carmen, Rhonda, Brandy, Guadalupe, Janie, Jan, Katie, Ashley, Willie, Heidi, Belinda and Verna",1,counting
+Jackie has visited only eighteen people,"Jackie has visited Bertha, Ethel, Loretta, Elizabeth and Norma",0,counting
+Candace has visited only thirty places and only seven people,"Candace has visited Hattie, Deborah, Angie, Thelma, Ramona, Wanda, Frances and Dana",1,counting
+Kathy has visited only twenty-six places and only twenty-five people,"Kathy has visited New Haven, Carrollton, Cushing, Littleton, Menlo Park, Great Barrington, Bellevue, San Marcos, Indiana, Sturgeon Bay, Point Roberts, Williston, Greeley, West Des Moines, Vandalia, West Plains, Lumberton, Westfield, Shaker Heights, Middletown, Oxford, Natick, Woburn, Hot Springs, Wilmington, Camden and Emmitsburg",1,counting
+Dianne has visited only twenty places,"Dianne has visited Magnolia, Charleston, Chillicothe, Herkimer, Concord, Mobridge, Worthington, Superior, Columbia, Yazoo City, Prineville, Brookings, East Providence, Charlottesville, Key West, Bogalusa, Redondo Beach, Hazleton, Lovington, New Hope and Southampton",1,counting
+Shannon has visited only twelve places and only five people,"Shannon has visited Delray Beach, Stroudsburg and Vandalia",0,counting
+Ellen has visited only seventeen people,"Ellen has visited Dorothy, Katrina, Maxine, Jan, Tanya, Andrea, Kristina and Sandra",0,counting
+Lynn has visited only seven places and only one people,"Lynn has visited Midland, Sauk Centre, Williamstown, Apalachicola, West Bridgewater and Climax",0,counting
+Theresa has visited only nine people,"Theresa has visited Margarita, Charlotte, Carmen and Norma",0,counting
+Crystal has visited only fourteen places and only twelve people,"Crystal has visited Red Cloud, Lebanon, New Braunfels, Miles City, San Leandro, Middletown, East Cleveland, Carbondale, Chambersburg and Orange",0,counting
+Wanda has visited only twenty-two people,"Wanda has visited Verna, Alma, Lucille, Barbara, Mattie, Brandi, Karen, Leah, Sheila, Monica, Amanda, Juanita, Faye, Emma, Jenny, Carolyn, Jennifer, Sonia, Brittany, Georgia, Shelly, Peggy and Grace",1,counting
+Marcia has visited only twenty-nine places,"Marcia has visited Perth Amboy, Uniontown, Gloucester, Murfreesboro, Ossining, La Habra, Yorba Linda, Dickinson, Mamaroneck and Urbana",0,counting
+Josephine has visited only eleven places and only one people,Josephine has visited Donna,0,counting
+Elizabeth has visited only one place and only one people,Elizabeth has visited Minnie and Vickie,1,counting
+Monica has visited only nine places and only nine people,"Monica has visited Audrey, Joanna and Sally",0,counting
+Rachel has visited only twenty-eight places and only ten people,"Rachel has visited Peggy, Carol, Gertrude, Antoinette, Katherine, Vicki, Loretta, Candice, Sonya, Lynn and Gloria",1,counting
+Delores has visited only ten places and only seven people,"Delores has visited Erica, Kelly, Jo, Nicole, Sheila, Charlotte, Genevieve and Margie",1,counting
+Sally has visited only six people,"Sally has visited Irma, Ada and Sherry",0,counting
+Lena has visited only twenty-four places,"Lena has visited Guntersville, Easton, Sturgeon Bay, Austin, Waukegan, Bartlesville, Asheboro, Lewiston, Nashville, Atlantic City, Davis and Weston",0,counting
+Courtney has visited only one place and only one people,Courtney has visited Oak Ridge and Elizabeth City,1,counting
+Diana has visited only twenty-five places and only three people,"Diana has visited Opal, Pamela, Wilma and Cecilia",1,counting
+Crystal has visited only eleven places and only five people,"Crystal has visited Lindsay, Rosemary, Brittany, Juana, Clara and Allison",1,counting
+Guadalupe has visited only twenty-one places and only fifteen people,"Guadalupe has visited Marlene, Linda, Andrea, Sandra, Kathleen, Hazel, Blanche, Nora, Roberta, Edna, Ana, Megan, Elsie, Darlene, Eleanor and Samantha",1,counting
+Kayla has visited only five places,"Kayla has visited Sapulpa, Ogdensburg, Dearborn, Breckenridge, Wyoming and Pass Christian",1,counting
+Linda has visited only six places and only one people,Linda has visited Brittany,0,counting
+Beatrice has visited only twenty-seven places,"Beatrice has visited Suffolk, Bradford, Chelsea, Portland, Greenfield, Marietta, Babylon, Monticello, Houma, Sturbridge, Thermopolis and Fall River",0,counting
+Joyce has visited only twenty people,"Joyce has visited Caroline, Susan, Jeanette, Diana, Janie, Melinda, Opal, Joanna, Kathy, Bernice, Terri, Eunice, Vanessa, Christine, Natasha, Brittany, Suzanne, Molly, Becky, Leslie and Jackie",1,counting
+Billie has visited only five places and only four people,Billie has visited Macomb and Hope,0,counting
+Kristine has visited only twenty-three places and only six people,"Kristine has visited Ashley, Miriam, Lillian, Donna, Sara, Lindsay and Rosie",1,counting
+Monique has visited only nineteen places and only twelve people,"Monique has visited Ann, Patricia, Renee, Constance and Jeanette",0,counting
+Sandy has visited only one people,Sandy has visited Olga,0,counting
+Martha has visited only twenty-seven places and only fourteen people,"Martha has visited Erin, Kimberly, Stacey, Penny, Lorraine, Jessica, Grace, Flora, Janet, Mamie, Josephine, Leah, Helen, Erika and Melissa",1,counting
+Heidi has visited only fourteen people,"Heidi has visited Gladys, Tonya, Gwendolyn, Veronica, Amanda, Eva, Olga, Dolores, Susan, Lindsey, Dorothy, Katrina, Marian, Nellie and Lucy",1,counting
+Diane has visited only one people,Diane has visited Olivia,0,counting
+Irma has visited only eleven people,Irma has visited Cassandra,0,counting
+Lynn has visited only eight people,"Lynn has visited Kathryn, Cynthia, Kim, Tanya, Ethel, Tara and Yvonne",0,counting
+Melanie has visited only six places,"Melanie has visited Saint Paul, Leominster, Canton, Bellows Falls, Eufaula, Harlan and Kansas City",1,counting
+Lola has visited only twenty-six places and only twenty-five people,"Lola has visited Biddeford, Vallejo, Mitchell, Tyler, Bedford, Lower Southampton, Fort Lee, Huntsville, East Hartford, Amarillo, Bristol, Brookfield, Brea, Jefferson City, Smyrna, Park Ridge, Sonoma, Seattle, Petaluma, Collinsville, Port Washington, Lubec, Oxford, Alameda, Gainesville, Payson and Selma",1,counting
+Sheryl has visited only ten places,"Sheryl has visited Orem, Parma, Cuyahoga Falls, Harrisburg, Norton, Hammondsport, Martinez, Wauwatosa, Chadron, Peshtigo and Alexandria",1,counting
+Verna has visited only four people,Verna has visited Anna and Jeanette,0,counting
+Emily has visited only two places and only one people,Emily has visited Jacqueline,0,counting
+Shelly has visited only nine places,"Shelly has visited San Diego, Farmington, East Hartford, Scranton and Chicago Heights",0,counting
+Emily has visited only nine places and only eight people,"Emily has visited Beulah, Lynn, Harriet, Guadalupe, Sue, Nicole, Charlotte, Lena and Stacey",1,counting
+Olivia has visited only twenty-five places and only twenty-five people,"Olivia has visited Joy, Erin, Anita, Roberta, Lynn, Alma, Christina, Barbara, Penny, Violet, Cheryl, Susan, Jamie, Kristen, Lorraine, Jessie, Geneva, Sabrina, Jeanne, Helen, Cynthia, Kristi, Ella, Tiffany, Lindsay and Jacqueline",1,counting
+Margaret has visited only twenty-four places and only fifteen people,"Margaret has visited Tarpon Springs, Marion, Edmond, Willingboro, Manchester, Norristown, Huntington Beach, Raleigh, Lexington, Victoria, Dickinson, Columbia, Colorado, Paris, Okmulgee, Stillwater, Newton, Levittown, Kingsville, Ashland, Florida, Bristol, Barbourville, Borger and Wauwatosa",1,counting
+Heidi has visited only twenty-five places and only twelve people,"Heidi has visited Calais, New Rochelle, Emporia, Danbury, Mount Vernon, Steubenville, La Grange, Yazoo City, Beverly Hills, Gary, Darien and Ventura",0,counting
+Marcia has visited only one place,Marcia has visited Flint and Crystal City,1,counting
+Janice has visited only eight people,"Janice has visited Blanche, Melissa, Priscilla, Marjorie, Stephanie, Julie and Samantha",0,counting
+Paula has visited only nineteen places,"Paula has visited Cherokee, Beaufort, Deerfield Beach, El Reno, Seattle, Benton, Hays, Detroit, Williston, Bartlesville, Panguitch, Eastham, Somerville, Antioch, New Martinsville, Harmony, Walsenburg, Fort Lauderdale, Florence and Warm Springs",1,counting
+Katherine has visited only thirteen places,"Katherine has visited Cranston, Ocean City, El Reno, Sedalia, Culver City, Tampa, Beckley, Henderson, Elkton, Hackensack, Hastings, La Crosse, Port Angeles and Middletown",1,counting
+Delores has visited only twenty-six people,"Delores has visited Mildred, Stacy, Wanda, Nancy, Verna and Michele",0,counting
+Marjorie has visited only twenty-four people,"Marjorie has visited Teresa, Josephine, Shelly, Pamela, Ada, Amelia, Carolyn, Kayla, Amanda, Lucy, Eunice, Charlotte, Kristy, Barbara, Misty, Genevieve, Frances and Jo",0,counting
+Joanne has visited only twenty-three places,"Joanne has visited Muncie, Largo, Annapolis, Great Falls, Carbondale, Elizabeth, Albuquerque, Corydon, New York, Eau Claire, Muskegon, Appleton, Wheaton, Sebring, Canton, Dahlonega, Amarillo, Lubec, Danbury, New Paltz, Brookfield, Magnolia, Milledgeville and Redmond",1,counting
+Judith has visited only four places and only two people,"Judith has visited Rensselaer, Cordova, Scarsdale, Interlochen and Burlington",1,counting
+Suzanne has visited only seven places and only one people,"Suzanne has visited Natchez, Tuscumbia and Clearfield",0,counting
+Toni has visited only nine people,"Toni has visited Regina, Irma, Kayla, Valerie, Carla, Cecilia, Beatrice, Margaret, Janet and Olivia",1,counting
+Jill has visited only thirteen places and only thirteen people,"Jill has visited Judy, Shelly, Bernice, Courtney, Betty, Mattie, Ruth, Katie, Monique, Jackie, Jessie, Claire, Toni and Emily",1,counting
+Billie has visited only twenty-three places,"Billie has visited Prichard, Sand Springs, Chillicothe, Ludington, Pasco, Newport, New York City, Edenton, Neenah, Anaconda, Raton, Miami, Eastchester, Niles, Palmer, Hazard, Compton, Breckenridge, Oxford, Orem, Dartmouth, Lancaster, Amesbury and Bellevue",1,counting
+Lindsey has visited only twelve places and only four people,"Lindsey has visited Chanute, Greenville, Casper, Newburgh, Findlay and Jim Thorpe",0,counting
+Jacqueline has visited only twenty-three places and only nine people,"Jacqueline has visited Constance, Luz, Molly, Shannon, Brittany, Beverly, Agnes, Candice, Joy and Monique",1,counting
+Laurie has visited only sixteen places and only nine people,"Laurie has visited Union, Halifax, Libertyville, Ada, Bonners Ferry, Ocean City, Roanoke, Killeen, Fort Lee, Worland, Greenville, Oak Harbor, Westport, Franklin, Marion, Staunton and Cleburne",1,counting
+Marsha has visited only twenty-seven places and only fifteen people,"Marsha has visited Plymouth, Mobile, Astoria, Hot Springs, Arlington, Kawaihae, Kaneohe, Bloomfield Hills, Steubenville, Mamaroneck, Amesbury, Mount Holly, Durango, Winter Haven, Garden City, Peru, Jersey City, Walnut Creek, Vermont, McMinnville, Bourne, Saratoga Springs, Buckhannon, Shamokin, Florence, Washington, Van Buren and Ocean City",1,counting
+Annette has visited only six places and only two people,"Annette has visited West Chester, El Dorado, Englewood, Oregon, New Bedford, Sierra Vista and Flagstaff",1,counting
+Anne has visited only ten places,"Anne has visited Franklin, Sandwich, Elizabeth, Lexington, Fontana and Valley City",0,counting
+Betty has visited only twenty-nine places and only twenty-nine people,"Betty has visited Viola, Virginia, Stacy, Tara, Beulah and Flora",0,counting
+Irma has visited only seventeen places,"Irma has visited Greenville, Fairfield, Sunnyvale, Valdez, White Sulphur Springs, Palmer and Clearfield",0,counting
+Sheila has visited only four places,"Sheila has visited Westminster, New York, East Saint Louis, Ontario and Williamsport",1,counting
+Jeanne has visited only twenty-five places,"Jeanne has visited Perth Amboy, Augusta, Worcester, De Land, Presque Isle and Boulder City",0,counting
+Carole has visited only three places,"Carole has visited Gillette, Truth or Consequences, Vallejo and Victoria",1,counting
+Vickie has visited only twenty-nine people,"Vickie has visited Tiffany, Julia, Alice, Laurie, Kathy and Brandi",0,counting
+Vivian has visited only twenty-six people,"Vivian has visited Leslie, Viola, Leah, Barbara, Katie, Violet, Loretta and Carol",0,counting
+Monica has visited only nine places and only one people,Monica has visited Patricia and Tamara,1,counting
+Jessica has visited only twenty-seven places and only five people,Jessica has visited Sherri and Caroline,0,counting
+Alison has visited only seven places and only five people,"Alison has visited Cheryl, Norma and Beulah",0,counting
+Velma has visited only twenty-five places and only nineteen people,"Velma has visited California, Hollywood, Rotterdam, Sault Sainte Marie, Talladega, Layton, Houghton, Boulder City, Winslow, South Kingstown, Roseburg, West Plains, Fort Kent, Waynesboro, Williamsport, Germantown, Atmore, Ansonia, Abingdon, Provo, Watervliet, Lawton, Owensboro, Montclair, Mount Vernon and Ottawa",1,counting
+Maggie has visited only seven places and only six people,"Maggie has visited Ottumwa, Ruston and McAlester",0,counting
+Lee has visited only six places,"Lee has visited Sausalito, Oraibi, North Haven, Parsippany–Troy Hills, Heber City, Hallandale Beach and Herrin",1,counting
+Flora has visited only twenty-two places and only eighteen people,"Flora has visited Martinez, Kingman, Peekskill and Sandwich",0,counting
+Kimberly has visited only eleven places and only one people,"Kimberly has visited Naugatuck, Galveston, Winsted, Keokuk, Americus, Akron, East Hampton, Goldfield, John Day, Lakewood, Hood River and West Chester",1,counting
+Velma has visited only nineteen places and only nineteen people,Velma has visited Angie,0,counting
+Becky has visited only five places,Becky has visited Chico,0,counting
+Janet has visited only fifteen places,"Janet has visited McMinnville, Harlem, Somerville, Magnolia, Smith Center, Parma, Stockton, Collinsville, Lehi, Burlington, Priest River, Cambridge, Urbana and Oneonta",0,counting
+Pearl has visited only thirteen places,"Pearl has visited Honolulu, Missoula, Lewiston, Cohasset, Decatur, Green River, Kahului, College Park, Woonsocket, Franklin, Rocky Mount, Catonsville, Casper and Hobart",1,counting
+Anita has visited only thirteen places,"Anita has visited New Mexico, Port Washington, Groton, Quincy, Littleton, Saint Joseph and Wilkes-Barre",0,counting
+Donna has visited only seventeen places,"Donna has visited Coos Bay, Joplin, Winston-Salem, Victoria, Holyoke and Weymouth",0,counting
+Janie has visited only twelve places,"Janie has visited Meadville, Kitty Hawk, Dedham, Henderson, Richmond, Biddeford, Defiance, Hartsville, Lowell, Baytown, Meridian, Martinez and Boca Raton",1,counting
+Jan has visited only twenty-two places and only eleven people,"Jan has visited Dorothy, Connie, Julie, Rose, Rosie, Blanche and Shirley",0,counting
+Jenny has visited only twenty people,"Jenny has visited Stacy, Alicia, Robin, Shannon, Lucy, Christina, Jamie, Allison, Patricia, Rosie, Connie, Sarah, Faye, Rebecca, Sara, Jane, Tara, Virginia, Jacqueline, Kristi and Natalie",1,counting
+Vanessa has visited only thirty places and only twenty-two people,"Vanessa has visited Lauren, Candace, Louise, Bessie, Katrina, Carrie, Thelma, Lucille, Juanita, Lucy, Virginia, Emma, Lori, Joanna, Jamie, Danielle, Bobbie, Roberta, Elizabeth, Guadalupe, Tamara, Kristi and Kay",1,counting
+Victoria has visited only three places,"Victoria has visited Duncan, Boulder City, Niagara Falls and Hempstead",1,counting
+Georgia has visited only two places and only two people,"Georgia has visited Elizabeth, Weatherford and Pontiac",1,counting
+Jacqueline has visited only two places and only two people,"Jacqueline has visited Saint Cloud, Webster and Norfolk",1,counting
+Janet has visited only thirteen places,"Janet has visited Illinois, Morristown, Montrose, Kittery, Winter Haven, Midwest City, Lahaina, Honesdale, Savannah, Ada, Cumberland, Middletown, Andalusia and Clarksburg",1,counting
+Maria has visited only twenty-six people,"Maria has visited Michelle, Miriam, Eva, Jean, Gloria and Lillie",0,counting
+Mattie has visited only fourteen places,"Mattie has visited Petersburg, Manchester, Boone, Philippi, Englewood, Stevens Point and Monett",0,counting
+Jodi has visited only seven places and only five people,"Jodi has visited Ellen, Phyllis, Wendy and Lauren",0,counting
+Cecilia has visited only one place and only one people,Cecilia has visited Farmington and Princeton,1,counting
+Agnes has visited only twenty-eight places and only seventeen people,Agnes has visited Kelly and Valerie,0,counting
+Kristy has visited only ten places and only ten people,"Kristy has visited Lee, Glenda, Kim, Jan, Lindsey and Stephanie",0,counting
+Vickie has visited only twenty-six places and only twenty-five people,"Vickie has visited Enterprise, Collinsville, Borger, Silver City, Frankfort and Point Pleasant",0,counting
+Erica has visited only twenty-three places and only seven people,"Erica has visited Jill, Diana, Joan, Edith, Shannon, Ada, Lydia and Olga",1,counting
+Myrtle has visited only six people,"Myrtle has visited Sharon, Joy, Connie, Bernice, Robin, Veronica and Mabel",1,counting
+Monique has visited only six places and only four people,Monique has visited Iowa,0,counting
+Beth has visited only one place,Beth has visited Ely and Canton,1,counting
+Brandi has visited only eight places and only four people,"Brandi has visited San Leandro, Lompoc, Bismarck, Wyoming and Berlin",0,counting
+Sherri has visited only twenty-eight places and only twenty-three people,"Sherri has visited Hempstead, Albany, Scarborough, Hialeah, Charlottesville, Ogden, Traverse City, Utica, Jackson and Hampton",0,counting
+Lee has visited only three places,"Lee has visited San Simeon, Muskogee, Portsmouth and Gallipolis",1,counting
+Susan has visited only six places and only three people,"Susan has visited Elizabeth City, Ticonderoga, Missouri, Monroeville, Wenatchee, Powell and Tiverton",1,counting
+Gloria has visited only twenty-six places,"Gloria has visited Douglas, Fort Payne, Rock Springs, Westfield, Chickasaw, Greenwich, Abilene, North Platte, Anaconda, East Aurora, Elwood, Laredo, Put-in-Bay, Rolla, New Paltz, Clinton, Goshen, Fitzgerald, Fort Wayne, Pampa, Janesville, Staunton, Largo, Oneonta, Vinita, Galveston and Shawnee",1,counting
+Kristy has visited only seven places and only seven people,"Kristy has visited Sheridan, Naples, Winooski, Clearfield, Traverse City, Orange, Yorba Linda and Connecticut",1,counting
+Katie has visited only fifteen places,"Katie has visited Newport, Cleveland, Guntersville, San Simeon, Lewistown, Santa Barbara, Granite City, Fairmont, Tewksbury, Oklahoma City, Darien, Seaside, Goldsboro, Canton, Hillsboro and Nauvoo",1,counting
+Genevieve has visited only twenty-nine people,"Genevieve has visited Erin, Kathleen, Alice, Michele, Susie, Lindsay, Jackie, Dawn, Victoria, Debra, Dana and Kelly",0,counting
+Martha has visited only nineteen people,"Martha has visited Veronica, Delores, Joy and Sandy",0,counting
+Opal has visited only thirteen places,"Opal has visited Anaheim, Elkton, Wichita Falls, Trinidad, Park Forest, Rutland, Chandler, Carlsbad, Manhattan, Passaic, Harwich, Lewiston, Jonesborough and Derby",1,counting
+Yvette has visited only twenty-four places,"Yvette has visited Hyde Park, Willmar, Belvidere, Guntersville, Urbana, Fort Morgan, Grand Rapids, Junction City, Athens, Scottsboro, Cumberland, Amarillo, Winslow, Milford, De Smet, Concord, Beverly Hills, Boone, West Plains, Springfield, Fitzgerald, Texas, Arkadelphia, Tamaqua and Brunswick",1,counting
+Wendy has visited only thirteen places and only six people,"Wendy has visited Springfield, Tombstone, Oroville, Laie, Bradenton, Charles City, Paducah, Sweetwater, Warren, Monticello and Streator",0,counting
+Mildred has visited only nineteen places,"Mildred has visited Indianola, Biddeford, Newton, Hartford, Bloomington, Bloomfield, Harpers Ferry, Orange, Abbeville, Mundelein, Hamden, Kaskaskia, Tallahassee, New Orleans, Livingston, Aspen, Lebanon, Johnson City, Burlington and McAlester",1,counting
+Kristine has visited only two places and only two people,Kristine has visited Dahlonega,0,counting
+Judy has visited only twenty-seven places and only one people,"Judy has visited Pomona, Westport, Kentucky, Milbank, Point Pleasant, Towson, Arkansas, Murfreesboro, Lebanon, Fort Benton, Paducah and Blackfoot",0,counting
+Jan has visited only thirteen people,"Jan has visited Joyce, Becky, Ramona, Dawn, Angie, Ana, Shelly, Cindy, Gladys, Erika, April, Natasha, Patricia and Fannie",1,counting
+Agnes has visited only twelve people,"Agnes has visited Linda, Christina, Naomi, Melissa, Angie, Debbie, Daisy, Robin, Wanda, Angela, Tina, Leona and Tara",1,counting
+Joanna has visited only ten people,"Joanna has visited Elizabeth, Margaret, Virginia, Tamara, Pauline, Marie, Cindy, Miriam, Marlene, Wilma and Sherry",1,counting
+Lillie has visited only ten places,"Lillie has visited Orderville, Abington and Bar Harbor",0,counting
+Crystal has visited only twenty-five people,"Crystal has visited Gail, Kristi, Heather, Yvette, Viola, Lena and Lucille",0,counting
+Inez has visited only twenty-one places and only eight people,"Inez has visited Mae, Joan, Rosa, Misty, Miriam and Sally",0,counting
+Virginia has visited only six places and only six people,"Virginia has visited Carol, Eleanor, Heather, Christina, Mamie, Mattie and Viola",1,counting
+Marcia has visited only ten places,"Marcia has visited Pauls Valley, Dunkirk, Sherman, Sapulpa, Alhambra, Niles, Waycross, Sidney, Bethesda-Chevy Chase, Oil City and Lancaster",1,counting
+Ruby has visited only thirteen places,"Ruby has visited Marlborough, New Braunfels, Marion and Charles Town",0,counting
+Lydia has visited only fourteen places,"Lydia has visited Crown Point, Austin, Watertown, Marion, San Antonio, Canton, Santa Monica, Charleston, Chandler, Chelsea, Kinston, Sanford, Sparks, Cleburne and Dothan",1,counting
+Rachel has visited only twenty-four places,"Rachel has visited Ukiah, White Plains, Gallatin, Hilo, Austin, Valparaiso, Tucumcari, Stillwater, Hazleton, Littleton, Vandalia, Calistoga, Genoa, Key West, Warren and Holdenville",0,counting
+Hattie has visited only twenty-eight people,"Hattie has visited Amanda, Maria, Bonnie, Kristy, Alicia, Beverly, Minnie, Katie, Amber, Sally, Jacqueline, Joanna, Sherri, Lindsey, Leslie, Sherry, Gladys, Norma, Mary, Marilyn, April, Nicole, Cecilia, Dawn, Marlene, Lindsay, Penny, Peggy and Hilda",1,counting
+Anna has visited only twenty places and only ten people,"Anna has visited Elaine, Charlotte, Shannon, Carolyn, Violet, Claudia, Constance, Isabel, Donna, Ada and Jane",1,counting
+Wanda has visited only twenty places and only seven people,"Wanda has visited Joann, Jenny and Ann",0,counting
+Claire has visited only fifteen places and only fourteen people,"Claire has visited Sandy, Opal, Billie, Hilda, Marcia, Jan, Michele, Monique, Florence, Ashley, Kim, Agnes and Gloria",0,counting
+Jacqueline has visited only four places and only two people,Jacqueline has visited Lorraine,0,counting
+Genevieve has visited only fourteen places and only ten people,"Genevieve has visited Dora, Lee, Rosa, Judith, Regina, Mabel, Christy and Nora",0,counting
+Virginia has visited only nineteen places and only sixteen people,"Virginia has visited Pamela, Norma, Wendy, Thelma, Loretta, Annette, Rosa, Kristi, Lindsay, Glenda, Kristine, Jacqueline, Lydia, Denise and Juanita",0,counting
+Alicia has visited only six people,"Alicia has visited Heather, Hazel, Helen, Kristina, Margaret, Jean and Anne",1,counting
+Linda has visited only twenty-three places and only twenty-three people,"Linda has visited Hamilton, Montgomery, Newport Beach, Plymouth, Tiffin, Lewes, Anaheim, Corpus Christi, Portsmouth, Scarborough and Concord",0,counting
+Elsie has visited only twenty-four places and only seventeen people,"Elsie has visited Jill, Brenda, Kayla, Paula, Miriam, Betty, Misty, Juana, Carrie, Barbara, Christy and Connie",0,counting
+Jackie has visited only eleven places,"Jackie has visited Scarsdale, Opelousas, Stony Point, Alton, Dahlonega, Rugby, Manchester, Bath, McMinnville, Nebraska, Waterbury and North Dakota",1,counting
+Juana has visited only twenty-four places,"Juana has visited Murray, Swarthmore, Vandalia, Lexington, Grants, East Chicago, Crookston, Antioch, Oceanside, Atchison and Georgetown",0,counting
+Mildred has visited only twenty places and only eleven people,"Mildred has visited Somerville, Elizabethton, Indianapolis, Tyler, Osceola, Nebraska City, Greenwood, Lexington, Batavia, Idaho City, Steubenville, Scarborough, Hampton, Virginia City, Oakland, Watertown, Blytheville, Great Bend, Honaunau, Mount Pleasant and New Britain",1,counting
+Marie has visited only twenty-two people,Marie has visited Doris and Melanie,0,counting
+Jeanne has visited only twenty-three places,"Jeanne has visited Helena, Newport News, Kennebunkport, Fremont, Swarthmore, Silver Spring, Mason City, Jefferson City, Auburn, Douglas, Jacksonville, Carthage, Victoria, South Hadley, Puyallup, Salem, Baker City, New Mexico, Sun Valley, Hays, Potsdam, Collinsville, Cedar City and American Fork",1,counting
+Kay has visited only fifteen places,"Kay has visited Sonoma, Harrison, Orange, Oskaloosa, Litchfield, Lebanon, Tiffin, Bourne, Aberdeen, Harlan, Tempe, White Sulphur Springs, Barbourville, Weatherford, Cranford and Saratoga Springs",1,counting
+Sherry has visited only eighteen places and only five people,"Sherry has visited Debbie, Annette and Margaret",0,counting
+Molly has visited only thirty places and only seven people,"Molly has visited Susan, Patsy, Agnes, Cynthia, Rosemary, Clara, Margaret and Sherry",1,counting
+Kimberly has visited only twenty-nine places and only eight people,"Kimberly has visited New London, Williamson, Bristol, Great Barrington, White Plains, Saint Joseph, Knoxville, Morristown, Norristown, El Centro, Kansas, Hyannis, Simi Valley, Ruston, Kellogg, Corning, Columbia, Enid, Wauwatosa, Adrian, Red Cloud, Faribault, Temple, Ormond Beach, Mount Holly, Alexandria, Pasadena, Minneapolis, Peterborough and Osawatomie",1,counting
+Erin has visited only seven places and only three people,"Erin has visited Sand Springs, Winnetka, Kingston, Prairie du Chien, Powell, Jamestown, Mount Pleasant and Warren",1,counting
+Heidi has visited only thirteen places and only thirteen people,Heidi has visited Courtney and Lauren,0,counting
+Rosa has visited only eleven places and only three people,"Rosa has visited Prescott, Lafayette, La Grande, Hawaii, Harlingen, New Smyrna Beach, Palmyra and Oraibi",0,counting
+Jeanette has visited only twenty-eight places,"Jeanette has visited Gretna, Danville, Lawrence, Hollywood, Pontiac, Belmont, Garland, Hawaii, South Charleston, West Palm Beach, Denton, Lakeview, Salisbury, South Saint Paul, Irvine, Kalispell, Rantoul, Tyler, Houghton, Goldfield, North Dakota, Boone, Chula Vista, Concord, Plainfield, San Clemente, Boonesborough, Salem and Torrington",1,counting
+Beatrice has visited only eighteen people,"Beatrice has visited Penny, Stephanie, Sue, Jacqueline and Mabel",0,counting
+Lisa has visited only seven places and only five people,"Lisa has visited Orange, Mount Holly, Muskogee, Monroeville, Naples, Branford, Staten Island and Kennewick",1,counting
+Stacy has visited only twenty-five places and only twenty-four people,"Stacy has visited Phoenix, Oklahoma, Monroeville, Gretna, Orono, Cheektowaga, Junction City, Sterling, North Platte, Bellevue, Towson, Seneca Falls, Binghamton, Decatur, Sheboygan, Grand Forks and Titusville",0,counting
+Claire has visited only one place and only one people,Claire has visited Shannon and Joan,1,counting
+Lillian has visited only one place and only one people,Lillian has visited Patsy,0,counting
+Monique has visited only thirty people,"Monique has visited Beverly, Alison, Nicole, Delores, Lucille, Samantha, Pauline, Marie, Sue, Lauren, Clara, Amber, Robin, Jean, Edith, Maria, Michelle, Angie, Madeline, Heather, Gloria, Tracy, Kay, Rebecca, Cindy, Suzanne, Daisy and Melissa",0,counting
+Deanna has visited only three places,Deanna has visited Beaumont and Natchez,0,counting
+Shelley has visited only three places and only three people,"Shelley has visited Westport, Rogers, McKeesport and Lake City",1,counting
+Bertha has visited only five places,"Bertha has visited Hannibal, Columbus, Malden, Cheboygan, Salina and Newport News",1,counting
+Jennie has visited only fourteen places and only five people,"Jennie has visited Ticonderoga, Reading, Greenville, Worcester, Shawnee, Chattanooga, Bartow, Brookings, Kellogg, Payson, Nacogdoches, Bakersfield, Nashville, Greenwood and Hyde Park",1,counting
+Minnie has visited only one place and only one people,Minnie has visited Baytown,0,counting
+Margie has visited only twelve people,"Margie has visited Shirley, Joyce and Cindy",0,counting
+Jodi has visited only twenty-eight places and only eight people,"Jodi has visited Port Gibson, Jacksonville, Manitowoc, Davis, Kaneohe, Nanticoke, Rome, Rock Springs, Harrodsburg, Chicago, Idaho City, Delray Beach, Douglas, Columbus, Clovis, Jeannette, Ferguson, Allentown, Red Bluff, Warwick, Powell, Yuma, Tarpon Springs, Augusta, Roselle, Wausau and Kirksville",0,counting
+Kimberly has visited only thirteen places and only thirteen people,"Kimberly has visited Lindsey, Gwendolyn, Samantha, Jessie, Beatrice, Lucille, Marcia, Billie, Cassandra, Daisy, Clara, Katherine, Maryann and Mamie",1,counting
+Lois has visited only twenty-one places and only nine people,"Lois has visited Meriden, Interlochen, Plano, West Des Moines, Shelbyville, Sheffield, Springville, Monroe, Boonesborough, Danbury, Ashtabula, Jonesborough, Savannah, Fayetteville, Cleveland, Ocean City, Casa Grande, Fort Valley, The Village, Hastings, Salem and Kansas",1,counting
+Laura has visited only two people,Laura has visited Bobbie,0,counting
+Tracy has visited only twenty-two places and only three people,"Tracy has visited Zanesville, Lake Placid, Laconia, Pensacola, De Smet, Modesto, Charlevoix, Camden, Rutherford, Las Vegas, Syracuse, Little Falls, New Milford, Adams, Gainesville, Goldfield, Oroville, Brookline and Los Alamos",0,counting
+Mary has visited only twenty-one places and only thirteen people,"Mary has visited Artesia, Worthington, East Saint Louis, Wilkes-Barre, Bloomfield Hills, Concord, Orangeburg, San Diego, Provo, Anaheim, Clarksdale, Blackfoot and Syracuse",0,counting
+Margarita has visited only eleven places and only eight people,"Margarita has visited Douglas, Wisconsin Dells, Shepherdstown, Estes Park, Durant, Manhattan, Valdez, Calais, Portsmouth, Orange, Lima and Seaside",1,counting
+Nina has visited only fifteen places and only ten people,"Nina has visited San Francisco, New Castle, Eau Claire, Oregon City, Susanville, Superior, Gulfport, Mississippi and Bethany",0,counting
+Wanda has visited only nineteen places and only four people,"Wanda has visited Fergus Falls, Norfolk and Yankton",0,counting
+Sherry has visited only nine places and only one people,Sherry has visited Faye and Rhonda,1,counting
+Gertrude has visited only sixteen places and only four people,"Gertrude has visited Pasadena, New Hope, Ishpeming, Darlington, San Mateo, Saint Albans, Great Barrington, Utica, Morgan City, Wellsburg, Gardiner, Fort Pierce and Tuscaloosa",0,counting
+Cassandra has visited only seventeen places and only eleven people,Cassandra has visited Tonya and Louise,0,counting
+Jeanne has visited only twenty-three places and only twenty-three people,"Jeanne has visited Molly, Cassandra, Madeline, Dianne, Hazel, Robin, June, Michele, Lori, Alison, Marjorie, Doris, Juana, Lena, Natasha, Paula, Genevieve, Marilyn, Lindsay, Juanita, Grace, Theresa, Yvonne and Lillie",1,counting
+Jamie has visited only one place and only one people,Jamie has visited Cecilia,0,counting
+Christy has visited only twenty-six places and only sixteen people,"Christy has visited Benton, Redmond, New Albany, Santa Clarita, Philadelphia, Bedford, Shelbyville, Fillmore, Westminster, Elizabeth City, Erie, Prescott, Cape Coral, Lake Placid, Abilene, Livingston, Saint Petersburg, Culver City, Virginia Beach, Independence, Andover, Stockbridge, Carlsbad, South Charleston, Burns, Dallas and Provincetown",1,counting
+Sue has visited only seven people,Sue has visited Roberta,0,counting
+Monique has visited only one place and only one people,Monique has visited Spearfish,0,counting
+Irene has visited only sixteen places and only fourteen people,"Irene has visited Jean, Violet, Caroline, Ruby, Lucille, Beulah, Elsie and Melinda",0,counting
+Margaret has visited only twenty-seven places and only six people,"Margaret has visited Bennington, Arlington, Minot, Marshall, Pine Bluff, Berea, Oakland, Andersonville, Trenton, Cohoes, Fallon, Norman, Great Neck, Fairfax, Alamogordo, Crown Point, Victorville, Benton Harbor, Great Falls, Oregon City, New Paltz, Bloomington, Annapolis, Saint Martinville, Lakehurst and Powell",0,counting
+Brittany has visited only fourteen places and only seven people,"Brittany has visited Hattiesburg, New Orleans, Charlevoix, Bridgeport, Arlington, Anderson, Watertown, Moorhead, Alamogordo, Charles Town, Martinsville, Arkansas City, Minot, Atchison and Biloxi",1,counting
+Margarita has visited only nineteen places,"Margarita has visited Salinas, Moab, Macomb, New Bedford, Mystic, Walpi, Wyoming, Clearwater, Royal Oak, Canton, Anaconda, Weehawken, McMinnville, Worthington, Mandan, Pensacola, Tewksbury, Socorro, Spring Green and Red Cloud",1,counting
+Lee has visited only three people,"Lee has visited Luz, Elaine, April and Viola",1,counting
+Debbie has visited only eighteen people,Debbie has visited Cindy and Constance,0,counting
+Lillian has visited only eleven places and only nine people,"Lillian has visited Dolores, Bernice, Kelly, Amy, Natalie, Kristina, Lena, Charlene, Sara and Kathryn",1,counting
+Carolyn has visited only five places and only one people,Carolyn has visited Betty,0,counting
+Dolores has visited only seven places and only three people,"Dolores has visited Rosie, Susie, Darlene and Carol",1,counting
+Allison has visited only three places and only one people,Allison has visited Pauline,0,counting
+Dana has visited only six places and only four people,"Dana has visited South Holland, Calexico and Central Falls",0,counting
+Jane has visited only three places and only two people,Jane has visited Wooster and Lackawanna,0,counting
+Michelle has visited only twenty places and only six people,"Michelle has visited Neosho, New York City, East Point, Kellogg, Fergus Falls, The Dalles, Machias, Fairfield, Murray, Royal Oak, Norris, Wheaton, East Cleveland, Walpi, Saco, Ajo, International Falls, Boston, Madison, High Point and Montpelier",1,counting
+Hazel has visited only six people,"Hazel has visited Denise, Shirley, Vivian, Joann, Toni, Yvette and Cassandra",1,counting
+Donna has visited only twenty-one places,"Donna has visited Ysleta, Temple, Marquette, Saint George, Newport News, Washington, Cranford, Hoquiam, Glendive, Henderson, Carrollton and Estherville",0,counting
+Marjorie has visited only twenty-four places and only twelve people,"Marjorie has visited Williamson, Glen Ellyn, Bellingham, Novato, Cooperstown, Newberg, Independence, Newport, Mishawaka and Lubbock",0,counting
+Sabrina has visited only fifteen places and only ten people,"Sabrina has visited Vicksburg, Danbury, Watertown, Adrian, Herkimer, Homestead, Kingman, Perry, Emporia, Oconto and Caldwell",0,counting
+Katie has visited only nineteen places,"Katie has visited Kansas City, Dedham, Hillsboro, Bloomington, Powell, Nogales, Grand Island, Miami Beach, Haverhill, Port Angeles, Elizabethtown, Olathe, Honolulu and Calexico",0,counting
+Dora has visited only fifteen places,"Dora has visited Greenville, Kittery, New Kensington, Arkansas City, Bountiful, Mandan, Baytown, Parma, Brooklyn, Knoxville, Thermopolis, Charlotte, West Seneca, Stillwater, Pacific Grove and Nags Head",1,counting
+Nora has visited only seven places and only six people,Nora has visited York,0,counting
+Marilyn has visited only thirteen people,"Marilyn has visited Natalie, Erika, Peggy, Priscilla, Genevieve, Luz, Elsie, Jill, Tanya, Marcia, Amber, Tamara, Anna and Carla",1,counting
+Sally has visited only twenty-two places,"Sally has visited Norristown, Battle Creek, Grayling, Moscow, Hot Springs, Red Wing, Tupelo, Lawrence, Nebraska City, Glendale, Jacksonville, Rutland, Pottsville, Tombstone, Adrian, Port Arthur, Massachusetts, Texas, Silver Spring, Bay City, Sainte Genevieve, Johnson City and Machias",1,counting
+Becky has visited only eight places,"Becky has visited East Liverpool, Amsterdam, Carrollton, Superior, Nanticoke, Green River, Saratoga Springs, Lynchburg and Potsdam",1,counting
+Hazel has visited only eleven places and only six people,"Hazel has visited Robin, Irene, Belinda, Rosa, Brittany, Lee and Toni",1,counting
+Amelia has visited only twenty-two places and only one people,Amelia has visited Hilda and Pamela,1,counting
+Ashley has visited only twelve places and only seven people,"Ashley has visited Pawhuska, Harlem, Aliquippa, Palmdale, Long Beach, Lackawanna, Groton, Quincy, Hannibal, Santa Ana, Chattanooga, Lancaster and Havre",1,counting
+Judith has visited only six places and only four people,"Judith has visited Brenda, Jill, Jan, Misty and Samantha",1,counting
+Samantha has visited only eleven people,"Samantha has visited Kayla, Opal and Beverly",0,counting
+Lindsay has visited only one people,Lindsay has visited Jennie,0,counting
+Carol has visited only sixteen places,"Carol has visited Brunswick, Mount Vernon, Ketchikan, Columbia, North Kingstown, Paterson, Hollywood, Sylacauga, Burlington, Oceanside, Shawnee, Arthur, Fargo, Lima, Arkansas Post, Menlo Park and Farmington",1,counting
+Linda has visited only one place and only one people,Linda has visited Kristi and Lillie,1,counting
+Colleen has visited only twelve places and only three people,"Colleen has visited Opelousas, Madison, McAlester, Newton, Custer, West Haven, Berea, Dover, Oraibi, Sunbury, Miami, Mount Pleasant and Layton",1,counting
+Myrtle has visited only twenty-three places,"Myrtle has visited Everett, Canton, Terre Haute, Springfield, Traverse City, Laguna Beach, Coeur d’Alene, Jackson, Wilson, Los Alamos, Toccoa, Mexico, Emporia, Miles City, Flushing, Hackensack, Mount Pleasant, Ilion, Orlando, Mountain View, Victoria, Deming, Peekskill and Whitman",1,counting
+Tonya has visited only nine places and only six people,"Tonya has visited Palo Alto, Potsdam, Silver Spring, Middletown, Moorhead, Simi Valley and Stevens Point",0,counting
+Emma has visited only twenty-seven places,"Emma has visited Novato, Alexandria, New London, Reedsport, Boothbay Harbor, Princeton, Belfast, Palmer, Spokane, Bogalusa, San Marino, Denton and Westerly",0,counting
+Crystal has visited only twenty-two places and only sixteen people,"Crystal has visited Bartow, Mobridge, Douglas, Tallahassee, Mineola, Granite City, Lowell, Brookfield, Boothbay Harbor, Santa Barbara, Beacon, Connecticut, Grants, Gatlinburg, Milton, Eastchester, Billings, Ardmore, Warren, Colorado Springs, Mount Pleasant, Clayton and Ripon",1,counting
+Anita has visited only one place and only one people,Anita has visited Ann and Terry,1,counting
+Mattie has visited only fifteen places and only eleven people,"Mattie has visited Owatonna, Anacortes, Defiance, Nebraska, Danville, McAllen, Milwaukee, Madison, Natchez, Franklin, Greenville, Totowa, Price, Albany, Marblehead and Middletown",1,counting
+Anne has visited only four people,Anne has visited Terri and Lee,0,counting
+Elsie has visited only twenty-six places and only twelve people,"Elsie has visited Edna, Stella, Glenda, Sandy, Nancy, Susan, Debra, Kristina, Teresa and Judy",0,counting
+Karen has visited only five places and only four people,"Karen has visited Fairbanks, Ossining, Pocatello, Virden, Starkville and Chula Vista",1,counting
+Mamie has visited only twenty-nine places and only three people,"Mamie has visited Kettering, Jackson, Asheville, Brockton, Prichard, Florence, Nephi, Las Vegas, Hayward, Rugby, Muncie, Wellsburg, Woodstock, Centralia, Wichita Falls, Racine, Sioux City, Bedford, Pryor, Buffalo, Oyster Bay, Elko, Providence, Amherst, State College, Evansville, Indianola, Mountain View, Cocoa Beach and North Las Vegas",1,counting
+Jeanette has visited only nine places,"Jeanette has visited Houlton, Orange, Panama City, Martinez, Shamokin, Golden, Englewood, Indio, Libertyville and Harlan",1,counting
+Ethel has visited only six places and only five people,"Ethel has visited Paterson, Charlotte, Tarrytown, South Charleston, Lewistown, New Hampshire and Bristol",1,counting
+Maxine has visited only twenty-seven places and only eleven people,"Maxine has visited Waterford, Presque Isle, Hingham, Canton, San Luis Obispo, Derby, Hays, New London, Oregon, Magnolia, Charlotte and Weirton",0,counting
+Sabrina has visited only twenty-seven places,"Sabrina has visited Douglas, Santa Monica, Evanston, Essex, Pottsville, Homestead, Sapulpa, Eufaula, Philadelphia, Levittown, Fairfax, Centralia, Leavenworth, Sacramento, Ottumwa, Benton, Gloversville, Piqua and Pasco",0,counting
+Patsy has visited only twenty-nine places and only ten people,"Patsy has visited Sheila, Brenda, Maureen, Wendy, Tina, Stella, Michele, Ella, Katherine, Geraldine and Cora",1,counting
+Inez has visited only nine people,"Inez has visited Cassandra, Samantha, Gwendolyn, Sue, Rachel and Bonnie",0,counting
+Gloria has visited only seventeen places,"Gloria has visited Aberdeen, Peekskill, Pryor, Mobile, Del Rio, Concord, Claremont, Superior, Lompoc, Goldfield, North Chicago, Cranston, Bedford, Lakeview, Yonkers, Livonia, Roanoke and Houma",1,counting
+Patsy has visited only twenty-six places and only twenty people,"Patsy has visited McCook, Tucumcari and Salem",0,counting
+Jane has visited only eighteen places and only three people,"Jane has visited Clinton, Tonawanda, Seneca Falls, New Hope, Jamestown, Cambridge, Palm Bay, Lehi and Elizabethton",0,counting
+Nicole has visited only fourteen people,"Nicole has visited Alma, Marjorie, Luz, Hattie and Billie",0,counting
+Opal has visited only four places and only three people,Opal has visited Sharon,0,counting
+Mary has visited only twenty-six people,"Mary has visited Anne, Yvette, Lori, Victoria, Agnes and Glenda",0,counting
+Grace has visited only twenty-two places and only fifteen people,"Grace has visited Jo, Katherine, Donna, Lillie, Cassandra, Jane, Rita, Constance, Naomi, Kelly, Rose, Rachel, Tanya, Pamela, Sally and Debra",1,counting
+Kathryn has visited only twenty-one people,"Kathryn has visited Sue, Donna, Joy, Lindsay, Eva, Sabrina, Kristen, Kristi, Toni, Kristine, Patricia, Kelly, Brandi, Amanda, Beverly, Tiffany, Frances, Maryann, Jacqueline, Naomi, Jennifer and Lindsey",1,counting
+Jennifer has visited only two places,"Jennifer has visited Cheyenne, Lynchburg and Chambersburg",1,counting
+Joanne has visited only eighteen places and only eighteen people,"Joanne has visited Santa Ana, Texas, Lubbock, Peoria, Hempstead, Cortez, Elkhart, Cleveland and Carthage",0,counting
+Ida has visited only twenty places,"Ida has visited Brigham City, Highland Park, Del Rio, Scranton, Groton, Morrilton, North Dakota, Branson, East Providence, Rome, Manassas, Huntington Beach, Escanaba, Medford, Madison, Redlands, Clarksburg, Bedford, Charles City, Long Beach and Sierra Vista",1,counting
+Mamie has visited only twenty-eight people,"Mamie has visited Rebecca, Teresa, Iris, Amy, Antoinette, Jennie, Billie, Jacqueline, Elaine, Caroline, Judith, Carole, Arlene, Isabel and Sonia",0,counting
+Arlene has visited only four places,"Arlene has visited Columbia, Charleston, Marietta, Peru and Cheektowaga",1,counting
+Irma has visited only eight places and only seven people,Irma has visited Lake Geneva,0,counting
+Wilma has visited only fourteen people,Wilma has visited Hazel,0,counting
+Cheryl has visited only twenty-two places,"Cheryl has visited Melbourne, Council Grove and Gallatin",0,counting
+Debra has visited only eighteen places and only fifteen people,"Debra has visited Hopkinsville, Virginia City, Sturgeon Bay, Herrin, Mountain View, Springfield, Fort Wayne, Washington, Fairbanks, Emporia, Webster, Ventura, Chesapeake, Kaneohe, Scranton, Yazoo City, Chickasha, Truth or Consequences and Cleveland",1,counting
+Lauren has visited only one people,Lauren has visited Kristin,0,counting
+Erica has visited only twenty people,"Erica has visited Tonya, Hilda, Jill, Dana, Jackie, Diana, Genevieve, Cora, Roberta, Inez, Iris, Lindsey, Suzanne, Florence, Regina, Cassandra, Amelia, Jane, Marjorie, Rosemary and Heather",1,counting
+Agnes has visited only twenty-five people,"Agnes has visited Minnie, Alberta, Harriet, Kristi, Cassandra, Bobbie, Kathryn, Carol, Michele, Joyce, June, Ethel, Lauren, Claudia, Catherine, Elsie, Elaine, Florence, Kim, Amber, Cynthia, Jenny, Amanda, Kathy, Sheryl and Daisy",1,counting
+Josephine has visited only seventeen places and only fourteen people,"Josephine has visited Biddeford, Princeton, Euclid, Lenox, Juneau, Binghamton, Peshtigo, Calais, Harrison, Sunnyvale, Bemidji, Lake Havasu City, Camden, Waterford, Golden, San Luis Obispo, Durham and Norristown",1,counting
+Marsha has visited only twenty-three places,"Marsha has visited Jackson, New York, Santa Clarita, Decatur, San Pedro, Wilmington, Bayonne, Ukiah, Gretna, Abington, Barnstable, Bisbee, Exeter, San Jose, Mentor, Gunnison, Santa Ana, South Bend, Saint Augustine, Alaska, Springville, Astoria, Lamar and Albany",1,counting
+Lola has visited only eighteen places,"Lola has visited Kingston, Portland, Andalusia, Boonville, Brattleboro and Park Ridge",0,counting
+Jeanette has visited only one place,Jeanette has visited Hanalei and Hollywood,1,counting
+Bobbie has visited only fourteen places and only six people,"Bobbie has visited Lydia, Dana, Allison, Vicki, Gloria, Erin and Georgia",1,counting
+June has visited only nineteen places and only one people,June has visited Elaine,0,counting
+Angela has visited only seven places,Angela has visited Mount Vernon,0,counting
+Cynthia has visited only twenty-five places and only eleven people,Cynthia has visited Sue and Maureen,0,counting
+Irene has visited only eighteen places and only three people,Irene has visited Juana,0,counting
+Martha has visited only twenty-six places and only twenty-five people,"Martha has visited Marian, Cynthia and Rita",0,counting
+Laura has visited only five places and only three people,"Laura has visited Elizabethton, Somerville and Moscow",0,counting
+Irma has visited only six places and only two people,Irma has visited Alexandria,0,counting
+Deanna has visited only three people,Deanna has visited Natalie,0,counting
+Grace has visited only seventeen people,"Grace has visited Kelly, Brittany, June, Colleen, Charlene, Brandy, Claudia, Jeanette, Anne, Paula, Lynn, Dolores, Priscilla, Anna, Gina, Bertha, Eileen and Molly",1,counting
+Violet has visited only twenty-six places and only four people,Violet has visited Kelly,0,counting
+Marsha has visited only three places and only two people,"Marsha has visited Somersworth, Machias, Cape Coral and Altoona",1,counting
+Sonia has visited only twenty-six places,"Sonia has visited North Chicago, Canon City, Clearwater, Milan, Port Angeles, Freeport and Frederick",0,counting
+Laura has visited only four people,"Laura has visited Kristin, Bernice, Genevieve, Stacey and Janet",1,counting
+Loretta has visited only twenty-four places,"Loretta has visited Waterbury, Waterloo, Orem, Shiprock, Johnson City, Kinston, Valparaiso, Georgia, Woodstock, South Kingstown, Middlesboro, Homer, Santa Claus, Beverly Hills, New Harmony, Vandalia, Salisbury, Casper, Farmington, Harrisburg, Chicago Heights, Little Falls, Poughkeepsie, Fort Smith and Clinton",1,counting
+Lucy has visited only three people,Lucy has visited Yolanda and Cora,0,counting
+Jacqueline has visited only twenty people,"Jacqueline has visited Barbara, Bobbie, Viola, Danielle, Bernice, Tara, Louise, Stella, Kelly, Belinda, Sandra, Victoria, Opal, Lauren and Gail",0,counting
+Jenny has visited only eighteen people,"Jenny has visited Kathy, April, Nellie, Shelley, Hilda, Amy, Carla, Carolyn, Lynda, Lillian, Jeanette, Andrea and Beatrice",0,counting
+Susie has visited only ten places,"Susie has visited Greenville, Totowa, Atlantic City, Centralia and Phoenixville",0,counting
+Ann has visited only twenty-two places,"Ann has visited Arlington Heights, Ontario, Sapulpa, Irving, Zanesville, Kingsport, Topeka, Lakeview, Cicero, Worland, Nephi, Caldwell, New Rochelle, West Point, Newcastle, Mansfield, Haines and Hammond",0,counting
+Patricia has visited only twelve places and only one people,Patricia has visited Jane and Jennifer,1,counting
+Grace has visited only twenty-six places and only thirteen people,"Grace has visited Debra, Georgia, Kristin, Terri, Verna, Jessica, Samantha, Lauren, Gina, Dora, Diana, Alberta, Lynda and Claudia",1,counting
+Melody has visited only eighteen places,"Melody has visited Pittsfield, Richmond, Central City, Mansfield, New Windsor, Columbia, Collinsville, Alexandria, Hutchinson, Lake Wales, Victorville, Houlton, Tuskegee, San Bernardino, Shawnee, Green River, East Moline, Salt Lake City and Enterprise",1,counting
+Norma has visited only six places,"Norma has visited Athens, Ellensburg, Peshtigo, Walnut Creek, Traverse City, Moorhead and Rocky Mount",1,counting
+Deborah has visited only eight people,"Deborah has visited Beverly, Valerie, Crystal, Iris, Alicia, Sabrina, Tina, Priscilla and Harriet",1,counting
+Myrtle has visited only nine people,Myrtle has visited Julia,0,counting
+Holly has visited only fourteen people,"Holly has visited Jacqueline, Marcia, Jodi, Priscilla, Kristin, Angela, Jeanette, Melissa, Margaret, Janie, Kristi, Juana, Paula, Ruby and Kimberly",1,counting
+Lucy has visited only four places and only one people,Lucy has visited Jodi,0,counting
+Catherine has visited only fourteen places,"Catherine has visited Florence, Huntsville, Chautauqua, Provincetown, El Centro, Hanalei, Valdosta, Kentucky, Portales, Lexington, Vicksburg, Council Grove and Lafayette",0,counting
+Glenda has visited only twenty-one places,"Glenda has visited Lancaster, Norton, Starkville, Colorado, Gulfport, Bardstown, Jonesborough, Portsmouth, Reedsport, Kilgore, Carthage, Moses Lake, Grants Pass, Clarksburg, Conneaut, Salem, Hillsboro, Hialeah, Sainte Genevieve, Mentor, Custer and Colorado Springs",1,counting
+Carol has visited only twenty-three places,"Carol has visited Glen Ellyn, Minneapolis, Redding, Maryville, Decatur, Philadelphia, Plainview, John Day, Middletown, Centralia, Fort Lauderdale, Claremore, Charles City, Warrensburg, Newberg and Auburn",0,counting
+Beatrice has visited only ten places,"Beatrice has visited Montana, Smith Center, Warwick, Whitman, Baton Rouge, Belle Glade, Kearney, Newberg, Guntersville, Kansas City and Rome",1,counting
+Lois has visited only nineteen places and only four people,"Lois has visited Worthington, East Cleveland, Telluride, Homestead, Newark, Whittier, Yellow Springs, Harrodsburg, Crystal City, Forrest City, Geneva, Evansville, Spearfish, Romney, Carlinville, Winona, Marlborough, Oak Park, Kinston and Middletown",1,counting
+Tonya has visited only twenty-five people,"Tonya has visited Tonya, Monica, Tammy, Arlene, Alma, Constance, Marilyn, Colleen, Agnes, Jill, Eva, Velma, Diane, Opal, Maxine, Ida, Elizabeth, Miriam, Denise, Shelley, Claire, Beatrice, Jeanne, Beverly, Linda and Nicole",1,counting
+Anne has visited only twenty-seven places and only twenty-one people,"Anne has visited Rugby, Plymouth, Quincy, Trenton, Estherville, Manti, Decatur, Union City, Homestead, Union, Sparks, Culver City, Freeport, Downey, Prairie du Chien, Milford, Richland, Iron Mountain, Cortez, Dodge City, West Orange, Elizabeth, West Point, West Plains, Braintree, McAlester, Anchorage and Georgetown",1,counting
+Florence has visited only twenty-seven people,"Florence has visited Heidi, Mamie, Megan, Sue, Alison, Norma, Opal, Allison, Kristina, Susie, Samantha, Gail, Edna, Kelly, Claire, Sara, Joy, Vivian, Hazel, Marjorie, Ruth and Felicia",0,counting
+Susie has visited only thirteen places and only thirteen people,"Susie has visited Cathy, Mamie, Tonya and Lydia",0,counting
+Teresa has visited only twenty-four places and only fourteen people,"Teresa has visited Rochester, Corydon, Carmel, Shelton, Austin, Arizona, Summit, Des Moines, Lewistown, Amarillo, Orange, Yorba Linda, Fort Collins, South San Francisco, San Simeon, Ossining, Darlington, East Hampton, Hopkinsville, Harrison, Quincy, Ellsworth, Natick, Eagle Pass and Springville",1,counting
+Angela has visited only twenty-two people,"Angela has visited Jill, Hazel, Emily, Laurie, Charlotte, Misty, Maxine, Susan, Constance, Melissa, Holly, Mildred, Bertha, Katrina, Becky, Ella, Cindy, Rita, Lydia, Carrie, Tanya, Luz and Tracy",1,counting
+Bessie has visited only twenty-seven people,"Bessie has visited Antoinette, Dorothy, Priscilla and Jenny",0,counting
+Tamara has visited only twenty-four places and only sixteen people,"Tamara has visited Greensburg, Great Barrington, Boston, Freeport, West Bend, Jackson, Saginaw, Key West, Bedford, Neenah, Norfolk, Marlborough, Pampa, Muncie, West Allis, Moscow, South San Francisco, Nephi, Bismarck, Cortland, Towson, Orange, Huntsville, Washington and Alexandria",1,counting
+Marguerite has visited only thirteen places and only twelve people,"Marguerite has visited Emily, June, Crystal, Tiffany, Lindsay, Anna, Carla, Diana, Jessie, Annie, Shelley, Terry and Rose",1,counting
+Jenny has visited only ten places and only four people,"Jenny has visited Juana, Lydia, Judith, Mattie and Ruby",1,counting
+Terri has visited only eighteen places and only eight people,"Terri has visited Josephine, Jane and Loretta",0,counting
+Eunice has visited only twenty-six places and only thirteen people,"Eunice has visited Glenda, Barbara, Fannie, Michele, Billie, Debbie, Leslie and Emma",0,counting
+Christy has visited only twenty-five people,"Christy has visited Tonya, Barbara, Joy, Fannie, Ella, Audrey, Mildred, Gloria, Luz, Judy, Diane, Michelle, Minnie, Nancy, Marjorie, Helen, Tracey, Hilda, Sandra, Erin, Alberta, Brandy, Tammy, Marion, Melody and Marilyn",1,counting
+Jackie has visited only sixteen people,"Jackie has visited Caroline, Candice, Juanita, Priscilla, Lillian, Shelley, Billie, Jackie, Jeanette, Carrie, Olga, Amy, Terri, Judy, Jennifer, Marian and Faye",1,counting
+Tammy has visited only seventeen places and only five people,"Tammy has visited Dearborn, Shreveport, Morristown, Saint George, Indiana, Aberdeen, Franklin, Freeport, Garden City, Vandalia, Norris, Sapulpa, Williamstown, Berkeley, Saratoga Springs and Midland",0,counting
+Sandra has visited only fifteen places and only thirteen people,"Sandra has visited Myrtle, Marilyn, Sherri, Katie, Caroline, Laurie, Anita, Stephanie and Margarita",0,counting
+Maryann has visited only two places and only two people,"Maryann has visited Norristown, Faribault and Scarborough",1,counting
+Sandra has visited only twenty-four places and only seven people,"Sandra has visited Edmond, Aurora and Charlevoix",0,counting
+Amanda has visited only twenty-nine places and only thirteen people,"Amanda has visited Canton, Montana, Homer, York, Nevada, Rockland, Stony Brook, Watertown, Petersburg, Deming, Peoria, Lake Havasu City, Fremont, Kansas City, Winnemucca, Dunkirk, Bogalusa, The Dalles, Helena, Dahlonega, De Land, Hannibal, Pekin, Costa Mesa, Aberdeen, Pacific Grove, New Paltz, North Kingstown, Tyler and Thousand Oaks",1,counting
+Brenda has visited only two places,Brenda has visited Harrisburg,0,counting
+Rose has visited only twenty-one people,"Rose has visited Candace, Wendy, Christina, Gina, Dawn, Alberta, Sara, Kelly, Marjorie, Gail, Anita, Vickie, Betty, Carole, Jennifer, Genevieve, Samantha, Katrina, Janet, Anna, Charlene and Dorothy",1,counting
+Terry has visited only thirty places,"Terry has visited Bedford, Seminole, Wewoka, Johnstown, Liberal, Alton, Spanish Fork, Jeffersonville, Mattoon, Middletown, Sag Harbor, Susanville, Rutland, McCook, Southington, Mundelein, Littleton, Chickasha, Watertown, Carson City, Shelby, College Park, Saint Cloud, Lebanon, Westminster and Kettering",0,counting
+Peggy has visited only one people,Peggy has visited Antoinette,0,counting
+Amanda has visited only eleven places,Amanda has visited Carlisle and Port Hueneme,0,counting
+Laurie has visited only twenty-five places and only one people,Laurie has visited Marian,0,counting
+Mary has visited only six places,Mary has visited Venice and North College Hill,0,counting
+Janice has visited only eight places and only six people,Janice has visited Rhonda and Becky,0,counting
+Allison has visited only twenty places,"Allison has visited Shelbyville, Twin Falls, Fullerton, Greenfield, Toledo, San Juan Capistrano, Clanton, Easton, Burlington, Hopewell, Haverhill, Grand Haven, Dover, Emmitsburg, New Hampshire, North Little Rock, Elmira, Keyser, West Hartford, Columbia and Fort Smith",1,counting
+Lena has visited only seventeen places and only four people,"Lena has visited Redmond, Princeton, Provincetown, Glendale, Chillicothe, Waukegan, Victoria, Cicero, Manchester, West Bridgewater, Sheffield, Seminole, Coupeville, New Britain, Asbury Park, Fargo, Charleston and Haddonfield",1,counting
+Juanita has visited only fifteen places and only two people,"Juanita has visited Meadville, Moundsville, Ten Sleep, Warren, Wichita, Dixon, Kilgore, Abington, Marlborough, Staunton and Nahant",0,counting
+Margie has visited only eight places and only three people,"Margie has visited Independence, Bethlehem, Franklin, Hillsboro, Bismarck, Fond du Lac, Warren, Cleveland and New Philadelphia",1,counting
+Lula has visited only eight places,"Lula has visited Anniston, Sheridan, Rolla, Smith Center, Wyandotte, Lewes, Wayne, Claremont and Indianapolis",1,counting
+Patsy has visited only three places and only one people,Patsy has visited Buckhannon,0,counting
+Janie has visited only nine places and only eight people,"Janie has visited Cora, Audrey, Sally, Tracey, Kristi, Verna, Olga, Marian and Velma",1,counting
+Violet has visited only twenty-five places,"Violet has visited Rockford, Ontario, Portland, Edison, Green Bay, Morristown, Norwalk, Council Grove, Dalton, Milwaukee, Brookings, Allentown, Fresno, New York, Maryland, Cheyenne, Fort Worth, Marysville, Franklin, Elmira, Chambersburg, Lexington and Calumet City",0,counting
+Jill has visited only twenty-four places and only five people,"Jill has visited Wellsburg, Chambersburg, Point Roberts, Wabash, Meadville, Joplin, Denver, Union, Bangor, Bay Saint Louis, Fort Walton Beach, Coventry, Harlan, Hutchinson, Sapulpa, West Springfield, White Springs, Pinehurst, Pekin, Payson, Jim Thorpe, Titusville, Gary, Huntington and Oregon",1,counting
+Connie has visited only twenty-three people,Connie has visited Yvette and Cindy,0,counting
+Doris has visited only eight places and only one people,Doris has visited Wendy,0,counting
+Lori has visited only twenty-six places and only twenty-five people,"Lori has visited Amy, Hattie, Antoinette, Dawn, Stephanie, Mabel, Courtney, Alberta, Jodi, Katie, Janice, Valerie, Audrey, Maria, Lula, Constance, Kristy, Vivian, Mamie, Cassandra, Claudia, Ella, Marilyn, Dana, Melinda and Terri",1,counting
+Guadalupe has visited only one place,Guadalupe has visited Warren,0,counting
+Marion has visited only nineteen places and only fourteen people,"Marion has visited Sturbridge, Palatka, Modesto, Hancock, Canton, Abingdon, Albuquerque, Mishawaka, Ottawa, Moorhead, Bountiful, Elizabethton, Westminster, Alpine, Columbia, Biddeford, Weirton, Monroeville, Ajo and Cranston",1,counting
+Shirley has visited only twenty-one places,"Shirley has visited Canton, Lockport, Roseburg, Berea, Akron, Cedar Falls, Virden, Newark, Mundelein, Gillette, Salisbury, Joliet, San Mateo, Virginia, Trinidad, Johnstown, Hempstead, Greenwood, Wilson, Minneapolis, Fort Wayne and Temple",1,counting
+Gloria has visited only thirty places and only eight people,"Gloria has visited Monique, Jessica, Toni, Kay and Kathy",0,counting
+Heather has visited only eight places and only five people,"Heather has visited Melinda, Kristine, Leona, Christina, Cynthia and Brittany",1,counting
+Minnie has visited only nineteen places,"Minnie has visited Nephi, Frederick, Connersville, Camden, McCook, Meadville, Piqua, Red Wing, Jeannette, Summersville, New Bern, Boulder, Seaside, Warren, Warm Springs, Fort Pierce, Lake City, Morgan City, Bismarck and Malden",1,counting
+Mae has visited only sixteen places,"Mae has visited De Land, Pine Bluff and Middletown",0,counting
+Rita has visited only two places and only one people,Rita has visited Rita and Guadalupe,1,counting
+Ellen has visited only fifteen places and only seven people,"Ellen has visited Willimantic, Temple, Chautauqua, Abilene, Weston, Southampton, Dover, Kennewick, High Point, Lewistown, Topeka, Hudson, New Hampshire, Portsmouth, Providence and Peabody",1,counting
+Annette has visited only twenty people,"Annette has visited Melody, Genevieve, Ann, Willie, Jean, Jeanne, Velma, Katie, Myrtle, Jackie, Patricia, Alicia, Juana, Nicole, Mattie, Tamara, Linda, Carolyn, Janet, Candace and Cynthia",1,counting
+Verna has visited only twenty-five places and only four people,"Verna has visited Kristin, Cynthia, Hazel, Molly and Laura",1,counting
+Tamara has visited only seven places and only six people,Tamara has visited Alma,0,counting
+Toni has visited only four places and only four people,"Toni has visited Danielle, Kristin, Carrie, Tina and Victoria",1,counting
+Beverly has visited only five people,"Beverly has visited Candice, Carolyn and Jeanne",0,counting
+Alice has visited only ten people,"Alice has visited Robin, Veronica, Georgia, Emily, Eileen, Margarita, Brandy, Felicia, Irma, Cheryl and Thelma",1,counting
+June has visited only twenty-seven places,"June has visited Bluefield, Edmond, Palatka, Needles, Hobbs, Chapel Hill, Murray, Marysville, Stony Point, Warner Robins, Mount Pleasant, Conway, Santa Clarita, Lower Southampton, Shelton, Reston, Williamstown, Hastings, Fairfield, Biloxi, San Jose, Wisconsin, Artesia, Palmyra, Caldwell, Piqua, Olean and Cushing",1,counting
+Dorothy has visited only twenty-eight places,"Dorothy has visited Pampa, Wenatchee, Warm Springs, Columbia, California, Plymouth, Millburn, El Paso, Annapolis, Cumberland, Ironwood, Winston-Salem, Chester, Lubbock, Ojai, Fairmont, Norfolk, San Marcos, Hanalei, Kansas City, Wallingford, Paris, Harlingen, Franklin, Seaside, Xenia, Spartanburg, New Mexico and Lebanon",1,counting
+Ann has visited only twenty-three people,"Ann has visited Gloria, Kimberly, Eileen, Cindy, Wendy, Thelma, Donna, Tanya, Marguerite, Margarita, Olga, Margie, Shelly, Ana, Fannie, Crystal, Beulah, Irene, Kayla and Molly",0,counting
+Nina has visited only thirty places and only twenty-two people,"Nina has visited Olga, Shelly, Yolanda, Lisa, Martha, Bobbie, Gloria, Beatrice, Misty, Diane, Wilma, Virginia, Marion, Rhonda, Katherine, Jeanette, Maryann, Crystal, Mamie, Roberta, Marcia, Kayla and Leona",1,counting
+Lucille has visited only eighteen places and only four people,"Lucille has visited Milton, Tallahassee, Manhattan, Lexington, Carlsbad, Ouray, Saint Cloud, Hagerstown, Middlesboro, Hayward, Payson, Conway, Auburn, Annapolis, Nashville, Livonia, Spokane, Bordentown and Albuquerque",1,counting
+Kay has visited only fourteen places and only four people,Kay has visited April,0,counting
+Carmen has visited only thirteen places and only two people,Carmen has visited Laurie,0,counting
+Brittany has visited only four places,"Brittany has visited Fitchburg, Green Bay, Needles, Beverly and Saratoga Springs",1,counting
+Tonya has visited only two places,"Tonya has visited Lubbock, Rhode Island and Carmel",1,counting
+Anna has visited only sixteen places and only fifteen people,"Anna has visited Alpine, Eastport and Crossett",0,counting
+Angie has visited only seven places and only three people,"Angie has visited Ellen, Nicole, Beverly and Cassandra",1,counting
+Constance has visited only thirteen places and only five people,"Constance has visited Kathleen, Tara, Cheryl, Beverly, Vivian and Evelyn",1,counting
+Thelma has visited only twenty-seven places and only sixteen people,"Thelma has visited Oak Ridge, New Madrid and New Albany",0,counting
+Joan has visited only twenty places,"Joan has visited South Bend, Lebanon, Stratford, Orem, Traverse City, Somersworth, Gardiner, Okmulgee, Bardstown, Climax, Arlington, Orlando, Marion and McPherson",0,counting
+Dorothy has visited only twenty-eight people,"Dorothy has visited Linda, Jamie, Carolyn, Emily, Tracy, Sonya, Natalie, Caroline, Carmen, Robin, Jeanne, Joy, Gwendolyn, Carol, Jennifer, Gladys, Lynda, Angie, Virginia, Charlene, Martha, Jessica, Colleen, Hazel, Regina, Minnie, Tamara, Ella and Catherine",1,counting
+Deborah has visited only thirty places and only fourteen people,"Deborah has visited Ironwood, Daly City, Lebanon, Spring Green, Morristown and Tuscaloosa",0,counting
+Rosa has visited only twenty-seven places and only twenty-four people,"Rosa has visited Theresa, Viola, Pearl, Hazel, Eva, Violet, Carol, Yvette, Kelly, Delores, Lynn, Charlene, Bobbie, Deanna, Gloria, Karen, Vera, Claire and Monica",0,counting
+Ann has visited only twenty-one places,"Ann has visited Cullman, Chelsea and Warren",0,counting
+Harriet has visited only thirteen places and only two people,"Harriet has visited Bethany, Lansing, Charlotte, Shelbyville and Sidney",0,counting
+Catherine has visited only thirty people,"Catherine has visited Catherine, Anna, Mamie, Ana, Tamara, Toni, Terry, Janie, Sarah, Naomi, Patsy, Sonia, Suzanne, Marjorie, Wilma, Kim, Carole, Paula, Lindsey and Emily",0,counting
+Verna has visited only thirteen people,"Verna has visited Geraldine, Constance, Jamie, Brandy, Dorothy, Terry, Ella, Lynn, Monica, Molly, Loretta, Beatrice, Carla and Kristi",1,counting
+Janie has visited only twenty-eight places,"Janie has visited Philadelphia, El Dorado, Massillon, Nashua, Charleston, East Hartford, Mentor, Sanford, Kaneohe, Paris, Cheboygan, Nevada, Kittery, Atmore, Kaskaskia, Helena, Germantown, Evanston, Scarsdale, Palm Springs, Pottstown, Ten Sleep, Oak Park and Missoula",0,counting
+Linda has visited only seventeen places and only thirteen people,"Linda has visited Kawaihae, Laramie, Fairbanks, South Kingstown, Bowie, Enid, Highland Park, Olean, Hayward, New Braunfels, Daly City, Calumet City, Mount Pleasant, Tucson, Burbank, Claremont, Spartanburg and Jacksonville",1,counting
+Shelley has visited only twenty-three places and only two people,"Shelley has visited Elaine, Shirley and Lynn",1,counting
+Rita has visited only nineteen places,"Rita has visited Grinnell, Casper, Baker City, Georgia, Franklin, Lancaster, Effingham, Olean, Cleveland, San Felipe, Midwest City, South Holland, Warwick, Greenville, Brookline, Lead, Fort Lee, Eagle Pass, Fort Dodge and South Carolina",1,counting
+Mildred has visited only fourteen places,"Mildred has visited Coventry, Adams, Stony Brook, Grinnell, Windsor Locks, Cahokia, Niles, Connersville, Bluefield, Lakewood, Battle Creek, Bisbee, Burbank, Huntington and Farmington",1,counting
+Amanda has visited only eight places,"Amanda has visited Bridgeton, Washington, Covington, Kilgore, Ocala, Salem, Joplin, Guymon and Boonville",1,counting
+Alice has visited only twenty-seven places,"Alice has visited Everett, Abington, Albert Lea, Bedford, Longview, Norwalk and Portland",0,counting
+Margaret has visited only eleven places,Margaret has visited Wenatchee and Oak Ridge,0,counting
+Dorothy has visited only seventeen people,"Dorothy has visited Fannie, Lillie, Angela, Sandra, Deborah, Debra, Marie, Margaret, Claire, Candice, Minnie, Ana, Beulah, Angie, Nicole, Alberta, Susie and Rachel",1,counting
+Shannon has visited only twenty-five people,"Shannon has visited Penny, Amy, Stacy, Kelly, Olivia, Peggy, Faye, Naomi, Rebecca, Ellen, Ruth, Sheila, Lorraine, Courtney, Sarah, Joanna, Heidi, Beulah, Stephanie and Katherine",0,counting
+Kristin has visited only twenty-four people,"Kristin has visited Beverly, Joann, Gertrude, Shirley, Yvonne, Juanita, Gwendolyn, Lydia, Isabel, Nina, Marilyn, Lois, Yvette, Willie, Tiffany, Minnie, Annette, Jenny, Crystal, Kayla, Andrea, Danielle, Jane, Lucy and Naomi",1,counting
+Carolyn has visited only nine places,"Carolyn has visited Pittsfield, Virginia, Greenville, Englewood and Fort Wayne",0,counting
+Annette has visited only twenty places and only sixteen people,"Annette has visited Joanna, Ida, Lillie, Joan, Carolyn and Deanna",0,counting
+Thelma has visited only seven places and only six people,"Thelma has visited Elkton, Narragansett, Ithaca, Lake Oswego, Milton and Lakeview",0,counting
+April has visited only twenty-two places and only eight people,April has visited Aurora,0,counting
+Jennie has visited only twenty-five people,"Jennie has visited Brenda, Carol, Tanya, Samantha, Rosie, Cora, Toni, Amelia, Hilda, Renee, Belinda, Kelly, Irma, Lydia, Joanne, Juana, Brittany, Bobbie, Diane, Brandy, Rosa, Courtney, Melody, Beulah, Alicia and Yvonne",1,counting
+Lee has visited only two places and only one people,Lee has visited Catherine and Jill,1,counting
+Violet has visited only twenty-two places and only four people,Violet has visited Misty and Bernice,0,counting
+Grace has visited only twenty-eight places,"Grace has visited Alexandria, Palatine, Moline, Lehi, Pocatello, Las Vegas, Okmulgee, Abbeville, Chester, Biloxi, Haddonfield, Beverly, Halifax, Lancaster, Scarborough, Pipestone, Maine, Valdosta, Galena, Shaker Heights, Tallahassee, Shelbyville, Mesa, Chelsea, Wilkes-Barre, Ada, Douglas, Iowa City and San Rafael",1,counting
+Virginia has visited only nineteen places and only sixteen people,"Virginia has visited Sarah, Regina, Linda, Inez, Lula, Kay, Mary, Bessie, Cheryl, Rachel, Lucille, Rosemary, Mabel, Lucy, Dora, Valerie and Carmen",1,counting
+Clara has visited only thirty places and only seven people,"Clara has visited Illinois, Cleveland, Ashland, Pine Bluff, Battle Creek, Fort Wayne, Hays, New Mexico and Greeley",0,counting
+Erin has visited only ten people,"Erin has visited Joanna, Rita, Doris, Jacqueline, Megan, Anne, Kim, Geraldine, Vicki, Claire and Naomi",1,counting
+Annette has visited only sixteen places and only five people,"Annette has visited Veronica, June, Sherri, Grace, Lydia and Jeanne",1,counting
+Jennifer has visited only twenty-four people,"Jennifer has visited Ashley, Eunice, Kristin and Brenda",0,counting
+Jan has visited only thirty places,"Jan has visited Starkville, Valdez, Sioux Falls, Warren, Waycross, Ely, Piqua, Aberdeen and Santa Claus",0,counting
+Erika has visited only twenty-eight people,"Erika has visited Megan, Caroline, Belinda, Suzanne, Beatrice, Jessie, Deborah, Michele, Darlene, Connie, Hilda, Frances, Willie, Stella, Melanie, Rosie, Shannon, Tracey, Marguerite, Misty, Margarita, Olivia, Joy, Sherry, Lindsey, Genevieve, Cynthia, Vera and Rachel",1,counting
+Teresa has visited only twenty-two places,"Teresa has visited Pagosa Springs, Chickasaw, Fort Benton, La Salle, Belmont, Athens, Columbia, New Castle, Steubenville, Kotzebue, Lahaina, Palatka, Nashville, Grosse Pointe, Royal Oak, Orem, Amesbury, Mackinaw City, Shreveport, Indianapolis, Flint, Kilgore and Kalamazoo",1,counting
+Beth has visited only twenty-seven places and only six people,"Beth has visited Lamar, Helena, Pontiac, Middlesboro, Sainte Genevieve, Long Beach, Norwalk, East Providence, Anderson, Alexandria, North Hempstead, Rugby, Clovis, Massena, Cumberland, Chicopee, Cincinnati, Cambridge, Steubenville, Acoma, Sandwich, Pharr, Fayetteville, Fresno, Fulton, Brunswick, Huntington and Telluride",1,counting
+Regina has visited only twenty-eight places,"Regina has visited Welch, Kanab, Carmel, Pecos, Barre, Grants, Livingston, Odessa, Santa Barbara, Kearney, Canon City, Austin, Nashville, Steubenville, Henderson, Ecorse, Baraboo, Harrison, Alcoa, Essex, Arkadelphia, Brunswick, Plano, New Iberia, Connersville, Pierre, Darlington, Sparks and Marion",1,counting
+Bonnie has visited only two places and only one people,Bonnie has visited Michelle,0,counting
+Maxine has visited only eighteen people,"Maxine has visited Vanessa, Christine, Harriet, Tammy, Margaret, Katherine, Ida, Karen, Dolores, Blanche, Elaine, Jodi, Danielle, Bonnie, Jeanette, Holly, Sue, Marguerite and Molly",1,counting
+Vickie has visited only twenty-nine places,"Vickie has visited San Mateo, McCook, Saint Joseph, Glens Falls, Bedford, Frankfort, New Glarus, Illinois, Pekin, Santa Monica, Glendive, Torrington, Woodbridge, Livonia, Everett, Fort Smith, Burlington, Arkadelphia, Lenox, Seymour, Clayton, Bath, Jersey City, Delaware, Clearwater, Kodiak, Somersworth, New Britain, Stratford and Amesbury",1,counting
+Jacqueline has visited only five places and only two people,Jacqueline has visited Mentor and Poughkeepsie,0,counting
+Candace has visited only sixteen places,"Candace has visited Port Arthur, Palmer, Watertown, White Sulphur Springs, Newport, Cahokia, Kingman, Portsmouth, La Crosse, Hobart, East Greenwich, South Kingstown, Farmington, Sandusky, Orange, Searcy and Dodge City",1,counting
+Kelly has visited only seventeen places and only fifteen people,"Kelly has visited Falmouth, Haddonfield, Canton, Elkton and Clinton",0,counting
+Madeline has visited only four places,"Madeline has visited Nebraska City, Groton, Middletown, Miami Beach and Nashville",1,counting
+Sherri has visited only twenty-three people,Sherri has visited Miriam,0,counting
+Samantha has visited only twenty-nine places,"Samantha has visited Menlo Park, Newark, Dunkirk, Reading, Waco, Beverly Hills, Anniston, Waterloo, West Memphis, McKeesport, Kanab, Elkhart, Allentown, Biddeford, Tiverton, Napa, Fitchburg, Galveston, Pagosa Springs, Washington, McAlester, White Plains and Cranston",0,counting
+Laura has visited only seventeen people,"Laura has visited Sandy, Beth, Lula, Toni, Harriet, June, Vicki, Katherine, Anna, Diana, Lola, Priscilla, Andrea, Yolanda, Genevieve, Stella, Ruby and Constance",1,counting
+Brenda has visited only one place,Brenda has visited Saint Louis and Weston,1,counting
+Dorothy has visited only fourteen people,"Dorothy has visited Sherri, Sabrina, Stacey, Mamie, Beth, Virginia, Sheryl, Ana, Tammy, Rita, Marian, Kimberly, Christina, Laura and Madeline",1,counting
+Caroline has visited only twenty-one places,"Caroline has visited Stockton, Wood River, Greenwood, Yonkers, Mount Pleasant, Santa Rosa, Douglas, Oregon, Bar Harbor, Marysville, Saint Augustine, Gunnison, Xenia, Bend and Hot Springs",0,counting
+Linda has visited only fifteen places and only twelve people,Linda has visited Grayling,0,counting
+Laurie has visited only twenty-three places and only twelve people,"Laurie has visited Monroe, Mason City, Pauls Valley, Holland, Ocala, Totowa, Marion, Osawatomie, Nappanee, Clifton, Lumberton, Nahant, Eau Claire, Warm Springs, Euclid, Buckhannon, Concord, Mount Clemens, Pottsville, Cortez, Kingsville, Tillamook, Pinehurst and Castine",1,counting
+Belinda has visited only nine places and only six people,"Belinda has visited Rochester, Southampton, Plattsburgh, Petoskey, Bethesda-Chevy Chase, Ogden, Alta, Norwich, Lewistown and Newton",1,counting
+Kathryn has visited only twenty-seven places and only fifteen people,"Kathryn has visited Okmulgee, Grafton, Dunkirk, Fitzgerald, Georgetown, Darlington, North Adams, Denison, Birmingham, Laie, Natick, Redondo Beach, Portsmouth, Pomona, Bemidji, Bowling Green, Augusta, Pinehurst, Herkimer, Richland, Hoboken, Walsenburg, Cape Coral, Virginia City, Middletown, Kingston, Murfreesboro and New Market",1,counting
+Margaret has visited only seventeen places and only three people,"Margaret has visited Livonia, Hastings, Phenix City, Ojai, West Bridgewater, Moab, Macomb, Hyannis, Richmond, Bloomington, West Springfield, Ithaca, Newark, Laconia, Macon, Lima, Vermillion and Lovington",1,counting

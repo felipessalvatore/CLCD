@@ -1,0 +1,1001 @@
+sentence1,sentence2,label
+"Kathryn has visited Wellesley, Cortland, Kansas, Watervliet, Harlan, New Jersey, Chautauqua, Lake Placid, Cape Girardeau, Enterprise, Mattoon, Marquette, New Rochelle, Stockbridge, Clanton, Sitka, Sanford, Roseville, Garden City and Takoma Park",Kathryn didn't visit Mattoon,0
+"Michelle is taller than Lena , Lena is taller than Hazel , Hazel is taller than Brandy , Brandy is taller than Kristina , Kristina is taller than April , April is taller than Tamara",Brandy is taller than Michelle,1
+Someone has visited every person and every place,Marilyn didn't visit Bellingham,2
+"Edith is the person that has visited every place, Jeanette has visited Edith",Edith didn't visit Jacksonville,3
+Flora and Nicole have visited Laie,Nicole didn't visit Laie,0
+Everyone has visited every person,Charlene didn't visit Louise,2
+"Deanna is the person that has visited everyone, Deanna has visited Cindy",Cindy didn't visit Belinda,3
+Annette has visited only sixteen places and only five people,"Annette has visited Veronica, June, Sherri, Grace, Lydia and Jeanne",4
+"Iris is taller than Sarah, Evelyn, Juana and Maureen , Lula is as tall as Iris",Lula is taller than Juana,1
+"Darlene, Wendy, Blanche, Christine, Kristin, Jane, Claire and Shannon have visited Ormond Beach",Gloria didn't visit Ormond Beach,0
+Beth has visited only fourteen places and only eight people,"Beth has visited Sheila, Cassandra, Lois and Willie",4
+"Leah is taller than Florence, Viola, Lucy, Opal, Elizabeth, Isabel, Jacqueline, Yvette and Molly , Terry is as tall as Leah",Viola is taller than Terry,1
+Jan has visited only four places and only one people,"Jan has visited Springfield, Ossining, Long Beach, Clifton and Santa Barbara",4
+"Iris has visited Herrin, Veronica has visited Winchester, Kay has visited Norman, Vicki has visited Grants Pass, Claudia has visited Burlington, Sonia has visited Norton",Kay didn't visit Norman,5
+"Joan is taller than Vivian , Vivian is taller than Marguerite , Marguerite is taller than Florence , Florence is taller than Jodi , Jodi is taller than Wilma , Wilma is taller than Christina , Christina is taller than Ella , Ella is taller than Dolores , Dolores is taller than Carmen , Carmen is taller than Ruby",Carmen is taller than Dolores,1
+"Beatrice has visited Glassboro, Bernice has visited Pierre, Mabel has visited Council Grove, Kristi has visited Columbia, Annette has visited Darien, Rosa has visited Bedford, Violet has visited Lubec, Eva has visited Homestead, Kristina has visited Point Pleasant, Margaret has visited Bradford, Lori has visited Cambridge",Mabel didn't visit Cedar City,5
+"Tracy has visited Sara, Tracy is the person that has visited everyone",Sara didn't visit Ann,3
+Maureen has visited only eight places,Maureen has visited Huntington and Wilmette,4
+Elsie has visited only four places and only three people,Elsie has visited Rhonda and Megan,4
+Jodi has visited only seven places and only five people,"Jodi has visited Ellen, Phyllis, Wendy and Lauren",4
+Rosemary has visited only thirty people,"Rosemary has visited Doris, Betty, Dawn and Geraldine",4
+Cassandra has visited only seventeen places and only eleven people,Cassandra has visited Tonya and Louise,4
+"Diane, Cassandra, Leslie, Nora, Ann, Jenny, Debra, Kathleen, Ada, Katrina, Frances and Amelia have visited Lompoc",Cecilia didn't visit Lompoc,0
+"Faye has visited Utah, Somerville, Salisbury, Susanville, Homer, Hollywood, Crown Point and Columbia",Sharon didn't visit Crown Point,0
+"Veronica has visited Custer, Tracy has visited Butte, Toni has visited Pennsylvania, Hilda has visited Alamosa",Toni didn't visit Norman,5
+"Rita has visited Framingham, Jessica has visited Winter Park, Blanche has visited Newark, Diane has visited Priest River, Nancy has visited Seneca Falls, Shannon has visited Annapolis, Maureen has visited Westminster, Amelia has visited Natchitoches, Myrtle has visited Beverly Hills",Nancy didn't visit Port Washington,5
+"Delores has visited Alcoa, Janie has visited Wausau, Natasha has visited Yorba Linda, Courtney has visited Durham, Edna has visited Hamden, Marguerite has visited Abington, Maggie has visited Moab, Tara has visited Galesburg",Edna didn't visit Valparaiso,5
+"Elsie has visited Emily, Emily is the person that has visited every place",Emily didn't visit Youngstown,3
+Linda has visited only seventeen places and only thirteen people,"Linda has visited Kawaihae, Laramie, Fairbanks, South Kingstown, Bowie, Enid, Highland Park, Olean, Hayward, New Braunfels, Daly City, Calumet City, Mount Pleasant, Tucson, Burbank, Claremont, Spartanburg and Jacksonville",4
+Everyone has visited every person and every place,Peggy didn't visit Maryann,2
+"Mildred has visited Goldsboro, Redondo Beach, Weston, Helena, Pascagoula, Milwaukee, Carrollton, Hoquiam, Perth Amboy, York, Wellsburg, San Angelo, Athens and Eugene",Mildred didn't visit Peekskill,0
+"Sabrina has visited Crystal City, Nora has visited San Jose",Sabrina didn't visit Wooster,5
+"Lena has visited Kathy, Kathy is the person that has visited every place",Lena didn't visit Oak Harbor,3
+"Ruby, Harriet, Joann, Isabel, Emma, Maureen, Victoria, Sharon, Anita, Karen, Melinda, Bessie, Vanessa and Lee have visited Franklin",Lee didn't visit Franklin,0
+"Danielle, Madeline, Kristy, Lula, Carol, Deanna and Lucy have visited Jefferson City",Kristy didn't visit Jefferson City,0
+"Tracey has visited New Hope, Maxine has visited Davis, Victoria has visited Bradenton, Jean has visited Menlo Park, June has visited Campbellsville, Carole has visited Lebanon",June didn't visit Campbellsville,5
+"Annette has visited Fort Morgan, Vanessa has visited Hallandale Beach, Shelley has visited Zanesville, Doris has visited Ishpeming, Blanche has visited Central Falls, Mary has visited Vincennes, Rosie has visited Herkimer, Lucille has visited Salem, Ellen has visited Wyandotte",Vanessa didn't visit Yankton,5
+"Carmen is as tall as Amy , Amy is as tall as Mildred , Mildred is as tall as Geneva , Geneva is as tall as Jo , Jo is as tall as Allison , Allison is as tall as Glenda , Glenda is as tall as Gloria , Gloria is as tall as Dora , Dora is as tall as Pearl , Pearl is as tall as Nancy , Nancy is taller than Claire",Claire is taller than Dora,1
+"Joyce is taller than Lydia , Lydia is taller than Alicia , Alicia is taller than Hazel , Hazel is taller than Jessica , Jessica is taller than Sharon , Sharon is taller than Denise",Denise is taller than Lydia,1
+Someone has visited every person and every place,Kelly didn't visit Kristina,2
+"Deborah is the person that has visited every place, Tonya has visited Deborah",Tonya didn't visit Missouri,3
+"Bernice is taller than Thelma , Thelma is taller than Esther , Esther is taller than Patricia , Patricia is taller than Carole , Carole is taller than Dora , Dora is taller than Patsy",Carole is taller than Patricia,1
+Everyone has visited every person,Yvonne didn't visit Harriet,2
+"Everyone has visited Shelby, Greenwich, Barrington, Longmont, Petoskey, Hollywood, Sheboygan, Rockford, Independence, Tacoma, Klamath Falls, Jeannette, Cheektowaga, Lawrence, Shawnee, Yonkers, Roseburg, Perth Amboy, New York City and Cincinnati",Iris didn't visit Ojai,2
+Jodi has visited only three people,"Jodi has visited Marilyn, Janet, Cecilia and Pauline",4
+"Elaine has visited Rhonda, Rhonda is the person that has visited every place",Rhonda didn't visit Thibodaux,3
+"Everyone has visited Aurora, Ashland, Cripple Creek, Elizabeth City, Coupeville, Salem, Walsenburg, Knoxville, Parsippany–Troy Hills, Lebanon, Dubuque, Nashville, Fairfax, Redding, Prichard, Orange and Ontario",Billie didn't visit Ontario,2
+Suzanne and Sally have visited Gillette,Sally didn't visit Gillette,0
+Everyone has visited every place,Suzanne didn't visit Diana,2
+"Kimberly is as tall as Katie , Katie is as tall as Isabel , Isabel is as tall as Betty , Betty is as tall as Dolores , Dolores is as tall as Brenda , Brenda is taller than Dorothy",Dorothy is taller than Katie,1
+"Guadalupe has visited Sonya, Sonya is the person that has visited every place",Guadalupe didn't visit Kahului,3
+Someone has visited every person and every place,Dora didn't visit Kristy,2
+"Cynthia has visited Ruth, Ruth is the person that has visited every place",Cynthia didn't visit Gallup,3
+Everyone has visited every place,Ida didn't visit New Market,2
+"Glenda has visited Eufaula, Lindsay has visited Rockville, Misty has visited Groton, Joan has visited Rome",Lindsay didn't visit Greenville,5
+"Beatrice has visited Richmond, Oskaloosa, Vinita, Redondo Beach, Greenville, Marion, Warrensburg, Marinette, Arkansas Post, Port Lavaca, Irvington, Clarksdale, Calais, Ithaca and Lock Haven",Beatrice didn't visit Vinita,0
+"Holly has visited Ashland, Colleen has visited Mobile",Colleen didn't visit Benton,5
+"Everyone has visited Millville, New Castle, Moline, Steubenville, Prescott, Cherokee, Huron, Morgantown, Yorba Linda, Alhambra, Beatrice, Salina, Mount Holly, Boulder City, Great Barrington, Valparaiso and Sheffield",Yvonne didn't visit Morgantown,2
+"Everyone has visited Malibu, Perth Amboy, Medford, River Forest, Fergus Falls, Okmulgee, Wheaton, Rexburg, Gastonia, Ocean City, Warm Springs, Canon City, West Orange, Bristol, Puyallup, Saco and Florence",Jennie didn't visit Florence,2
+"Rosie has visited Kaskaskia, Angie has visited Ypsilanti",Rosie didn't visit Kaskaskia,5
+"Edith, Janie, Esther, Courtney, Kathy, Wanda, Ana, Kristine, Ella, Wendy, Allison, Dana, Billie, Evelyn, Rosemary, Marlene, Erica and Stephanie have visited Mentor",Billie didn't visit Mentor,0
+Everyone has visited every person,Diana didn't visit South Orange Village,2
+"Natalie is taller than Hilda , Hilda is taller than Judy , Judy is taller than Verna , Verna is taller than Ashley , Ashley is taller than Lindsay , Lindsay is taller than Kristina , Kristina is taller than Jo , Jo is taller than Frances , Frances is taller than Ana",Jo is taller than Frances,1
+"Karen has visited Newton, Caroline has visited Bloomfield Hills, Agnes has visited Fairfield, Mamie has visited Louisville, Carol has visited Bradford, Lois has visited Salem, Vicki has visited Portland, Terri has visited Cleveland",Mamie didn't visit Orlando,5
+Jacqueline has visited only twenty people,"Jacqueline has visited Barbara, Bobbie, Viola, Danielle, Bernice, Tara, Louise, Stella, Kelly, Belinda, Sandra, Victoria, Opal, Lauren and Gail",4
+"Wilma has visited Camden, Kathleen has visited Nome, Daisy has visited Medicine Lodge, Margie has visited Williamson, Cora has visited Oil City, Victoria has visited Eufaula, Sonia has visited Caribou, Patsy has visited South Bend, Betty has visited Laconia, Gladys has visited Bogalusa, Beverly has visited Petersburg, Sheila has visited Boca Raton",Sonia didn't visit Caribou,5
+Anita has visited only twenty places and only thirteen people,"Anita has visited Fayetteville, French Lick, Midwest City, Warren and Normal",4
+"Linda has visited Debbie, Debbie is the person that has visited every place",Linda didn't visit Plymouth,3
+Sherry has visited only twenty places and only eleven people,Sherry has visited Priscilla and Sherry,4
+"Sharon is the person that has visited everyone, Bessie has visited Sharon",Sharon didn't visit Clara,3
+"Marguerite has visited Bridgeton, Annie has visited Wilmette, Alison has visited Fort Smith, Jennie has visited Haddonfield, Sandy has visited Grafton, Brandy has visited Ottawa, Sherry has visited Kaneohe, Bobbie has visited Virginia City, Penny has visited Indianapolis, Emily has visited Ten Sleep, Rebecca has visited Middletown, Cynthia has visited Chadron",Brandy didn't visit Coventry,5
+Harriet has visited only twenty-seven places and only twenty-four people,"Harriet has visited Hamilton, Panguitch, Harlan, Okmulgee, Iowa City, Sylacauga, Enfield, Manchester, Benton, Cumberland, Groton, Richmond, Lakewood, Johnstown, Cape May, The Dalles, Washington, Mamaroneck, Racine, Redlands, Ten Sleep, Windsor, Flushing, La Habra, Oregon, Lubec, Oraibi and Bethesda-Chevy Chase",4
+"Christy, Melinda, Samantha, Loretta, Lillie and Ruth have visited Salem",Loretta didn't visit Salem,0
+"Suzanne has visited Englewood, Huntington, Columbus, Red Cloud, Mesquite, Harrisburg, Herrin, Crawfordsville, Monroe, Fresno, Chanute, Yonkers, El Paso, Whitman and Hopkinsville",Suzanne didn't visit Harrisburg,0
+"Everyone has visited San Juan Capistrano, Marshall, Longmont, Laurel, Frederick, Fitchburg, Harrisburg, Herrin, Clearfield, Auburn, Ardmore, Lehi and Red Bluff",Esther didn't visit Ardmore,2
+Everyone has visited every person,Anne didn't visit Bozeman,2
+Someone has visited every person and every place,Eleanor didn't visit Angie,2
+"Erica has visited Roanoke, Brenda has visited Watertown, Gina has visited Corning, Carmen has visited Hibbing, Inez has visited Los Alamos, Rose has visited Sonoma, Marguerite has visited Delta",Erica didn't visit Cortland,5
+"Everyone has visited Hot Springs, Homer, Columbia, Indiana, Oxnard, Hollywood, Little Rock, Nashville, Mount Pleasant, Mesquite, Rye, Anacortes, Grenada, Essex and Natchez",Daisy didn't visit Anacortes,2
+Everyone has visited every place,Sue didn't visit Lexington,2
+"Sara has visited Lebanon, Penny has visited Springfield, Nina has visited Scranton, Regina has visited Connersville, Kristen has visited Kingman",Penny didn't visit Put-in-Bay,5
+"Christine has visited Seminole, College Park, Delray Beach, Ashland, Marietta, Gloucester, Madison, Lafayette, Carmel, Greensburg, Elmira, Hyattsville, Modesto and Oil City",Christine didn't visit Gloucester,0
+"Vera has visited Washington, Hartford, Hanover, Palm Bay, Panguitch, Fort Myers, Davis and Salem",Theresa didn't visit Palm Bay,0
+"Dolores, Lola and Mary have visited Pasadena",Dolores didn't visit Vandalia,0
+"Julia has visited Biddeford, Elaine has visited Auburn",Julia didn't visit Biddeford,5
+"Cynthia has visited Point Roberts, Pecos, Sarasota, Summit, Pocatello, Venice, Cairo and Wenatchee",Jessie didn't visit Wenatchee,0
+Everyone has visited every place,Constance didn't visit Sturgeon Bay,2
+"Dora has visited Neosho, Erika has visited La Habra, Florence has visited Ouray, Lynda has visited Massachusetts, Mildred has visited Aliquippa, Heidi has visited Park Ridge, Mattie has visited Charlevoix, Roberta has visited Ansonia, Katherine has visited Marblehead",Dora didn't visit Henderson,5
+Everyone has visited every place,Roberta didn't visit Palmdale,2
+"Jeanette has visited Rosemary, Rosemary is the person that has visited everyone",Jeanette didn't visit Hilda,3
+"Belinda is taller than Violet , Violet is taller than Annette , Annette is taller than Constance , Constance is taller than Sandy , Sandy is taller than Caroline , Caroline is taller than Michelle",Caroline is taller than Belinda,1
+"Alison has visited Winona, Isabel has visited Chicago Heights, Amelia has visited Middlesboro, Virginia has visited Bloomington, Eunice has visited Laramie",Amelia didn't visit Urbana,5
+"Jeanne is the person that has visited every place, Maria has visited Jeanne",Jeanne didn't visit San Pedro,3
+"Jean is the person that has visited everyone, Josephine has visited Jean",Josephine didn't visit Candace,3
+"Cindy has visited Brockton, Marysville, Williamsburg and Oregon",Cindy didn't visit Williamsburg,0
+"Lisa has visited Willie, Willie is the person that has visited everyone",Lisa didn't visit Lorraine,3
+Everyone has visited every person and every place,Rhonda didn't visit Taos,2
+"Sarah is as tall as Gwendolyn , Gwendolyn is as tall as Felicia , Felicia is as tall as Jill , Jill is as tall as Megan , Megan is as tall as Violet , Violet is taller than April",Gwendolyn is taller than April,1
+"Marjorie has visited Freeport, Bloomington and Montgomery",Nicole didn't visit Montgomery,0
+Amber has visited only twenty-six people,"Amber has visited Bessie, Glenda, Jodi, Megan, Dianne, Eleanor, Toni, Isabel, Ruth, Sharon, Lula, Brandi, Carmen, Erika, Gladys, Cathy, Amanda, Marjorie, Dora, Lorraine, Kristin, Tonya, Gina, Rhonda, Sherri, Nina and Joann",4
+"Phyllis is taller than Jacqueline , Jacqueline is taller than Katherine , Katherine is taller than Tanya , Tanya is taller than Bobbie , Bobbie is taller than Sarah , Sarah is taller than Linda , Linda is taller than Hazel , Hazel is taller than Jodi",Hazel is taller than Jodi,1
+"Alma, Leslie, Deborah, Lindsay, Tamara, April, Megan, Cora, Marilyn, Kristi, Lula, Sandra, Katrina, Joyce, Vanessa, Bertha, Alberta, Josephine, Carla and Ellen have visited West Memphis",Kristi didn't visit Los Angeles,0
+Audrey has visited only six places and only two people,"Audrey has visited Northampton, Sturgis, East Greenwich and Chesapeake",4
+"Hilda is taller than Misty, Gail, Olga, Cathy, Sherri, Vanessa and Judith , Shelley is as tall as Hilda",Vanessa is taller than Shelley,1
+Tammy has visited only twenty-four places,"Tammy has visited Stratford, Hope, Moab, Lebanon, Carthage, Santa Barbara, La Grande, Machias, Bronx, Kennewick, Leadville, Williamsburg, Rocky Mount, Ilion, San Marino, Union, Barnstable, Plano, Boulder City, Kanab, Overland Park, Mount Vernon, Titusville, Lumberton and Washington",4
+Everyone has visited every person and every place,Stephanie didn't visit Wellfleet,2
+"Carol is taller than Lois , Lois is taller than Priscilla , Priscilla is taller than Elaine , Elaine is taller than Jeanette , Jeanette is taller than Phyllis",Phyllis is taller than Jeanette,1
+"Lorraine is the person that has visited every place, Lorraine has visited Donna",Lorraine didn't visit Lewiston,3
+"Nicole has visited Elaine, Nicole is the person that has visited every place",Nicole didn't visit Richmond,3
+"Brenda has visited Climax, Dawn has visited Harlem, Melanie has visited Lake Wales, Karen has visited Annapolis, Linda has visited Claremont",Karen didn't visit Venice,5
+"Rachel has visited Toni, Rachel is the person that has visited everyone",Rachel didn't visit Tracey,3
+"Sheila, Tara, Sharon, Ella, Audrey, Annette, Jeanne and Mae have visited Nogales",Audrey didn't visit Nogales,0
+"Everyone has visited Valley City, Gunnison, Arthur, Ludington, Spanish Fork, Framingham, Rotterdam, North Little Rock, Wailuku, Scarsdale, Mount Pleasant, Bedford, Lebanon, Milan and New Harmony",Sarah didn't visit San Jose,2
+"Susie has visited Olean, West Orange, Anniston, Mount Vernon, Waimea, East Haven, Lincoln, Perry, Coeur d’Alene, Blairsville, Weston, Brea, Amana Colonies and Nauvoo",Susie didn't visit Weston,0
+"Nancy has visited Paula, Nancy is the person that has visited everyone",Paula didn't visit Kristi,3
+Belinda has visited only two places,Belinda has visited Essex,4
+"Brandy is as tall as Rosie , Rosie is as tall as Rosa , Rosa is as tall as Lois , Lois is as tall as Angela , Angela is as tall as Regina , Regina is as tall as Sonia , Sonia is as tall as Lori , Lori is taller than Lydia",Lois is taller than Lydia,1
+"Gertrude is as tall as Renee , Renee is as tall as Sheila , Sheila is as tall as Kristy , Kristy is as tall as Beth , Beth is taller than Geneva",Geneva is taller than Kristy,1
+"Lucy is the person that has visited everyone, Lucy has visited Jackie",Jackie didn't visit Tina,3
+"Cora has visited Elsie, Cora is the person that has visited everyone",Elsie didn't visit Juana,3
+Madeline has visited only four places,"Madeline has visited Nebraska City, Groton, Middletown, Miami Beach and Nashville",4
+"Natasha is the person that has visited everyone, Heidi has visited Natasha",Natasha didn't visit Pearl,3
+"Juana has visited Marcia, Juana is the person that has visited everyone",Juana didn't visit Loretta,3
+"Toni is as tall as Leona , Leona is as tall as Lee , Lee is as tall as Hilda , Hilda is as tall as Melissa , Melissa is as tall as Megan , Megan is as tall as Danielle , Danielle is as tall as Tina , Tina is taller than Audrey",Audrey is taller than Lee,1
+Everyone has visited every person,Evelyn didn't visit Melbourne,2
+"Kristin is the person that has visited every place, Kristin has visited April",April didn't visit Westminster,3
+"Jessie has visited Morristown, Oakland, Newark, Livingston, Chicago, Turlock and Woodstock",Jessie didn't visit Gary,0
+Jill has visited only eight places and only eight people,"Jill has visited Cassandra, Heidi, Ruth, Elsie, Marion, Kimberly and Jane",4
+"Candace has visited Fairhaven, Katie has visited Wyoming, Dolores has visited Everett",Dolores didn't visit Everett,5
+Kristy has visited only ten places and only ten people,"Kristy has visited Lee, Glenda, Kim, Jan, Lindsey and Stephanie",4
+"Lynn, Dianne, Nora, Emma, Joanne, Olivia, Kathleen, Marsha, Michelle, Andrea, Rhonda, Ida, Verna, Georgia and Judy have visited Watts",Verna didn't visit Walnut Creek,0
+"Constance is the person that has visited everyone, Rebecca has visited Constance",Constance didn't visit Pearl,3
+Everyone has visited every place,Isabel didn't visit Mattie,2
+"Nora has visited Windham, Plymouth and Salem",Nora didn't visit Buena Park,0
+"Blanche is taller than Maggie , Maggie is taller than Julia , Julia is taller than Mildred , Mildred is taller than Tracy",Mildred is taller than Julia,1
+"Crystal has visited Marcia, Crystal is the person that has visited every place",Crystal didn't visit Fort Scott,3
+Audrey has visited only fifteen places,"Audrey has visited Concord, Euclid, La Grange, Harmony, Geneva, Woonsocket, West Lafayette, New York City, Hannibal, Kingsville, South Orange Village and Sheboygan",4
+"Wilma has visited Harriet, Wilma is the person that has visited everyone",Harriet didn't visit Renee,3
+Rita has visited only thirteen people,Rita has visited Sonia and Florence,4
+"Sandy is taller than Wendy, Kim, Marjorie, Tonya, Renee, Verna, Deborah, Phyllis, Jan and Stacy , Sandy is as tall as Ada",Deborah is taller than Ada,1
+"Katherine has visited College Station, Susanville, Hillsboro, Tempe, Aliquippa, Oskaloosa, Salinas, Boys Town, Logan, Georgetown, Parsippany–Troy Hills, Lakeland, San Juan Capistrano and Youngstown",Katherine didn't visit Salinas,0
+"Penny has visited Pomona, Diane has visited Bloomington, Maryann has visited Andover, Kristin has visited Ogdensburg, Christina has visited Halifax, Darlene has visited Webster, Heather has visited Canton, Mamie has visited Jeannette",Mamie didn't visit Harwich,5
+"Jan has visited Kirksville, Roseville and Brunswick",Jan didn't visit Brunswick,0
+"Tonya has visited Bedford, Emma has visited Rochester, Sara has visited Belvidere, Marcia has visited Franklin, Mabel has visited Clinton, Sally has visited Point Pleasant, Marilyn has visited Dillon, Shirley has visited Buena Park, Christina has visited Warren, Marian has visited Andover",Marcia didn't visit Franklin,5
+Kathryn has visited only eighteen people,"Kathryn has visited Ramona, Jeanette, Suzanne, Amy, Julie, Natalie, Paula, Brenda, Evelyn, Georgia, Doris, Tanya, Lula, Beth, Billie, Ana, Gina, Lucille and Alicia",4
+Everyone has visited every place,Hattie didn't visit Amy,2
+"Peggy, Virginia, Guadalupe, Evelyn, Ethel, Shelly and Regina have visited Clinton",Peggy didn't visit Hanover,0
+Everyone has visited every place,Bertha didn't visit Tina,2
+"Sabrina has visited Toccoa, Becky has visited Vincennes, Minnie has visited Carson City, Jennie has visited Athens, Phyllis has visited Georgetown, Opal has visited Saugus, Heather has visited Seneca Falls, Jessica has visited Brunswick, Agnes has visited Peoria, Annie has visited Watertown",Phyllis didn't visit Georgetown,5
+"Shelley is the person that has visited everyone, Rita has visited Shelley",Rita didn't visit Yvette,3
+Ruth has visited only sixteen places and only fifteen people,"Ruth has visited Lucille, Isabel, Christy, Elizabeth, Alicia, Edna, Cathy, Janice, Mattie, Hilda, Jean, Leona, Mary, Laurie, Connie and Shelly",4
+"Ann, Lena, Felicia, Laurie, Terry, Loretta, Sylvia, Rhonda, Kay, Ruby, Wanda and Cassandra have visited Williamson",Frances didn't visit Williamson,0
+"Connie is as tall as Becky , Becky is as tall as Brittany , Brittany is as tall as Cora , Cora is as tall as Olga , Olga is as tall as Tracy , Tracy is as tall as Teresa , Teresa is taller than Dolores",Dolores is taller than Tracy,1
+"Kristen has visited Sapulpa, Esther has visited Claremont, Diane has visited New Kensington, Ida has visited Lake Geneva, Leah has visited Las Vegas, Iris has visited Dallas, Olga has visited Lock Haven",Diane didn't visit Claremore,5
+"Diana has visited Amesbury, Mabel has visited Streator",Diana didn't visit Amesbury,5
+Someone has visited every person and every place,Hazel didn't visit Denver,2
+Erin has visited only twenty places and only eighteen people,Erin has visited Sue and Lynn,4
+Katherine has visited only five places and only three people,Katherine has visited Inez,4
+"Melanie is as tall as Elsie , Elsie is as tall as Judy , Judy is as tall as Suzanne , Suzanne is as tall as Lynda , Lynda is as tall as Maria , Maria is as tall as Jan , Jan is as tall as Bertha , Bertha is as tall as Annie , Annie is as tall as Loretta , Loretta is taller than Crystal",Crystal is taller than Annie,1
+"Kristine has visited Kingston, Susie has visited Bedford, Joanna has visited Vail, Irma has visited Asheboro, Lillian has visited Tewksbury, Jodi has visited North Dakota",Jodi didn't visit North Dakota,5
+"Joann is taller than Helen , Helen is taller than Inez , Inez is taller than Bobbie , Bobbie is taller than Tonya , Tonya is taller than Mae , Mae is taller than Madeline , Madeline is taller than Elizabeth",Bobbie is taller than Madeline,1
+Everyone has visited every person,Vickie didn't visit Nancy,2
+Everyone has visited every person and every place,Toni didn't visit Cecilia,2
+"Everyone has visited Winchester, Catonsville, Greensboro, Newton, Corpus Christi, Mayfield, Hartsville, Moses Lake, Irving, Anadarko, Walnut Creek, Southampton, Yuma, Harlan and Atlanta",Laura didn't visit Atlanta,2
+Beatrice has visited only twenty-four places and only eight people,"Beatrice has visited Crystal, Patsy, Margarita, Loretta, Julie, Lindsay, Edith, Sara and Charlotte",4
+"Joann is as tall as Arlene , Arlene is as tall as Mattie , Mattie is as tall as Willie , Willie is as tall as Paula , Paula is as tall as Leslie , Leslie is as tall as Elaine , Elaine is as tall as Flora , Flora is taller than Lynda",Lynda is taller than Willie,1
+"Lauren has visited Newport, Sherri has visited American Fork, Vicki has visited Athol, Georgia has visited Richland, Teresa has visited Chanute, Eileen has visited Calexico",Vicki didn't visit Athol,5
+Deborah has visited only eleven places and only two people,Deborah has visited Daisy,4
+"Janie has visited Pinehurst, Kristi has visited Glendale, Violet has visited Oberlin, Candice has visited West Plains, Brittany has visited Breckenridge, Lee has visited Lake Placid, Marlene has visited Aspen, Lucy has visited Mattoon, Sherri has visited Harrison, Ann has visited Hyattsville, Felicia has visited Rutherford",Lucy didn't visit Nashville,5
+Lena has visited only eighteen places,"Lena has visited Parsippany–Troy Hills, New Brunswick, Winston-Salem, Wyandotte, Burlington, Cedar City, San Bernardino, Takoma Park, Westerly, Camden, Arkadelphia, New Haven, Pennsylvania, Whittier, Pittsburgh, Janesville and Carbondale",4
+"Deborah is the person that has visited every place, Gina has visited Deborah",Gina didn't visit Tuscaloosa,3
+Viola has visited only two people,"Viola has visited Stella, Lynn and Amelia",4
+Everyone has visited every place,Rose didn't visit Nora,2
+"Janie is the person that has visited every place, Willie has visited Janie",Janie didn't visit Interlochen,3
+"Nellie has visited Diana, Diana is the person that has visited everyone",Diana didn't visit Cheryl,3
+"Margaret has visited Erica, Erica is the person that has visited every place",Erica didn't visit Skokie,3
+"Katherine is taller than Rosie, Terri, Deanna, Victoria, Billie, Beverly, Sherry and Sabrina , Katherine is as tall as Rita",Rita is taller than Sabrina,1
+Everyone has visited every person and every place,Toni didn't visit Angela,2
+Olga has visited only twenty places and only one people,"Olga has visited Anacortes, Syracuse, Iron Mountain, Chula Vista, Clarksville, Lockport, Vail, Peabody, Brainerd, Casper, Aiken, Mundelein, Moore, Idaho Falls, Bloomfield, Saco, Marietta, Huntsville, Uvalde, Berea and Middletown",4
+Everyone has visited every place,Maggie didn't visit Tanya,2
+Dolores has visited only seven places and only three people,"Dolores has visited Rosie, Susie, Darlene and Carol",4
+Judy has visited only twenty-seven places and only one people,"Judy has visited Pomona, Westport, Kentucky, Milbank, Point Pleasant, Towson, Arkansas, Murfreesboro, Lebanon, Fort Benton, Paducah and Blackfoot",4
+Everyone has visited every person,Kim didn't visit Totowa,2
+"Carrie is the person that has visited every place, Carrie has visited Susan",Carrie didn't visit Webster,3
+"Ida has visited Gallup, Fernandina Beach, Milbank, Holyoke, North Adams, Menasha, Alexandria, Wood River, Homestead, Nacogdoches, Suffolk, Ocean City, Huntsville, Gary and Sacramento",Ida didn't visit Sacramento,0
+"Brandi has visited Anna, Anna is the person that has visited everyone",Brandi didn't visit June,3
+"Cathy has visited Diana, Cathy is the person that has visited everyone",Diana didn't visit Lillie,3
+"Erika is as tall as Christina , Christina is as tall as Wendy , Wendy is as tall as Susan , Susan is as tall as Daisy , Daisy is taller than Stephanie",Daisy is taller than Stephanie,1
+"Felicia has visited Groton, Norris, Shreveport, Richardson, Springfield, Duxbury, Willmar, York, Canton, Laramie, Concord, Johnson City, Derby, Fredonia, Leavenworth, Monmouth, Auburn, Indio, Eureka and Oklahoma City",Felicia didn't visit Norris,0
+"Terry has visited Jessie, Jessie is the person that has visited everyone",Jessie didn't visit Marsha,3
+"Dawn has visited Granite City, Suzanne has visited Bristol, Velma has visited Ocean City, Brenda has visited Fort Payne, Hazel has visited Columbia",Suzanne didn't visit Palm Bay,5
+"Lydia is as tall as Thelma , Thelma is as tall as Janet , Janet is as tall as Miriam , Miriam is as tall as Amelia , Amelia is as tall as Carla , Carla is as tall as Jeanette , Jeanette is as tall as Jan , Jan is taller than Amanda",Amanda is taller than Amelia,1
+"Kristina, Jodi, Belinda, Jane, Betty, Alma, Bonnie, Erika, Crystal, Susan, Deanna, Rosie, Kathy, Monique, Tanya, Shelley, Marie, Denise, Erin and Valerie have visited Bedford",Belinda didn't visit Bedford,0
+"Olga has visited Charlotte, Daly City, Santa Cruz, Kirksville, Americus, Clayton, Bloomington, Lancaster, Pawhuska and Montrose",Olga didn't visit Charlotte,0
+Lee has visited only sixteen people,Lee has visited Allison,4
+"Susie is the person that has visited everyone, Wanda has visited Susie",Wanda didn't visit Lynda,3
+"Dora is the person that has visited everyone, Kristi has visited Dora",Dora didn't visit Sonia,3
+"Terry is taller than Tammy , Tammy is taller than Mamie , Mamie is taller than Julie , Julie is taller than Rita",Julie is taller than Terry,1
+"Roberta has visited Newark, Christine has visited Nome, Rebecca has visited Montana, Laurie has visited Salt Lake City, Lucy has visited Park Forest, Wanda has visited New Castle, Victoria has visited Midland, Marilyn has visited Willingboro, Nina has visited Amesbury, Joann has visited Bessemer",Lucy didn't visit Park Forest,5
+Everyone has visited every place,Joyce didn't visit Centralia,2
+Karen has visited only five places and only four people,"Karen has visited Fairbanks, Ossining, Pocatello, Virden, Starkville and Chula Vista",4
+Lee has visited only three places,"Lee has visited San Simeon, Muskogee, Portsmouth and Gallipolis",4
+Ada has visited only nine places and only two people,"Ada has visited Stacey, Ruby and Charlotte",4
+Everyone has visited every person,Lucille didn't visit Emma,2
+"Dianne is as tall as Mattie , Mattie is as tall as Patsy , Patsy is as tall as Alberta , Alberta is as tall as Courtney , Courtney is taller than Ellen",Alberta is taller than Ellen,1
+Genevieve has visited only nine people,"Genevieve has visited Sherry, Charlene, Irene, Patricia, Yvonne, Jeanette, Edna, Carole, Mary and Kimberly",4
+"Christine is taller than Carol, Guadalupe, Maryann, Anita, Faye, Sara and Debbie , Christine is as tall as Wanda",Wanda is taller than Faye,1
+Everyone has visited every person,Andrea didn't visit Colleen,2
+Heidi has visited only nine people,"Heidi has visited Cheryl, Anna, Lillie, Kristina, Christy, Janice, Ada, Natasha, Erika and Janet",4
+"Miriam is taller than Debbie , Debbie is taller than Mildred , Mildred is taller than Natalie , Natalie is taller than Alice",Mildred is taller than Miriam,1
+"Tracy has visited Kelso, Virginia Beach, Hazleton, Thermopolis, Elwood, Central City and Mystic",Tracy didn't visit Mystic,0
+Everyone has visited every place,Nina didn't visit Arlene,2
+Everyone has visited every person and every place,Grace didn't visit Somerville,2
+Janice has visited only eight places and only six people,Janice has visited Rhonda and Becky,4
+"Everyone has visited Athens, Waynesboro, Aliquippa, Bainbridge, Blackfoot, East Orange, Lexington, Ludlow, Plymouth, Saint Albans, Utica, San Jose, Tampa, Woodland, Waukesha, Meridian, Gunnison, Effingham and Virginia",Paula didn't visit Lexington,2
+Phyllis has visited only twenty-three places and only thirteen people,"Phyllis has visited Naomi, Stephanie, Lola, Sarah, Agnes, Katie, Alison, Kristine, Charlene and Catherine",4
+"Sheryl is taller than Jane, Genevieve, Rosa, Lois, Danielle, Louise, Debra and Kathryn , Rosemary is as tall as Sheryl",Jane is taller than Rosemary,1
+"Marie has visited Taunton, Ketchikan, West Chester, Sandwich, Chattanooga, Virginia, Bradenton, Fort Myers, Americus and Hillsborough",Marie didn't visit Americus,0
+"Clara has visited Eugene, Ironwood, Plano, Sunbury, Ventura, Daytona Beach, Monroe and Wellsburg",Gina didn't visit Eugene,0
+"Bonnie has visited Port Gibson, Laura has visited Barbourville, Stella has visited Concord, Agnes has visited Milford, Alison has visited Bloomington, Arlene has visited Palo Alto",Stella didn't visit Plattsburgh,5
+Everyone has visited every place,Cathy didn't visit Fallon,2
+Antoinette and Dawn have visited Glendive,Beth didn't visit Glendive,0
+Everyone has visited every person and every place,Rachel didn't visit Lisa,2
+Everyone has visited every place,Connie didn't visit Monroe,2
+"Penny is the person that has visited everyone, Megan has visited Penny",Megan didn't visit Rose,3
+"Bessie, Shelley, Andrea, Lucy, Arlene, Sonia, Christina, Brenda, Kristi, Tina, Erin, Carla, Eileen, Agnes, Priscilla, Diana, Jeanne, Janice and Juana have visited Muskegon",Andrea didn't visit Tiffin,0
+Ashley has visited only fourteen places,"Ashley has visited Bay City, Harlingen, Washington, Brighton, Vicksburg, Lake Forest, Piqua, Wellesley, Petersburg, Fallon, Royal Oak, Leavenworth, Lamar, East Chicago and Terre Haute",4
+"Harriet has visited San Mateo, Saginaw, Jefferson City, Marblehead, Council Grove, Milbank, Rochester, Aurora, Biloxi, Grand Haven, Nashville, Saranac Lake, Concord, Independence, Edmond and Boise",Harriet didn't visit Boise,0
+"Teresa has visited Burlington, Elkins, Richland, Houghton, Harrodsburg, Richmond, Blairsville and Redmond",Teresa didn't visit Blairsville,0
+"Brittany is the person that has visited every place, Dawn has visited Brittany",Brittany didn't visit Derry,3
+"Rebecca has visited Beverly, Rebecca is the person that has visited every place",Beverly didn't visit Salem,3
+"Anne has visited Spokane, Opal has visited Ashland, Jamie has visited Winnetka, Stella has visited Green Bay, Angie has visited Fort Scott, Lillie has visited Bloomfield, Jo has visited Modesto, Kathryn has visited Bar Harbor, Joy has visited Pompano Beach",Angie didn't visit Starkville,5
+"Cynthia is the person that has visited everyone, Cynthia has visited Regina",Regina didn't visit Susie,3
+"Carolyn has visited Judith, Carolyn is the person that has visited everyone",Carolyn didn't visit Vivian,3
+"Terry is taller than Inez, Carolyn, Natalie, Amelia, Ada, Katie, Janet and Mamie , Terry is as tall as Becky",Inez is taller than Becky,1
+"Christy is taller than Donna , Donna is taller than Lynda , Lynda is taller than Nora , Nora is taller than Robin",Lynda is taller than Nora,1
+Anne has visited only sixteen places and only seven people,"Anne has visited Dubuque, Fairmont and Zanesville",4
+"Mary, Cathy, Alma, Florence, Jodi, Arlene, Lois, Joann and Lillian have visited Oxnard",Cathy didn't visit Virginia City,0
+"Eva is the person that has visited every place, Wilma has visited Eva",Wilma didn't visit Canton,3
+Norma and Tiffany have visited Pittsfield,Norma didn't visit Pittsfield,0
+Lena has visited only twenty-four places,"Lena has visited Guntersville, Easton, Sturgeon Bay, Austin, Waukegan, Bartlesville, Asheboro, Lewiston, Nashville, Atlantic City, Davis and Weston",4
+"Eva is as tall as April , April is as tall as Penny , Penny is as tall as Vanessa , Vanessa is as tall as Stacy , Stacy is taller than Sherry",Sherry is taller than Stacy,1
+Everyone has visited every person,Wilma didn't visit Hackensack,2
+"Diane has visited Woonsocket, Heather has visited Stamford, Betty has visited Sacramento, Arlene has visited Newport",Heather didn't visit Stamford,5
+"Shirley, Vickie and Stella have visited Bayonne",Stella didn't visit Austin,0
+"Tonya is taller than Kelly , Kelly is taller than Shannon , Shannon is taller than Jackie , Jackie is taller than Ada , Ada is taller than Juana , Juana is taller than Stephanie , Stephanie is taller than Jessica , Jessica is taller than Roberta , Roberta is taller than Elizabeth , Elizabeth is taller than Robin",Juana is taller than Elizabeth,1
+"Joyce has visited Natick, Vanessa has visited Grand Forks, Carrie has visited York",Carrie didn't visit York,5
+"Bobbie has visited Rachel, Bobbie is the person that has visited everyone",Bobbie didn't visit Isabel,3
+"Carol, Heather, Marlene and Lola have visited New Windsor",Pamela didn't visit New Windsor,0
+"Andrea is as tall as Geraldine , Geraldine is as tall as Marie , Marie is as tall as Bernice , Bernice is as tall as Samantha , Samantha is as tall as Marsha , Marsha is as tall as Jamie , Jamie is as tall as Margie , Margie is as tall as Willie , Willie is taller than Bobbie",Marsha is taller than Bobbie,1
+"Naomi is taller than Constance , Constance is taller than Denise , Denise is taller than Lee , Lee is taller than Isabel , Isabel is taller than Michele , Michele is taller than Erin , Erin is taller than Cheryl , Cheryl is taller than Jamie , Jamie is taller than Bertha , Bertha is taller than Eva",Constance is taller than Cheryl,1
+"Miriam is taller than Georgia , Georgia is taller than Blanche , Blanche is taller than Maxine , Maxine is taller than Hilda , Hilda is taller than Annette , Annette is taller than Pearl , Pearl is taller than Harriet , Harriet is taller than Sheryl",Pearl is taller than Miriam,1
+"Crystal is the person that has visited every place, Lucy has visited Crystal",Lucy didn't visit Anacortes,3
+Everyone has visited every place,Lorraine didn't visit Washington,2
+Everyone has visited every place,Jodi didn't visit Norma,2
+"Megan is taller than June, Christina, Rebecca, Allison, Brenda, Katherine, Dorothy, Nina, Ana and Barbara , Megan is as tall as Rosie",Katherine is taller than Rosie,1
+Everyone has visited every place,Regina didn't visit Ashley,2
+"Kayla is as tall as Sherri , Sherri is as tall as Glenda , Glenda is as tall as Annie , Annie is as tall as Ethel , Ethel is as tall as Renee , Renee is as tall as Shelley , Shelley is as tall as Irma , Irma is as tall as Angie , Angie is as tall as Kathy , Kathy is as tall as Erica , Erica is taller than Laurie",Laurie is taller than Glenda,1
+Everyone has visited every person and every place,Denise didn't visit Jennie,2
+"Lynda, Gloria, Delores, Angela, Lori, Terri, Beulah, Florence, Grace, Melissa, Courtney, Iris, Leona, Nellie, Joanne, Vivian, Geraldine, Jennifer and Angie have visited Boothbay Harbor",Jennifer didn't visit Natchitoches,0
+"Edith is taller than Maryann, Audrey, Nicole, Alberta and Lisa , Edith is as tall as Florence",Florence is taller than Audrey,1
+"Rosa is taller than Ashley , Ashley is taller than Sandy , Sandy is taller than Emma , Emma is taller than Lynn , Lynn is taller than Peggy , Peggy is taller than Shirley , Shirley is taller than Rachel , Rachel is taller than Andrea , Andrea is taller than Caroline , Caroline is taller than Suzanne",Rachel is taller than Lynn,1
+Everyone has visited every person,Jessica didn't visit Brittany,2
+"Jan is as tall as Felicia , Felicia is as tall as Bertha , Bertha is as tall as Rosemary , Rosemary is as tall as Vanessa , Vanessa is as tall as Amber , Amber is as tall as Esther , Esther is as tall as Naomi , Naomi is as tall as Flora , Flora is as tall as Gwendolyn , Gwendolyn is as tall as Eunice , Eunice is taller than Caroline",Bertha is taller than Caroline,1
+Lorraine has visited only seven places,Lorraine has visited Ocala and Belfast,4
+"Elaine, Amber, Tonya, Charlene, Janice, Katherine, Catherine, Toni, Kristina, Stacey, Mamie, Carmen, Guadalupe, Vera, Danielle, Helen, Susan and Amanda have visited Kelso",Vera didn't visit Columbus,0
+Everyone has visited every person,Hattie didn't visit Virginia City,2
+"Diane is the person that has visited every place, Jill has visited Diane",Jill didn't visit Wellesley,3
+Holly has visited only three places and only one people,Holly has visited Ramona,4
+Everyone has visited every person and every place,Hazel didn't visit California,2
+"Loretta has visited Dolores, Dolores is the person that has visited everyone",Loretta didn't visit Madeline,3
+Linda has visited only one place and only one people,Linda has visited Kristi and Lillie,4
+"Georgia is taller than Madeline, Samantha, Sherri, Sonia, Ethel, Eva, Florence, Charlotte and Marjorie , Georgia is as tall as Maureen",Maureen is taller than Eva,1
+Everyone has visited every place,Janet didn't visit Plymouth,2
+"Everyone has visited Hanover, Kellogg, Morristown, Elko, Rome, Watkins Glen, El Paso, Johnson City, Tennessee, Wayne, Zanesville, Carrollton, Independence, Idaho City, Mitchell, Red Bluff, Alpine, Kilgore and Scottsboro",Flora didn't visit Watkins Glen,2
+"Nora is taller than Joyce, Natalie, Thelma, Louise and Melody , Nora is as tall as Carla",Melody is taller than Carla,1
+"Paula has visited Indianapolis, Pinehurst, Barstow, Sierra Vista, Seaside, Troy, West Allis, Franklin, Louisiana, Milton, Wellsburg and Marlborough",Ethel didn't visit Franklin,0
+"Kathleen, Dorothy, Patricia, Faye, Iris, Ashley, Amanda, Ruby, Edith, Misty, Tina, Dianne, Carmen, Belinda, Samantha, Cynthia, Laura, Lena, Vicki and Angela have visited Jeffersonville",Regina didn't visit Jeffersonville,0
+"Amy is as tall as Velma , Velma is as tall as Rachel , Rachel is as tall as Nina , Nina is as tall as Bertha , Bertha is taller than Nellie",Nellie is taller than Rachel,1
+Everyone has visited every person,Deborah didn't visit New Milford,2
+"Melinda is as tall as Janet , Janet is as tall as Olivia , Olivia is as tall as Paula , Paula is as tall as Claudia , Claudia is as tall as Michele , Michele is as tall as Hilda , Hilda is as tall as Hazel , Hazel is taller than Maggie",Michele is taller than Maggie,1
+"Anne has visited San Francisco, Alison has visited Fairhaven",Alison didn't visit Bayonne,5
+"Bobbie, Cynthia, Faye, Doris, Lucy, April, Jodi, Melanie, Stacey, Janice and Danielle have visited Bardstown",Janice didn't visit Bardstown,0
+"Ramona has visited Glenda, Ramona is the person that has visited everyone",Glenda didn't visit Donna,3
+"Julia, Susie, Sabrina, Sonia, Gertrude, Susan, Joy, Christina, Heather, Robin and Courtney have visited Arkansas City",Sonia didn't visit Arkansas City,0
+"Annie has visited Rochester, Lillie has visited Alton",Lillie didn't visit Clanton,5
+"Allison has visited Bonnie, Bonnie is the person that has visited everyone",Allison didn't visit Madeline,3
+Delores has visited only ten people,"Delores has visited Terri, Ella, Jeanne, Kimberly, Andrea, Natalie, Julie, Joanna, Tamara, Amelia and Nicole",4
+"Flora is as tall as Joanne , Joanne is as tall as Michele , Michele is as tall as Sarah , Sarah is as tall as Renee , Renee is as tall as Theresa , Theresa is taller than Pauline",Pauline is taller than Sarah,1
+Margaret has visited only twenty-seven places and only six people,"Margaret has visited Bennington, Arlington, Minot, Marshall, Pine Bluff, Berea, Oakland, Andersonville, Trenton, Cohoes, Fallon, Norman, Great Neck, Fairfax, Alamogordo, Crown Point, Victorville, Benton Harbor, Great Falls, Oregon City, New Paltz, Bloomington, Annapolis, Saint Martinville, Lakehurst and Powell",4
+"Robin is taller than Virginia , Virginia is taller than Heather , Heather is taller than Leslie , Leslie is taller than Lynda , Lynda is taller than Erika , Erika is taller than Sandy , Sandy is taller than Tracy , Tracy is taller than Olga",Olga is taller than Robin,1
+Helen has visited only twelve places,"Helen has visited Sheffield, Indiana, Rome, Clinton, Henderson, Bloomfield Hills, Palmyra, Tuscumbia, Monmouth, Anaconda, Youngstown, Totowa and Andersonville",4
+"Sonya, Sherry, Terry, Julie, Nancy, Becky, Gail, Jennie, Cora, Molly, Joann, Geraldine, Marion, Jill, Claudia and Paula have visited Norristown",Becky didn't visit Norristown,0
+"Maryann is the person that has visited every place, Lorraine has visited Maryann",Maryann didn't visit Monterey,3
+"Suzanne is taller than Toni, Jacqueline, Edna, Brittany, Brandi, Amanda, Agnes and Claire , Florence is as tall as Suzanne",Brittany is taller than Florence,1
+"Candace is taller than Gertrude , Gertrude is taller than Monica , Monica is taller than Lindsay , Lindsay is taller than Kimberly",Monica is taller than Candace,1
+Heather has visited only eight places and only five people,"Heather has visited Melinda, Kristine, Leona, Christina, Cynthia and Brittany",4
+"Nancy, Marsha, Rosemary, Joanna, Denise, Ramona, Emily, Mae, Lillie, Fannie, Joyce, Loretta, Marie, Jan and Alison have visited Tahlequah",Lillie didn't visit Greeneville,0
+"Lorraine has visited Wilmington, Arthur, Weehawken, Newport, Ipswich, Del Rio, Brunswick, Morrilton, Florence, Athol, Winona, Dillon, Mayfield, South Kingstown, El Monte, Seward, Brattleboro, Franklin, Libertyville and McCook",Agnes didn't visit South Kingstown,0
+Joanne has visited only twenty-three places,"Joanne has visited Muncie, Largo, Annapolis, Great Falls, Carbondale, Elizabeth, Albuquerque, Corydon, New York, Eau Claire, Muskegon, Appleton, Wheaton, Sebring, Canton, Dahlonega, Amarillo, Lubec, Danbury, New Paltz, Brookfield, Magnolia, Milledgeville and Redmond",4
+"Yolanda has visited Laguna Beach, Rome and Coeur d’Alene",Yolanda didn't visit Laguna Beach,0
+"Susie is taller than Janie, Roberta, Yolanda, Audrey, Tara, Margie and Elizabeth , Valerie is as tall as Susie",Janie is taller than Valerie,1
+Sheryl has visited only ten places,"Sheryl has visited Orem, Parma, Cuyahoga Falls, Harrisburg, Norton, Hammondsport, Martinez, Wauwatosa, Chadron, Peshtigo and Alexandria",4
+"Sylvia has visited Pullman, Wichita, Franklin, New York City, Nahant, Manchester, Sault Sainte Marie, Parma, Ozark, Holdenville, Waukegan, Cheboygan, Greenville, Fort Kent, Cripple Creek and Walla Walla",Sylvia didn't visit Cheboygan,0
+"Gina is taller than Joanne , Joanne is taller than Anna , Anna is taller than Alicia , Alicia is taller than Elaine , Elaine is taller than Sandra , Sandra is taller than Delores , Delores is taller than Jane , Jane is taller than Debra , Debra is taller than Tamara , Tamara is taller than Thelma",Elaine is taller than Anna,1
+"Patsy is as tall as Lynn , Lynn is as tall as Rosa , Rosa is as tall as Rosemary , Rosemary is as tall as Margie , Margie is as tall as Lois , Lois is taller than Alberta",Alberta is taller than Patsy,1
+"Cathy has visited Pine Bluff, Stella has visited Aliquippa, Charlotte has visited Yorba Linda, Kristina has visited Lebanon, Viola has visited Henderson, Brenda has visited Mountain View, Sherri has visited Andover, Wilma has visited Webster City, Martha has visited Beacon, Juanita has visited Greenville",Stella didn't visit Perth Amboy,5
+Everyone has visited every person,Ashley didn't visit Vickie,2
+"Joanne has visited Philippi, Regina has visited Dennis, Tanya has visited Saranac Lake, Anna has visited Nashville, Jeanette has visited Harmony, Tracey has visited Mount Vernon, Jenny has visited Stony Point, Candace has visited Smith Center, Maryann has visited Franklin, Carla has visited Nauvoo, Carolyn has visited Batesville",Tanya didn't visit Irving,5
+"Katie, Marcia, Mildred, Kristy, Thelma, Misty, Sara, Charlene, Maria, Charlotte, Jeanne, Alberta, Rebecca, Christine and Debbie have visited Valdez",Mildred didn't visit Valdez,0
+"Everyone has visited Chadron, San Francisco, Concord, Brownsville, Smyrna, Norwalk, Enfield, Iron Mountain, Elgin, Hallandale Beach, Pampa, Clinton, East Cleveland and Atlanta",Janet didn't visit Iron Mountain,2
+"Joy has visited Manitowoc, Chanute, Romney, Lake Charles, Chadron, Bessemer, Superior and Devils Lake",Joy didn't visit Manitowoc,0
+"April has visited Christina, April is the person that has visited every place",April didn't visit Davis,3
+"Leah has visited Los Angeles, Lola has visited McAllen",Lola didn't visit Queens,5
+Ann has visited only twenty-two places,"Ann has visited Arlington Heights, Ontario, Sapulpa, Irving, Zanesville, Kingsport, Topeka, Lakeview, Cicero, Worland, Nephi, Caldwell, New Rochelle, West Point, Newcastle, Mansfield, Haines and Hammond",4
+"Willie is the person that has visited every place, Willie has visited Carla",Carla didn't visit New Brunswick,3
+Marilyn has visited only nineteen places and only eighteen people,"Marilyn has visited Amber, Lee, Jennifer and Charlene",4
+"Everyone has visited Rome, Pocatello, Hays, Milford, Hyannis, Camden, Burlington, Plainfield, Murfreesboro, Lafayette and West Springfield",Alice didn't visit Plainfield,2
+Thelma has visited only twenty-seven places and only sixteen people,"Thelma has visited Oak Ridge, New Madrid and New Albany",4
+Everyone has visited every person,Kay didn't visit Saratoga Springs,2
+"Joanna is as tall as Naomi , Naomi is as tall as Kim , Kim is as tall as Lindsey , Lindsey is as tall as Jane , Jane is as tall as Rosa , Rosa is taller than Angela",Angela is taller than Lindsey,1
+"Julia is as tall as Kim , Kim is as tall as Jessie , Jessie is as tall as Harriet , Harriet is as tall as Debra , Debra is as tall as Patsy , Patsy is as tall as Sandra , Sandra is as tall as Candace , Candace is as tall as Cynthia , Cynthia is as tall as Nicole , Nicole is as tall as Brittany , Brittany is taller than Colleen",Colleen is taller than Patsy,1
+"Crystal, Debbie, Genevieve, Daisy, Juana, Audrey, Helen, Ruby, Karen, Joanna, Grace, Becky, Doris and Claudia have visited Huntington Beach",Mamie didn't visit Huntington Beach,0
+"Deanna is the person that has visited everyone, Deanna has visited Sylvia",Deanna didn't visit Phyllis,3
+Someone has visited every person and every place,Kelly didn't visit Melinda,2
+"Ashley has visited Melinda, Melinda is the person that has visited every place",Ashley didn't visit Cullman,3
+"Susie is the person that has visited every place, Susie has visited Esther",Esther didn't visit Nashua,3
+Lee has visited only two places and only one people,Lee has visited Catherine and Jill,4
+"Elizabeth has visited Bryan, Cocoa Beach, Bedford and Butte",Megan didn't visit Cocoa Beach,0
+Mamie has visited only ten places and only two people,"Mamie has visited Hanover, Fort Scott, Brighton, Wood River, Boone, Prichard, Smith Center, Greensboro, Hugo, Honolulu and Salem",4
+Someone has visited every person and every place,Phyllis didn't visit Rotterdam,2
+"Cassandra is the person that has visited every place, Cassandra has visited Alma",Cassandra didn't visit Rogers,3
+"Kayla has visited New Ulm, Agnes has visited Santa Rosa, Brenda has visited Lander, Gina has visited Duxbury, Sonia has visited Conway, Faye has visited Kingston, Lynda has visited De Land, Claire has visited Boulder City, Joann has visited Owatonna, Diane has visited Rockford, Catherine has visited Monroe",Catherine didn't visit Little Falls,5
+"Lorraine has visited Kristina, Kristina is the person that has visited every place",Lorraine didn't visit Ardmore,3
+"Kristen is as tall as Victoria , Victoria is as tall as Harriet , Harriet is as tall as Janie , Janie is as tall as April , April is as tall as Irma , Irma is as tall as Melanie , Melanie is as tall as Joyce , Joyce is taller than Lillie",April is taller than Lillie,1
+"Ramona has visited Rita, Ramona is the person that has visited everyone",Rita didn't visit Diane,3
+"Melody has visited Davenport, Audrey has visited Bartow, Lauren has visited Socorro, Isabel has visited Wailuku, Beverly has visited Oceanside, Debbie has visited Silverton, Kim has visited Great Bend, Mae has visited Greenville, Terri has visited North Hempstead, Marcia has visited Kaneohe, Joanna has visited Durham",Melody didn't visit Manchester,5
+"Peggy is as tall as Nora , Nora is as tall as Brittany , Brittany is as tall as Heather , Heather is as tall as Bessie , Bessie is as tall as Rebecca , Rebecca is as tall as Cheryl , Cheryl is as tall as Isabel , Isabel is as tall as Pamela , Pamela is as tall as Sylvia , Sylvia is taller than Kathleen",Rebecca is taller than Kathleen,1
+"Kim has visited Warren, Janie has visited Urbana, Annie has visited Brookings, Josephine has visited Watts, Kristen has visited Houston, Sherry has visited Jackson, Kathleen has visited Orlando, Erika has visited Millville, Crystal has visited Dillon, Madeline has visited Kittery, Ada has visited Fitzgerald, Sherri has visited Big Spring",Kathleen didn't visit Orlando,5
+Everyone has visited every person and every place,Leslie didn't visit Kim,2
+"Cassandra has visited Kayla, Kayla is the person that has visited everyone",Cassandra didn't visit Amy,3
+"Joanna, Marion, Glenda, Vicki, Toni, Joanne, Olga, Courtney, Suzanne, Rosa, Marian, Marie, Harriet and Frances have visited Freeport",Toni didn't visit Alaska,0
+"Lorraine has visited Kristine, Kristine is the person that has visited every place",Lorraine didn't visit Green Bay,3
+"Beulah has visited Florence, Lowell, Eureka, Sturgis, Marysville, Gainesville, Presque Isle, Montpelier, Alliance, Olympia, Coupeville, Clovis and Rutland",Sheila didn't visit Coupeville,0
+"Ada has visited Edith, Edith is the person that has visited every place",Edith didn't visit Guthrie,3
+"Yvette is taller than Alicia, Emily, Edna and Hilda , Yvette is as tall as Joyce",Joyce is taller than Edna,1
+"Peggy has visited Shirley, Peggy is the person that has visited everyone",Peggy didn't visit Ann,3
+"Billie has visited Long Beach, Nellie has visited Coronado, Jeanette has visited Monroe, Amy has visited Newton, Monica has visited Clifton, Wendy has visited Oregon, Edith has visited Abilene, Holly has visited Selma, Monique has visited Athens, Marie has visited Michigan",Billie didn't visit Rhinelander,5
+Everyone has visited every person,Dolores didn't visit Elgin,2
+"Everyone has visited Bainbridge, Warren, Rensselaer, Cicero, Norristown, Neosho, Staunton, Price, Gainesville, Hopkinsville, Blairsville, Independence, North Kingstown, West Virginia, Gallup, Bedford, New Iberia, Bogalusa and Hempstead",Tracey didn't visit Neosho,2
+"Courtney is taller than Iris , Iris is taller than Tonya , Tonya is taller than Sally , Sally is taller than Joanna , Joanna is taller than Geneva , Geneva is taller than Isabel , Isabel is taller than Jacqueline , Jacqueline is taller than Bessie , Bessie is taller than Evelyn",Joanna is taller than Isabel,1
+"Cassandra, Lola, Rachel, Molly, Irene, Kay, Lynn, Carolyn, Linda, Vickie, Stephanie and Alberta have visited Beaumont",Carolyn didn't visit Beaumont,0
+"Kathy, Gloria, Stella, Olivia, Penny, Lula, Valerie, Vicki, Candace, Cathy, Priscilla and Iris have visited Salem",Olivia didn't visit Saint Louis,0
+"Lorraine has visited Fredonia, Julia has visited North Las Vegas, Elaine has visited New Orleans, Tammy has visited Alton, Amber has visited Antioch, Suzanne has visited Westminster, Blanche has visited Manchester, Carolyn has visited Belfast, Violet has visited Quincy",Elaine didn't visit Milton,5
+"Linda, Cindy, Rose, Lucy, Heidi, Ellen, Bernice, Blanche, Juana, Karen, April, Misty and Julia have visited Sainte Genevieve",Misty didn't visit Chadron,0
+"Everyone has visited Waterloo, Belle Glade, Piqua, Springfield, Fort Valley, Rensselaer, Wichita, Columbia, Houlton, Derry, Kingston, Nephi, Morgan City, Middlesboro and McMinnville",Janie didn't visit Wichita,2
+"Stephanie, Annie, Marlene, Olivia, Melinda, Beverly, Viola, Jacqueline, Joanne and Rosie have visited Calumet City",Joanne didn't visit Calumet City,0
+"Irene is taller than Valerie, Cindy, Dora and Opal , Norma is as tall as Irene",Norma is taller than Cindy,1
+"Hazel has visited Geneva, Meridian, Huntington, Miami Beach, Sweetwater, Skokie, Oraibi, Auburn, Salem, Cheektowaga, Westerly, Central Falls, Euclid, Long Branch, McKeesport, Brea and Effingham",Esther didn't visit Geneva,0
+"Everyone has visited Rome, Mississippi, Ogden, Adrian, Tillamook, Westerly, Danbury, Irvine, Jackson, Milwaukee, Orderville, Huntington Beach, Crossett and Arizona",Melody didn't visit Mississippi,2
+"Julia is the person that has visited every place, Julia has visited Judith",Julia didn't visit Aberdeen,3
+"Deanna has visited Los Alamos, Marlene has visited Prineville",Deanna didn't visit Los Alamos,5
+"Everyone has visited DeKalb, Middletown, Albuquerque, The Village, Rumford, Long Beach, Twin Falls, Washington, Lakeland, Wilmington, Olathe, Seminole, Kingman, Gila Bend, San Clemente, Sturbridge, Trinidad, Castine, Calais and Waterbury",Carla didn't visit Washington,2
+"Crystal has visited Mildred, Mildred is the person that has visited everyone",Crystal didn't visit Rosa,3
+"Marie is the person that has visited everyone, Marsha has visited Marie",Marie didn't visit Irma,3
+"Grace is as tall as Beatrice , Beatrice is as tall as Michelle , Michelle is as tall as Denise , Denise is as tall as Jennifer , Jennifer is as tall as Erin , Erin is as tall as Leona , Leona is as tall as Rose , Rose is as tall as Flora , Flora is as tall as Myrtle , Myrtle is as tall as Kristi , Kristi is taller than Jackie",Jackie is taller than Kristi,1
+"Viola is the person that has visited every place, Viola has visited Ella",Ella didn't visit Globe,3
+"Glenda is the person that has visited every place, Patsy has visited Glenda",Patsy didn't visit Newport,3
+Everyone has visited every person,Rachel didn't visit Nellie,2
+"Gwendolyn is taller than Rachel , Rachel is taller than Leslie , Leslie is taller than Lynda , Lynda is taller than Lillian , Lillian is taller than Nicole , Nicole is taller than Janice , Janice is taller than Eunice , Eunice is taller than Darlene , Darlene is taller than Angela",Darlene is taller than Angela,1
+"Priscilla has visited Edinburg, Worthington, Mount Vernon, Bay City, Long Branch, New Haven, Marlborough and Nashville",Priscilla didn't visit Mount Vernon,0
+"Jackie is taller than Thelma , Thelma is taller than Wanda , Wanda is taller than Julia , Julia is taller than Maggie , Maggie is taller than Jacqueline , Jacqueline is taller than Carla",Jacqueline is taller than Carla,1
+"Blanche has visited Ruby, Ruby is the person that has visited everyone",Blanche didn't visit Debbie,3
+Everyone has visited every place,Mattie didn't visit Yolanda,2
+"Minnie has visited Brownsville, Luz has visited Oyster Bay, Marion has visited Decatur, Shelley has visited Elk City, Becky has visited West Point, Monica has visited Sand Springs, Viola has visited Dennis",Becky didn't visit South Bend,5
+Billie has visited only five places and only four people,Billie has visited Macomb and Hope,4
+"Eva, Wendy, Opal, Tamara, Sarah, Glenda, Darlene, Candace, Stella, Maureen, Vickie, Margarita, Helen, Beulah, Clara, Vanessa and Hilda have visited McMinnville",Opal didn't visit Connersville,0
+"Bonnie has visited Theresa, Theresa is the person that has visited every place",Theresa didn't visit Haines,3
+"Patsy, Sonia and Shirley have visited Garden Grove",Patsy didn't visit Garden Grove,0
+"Rebecca has visited Fremont, Holly has visited Saint Cloud, Kristina has visited San Felipe, Deanna has visited Portland, Tanya has visited Petersburg, Amelia has visited Salem, Jeanette has visited Dahlonega, Gail has visited Ogdensburg, Alison has visited Pittsburgh, Maggie has visited Grinnell, Lisa has visited Lebanon",Jeanette didn't visit Dahlonega,5
+"Margaret, Michelle and Maureen have visited Bossier City",Maureen didn't visit Newcastle,0
+"Violet is as tall as Carolyn , Carolyn is as tall as Bessie , Bessie is as tall as Jeanette , Jeanette is as tall as Diane , Diane is as tall as Barbara , Barbara is as tall as Melody , Melody is as tall as Nina , Nina is as tall as Janie , Janie is as tall as Jeanne , Jeanne is taller than Candace",Janie is taller than Candace,1
+"Margarita, Tina, Connie, Valerie, Rose, Faye, Claudia, Jo, Jeanette, Theresa, Pearl, Mabel, Joanna, Joyce, Kathy and Loretta have visited Harlem",Mabel didn't visit Harlem,0
+"Everyone has visited Blairsville, Farmington, McCook, Cleveland, Helena, Ann Arbor, East Lansing, Wenatchee, Melbourne, Summersville, Fort Dodge and Gloucester",Doris didn't visit Harlingen,2
+"Rosie is taller than Edna, April, Geraldine, Laura, Lucy, Glenda, Julia and Candace , Rosie is as tall as Patricia",Patricia is taller than April,1
+"Rachel has visited Winchester, Geraldine has visited Wisconsin, Irma has visited Sturbridge, Ellen has visited Battle Creek, Paula has visited De Land, Laura has visited Sumter, Kay has visited Burlington, Constance has visited Claremont, Melinda has visited Vicksburg, Shelly has visited Altoona, Rita has visited Tarrytown, Mae has visited Lexington",Mae didn't visit Lexington,5
+"April, Yvette, Rosa, Samantha, Clara, Luz, Lee, Dianne, Melanie and Jennifer have visited Bethlehem",Veronica didn't visit Bethlehem,0
+Everyone has visited every person and every place,Edna didn't visit Barbara,2
+"Hilda, Frances, Kathleen and Sarah have visited San Gabriel",Sarah didn't visit San Gabriel,0
+Stella has visited only nine places and only six people,"Stella has visited Sabrina, Tina, Bonnie and Margarita",4
+"Debbie has visited Wanda, Wanda is the person that has visited every place",Debbie didn't visit Lebanon,3
+"Flora is as tall as Theresa , Theresa is as tall as Stacy , Stacy is as tall as Nina , Nina is as tall as Cheryl , Cheryl is as tall as Loretta , Loretta is taller than Darlene",Stacy is taller than Darlene,1
+"Ana has visited Fayetteville, Norma has visited Lake Oswego, Sherri has visited Yankton, Brandi has visited South Bend, Sheila has visited Torrington, Lola has visited Kewanee, Leslie has visited Sausalito, Esther has visited Martinsburg, Carole has visited Cocoa Beach, Naomi has visited Fort Walton Beach, Andrea has visited Delta, Nora has visited Kokomo",Andrea didn't visit Delta,5
+"Emma has visited Maryann, Emma is the person that has visited everyone",Emma didn't visit Karen,3
+"Christina, Bonnie, Carole, Faye, Clara, Margaret, Maureen, Evelyn, Bessie, Sylvia and Luz have visited Great Bend",Maureen didn't visit Great Bend,0
+Everyone has visited every person,Megan didn't visit Princeton,2
+Maryann has visited only two places and only two people,"Maryann has visited Norristown, Faribault and Scarborough",4
+"Lee has visited Charlotte, Charlotte is the person that has visited every place",Charlotte didn't visit Olean,3
+"Victoria is taller than Bobbie , Bobbie is taller than Suzanne , Suzanne is taller than Amelia , Amelia is taller than Molly",Suzanne is taller than Molly,1
+"Violet has visited Bristol, Jeanette has visited Lake Havasu City, Valerie has visited West Hartford, Cynthia has visited Chanute, Veronica has visited Staunton, Cathy has visited El Reno, Andrea has visited Pinehurst",Cynthia didn't visit Chanute,5
+"Fannie, Willie, Ellen, Lee, Janice, Sandra, Shirley, Mamie, Vivian, Gina, Annie, Theresa and Jessica have visited Boca Raton",Ellen didn't visit Woburn,0
+"Marilyn is the person that has visited every place, Christine has visited Marilyn",Marilyn didn't visit Marlborough,3
+"Nancy has visited Alamosa, Tracy has visited Sunbury, Pearl has visited York, Juanita has visited Parma",Nancy didn't visit Alamosa,5
+"Nellie has visited Warner Robins, Pamela has visited Saint Johnsbury, Tamara has visited Fayetteville, Helen has visited Canton, Courtney has visited Carbondale",Helen didn't visit Concord,5
+"Marcia is the person that has visited everyone, Marcia has visited Carrie",Carrie didn't visit Iris,3
+"Alicia is as tall as Annette , Annette is as tall as Constance , Constance is as tall as Barbara , Barbara is as tall as Leona , Leona is as tall as Sara , Sara is taller than Ethel",Ethel is taller than Alicia,1
+Everyone has visited every person,Yolanda didn't visit Corona,2
+"Viola has visited Jacksonville, Kingston, Cheyenne, Paris, Seaside, Campbellsville, Gulfport, Las Vegas, Jackson and West Bend",Priscilla didn't visit Paris,0
+"June is taller than Harriet , Harriet is taller than Samantha , Samantha is taller than Kristy , Kristy is taller than Katie , Katie is taller than Christina",Katie is taller than Samantha,1
+"Evelyn is taller than Jacqueline, Lisa, Michele, Madeline, Carolyn, Tara, Sarah, Olga and Opal , Evelyn is as tall as Edith",Tara is taller than Edith,1
+"Erika has visited Erica, Erika is the person that has visited every place",Erica didn't visit Burlington,3
+"Lynn is taller than Dana, Michele, Tonya, Stacy, Ada and Leslie , Lynn is as tall as Dawn",Dawn is taller than Stacy,1
+"Josephine has visited Kristine, Josephine is the person that has visited everyone",Josephine didn't visit Sandra,3
+"Margaret is as tall as Donna , Donna is as tall as Lois , Lois is as tall as Lillie , Lillie is as tall as Bertha , Bertha is as tall as Gwendolyn , Gwendolyn is as tall as Amelia , Amelia is as tall as Hattie , Hattie is as tall as Tamara , Tamara is as tall as Louise , Louise is as tall as Colleen , Colleen is taller than Blanche",Lois is taller than Blanche,1
+"Eleanor has visited Hinton, Shelly has visited Americus, Paula has visited Goldsboro",Paula didn't visit Hope,5
+"Brenda, Maureen, Marguerite, Mildred, Sandra, Kristy, Dolores, Peggy, Connie, Molly, Lynda, Vera and Deborah have visited New Haven",Molly didn't visit Jackson,0
+Monica has visited only twelve people,"Monica has visited Cathy, Andrea, Margie, Samantha, Dolores, Candice, Gladys, Antoinette, Erika, Emily, Claudia, Ellen and Charlene",4
+Lois has visited only nineteen places and only four people,"Lois has visited Worthington, East Cleveland, Telluride, Homestead, Newark, Whittier, Yellow Springs, Harrodsburg, Crystal City, Forrest City, Geneva, Evansville, Spearfish, Romney, Carlinville, Winona, Marlborough, Oak Park, Kinston and Middletown",4
+"Rosa has visited Bedford, Alice has visited Mamaroneck, Claudia has visited Buena Park",Alice didn't visit Mamaroneck,5
+"Jeanette has visited Gina, Jeanette is the person that has visited every place",Gina didn't visit Central City,3
+"Nora has visited Fillmore, Dallas, Greenville, Merced, Sausalito, Casa Grande and Lima",Nora didn't visit Ely,0
+"Lillian is as tall as Courtney , Courtney is as tall as Gloria , Gloria is as tall as Molly , Molly is as tall as Lillie , Lillie is as tall as Yolanda , Yolanda is as tall as Melissa , Melissa is as tall as Bonnie , Bonnie is as tall as Virginia , Virginia is as tall as Kayla , Kayla is as tall as Ana , Ana is taller than Susie",Susie is taller than Lillian,1
+"Everyone has visited Pass Christian, Dubuque, Simsbury, Boca Raton, Wilkes-Barre, Bronx, Texas City, Arkansas, Hagerstown, Youngstown, Utica, Seattle and Eugene",Kathryn didn't visit Wilkes-Barre,2
+Kay has visited only fifteen places,"Kay has visited Sonoma, Harrison, Orange, Oskaloosa, Litchfield, Lebanon, Tiffin, Bourne, Aberdeen, Harlan, Tempe, White Sulphur Springs, Barbourville, Weatherford, Cranford and Saratoga Springs",4
+"Judy has visited Carrie, Carrie is the person that has visited everyone",Carrie didn't visit Roberta,3
+"Bessie has visited Fairhaven, Kristen has visited Shawneetown, Carol has visited Rapid City, Nicole has visited Grayling, Lindsey has visited Bismarck, Verna has visited New Albany, Audrey has visited Nanticoke, Charlene has visited Newport, Denise has visited Alexandria",Carol didn't visit Rapid City,5
+"Jessica has visited Johnson City, Sally has visited Hinton, Mabel has visited Haines, Thelma has visited Fernandina Beach, Sara has visited High Point, Alison has visited Lake Wales, Kelly has visited North Adams, Yvette has visited Roselle",Jessica didn't visit New Ulm,5
+Lillian has visited East Greenwich and Nebraska City,Anne didn't visit Nebraska City,0
+Laura has visited only two people,Laura has visited Bobbie,4
+Everyone has visited every person and every place,Geneva didn't visit Amherst,2
+Yvonne and Kristine have visited Glen Ellyn,Yvonne didn't visit Glen Ellyn,0
+"Pauline has visited Batesville, Kay has visited Warwick, Claire has visited Newburgh, Eunice has visited Bronx, Amy has visited Romney, Samantha has visited Windsor Locks, Sherri has visited Fort Kent, Cynthia has visited Moore, Kimberly has visited Arkansas, Becky has visited Bowling Green, Michele has visited Fergus Falls",Michele didn't visit Fergus Falls,5
+Olivia has visited only twenty-five places and only twenty-five people,"Olivia has visited Joy, Erin, Anita, Roberta, Lynn, Alma, Christina, Barbara, Penny, Violet, Cheryl, Susan, Jamie, Kristen, Lorraine, Jessie, Geneva, Sabrina, Jeanne, Helen, Cynthia, Kristi, Ella, Tiffany, Lindsay and Jacqueline",4
+"Monica is taller than Stacy , Stacy is taller than Felicia , Felicia is taller than Julie , Julie is taller than Allison , Allison is taller than Vickie , Vickie is taller than Cassandra , Cassandra is taller than Sabrina , Sabrina is taller than Barbara , Barbara is taller than Luz , Luz is taller than Stephanie",Vickie is taller than Felicia,1
+"Inez has visited Grace, Grace is the person that has visited every place",Inez didn't visit Bluefield,3
+"Marian has visited Richmond, Frances has visited Morristown, Erika has visited Central City, Sandra has visited Cookeville, Kathleen has visited Las Cruces, Jessica has visited Glendale, Cecilia has visited Nogales, Annette has visited Brookfield, Deanna has visited DeKalb",Sandra didn't visit Cookeville,5
+"Beulah is as tall as Amber , Amber is as tall as Gwendolyn , Gwendolyn is as tall as Lindsey , Lindsey is as tall as Carolyn , Carolyn is as tall as Julie , Julie is as tall as Kay , Kay is as tall as Daisy , Daisy is as tall as Laurie , Laurie is taller than Rebecca",Rebecca is taller than Amber,1
+"Claudia, Miriam, Lee, Irma, Alice, Holly, Gwendolyn, Kim, Bobbie, Melanie, Billie and Kristina have visited Annapolis",Gwendolyn didn't visit Annapolis,0
+Everyone has visited every person and every place,Edna didn't visit Portsmouth,2
+Terry has visited only twenty-one places,"Terry has visited Middletown, Dearborn, North Hempstead, Stockbridge, Auburn, Peshtigo, Logan, Titusville and Paducah",4
+"Charlene is taller than Sally, Annie, Laura, Lynn, Lindsay, Harriet and Ella , Charlene is as tall as Priscilla",Priscilla is taller than Lindsay,1
+"Violet is taller than Blanche, Lena, Monique, Holly, Sherry, Leslie and Emily , Jenny is as tall as Violet",Holly is taller than Jenny,1
+Everyone has visited every person,Tracey didn't visit Shiprock,2
+"Tonya has visited Central City, Saco, Fredericksburg, Garden City, Webster City, Gulfport, Cincinnati, Kingston, Nappanee, Canton, Groton, International Falls, Greenville, Corvallis, Gunnison and Carthage",Tonya didn't visit Carthage,0
+"Lena has visited Madison, June has visited Lexington, Helen has visited West Seneca, Loretta has visited Texas City",Lena didn't visit Towson,5
+"Debra has visited Hopkinsville, Janice has visited McKinney, Joan has visited Boys Town, Melinda has visited Newark, Misty has visited Appleton, Marian has visited Cambridge, Melissa has visited Alexander City, Beverly has visited Abilene, Sylvia has visited Litchfield, Geraldine has visited Newport",Misty didn't visit Estes Park,5
+"Marlene, Wanda, Carole, Amelia, Clara and Brittany have visited New Castle",Melody didn't visit New Castle,0
+"Jeanette has visited Hope, Tanya has visited Chester, Jenny has visited Interlochen, Carol has visited Bluefield, Suzanne has visited Douglas, Tina has visited Kalispell",Carol didn't visit Telluride,5
+"Everyone has visited Fort Lee, Deming, Santa Fe, Talladega, Middletown, Durham, East Orange, Barstow, Belle Fourche, Fairhaven, Lebanon, Charlestown and Natchitoches",Inez didn't visit Barstow,2
+Everyone has visited every place,Lynda didn't visit Stacy,2
+Everyone has visited every place,Thelma didn't visit Virden,2
+Everyone has visited every person,Charlotte didn't visit Cecilia,2
+Everyone has visited every place,Andrea didn't visit Lydia,2
+"Nicole is as tall as Candace , Candace is as tall as Catherine , Catherine is as tall as Julie , Julie is as tall as Gertrude , Gertrude is as tall as Laura , Laura is as tall as Louise , Louise is as tall as Olivia , Olivia is taller than Lillian",Catherine is taller than Lillian,1
+"Ashley is taller than Carmen , Carmen is taller than Kristine , Kristine is taller than Ramona , Ramona is taller than Michelle , Michelle is taller than Kristen , Kristen is taller than Janie , Janie is taller than Guadalupe , Guadalupe is taller than Alma , Alma is taller than Yvonne , Yvonne is taller than Pauline",Yvonne is taller than Ramona,1
+"Georgia has visited Bordentown, New Rochelle, California, Fort Valley, Cape Girardeau, Vinita, Weston, Goldfield, Richmond, Wauwatosa, Grenada, Oregon City, Bath, Nome, Neosho, Natchitoches, Buffalo and Manchester",Georgia didn't visit Kaneohe,0
+Everyone has visited every person,Pauline didn't visit Interlochen,2
+"Louise is the person that has visited everyone, Louise has visited Lula",Louise didn't visit Andrea,3
+"Ruby is the person that has visited everyone, Marian has visited Ruby",Ruby didn't visit Hilda,3
+"Rebecca is the person that has visited every place, Rebecca has visited Kathryn",Rebecca didn't visit Nanticoke,3
+"Everyone has visited Petersburg, Bordentown, Garland, Salem, Spring Green, Catonsville, Tuscaloosa, Bozeman, Saint Joseph, McCook, Conway, Elkton, Texarkana, Americus, Bloomfield Hills and Westport",Crystal didn't visit Tuscaloosa,2
+Everyone has visited every place,Dorothy didn't visit Truth or Consequences,2
+"Sheryl, Margie and Colleen have visited Priest River",Sheryl didn't visit Priest River,0
+Everyone has visited every person and every place,Becky didn't visit Sonya,2
+Terri and Kristen have visited Gallipolis,Samantha didn't visit Gallipolis,0
+"Mary is as tall as Olivia , Olivia is as tall as Kristi , Kristi is as tall as Mildred , Mildred is as tall as Amber , Amber is as tall as Samantha , Samantha is as tall as Colleen , Colleen is as tall as Leah , Leah is as tall as Jeanne , Jeanne is as tall as Doris , Doris is as tall as Candice , Candice is taller than Wendy",Wendy is taller than Amber,1
+"Grace is the person that has visited everyone, Esther has visited Grace",Grace didn't visit Lola,3
+Maxine has visited only eighteen people,"Maxine has visited Vanessa, Christine, Harriet, Tammy, Margaret, Katherine, Ida, Karen, Dolores, Blanche, Elaine, Jodi, Danielle, Bonnie, Jeanette, Holly, Sue, Marguerite and Molly",4
+"Judith has visited Medford, Rose has visited Acoma",Judith didn't visit Elk City,5
+"Irene has visited Kathryn, Irene is the person that has visited every place",Irene didn't visit Downey,3
+"Marie has visited Goldsboro, Bogalusa and Pennsylvania",Marie didn't visit Bogalusa,0
+"Shelly has visited Johnstown, Eleanor has visited Lakeland, Katie has visited Florida, Glenda has visited Falmouth, Donna has visited Newberg, Connie has visited Dearborn, Bobbie has visited Maine, Irene has visited Panama City, Kathryn has visited College Park",Glenda didn't visit Falmouth,5
+"Maria is taller than Mildred , Mildred is taller than Lula , Lula is taller than Naomi , Naomi is taller than Ruby , Ruby is taller than Joy , Joy is taller than Joanne",Joy is taller than Joanne,1
+Cassandra has visited only thirty places,"Cassandra has visited Fremont, Clifton, Niagara Falls, Lisle, Cambridge, North Haven, New Orleans, Johnstown, Berea, Maine, Bogalusa, Boulder City, Englewood, Lafayette, Alexandria, Philadelphia, Tamaqua, Tucson, Uniontown, Minnesota, West Lafayette, Salem, Wilmington, Belmont, Coronado, Stony Point, Rockland, Macomb, York, Tupelo and New York City",4
+"Beulah is taller than Donna , Donna is taller than Priscilla , Priscilla is taller than Ella , Ella is taller than Jeanne , Jeanne is taller than Beth , Beth is taller than Antoinette , Antoinette is taller than Megan , Megan is taller than Audrey",Audrey is taller than Antoinette,1
+"Claire is taller than Marlene , Marlene is taller than Billie , Billie is taller than Wilma , Wilma is taller than Nellie , Nellie is taller than Beverly , Beverly is taller than Daisy",Nellie is taller than Billie,1
+"Anne has visited Mary, Mary is the person that has visited everyone",Mary didn't visit Dana,3
+Everyone has visited every place,Bertha didn't visit Helen,2
+"Rosa, Lula, Ellen, Lola, Amber and Lillian have visited Edmond",Lola didn't visit Parma,0
+"Darlene has visited Columbia, Margaret has visited Orem, Constance has visited Hopkinsville",Margaret didn't visit Kinston,5
+"Mildred, Kristen, Kristina, Wilma, Rosie, Joyce, Delores, Melinda, Susie, Daisy, Renee and Nina have visited Lansing",Wilma didn't visit Lansing,0
+Someone has visited every person and every place,Verna didn't visit Sonia,2
+Kristy has visited only fifteen people,"Kristy has visited Diana, Vicki, Lori, Kathy, Vickie, Christine, Marie, Gertrude, Dawn, Janet, Irma, Bertha, Amy and Denise",4
+"Irene is taller than Amanda, Faye, Linda, Elizabeth, Carole, Sarah, Lori and Marie , Irene is as tall as Ethel",Ethel is taller than Faye,1
+"Juanita is as tall as Dana , Dana is as tall as Arlene , Arlene is as tall as Cheryl , Cheryl is as tall as Rachel , Rachel is as tall as June , June is as tall as Melanie , Melanie is as tall as Vickie , Vickie is as tall as Tina , Tina is as tall as Mattie , Mattie is taller than Tamara",Mattie is taller than Tamara,1
+Everyone has visited every person,Priscilla didn't visit Galveston,2
+"Yvette, Beverly, Roberta and Terri have visited Elmhurst",Terri didn't visit Nebraska,0
+"Tiffany has visited Colorado Springs, Beulah has visited Dickinson, Georgia has visited Prescott, Eva has visited Eagle Pass, Elizabeth has visited Stratford",Tiffany didn't visit Colorado Springs,5
+Dora has visited only fourteen people,"Dora has visited Carrie, Ruth, Marjorie, Elaine, Colleen, Florence, Lindsay, Bertha, Erica and Carmen",4
+"Hazel has visited Danbury, Albany, Richardson, El Centro, Boothbay Harbor and Weymouth",Hazel didn't visit Bellingham,0
+Someone has visited every person and every place,Candice didn't visit Delores,2
+"Belinda has visited Brighton, Jean has visited Welch, Lena has visited Menlo Park, Elsie has visited Harrison, Delores has visited Bemidji, Sherry has visited West Orange, Marsha has visited Canon City, Misty has visited Stillwater, Edith has visited Canton, Jeanne has visited Lander",Lena didn't visit Elkton,5
+"Everyone has visited Devils Lake, Harrodsburg, Belmont, Alexandria, Harwich, Greensboro, Batesville, Hays, Puyallup and Nahant",Diana didn't visit Silver City,2
+Wanda has visited only one place,Wanda has visited Mishawaka,4
+Mildred has visited only twenty places and only eleven people,"Mildred has visited Somerville, Elizabethton, Indianapolis, Tyler, Osceola, Nebraska City, Greenwood, Lexington, Batavia, Idaho City, Steubenville, Scarborough, Hampton, Virginia City, Oakland, Watertown, Blytheville, Great Bend, Honaunau, Mount Pleasant and New Britain",4
+"Terry is the person that has visited everyone, Terry has visited Marguerite",Terry didn't visit Julia,3
+"Cindy is taller than Florence, Cynthia, Stacy, Velma, Marion, Emily, Ethel and Joanna , Cindy is as tall as Norma",Stacy is taller than Norma,1
+"Guadalupe has visited Rita, Guadalupe is the person that has visited every place",Guadalupe didn't visit Dodge City,3
+Connie has visited only twenty-three people,Connie has visited Yvette and Cindy,4
+"Tina is as tall as Susan , Susan is as tall as Debra , Debra is as tall as Andrea , Andrea is as tall as Rachel , Rachel is as tall as Nellie , Nellie is as tall as Daisy , Daisy is as tall as Shannon , Shannon is as tall as Lauren , Lauren is taller than Annette",Rachel is taller than Annette,1
+Barbara has visited only seventeen places,"Barbara has visited Oxford, Wickford, Renton, San Antonio, Jeannette, Amana Colonies, Coeur d’Alene, Tillamook, Dartmouth, Fairfield, Pendleton, Knoxville, Machias, Carmel, Sharon, Campbellsville, Appleton and Twin Falls",4
+"Claire has visited Anaconda, Hilda has visited McKinney, Rhonda has visited Sidney, Betty has visited Boston, Darlene has visited Dixon, Lindsay has visited Greenville, Edna has visited Alexandria, Wanda has visited Sheboygan, Kristina has visited Nevada, Theresa has visited Klamath Falls",Hilda didn't visit McKinney,5
+"Marilyn has visited Hollywood, Saint Louis, West Hartford, Fort Lee, Richmond and West Chester",Olga didn't visit West Chester,0
+"Ann is as tall as Ida , Ida is as tall as Grace , Grace is as tall as Courtney , Courtney is as tall as Eileen , Eileen is as tall as Rachel , Rachel is as tall as Amanda , Amanda is taller than Deborah",Deborah is taller than Ida,1
+"Margaret has visited Annapolis, Erica has visited Palatka, Jan has visited Superior, Jo has visited Walnut Creek",Erica didn't visit Palatka,5
+Carole has visited only three places,"Carole has visited Gillette, Truth or Consequences, Vallejo and Victoria",4
+"Cora has visited Derry, Osawatomie, Plattsmouth, Greeley, Fredonia, Milledgeville, Brigham City, Arthur, Los Angeles and Lake Forest",Cora didn't visit Los Angeles,0
+"Charlotte has visited Easton, Bessie has visited Jeannette, Sonia has visited Newport, Amelia has visited Titusville",Sonia didn't visit Newport,5
+"Alma has visited Claremont, Allison has visited Blytheville, Judith has visited Phoenix, Alicia has visited Fort Morgan, Megan has visited Elko, Elizabeth has visited Mobile, Claudia has visited Arkansas, Jennie has visited Englewood, Harriet has visited East Providence",Claudia didn't visit Arkansas,5
+"Everyone has visited Panguitch, Oak Park, Chesapeake, Newburyport, Central City, Nashville, Bossier City, Portsmouth, Ogdensburg, Myrtle Beach, Warren, Nanticoke, New Albany, Totowa, Kearney and Little Falls",Virginia didn't visit Charlottesville,2
+"Everyone has visited Eufaula, Shawneetown, Hackensack, Daly City, Brookings, Hattiesburg, Sierra Vista, Kennewick, Waukesha, Brunswick, Norris, Coffeyville, Coventry, Vincennes and Goldfield",Geraldine didn't visit Norris,2
+"Vickie is the person that has visited everyone, Vickie has visited Katie",Katie didn't visit Beulah,3
+"Juanita, Robin, Leslie, Sue, Lois, Rebecca, Evelyn, Nicole, Charlene, Madeline, Regina, Beverly and Mary have visited Alliance",Margaret didn't visit Alliance,0
+"Geraldine is the person that has visited everyone, Kristen has visited Geraldine",Kristen didn't visit Gail,3
+Geraldine has visited only seventeen places and only seven people,"Geraldine has visited Lynda, Carrie, Janie, Bertha, Margarita, Jo, Marilyn and Vickie",4
+"Amy has visited Put-in-Bay, Yvonne has visited Lisle, Annette has visited Hollywood, Maureen has visited State College, Lois has visited Fernandina Beach, Sherry has visited Ajo, Lee has visited Columbus, Cassandra has visited Eau Claire, Rosemary has visited Warren, Janie has visited Alamosa, Violet has visited Babylon, Denise has visited Waco",Cassandra didn't visit Eau Claire,5
+Holly has visited only fourteen people,"Holly has visited Jacqueline, Marcia, Jodi, Priscilla, Kristin, Angela, Jeanette, Melissa, Margaret, Janie, Kristi, Juana, Paula, Ruby and Kimberly",4
+"Eva is the person that has visited everyone, Eva has visited Elsie",Elsie didn't visit Felicia,3
+"Tracy has visited Nome, Moline, Torrington, East Point, Belmont, San Leandro, Temple, Newark, Honaunau, Carmel, Mystic, Cheyenne, Sapulpa, Montclair, Sebring and Lexington",Tracy didn't visit Torrington,0
+"Paula is taller than Lindsay, Audrey, Maria, Misty, Blanche, Jean, Toni, Tamara, Crystal and Lucille , Paula is as tall as Samantha",Blanche is taller than Samantha,1
+"Mamie is taller than Jeanne , Jeanne is taller than Cynthia , Cynthia is taller than Brandy , Brandy is taller than Sharon",Jeanne is taller than Brandy,1
+"Debra has visited Yvette, Yvette is the person that has visited every place",Debra didn't visit Catonsville,3
+"Diane, Lindsay, Sherri, Gloria, Kristi, Mattie, Gwendolyn, Elsie, Georgia and Jamie have visited Trenton",Jamie didn't visit Trenton,0
+Judy has visited only six people,"Judy has visited Sonya, Marcia, Alison and Susie",4
+"Anna is taller than Jamie, Penny, Allison and Stacy , Melinda is as tall as Anna",Melinda is taller than Allison,1
+Vivian has visited only twenty-seven people,"Vivian has visited Sally, Alma, Gladys, Michele and Megan",4
+Shelly has visited only nine places,"Shelly has visited San Diego, Farmington, East Hartford, Scranton and Chicago Heights",4
+"Evelyn, Betty, June, Shelly, Kristine, Roberta, Guadalupe, Jennie, Valerie and Frances have visited Neosho",Guadalupe didn't visit Neosho,0
+"Carmen has visited Judy, Carmen is the person that has visited every place",Carmen didn't visit Ithaca,3
+"Ann is the person that has visited everyone, Connie has visited Ann",Connie didn't visit Cassandra,3
+Sylvia has visited only seven people,"Sylvia has visited Lillie, Elaine, Rita, Loretta, Sheryl, Patsy, Doris and Brenda",4
+"Sonya has visited Charleston, Melissa has visited Kodiak, Lori has visited Newton, Stephanie has visited Athens, Leah has visited Tupelo",Leah didn't visit Jacksonville,5
+"Ida is taller than Mattie , Mattie is taller than Edith , Edith is taller than Victoria , Victoria is taller than Janie , Janie is taller than Kristin",Kristin is taller than Janie,1
+Everyone has visited every person and every place,Velma didn't visit Ruth,2
+"Bertha has visited Melissa, Bertha is the person that has visited everyone",Melissa didn't visit Harriet,3
+Kristine has visited only twenty-three places and only six people,"Kristine has visited Ashley, Miriam, Lillian, Donna, Sara, Lindsay and Rosie",4
+"Gertrude, Ethel, Bernice, Kim, Cecilia, Denise, Sonya, Anne, Tiffany, Megan, Jamie, Kelly, Constance, Anna, Lois, Beverly, Florence, Isabel and Donna have visited Calexico",Donna didn't visit Calexico,0
+Everyone has visited every person and every place,Clara didn't visit Dover,2
+"Frances is as tall as Shirley , Shirley is as tall as Deborah , Deborah is as tall as Karen , Karen is as tall as Lynda , Lynda is as tall as Kathleen , Kathleen is as tall as Debra , Debra is as tall as Jennie , Jennie is taller than Susie",Susie is taller than Shirley,1
+"Caroline has visited Ukiah, Cathy has visited Salem, Nancy has visited Belmont, Tammy has visited Clinton, Peggy has visited Memphis, Brandy has visited Lebanon",Nancy didn't visit Belmont,5
+Debra has visited only eighteen places,"Debra has visited Kellogg, Cleveland Heights, Alexandria, Joplin, Battle Creek, Fort Collins, Rogers, Columbia, Valley City, Natchez, El Dorado, Saint Marys City, Riverton, Stony Brook, Bloomfield Hills, Iron Mountain, Rawlins, Fayetteville and Freeport",4
+"Gina is taller than Colleen, Donna, Josephine, Debra and Regina , Gina is as tall as Tracy",Tracy is taller than Donna,1
+Everyone has visited every place,Blanche didn't visit Kathy,2
+"Christy has visited Pauline, Christy is the person that has visited every place",Pauline didn't visit Corydon,3
+"Wilma has visited Erin, Erin is the person that has visited every place",Wilma didn't visit Douglas,3
+Constance has visited only twenty places,"Constance has visited Lewistown, West Bridgewater, Taos, Beverly, Warren, Rye, Meadville, The Village, Beckley, Steamboat Springs, Rockford, Newton, Paris, Lubec, Hillsborough, Bloomfield Hills, Shelton, Logan, Claremore, Royal Oak and Big Spring",4
+"Alicia has visited Las Vegas, Gina has visited Vinita, Robin has visited San Diego",Robin didn't visit San Diego,5
+"Grace, Eileen, Kathleen, Joyce, Gertrude, Samantha, Nora and Donna have visited Georgia",Eileen didn't visit Georgia,0
+"Fannie is as tall as Jennie , Jennie is as tall as Brandi , Brandi is as tall as Felicia , Felicia is as tall as Natasha , Natasha is as tall as Marie , Marie is as tall as Isabel , Isabel is as tall as Lois , Lois is as tall as Mattie , Mattie is as tall as Paula , Paula is as tall as Eileen , Eileen is taller than Julia",Brandi is taller than Julia,1
+"Brittany is as tall as Antoinette , Antoinette is as tall as Michelle , Michelle is as tall as Eunice , Eunice is as tall as Ellen , Ellen is as tall as Harriet , Harriet is taller than Shelly",Michelle is taller than Shelly,1
+Terry has visited only sixteen places,"Terry has visited Southampton, Arizona, Dunkirk, Crown Point, Salisbury, Huntington Beach, Spring Green, Columbia, Cookeville, Red Wing, Jamestown, Perry and Guilford",4
+"Everyone has visited Logan, Myrtle Beach, Fredericksburg, Buffalo, Duncan, Camden, Wyoming, Longview, Hyattsville, Wichita, Cheyenne, Hanover, Searcy, New Bedford, Gulfport, Oroville, Sudbury, Adrian, La Salle and Greenville",Elaine didn't visit Myrtle Beach,2
+"Robin is the person that has visited everyone, Robin has visited Margie",Robin didn't visit Caroline,3
+"Elizabeth has visited Springfield, Greenfield, Ocean City, Fairbanks, Batesville, Cooperstown, Waukegan, Bridgeport, Jacksonville and Augusta",Elizabeth didn't visit Jacksonville,0
+Everyone has visited every person and every place,Katherine didn't visit Sylvia,2
+"Everyone has visited Sturgeon Bay, Watertown, Bridgeton, Amarillo, Waterford, Okmulgee, Forest Hills, Highland Park, Truro, Beaufort, East Providence, Norwalk, Fort Dodge, Norfolk, Queens, Prescott, Coupeville, Norristown, Berlin and Virden",Natalie didn't visit Cahokia,2
+"Beverly has visited Lillie, Beverly is the person that has visited everyone",Lillie didn't visit Jan,3
+"Sandy has visited Clovis, Leah has visited Central Falls, Eunice has visited Newport, Gina has visited Oneonta, Jane has visited Crown Point",Eunice didn't visit Welch,5
+"Catherine has visited West Hartford, Yellow Springs, Amherst and Halifax",Carrie didn't visit West Hartford,0
+"Shelley is as tall as Beth , Beth is as tall as Bessie , Bessie is as tall as Lisa , Lisa is as tall as Kristine , Kristine is as tall as Mamie , Mamie is as tall as Annie , Annie is taller than Jennifer",Mamie is taller than Jennifer,1
+"Mattie is taller than Margarita, Rita, Maxine, Ashley, Ada, Angie, Lauren, Rhonda and Lori , Mattie is as tall as Jeanette",Lauren is taller than Jeanette,1
+"Marcia is taller than Brenda, Natalie, Ruby and Dawn , Marcia is as tall as Jessica",Natalie is taller than Jessica,1
+Heidi has visited only fourteen people,"Heidi has visited Gladys, Tonya, Gwendolyn, Veronica, Amanda, Eva, Olga, Dolores, Susan, Lindsey, Dorothy, Katrina, Marian, Nellie and Lucy",4
+Mildred has visited only twenty-six places and only eleven people,"Mildred has visited Allison, Joy, Nancy, Anna and Iris",4
+"Donna is taller than Marguerite , Marguerite is taller than Charlotte , Charlotte is taller than Annie , Annie is taller than Edith , Edith is taller than Brittany , Brittany is taller than Felicia , Felicia is taller than Emily",Felicia is taller than Annie,1
+"Dana has visited Niagara Falls, Nora has visited Rolla, Madeline has visited McPherson",Dana didn't visit Niagara Falls,5
+"Penny has visited Fairmont, East Hartford, Rumford, Saint Petersburg and Kingston",Penny didn't visit Rumford,0
+Everyone has visited every person and every place,Janet didn't visit Ukiah,2
+"Peggy is as tall as Gladys , Gladys is as tall as Anita , Anita is as tall as Joann , Joann is as tall as Emma , Emma is as tall as Melody , Melody is as tall as Grace , Grace is as tall as Sara , Sara is as tall as Carmen , Carmen is taller than Eva",Eva is taller than Emma,1
+Someone has visited every person and every place,Daisy didn't visit Ilion,2
+Jeanne has visited only five people,Jeanne has visited Tracey and Stacey,4
+"Joyce, Paula, Rhonda, Cheryl, Angela and Brittany have visited Salina",Bessie didn't visit Salina,0
+"Lillie has visited Lima, Van Buren, Williamstown, North Kingstown, Campbellsville, Cordova, Weatherford and Arlington Heights",Louise didn't visit Van Buren,0
+"Glenda, Sonya, Cora, Maria, Natalie, Roberta, Lynda, Lillie, Colleen, Frances, Vivian, Guadalupe, Yvette, Maureen, Ann and Alison have visited Lake City",Sonia didn't visit Lake City,0
+"Eva is the person that has visited every place, Eva has visited Wendy",Wendy didn't visit Pittsburgh,3
+"Melinda has visited Washington, Mamie has visited Auburn, Connie has visited Hays, Brandy has visited Lubec, Isabel has visited Park Ridge, Marjorie has visited Edinburg, Opal has visited Warren, Faye has visited Port Arthur",Brandy didn't visit Sallisaw,5
+"Dora has visited Takoma Park, Bertha has visited Sebring, Bonnie has visited Pharr, Kathleen has visited Catonsville, Courtney has visited Titusville, Anna has visited Bath, Inez has visited Andover, Jackie has visited Hampton, Sandra has visited Glenwood Springs, Beulah has visited Prineville, Belinda has visited Eugene, Annie has visited Ocean City",Belinda didn't visit Medford,5
+Ellen has visited only fifteen places and only seven people,"Ellen has visited Willimantic, Temple, Chautauqua, Abilene, Weston, Southampton, Dover, Kennewick, High Point, Lewistown, Topeka, Hudson, New Hampshire, Portsmouth, Providence and Peabody",4
+"Angie is as tall as Audrey , Audrey is as tall as Marcia , Marcia is as tall as Eva , Eva is as tall as Cheryl , Cheryl is taller than Jackie",Jackie is taller than Audrey,1
+"Everyone has visited Florida, Lake Oswego, Mississippi, Corvallis, Bellevue, Garden City, Highland Park, Mission, Watts, Abingdon, White Plains, New Britain, Elizabeth, Cleveland Heights, Las Vegas, Steubenville, Canton, Garland, Wahpeton and Biddeford",Natalie didn't visit Corvallis,2
+"Naomi has visited Brigham City, Lawrence, Edinburg, Tallahassee, Gary, Walpi, San Pedro, Chelmsford, Dover, Hillsborough, Machias, Farmington and Greenville",Naomi didn't visit Gary,0
+Everyone has visited every person and every place,Gloria didn't visit Stonington,2
+Jill has visited only two places,"Jill has visited Centralia, Tucumcari and Manhattan",4
+"Donna is as tall as April , April is as tall as Ruby , Ruby is as tall as Edith , Edith is as tall as Penny , Penny is as tall as Lynn , Lynn is as tall as Holly , Holly is taller than Jan",Jan is taller than April,1
+Everyone has visited every person and every place,Georgia didn't visit Ramona,2
+"Kristina has visited Valerie, Kristina is the person that has visited every place",Valerie didn't visit Nyack,3
+"Stacy is as tall as Leah , Leah is as tall as Hattie , Hattie is as tall as Monica , Monica is as tall as Joanne , Joanne is as tall as Kristy , Kristy is as tall as Margarita , Margarita is taller than Alice",Stacy is taller than Alice,1
+"Ruby has visited Lufkin, Albuquerque, Park Forest, Rocky Mount, Oakland, Ketchikan, Ocean Springs, Arlington, Bristol, Albert Lea, Moline, Newton, New Kensington, Oceanside, Woodland, Coney Island and Yorba Linda",Ruby didn't visit Eastham,0
+Everyone has visited every person,Theresa didn't visit Bertha,2
+"Emma has visited Grinnell, Susan has visited Philippi, Kristi has visited Wellsburg",Emma didn't visit Grinnell,5
+"Stella, Joy, Clara, Peggy, Rebecca and Eleanor have visited Belmont",Eleanor didn't visit Belmont,0
+"Tina is taller than Yolanda , Yolanda is taller than Kathryn , Kathryn is taller than Olga , Olga is taller than Iris , Iris is taller than Madeline",Madeline is taller than Iris,1
+Ada has visited only twenty-seven places and only twelve people,"Ada has visited Esther, Lori, Valerie, Bertha, Amelia, Lois, Helen, Leah and Holly",4
+"Sherry has visited Gaffney, Emily has visited Columbus, Cheryl has visited Hollywood, Cynthia has visited Providence, Naomi has visited Willmar",Sherry didn't visit Gaffney,5
+"Edith has visited Omaha, Columbia, Rhinelander, Iowa, Calhoun, Minot, Hillsboro, Kankakee, Barre, Victorville, Smith Center, Keokuk, Rhode Island, Norman, Manchester and Powell",Edith didn't visit Plainfield,0
+"Carolyn has visited Morgan City, Salem and Fort Benton",Carolyn didn't visit Fort Benton,0
+"Vicki has visited Kentucky, Ticonderoga, Pendleton, Laconia, Hastings, Barrington, Dalton, Janesville, Leavenworth, Interlochen, Pullman, Watertown, East Lansing, Alpine, Trenton, Nashua, Plymouth, Meridian and Bradenton",Vicki didn't visit Victorville,0
+"Melissa is taller than Crystal, Shirley, Cheryl and Wendy , Martha is as tall as Melissa",Cheryl is taller than Martha,1
+"Loretta has visited Arkansas City, Marguerite has visited Bowie, Hilda has visited Kodiak, Jeanne has visited Summersville, Cathy has visited Arkansas Post, Mabel has visited Thousand Oaks, Marion has visited Harlan, Joy has visited Lewes, Verna has visited Yakima, Tammy has visited Chicopee",Marion didn't visit Harlan,5
+"Carolyn has visited Venice, Virginia City, Longview, Fallon, Dickinson, McAlester, Decatur, Painesville, Hazard, Skokie, Ontario, Madison, Carlisle, Glassboro, Salem and Eau Claire",Carolyn didn't visit Skokie,0
+"Phyllis has visited Edith, Edith is the person that has visited every place",Edith didn't visit Macon,3
+Eva has visited only twenty-one places,"Eva has visited Castine, Bloomsburg, Columbus, Newcastle, Rogers, Hamilton, Bardstown, Aberdeen, Phoenixville, Everett, Minnesota, Glassboro, De Land, Ocean City, Elko, Amana Colonies, Bainbridge, Shreveport, Austin, Monroeville, Elizabethtown and Missoula",4
+"Gertrude is as tall as Yvette , Yvette is as tall as Stephanie , Stephanie is as tall as Terri , Terri is as tall as Lois , Lois is as tall as Felicia , Felicia is taller than Erin",Lois is taller than Erin,1
+"Emily is taller than Marcia, Cindy, Genevieve, Tina, Georgia, Marion, Mary and Lindsay , Virginia is as tall as Emily",Virginia is taller than Genevieve,1
+"Genevieve is taller than Alicia , Alicia is taller than Blanche , Blanche is taller than Leona , Leona is taller than Eunice , Eunice is taller than Mae , Mae is taller than Gertrude , Gertrude is taller than Marlene , Marlene is taller than Emily , Emily is taller than Inez , Inez is taller than Sandra",Leona is taller than Marlene,1
+"Everyone has visited Oconto, Bethlehem, Salem, Pawtucket, Haddonfield, College Park, Orange, Laramie, Hopewell, Libertyville, Columbus, Lewisburg, San Antonio, East Chicago, Columbia, Naugatuck, Vancouver, Lackawanna, La Habra and Newport",Kayla didn't visit Columbus,2
+Everyone has visited every person,Ann didn't visit Logan,2
+"Debbie has visited White Sulphur Springs, Angie has visited Ithaca, Geraldine has visited Sturgis, Jennifer has visited Talladega, Christina has visited Eveleth, Carol has visited Vineland, Mabel has visited Bayonne, Cindy has visited Sandwich, Priscilla has visited New Ulm, Janice has visited Ocean City, Sheila has visited Torrington, Eva has visited Cody",Jennifer didn't visit Talladega,5
+"Alison has visited Jamie, Alison is the person that has visited every place",Jamie didn't visit Bedford,3
+"Everyone has visited Canon City, Hugo, New Glarus, Sunbury, Petoskey, Visalia, Kaskaskia, Medicine Lodge, Medford, Chelsea, Temple, Payson, Wauwatosa, Gallatin, Ponca City and Ripon",Iris didn't visit Hugo,2
+"Rebecca, Crystal, Tina, Deanna, Marguerite, Susie, Elizabeth, Lucy, Opal, Emily, Sharon, Rita and Dana have visited Bath",Dana didn't visit Harlingen,0
+"Catherine has visited Kilgore, Sara has visited Clarksville, Kristina has visited Great Bend",Sara didn't visit Bisbee,5
+"Sherry has visited Rugby, Yvette has visited Pasadena, Josephine has visited Rochester, Alison has visited Harwich, Melody has visited Pauls Valley, Betty has visited Danville",Yvette didn't visit Pasadena,5
+Nora has visited only twenty-four places and only ten people,"Nora has visited Crawfordsville, Clearwater, Phenix City, Eufaula, Winter Haven, Prairie du Chien, Batavia, Chelsea, Corvallis, Fort Lee, York, Paducah and Belen",4
+"Susie is the person that has visited every place, Susie has visited Jeanette",Susie didn't visit La Grande,3
+"Delores has visited Collinsville, New Madrid, White Plains, Morristown, South Saint Paul, Abingdon, Martinez, Eagle Pass, Pekin, Saint Petersburg, Florissant, Shelbyville, Virginia Beach and Barre",Delores didn't visit Eagle Pass,0
+"Karen has visited Parsippany–Troy Hills, Sue has visited Moses Lake, Janice has visited Hillsborough, Vickie has visited Thibodaux, Erica has visited Grants Pass, Jane has visited Joliet, Debra has visited Longview, Elsie has visited Anniston, Arlene has visited Manchester, Phyllis has visited Oneida, Vivian has visited Marion, Dana has visited Charleston",Phyllis didn't visit Oneida,5
+Kristy has visited only twenty-four places and only eight people,Kristy has visited Stonington and Meridian,4
+"Karen has visited Harrison, Lois has visited Springville, Glenda has visited Hudson, Stacey has visited Marblehead, Alicia has visited Abington, Kimberly has visited Danville, Erin has visited Nogales",Lois didn't visit Springville,5
+Everyone has visited every place,Kelly didn't visit Cincinnati,2
+"Deanna has visited Emily, Deanna is the person that has visited everyone",Deanna didn't visit Dora,3
+"Stacy has visited Winslow, Laura has visited New Paltz, Cathy has visited Oyster Bay, Velma has visited Susanville, Maria has visited Lebanon, Jessie has visited Winston-Salem, Kayla has visited Pinehurst, Marian has visited Bryan, Valerie has visited Emporia, Juana has visited Norwalk, Cindy has visited Arkansas",Juana didn't visit Norwalk,5
+"Jill is taller than Shannon , Shannon is taller than Tamara , Tamara is taller than Nancy , Nancy is taller than Judith , Judith is taller than Eva",Nancy is taller than Shannon,1
+"Everyone has visited Alta, Vincennes, Beaufort, East Aurora, Marysville, Waynesboro, Meriden, South Charleston, Kaneohe, Hamden, Lima, Owatonna, Seneca Falls, Fort Wayne, Douglas, East Moline and Ludington",Carla didn't visit Alta,2
+Everyone has visited every person and every place,Mary didn't visit Aberdeen,2
+Everyone has visited every place,Opal didn't visit Joan,2
+"Angie, Kathryn, Tina, Michele, April, Cindy, Arlene, Guadalupe, Amber, Gloria, Lillian, Yvonne, Brandy, Natasha, Roberta and Ruby have visited Artesia",Michele didn't visit Artesia,0
+"Barbara is taller than Sonya , Sonya is taller than Tara , Tara is taller than Mae , Mae is taller than Linda",Mae is taller than Barbara,1
+"Nora has visited Brenda, Nora is the person that has visited every place",Brenda didn't visit Memphis,3
+"Naomi is taller than Marsha , Marsha is taller than Marguerite , Marguerite is taller than Claire , Claire is taller than Deborah , Deborah is taller than Sabrina",Marsha is taller than Naomi,1
+Sherry has visited only nine places and only one people,Sherry has visited Faye and Rhonda,4
+"Josephine is the person that has visited every place, Josephine has visited Flora",Josephine didn't visit Orange,3
+"Nicole is the person that has visited every place, Joann has visited Nicole",Nicole didn't visit Charlotte,3
+Laura has visited only four people,"Laura has visited Kristin, Bernice, Genevieve, Stacey and Janet",4
+"Arlene is taller than Tonya, Priscilla, Pauline, Renee, Jessica, Jeanne, Anita and Amy , Arlene is as tall as Olga",Olga is taller than Renee,1
+"Mary is taller than Constance, Jodi, Stacey, Lucille and Wendy , Mary is as tall as Amanda",Lucille is taller than Amanda,1
+"Kelly is taller than Dianne, Kathleen, Iris, Eunice, Melinda, Katie, Pauline, Marie, Anne and Margarita , Amelia is as tall as Kelly",Melinda is taller than Amelia,1
+Someone has visited every person and every place,Joyce didn't visit Chillicothe,2
+"Renee has visited El Dorado, Kristine has visited Fort Wayne, Cathy has visited Grants Pass, Dolores has visited Ontario, Wendy has visited Garland, Misty has visited Chautauqua, Candace has visited Shaker Heights, Ruby has visited Kenosha, Katherine has visited Redondo Beach",Ruby didn't visit Kenosha,5
+"Jeanne has visited Manhattan, Rita has visited Stockbridge, Jane has visited Amana Colonies",Jeanne didn't visit Manhattan,5
+"Kristy has visited Utica, Eunice has visited Laguna Beach, Megan has visited Honesdale, Diana has visited Saint Louis, Lauren has visited Denver",Kristy didn't visit Utica,5
+Patsy has visited only three places and only one people,Patsy has visited Buckhannon,4
+"Rachel has visited Miles City, Vickie has visited Amana Colonies",Rachel didn't visit Miles City,5
+Everyone has visited every place,Rachel didn't visit Berkeley,2
+"Bobbie has visited Sallisaw, Candace has visited Oregon, Charlotte has visited Arkansas Post",Charlotte didn't visit Lake Charles,5
+"Emma is the person that has visited everyone, Judy has visited Emma",Judy didn't visit Nora,3
+"Elizabeth, Andrea, Patricia, Lindsay, Beth, Catherine, Erika, Megan, Jackie, Alison, Lillian, Wilma, Felicia, Willie and Sheryl have visited Vail",Beth didn't visit Vail,0
+Esther has visited only twenty-five people,"Esther has visited Darlene, Alison, Christy, Patsy, Margie, Jessica, Gina, Dora, Claudia, Nina, Marie, Phyllis, Yvette and Eva",4
+Everyone has visited every place,Maria didn't visit Henderson,2
+"Everyone has visited Tonawanda, Iowa, Swarthmore, Portsmouth, Derry, Euclid, Ocean Springs, Welch, Chickasaw, Southampton and Bogalusa",Lena didn't visit Visalia,2
+"Kelly has visited Sun Valley, Amy has visited Williamson, Stella has visited Champaign, Joann has visited Parkersburg, Ashley has visited Torrington, Brittany has visited Oskaloosa, Kristin has visited Danville",Kelly didn't visit Detroit,5
+"Sonya is as tall as Beth , Beth is as tall as Lori , Lori is as tall as Margaret , Margaret is as tall as Lena , Lena is as tall as Joanne , Joanne is as tall as Stacey , Stacey is as tall as Maureen , Maureen is as tall as Bobbie , Bobbie is as tall as Megan , Megan is taller than Brandi",Stacey is taller than Brandi,1
+"Robin is as tall as Allison , Allison is as tall as Holly , Holly is as tall as Brandi , Brandi is as tall as Constance , Constance is as tall as Glenda , Glenda is as tall as Laura , Laura is as tall as Sharon , Sharon is as tall as Emily , Emily is taller than Sylvia",Sylvia is taller than Constance,1
+"Kristina is the person that has visited everyone, Kristina has visited Kristin",Kristin didn't visit Angie,3
+"Geraldine has visited Walpi, Connie has visited Payson, Jill has visited Anniston, Margaret has visited Kenosha, Laurie has visited Garden Grove, Charlene has visited Eau Claire, Jean has visited Hot Springs, Molly has visited Tampa, Marilyn has visited Abbeville, Deanna has visited Juneau, Sara has visited Cairo",Margaret didn't visit Kenosha,5
+"Irma is the person that has visited every place, Brittany has visited Irma",Brittany didn't visit Port Orford,3
+"Cathy, Nicole, Eunice, Christine, Rita, Annette, Viola, Lorraine, Anita, Elsie, Alma, Rosie, Miriam, Amelia, Lindsay, Yolanda, Gloria and Sharon have visited Hays",Lindsay didn't visit Monett,0
+"Jamie has visited Lebanon, Darlene has visited Opelousas, Inez has visited Sonoma",Darlene didn't visit Opelousas,5
+Amanda has visited only twenty-nine places and only thirteen people,"Amanda has visited Canton, Montana, Homer, York, Nevada, Rockland, Stony Brook, Watertown, Petersburg, Deming, Peoria, Lake Havasu City, Fremont, Kansas City, Winnemucca, Dunkirk, Bogalusa, The Dalles, Helena, Dahlonega, De Land, Hannibal, Pekin, Costa Mesa, Aberdeen, Pacific Grove, New Paltz, North Kingstown, Tyler and Thousand Oaks",4
+"Yolanda has visited White Springs, Carmen has visited Peabody",Carmen didn't visit Peabody,5
+"Pamela is taller than Samantha , Samantha is taller than Caroline , Caroline is taller than Anne , Anne is taller than Bessie",Pamela is taller than Samantha,1
+Cecilia has visited only one place and only one people,Cecilia has visited Farmington and Princeton,4
+"Eileen is taller than Linda , Linda is taller than Charlene , Charlene is taller than Sonya , Sonya is taller than Michelle , Michelle is taller than Denise , Denise is taller than Sheryl , Sheryl is taller than Karen",Denise is taller than Charlene,1
+"Kim has visited Gillette, Pauline has visited Bedford, Mattie has visited Danville, Kimberly has visited Seneca Falls",Mattie didn't visit Danville,5
+"Ida, Maureen, Ruth, Nina, Lorraine, Vicki, Sue, Elsie, Maria, Wilma, Janet and Shelley have visited South Kingstown",Janet didn't visit South Kingstown,0
+"Rebecca has visited West Haven, Ana has visited Irving, Kim has visited Torrington, Maggie has visited Alhambra, Mae has visited Corvallis, Nora has visited Burlington, Misty has visited Edison, Katie has visited Palatine, Mamie has visited Sandwich, Natalie has visited Aurora, Angela has visited Warren",Katie didn't visit Costa Mesa,5
+"Betty has visited Yorba Linda, Caroline has visited Ottawa, Madeline has visited Aspen, Valerie has visited Oceanside, Peggy has visited Millburn, Kristin has visited Arkansas Post, Evelyn has visited Binghamton, Sheila has visited Fairfield, Shelley has visited Dillon",Sheila didn't visit Fairfield,5
+"Jeanne, Anna, Margarita, Elaine, Alicia, Lois, Dianne and Wendy have visited Millburn",Anna didn't visit Millburn,0
+"Lula is the person that has visited every place, Iris has visited Lula",Lula didn't visit Charlevoix,3
+Everyone has visited every place,Laurie didn't visit Lackawanna,2
+"Beulah has visited Deanna, Deanna is the person that has visited every place",Deanna didn't visit Erie,3
+"Rebecca is the person that has visited every place, Crystal has visited Rebecca",Rebecca didn't visit New Jersey,3
+"Sherry is taller than Amanda , Amanda is taller than Carol , Carol is taller than Gladys , Gladys is taller than Vanessa , Vanessa is taller than Janice , Janice is taller than Lucille",Amanda is taller than Sherry,1
+"Isabel is taller than Marlene , Marlene is taller than Melissa , Melissa is taller than Ethel , Ethel is taller than Alison , Alison is taller than Emma , Emma is taller than Minnie , Minnie is taller than Joan , Joan is taller than Terry",Terry is taller than Joan,1
+"Willie is the person that has visited everyone, Willie has visited Christine",Willie didn't visit Ellen,3
+"Charlene is the person that has visited everyone, Anna has visited Charlene",Anna didn't visit Sara,3
+"Debra is taller than Ann , Ann is taller than Candace , Candace is taller than Brenda , Brenda is taller than Jo , Jo is taller than Rita , Rita is taller than Janice , Janice is taller than Lena",Candace is taller than Lena,1
+Minnie has visited only twenty-two places and only seven people,"Minnie has visited South Carolina, Troy, Charlottesville, New Martinsville, Anaconda, Fort Benton, Bound Brook, Alma and Gaffney",4
+Virginia has visited only nineteen places and only sixteen people,"Virginia has visited Sarah, Regina, Linda, Inez, Lula, Kay, Mary, Bessie, Cheryl, Rachel, Lucille, Rosemary, Mabel, Lucy, Dora, Valerie and Carmen",4
+"Alma has visited Columbia, Maryann has visited Streator, Shannon has visited Milbank, Lillie has visited Levittown, Alicia has visited Peekskill, Alice has visited Canyon, Thelma has visited Fort Benton",Alma didn't visit Vancouver,5
+"Penny has visited Hillsborough, Oyster Bay, Nauvoo, Hawaii, Paterson, Worcester, Montpelier, Peabody and Yorba Linda",Penny didn't visit Fond du Lac,0
+"Rebecca is the person that has visited every place, Tammy has visited Rebecca",Rebecca didn't visit Downey,3
+Everyone has visited every place,Debbie didn't visit Hampton,2
+Everyone has visited every person,Lindsey didn't visit Cleveland Heights,2
+"Viola has visited Plainview, Jo has visited Oberlin, Claire has visited Athens, Jessica has visited Denison, Sarah has visited Decatur, Julie has visited Heber City, Carrie has visited Seward, Anita has visited Whittier, Sonia has visited Redlands, Katrina has visited Austin",Carrie didn't visit Seward,5
+"Lori, Melinda, Lucy, Loretta, Jacqueline, Carole, Sonia, Theresa, Maggie, Alicia, Michelle, Vickie and Jill have visited Madison",Carrie didn't visit Madison,0
+Everyone has visited every person and every place,Rebecca didn't visit Peggy,2
+"Leah is the person that has visited everyone, Sherry has visited Leah",Leah didn't visit Brenda,3
+"Stella has visited Ashley, Ashley is the person that has visited everyone",Ashley didn't visit Lori,3
+Everyone has visited every place,Diana didn't visit Lucille,2
+"Flora has visited Laurel, Loretta has visited Norristown, Jeanette has visited Belen, Emma has visited Batesville, Renee has visited Atchison, Carrie has visited Panguitch",Carrie didn't visit Hartsville,5
+Lula has visited only thirteen places and only one people,Lula has visited Melinda and Antoinette,4
+Everyone has visited every person,Molly didn't visit Gwendolyn,2
+"Nina has visited Misty, Misty is the person that has visited every place",Nina didn't visit Janesville,3
+"Everyone has visited Ipswich, Vernal, Thibodaux, Palm Springs, Annapolis, Newburyport, Urbana, Carthage, Ogdensburg, Connecticut, Virginia, Rockford, Middletown, Aiken, New London, Cadillac and Rapid City",Alicia didn't visit Kilgore,2
+"Kristina is taller than Juanita , Juanita is taller than Denise , Denise is taller than Molly , Molly is taller than Yvette , Yvette is taller than Colleen , Colleen is taller than Dana , Dana is taller than Heather",Denise is taller than Yvette,1
+"Christy has visited Shirley, Shirley is the person that has visited everyone",Christy didn't visit Connie,3
+Kristine has visited La Crosse and Queens,Kristine didn't visit White Springs,0
+"Samantha is taller than Minnie , Minnie is taller than Suzanne , Suzanne is taller than Ruth , Ruth is taller than Amber",Amber is taller than Suzanne,1
+"Mildred has visited Barre, Christy has visited Brunswick, Sherri has visited West Plains, April has visited Stroudsburg, Gina has visited International Falls, Ethel has visited Laie, Audrey has visited Jersey City, Allison has visited Batavia, Juanita has visited Groton, Sonia has visited Batesville",Mildred didn't visit Barre,5
+"Sherri has visited Payson, Maureen has visited Lexington",Maureen didn't visit Reedsport,5
+"Dawn, Pauline, Kim, Irene, Natalie, Hazel, Lucy, Jennie, Maryann, Tamara, Charlotte, Mabel, Marsha, Betty and Laurie have visited Goshen",Jennie didn't visit Goshen,0
+Everyone has visited every place,Alice didn't visit Candice,2
+"Tanya has visited Henderson, Margaret has visited Fort Payne, Yolanda has visited Kaneohe, Lillian has visited Bend, Inez has visited Ishpeming, Geraldine has visited Moab",Yolanda didn't visit Kaneohe,5
+"Donna has visited Uvalde, Bisbee, Ojai, Breckenridge, South Saint Paul, Las Vegas, Hershey, Haverhill, Ridgewood, Pottstown, Haines, Indiana, Lakeview, Emporia, Los Alamos and Ozark",Alice didn't visit Uvalde,0
+"Michelle is the person that has visited every place, Suzanne has visited Michelle",Michelle didn't visit East Moline,3
+"Rachel has visited Towson, Ella has visited Ilion",Ella didn't visit Springville,5
+"Yolanda has visited Brunswick, Eva has visited Sandusky, Judy has visited Bloomfield, Caroline has visited Laurel, Bessie has visited Panama City, Leslie has visited Needles, Sylvia has visited Salt Lake City",Yolanda didn't visit San Pedro,5
+Sonia has visited only ten places,"Sonia has visited Portsmouth, Gettysburg, Warm Springs and Westerly",4
+"Louise is as tall as Laurie , Laurie is as tall as Marlene , Marlene is as tall as Laura , Laura is as tall as Ruth , Ruth is as tall as Wanda , Wanda is as tall as Antoinette , Antoinette is taller than Amanda",Amanda is taller than Marlene,1
+"Kristine is the person that has visited every place, Joyce has visited Kristine",Kristine didn't visit Irving,3
+"Tracey is as tall as Felicia , Felicia is as tall as Patsy , Patsy is as tall as Charlene , Charlene is as tall as Martha , Martha is as tall as Mamie , Mamie is as tall as Delores , Delores is as tall as Gloria , Gloria is as tall as April , April is as tall as Ellen , Ellen is taller than Agnes",Agnes is taller than Mamie,1
+Heidi has visited only twenty-five places and only twelve people,"Heidi has visited Calais, New Rochelle, Emporia, Danbury, Mount Vernon, Steubenville, La Grange, Yazoo City, Beverly Hills, Gary, Darien and Ventura",4
+"Paula is taller than Kelly , Kelly is taller than Gail , Gail is taller than Misty , Misty is taller than Tracey , Tracey is taller than Violet , Violet is taller than Julia , Julia is taller than Gertrude , Gertrude is taller than Tracy , Tracy is taller than Tara",Julia is taller than Tara,1
+"Bobbie is taller than Margaret, Courtney, Kimberly, Kristy, Jean, Amy, Sarah and Kelly , Bobbie is as tall as Janie",Janie is taller than Kimberly,1
+"Joann is taller than Constance, Marion, Melody, Antoinette and Dolores , Joann is as tall as Frances",Frances is taller than Antoinette,1
+"Brenda is the person that has visited every place, Brenda has visited Monica",Monica didn't visit Rockford,3
+"Wilma is as tall as Joanne , Joanne is as tall as Paula , Paula is as tall as Dianne , Dianne is as tall as Elsie , Elsie is as tall as Pamela , Pamela is as tall as Emma , Emma is as tall as Erika , Erika is taller than Susie",Susie is taller than Erika,1
+"Joan is taller than Priscilla, Toni, Jackie, Sue, Jeanne and Eva , Julie is as tall as Joan",Julie is taller than Eva,1
+Arlene has visited only twelve places and only one people,"Arlene has visited Reedsport, Sudbury, Stony Brook, Tooele, La Crosse, Pawtucket, Saint Cloud, Searcy, Rocky Mount, Barbourville, Willmar, Faribault and Baton Rouge",4
+Anna has visited only twenty-three people,"Anna has visited Carole, Jo, Caroline, Ada, Amy, Tara, Nancy, Angela, Suzanne, Joan, Jenny, Jamie, Erica, Katie, Emma, Nicole, Kayla, Darlene, Josephine, Megan, Anita, Leslie, Claire and Kristen",4
+"Everyone has visited San Marcos, Huntington, Fort Kent, Boonesborough, Franklin, Worland, Ouray, Glens Falls, Hingham and Sunnyvale",Irene didn't visit San Marcos,2
+Everyone has visited every place,Nellie didn't visit Leslie,2
+Someone has visited every person and every place,Lois didn't visit Shreveport,2
+Everyone has visited every person and every place,Jan didn't visit Homer,2
+Someone has visited every person and every place,Renee didn't visit Cassandra,2
+"Melody has visited Weston, New Windsor, Oceanside, Greeley, Perth Amboy, Cicero, Ashland, North College Hill, Mamaroneck and The Dalles",Kay didn't visit Perth Amboy,0
+"Charlene has visited Salina, Olivia has visited Fitzgerald, Mabel has visited Apalachicola, Joann has visited Alabama, Shelly has visited Mountain View, Helen has visited Panama City, Viola has visited Fort Payne, Anne has visited Coventry, Claudia has visited New Smyrna Beach, Nora has visited Cicero, Marion has visited Fayetteville",Claudia didn't visit New Smyrna Beach,5
+"Dawn is the person that has visited every place, Hazel has visited Dawn",Dawn didn't visit Alaska,3
+"Opal is taller than Kimberly, Ellen, Lorraine and Stella , Sally is as tall as Opal",Sally is taller than Ellen,1
+"Donna has visited Hagerstown, Courtney has visited Sheboygan, Pamela has visited Union, Guadalupe has visited Herrin",Courtney didn't visit Sheboygan,5
+Everyone has visited every person,Helen didn't visit Cohoes,2
+"Delores has visited Kellogg, Kristine has visited Newport, Elaine has visited Clinton, Bertha has visited Gatlinburg, Annette has visited Batavia, Sarah has visited Southington, Holly has visited Palm Bay, Emma has visited Virden",Emma didn't visit Marysville,5
+"Peggy is taller than Lillian, Cindy, Veronica, Sonia, Mary, Elsie, Suzanne, Cora and Roberta , Peggy is as tall as Kathryn",Sonia is taller than Kathryn,1
+Someone has visited every person and every place,Dawn didn't visit Georgia,2
+"Everyone has visited Adrian, Lebanon, Victorville, Vinita, Brighton, Worcester, Hot Springs, Wyoming, Gainesville, Moline, John Day, La Junta, Weymouth, Minneapolis and Jefferson City",Brandy didn't visit Madison,2
+"Opal, Leslie, Ella, Susan, Nellie, Anna, Guadalupe, Diane, Rachel, Kayla, Margarita, Maureen, Tracy, Tara, Molly, Isabel, Angie, Diana, Amber and Nicole have visited Ashtabula",Molly didn't visit Ashtabula,0
+"Lucy has visited Milwaukee, Gwendolyn has visited Oxnard, Patsy has visited Orlando, Lucille has visited Great Barrington, Kimberly has visited Independence, Eva has visited Princeton",Gwendolyn didn't visit Moorhead,5
+Marjorie has visited only twenty-eight places,"Marjorie has visited Kittery, Clinton, Ukiah, Carthage, Point Pleasant, New Smyrna Beach, Joliet, Rocky Mount, Lawton, Grand Island, Wichita, Long Beach, Barstow, Waynesboro, Charleston, Nacogdoches, Alton, Uniontown, Steubenville, Garden City, Dahlonega, Perry, Tamaqua, Marblehead, Ridgewood, Magnolia, Terre Haute, Hanalei and Prescott",4
+Opal has visited only thirteen places,"Opal has visited Anaheim, Elkton, Wichita Falls, Trinidad, Park Forest, Rutland, Chandler, Carlsbad, Manhattan, Passaic, Harwich, Lewiston, Jonesborough and Derby",4
+"Kathy is taller than Annette, Rhonda, Ann, Antoinette, Rosie, Shelley, Inez, Leah and Kay , Kathy is as tall as Sharon",Kay is taller than Sharon,1
+"Arlene is taller than Anita, Lisa, Sara, Samantha and Lindsay , Arlene is as tall as Lucille",Lindsay is taller than Lucille,1
+Jeanne has visited Sainte Genevieve and Bonners Ferry,Jeanne didn't visit Sainte Genevieve,0
+"Cindy has visited Susie, Susie is the person that has visited every place",Cindy didn't visit Price,3
+Dora has visited only twenty-eight places and only four people,Dora has visited Debra and Susie,4
+"Esther has visited Detroit, Jan has visited Jersey City, Judy has visited Canton, Jamie has visited Ocean City, Sylvia has visited Carbondale, Rosie has visited Deming, Maureen has visited DeKalb, Edith has visited Des Moines, Lena has visited Virginia",Esther didn't visit Fort Pierce,5
+"Catherine has visited Stockton, Regina has visited Lakehurst, Yvonne has visited Wilmette, Janet has visited Glens Falls, Geneva has visited Mamaroneck, Anna has visited Artesia, Vanessa has visited Rock Springs, Evelyn has visited Royal Oak, Olga has visited Cheboygan, Lola has visited Blytheville",Regina didn't visit Lakehurst,5
+"Dorothy has visited Maryland, Tammy has visited Ottumwa, Georgia has visited Brookings, Samantha has visited Oberlin, Katherine has visited Lancaster, Colleen has visited Machias, Tracey has visited Claremore, Melinda has visited Norman, Emma has visited Caldwell, Marcia has visited Saint Marys City, Margie has visited Charles City, Lee has visited Longview",Tammy didn't visit Nashua,5
+"Melanie has visited Karen, Karen is the person that has visited every place",Melanie didn't visit San Diego,3
+"Irene is the person that has visited everyone, Irene has visited Veronica",Irene didn't visit Margarita,3
+Jeanne has visited only seven places,Jeanne has visited Jeannette and Santa Ana,4
+Kay has visited only fourteen places and only four people,Kay has visited April,4
+"Irene has visited Reading, Springfield, Lufkin, Jamestown, Connecticut, Wethersfield, New Windsor, Clifton, Ashland, East Moline, Cortez, Rensselaer, Brunswick, Midwest City and Omaha",Irene didn't visit New Windsor,0
+"Candace, Lucy, Rosie, Janet, Rita, Andrea, Joanna, Antoinette, Nancy, Alberta, Naomi, Shelly, June, Catherine, Kathryn, Tanya, Nicole, Caroline, Daisy and Beatrice have visited Whittier",Shannon didn't visit Whittier,0
+Someone has visited every person and every place,Kathy didn't visit Debra,2
+Betty has visited only thirteen places and only four people,"Betty has visited Bainbridge, Martinez, Welch, Bessemer, Norris, Brookings, Fort Valley, Jasper, Levittown, Fort Wayne, Bradenton, Montpelier, Clarksville and Lake City",4
+Everyone has visited every person,Christina didn't visit Sonia,2
+"Lisa is the person that has visited everyone, Lisa has visited Alicia",Lisa didn't visit Sandy,3
+"Pauline has visited The Dalles, Carson City and San Antonio",Louise didn't visit Carson City,0
+Bertha has visited only twenty-five places,"Bertha has visited Northampton, Middletown, Mamaroneck, Corpus Christi, Harlem, Lockport, Kapaa, Roswell, Forrest City, Pullman, Winsted, Ketchikan and Natchitoches",4
+Lula has visited only thirteen places and only two people,"Lula has visited Teresa, Bertha and Louise",4
+"Robin has visited Judith, Judith is the person that has visited every place",Judith didn't visit Winston-Salem,3
+"Miriam has visited Westfield, Joy has visited Homestead, Lori has visited Rotterdam",Miriam didn't visit Westfield,5
+"Everyone has visited Charlotte, Nashville, East Hartford, Oklahoma City, Baton Rouge, Fullerton, Lebanon, South San Francisco, Rutland, Mankato, Amana Colonies, Malden, East Point, Nebraska City, Louisiana, Acoma, Plymouth, New Milford and Clarksburg",Samantha didn't visit Louisiana,2
+"Molly is the person that has visited every place, Molly has visited Ashley",Molly didn't visit Brownsville,3
+Kim has visited only ten people,Kim has visited Harriet,4
+"Natalie has visited Chester, Edna has visited Waynesboro, Faye has visited Bonners Ferry, Ruth has visited Wisconsin, Dorothy has visited Manchester",Faye didn't visit Provincetown,5
+"Emily is taller than Danielle , Danielle is taller than Wanda , Wanda is taller than Vivian , Vivian is taller than Esther , Esther is taller than Olga , Olga is taller than Alicia , Alicia is taller than Jean",Jean is taller than Esther,1
+"Juana has visited Dora, Dora is the person that has visited everyone",Juana didn't visit Kathleen,3
+"Rose is the person that has visited everyone, Rose has visited Ella",Ella didn't visit Stephanie,3
+"Jessica has visited Bryan, Lawrence and Virginia Beach",Jessica didn't visit Adams,0
+"Erika has visited New Mexico, Daisy has visited Painesville, Florence has visited Hammond, Karen has visited Providence, Ann has visited Faribault, Katie has visited Oklahoma City, Lola has visited New Castle, Bessie has visited Fremont, Sheila has visited Pauls Valley, Elizabeth has visited Gloversville, Violet has visited Milledgeville, Jamie has visited Weymouth",Violet didn't visit Milledgeville,5
+"Sarah has visited Julie, Julie is the person that has visited everyone",Sarah didn't visit Kathryn,3
+"Lynda has visited Wausau, Harrodsburg, Roselle, Chelmsford, Huron, Gary, Orange, Silver Spring, Gettysburg, Ames, Pauls Valley, Waukesha, Newport, Keyser, New Castle, Pottsville, Vail, Fredonia and Park Forest",Lynda didn't visit Bath,0
+"Kristina has visited Prichard, Carmen has visited San Jose, Maggie has visited Cheboygan, Ashley has visited Rutland, Carol has visited Louisiana, Debbie has visited Van Buren, Marcia has visited Waukesha",Carol didn't visit Louisiana,5
+"Elsie has visited Belfast, Marion has visited Cohasset, Katie has visited Missoula, Yvette has visited Indiana, Jacqueline has visited Adrian, Jane has visited Faribault, Bessie has visited McAlester, Ella has visited Bellingham",Bessie didn't visit McAlester,5
+"Sara, Jessie, Lynda, Josephine and Susan have visited Hyde Park",Yvette didn't visit Hyde Park,0
+"Leona has visited Bellevue, Arlene has visited Susanville, Lynn has visited Oxnard, Paula has visited Laguna Beach, Claire has visited Columbia, Sheila has visited Boca Raton, Maria has visited Kalamazoo, Shirley has visited Akron",Claire didn't visit Columbia,5
+Everyone has visited every person,Katrina didn't visit Pamela,2
+"Courtney has visited Climax, Marcia has visited El Cerrito, Ruth has visited Caribou, Samantha has visited Goliad, June has visited Hattiesburg, Ada has visited Kansas City, Melissa has visited Red Cloud, Sherri has visited Morgantown",Sherri didn't visit Morgantown,5
+"Madeline has visited Tampa, Anita has visited West Springfield",Madeline didn't visit Fond du Lac,5
+"Carla is the person that has visited everyone, Carla has visited Danielle",Danielle didn't visit Maggie,3
+Violet has visited only twenty-five places,"Violet has visited Rockford, Ontario, Portland, Edison, Green Bay, Morristown, Norwalk, Council Grove, Dalton, Milwaukee, Brookings, Allentown, Fresno, New York, Maryland, Cheyenne, Fort Worth, Marysville, Franklin, Elmira, Chambersburg, Lexington and Calumet City",4
+"Nancy has visited Cheboygan, Covington, Scarsdale, Norton, Wayne, Mobile, Binghamton, Fort Pierce, Los Alamos, Springfield, Alexandria, Maryville, Buffalo, Bristol, Philippi, Fitzgerald, Jacksonville and Carbondale",Marcia didn't visit Bristol,0
+"Janice has visited Sally, Sally is the person that has visited every place",Sally didn't visit Burlington,3
+"Eva, Bonnie, Monique, Myrtle and Antoinette have visited Lebanon",Myrtle didn't visit Lebanon,0
+"Janice is as tall as Helen , Helen is as tall as Arlene , Arlene is as tall as Opal , Opal is as tall as Willie , Willie is as tall as Darlene , Darlene is taller than Antoinette",Janice is taller than Antoinette,1
+Ashley has visited only thirteen places and only three people,"Ashley has visited North Carolina, Red Cloud, San Fernando, Red Bluff, East Hartford, Deming, Jackson, Lakehurst, Marquette, Youngstown, Waukesha, Cranford, Little Rock and Claremont",4
+"Courtney is as tall as Juanita , Juanita is as tall as Hattie , Hattie is as tall as Carla , Carla is as tall as Leah , Leah is as tall as Debra , Debra is as tall as Lisa , Lisa is as tall as Harriet , Harriet is as tall as Alma , Alma is taller than Melinda",Harriet is taller than Melinda,1
+Everyone has visited every person,Laurie didn't visit Roanoke,2
+Vickie has visited only twenty-nine people,"Vickie has visited Tiffany, Julia, Alice, Laurie, Kathy and Brandi",4
+"Norma is the person that has visited every place, Stella has visited Norma",Norma didn't visit Peru,3
+"Katrina has visited Wellesley, Littleton, Brockton, Sharon, Clarksville, Plattsmouth, Saint Marys City, Corinth, Middletown, Kelso, Bakersfield, Provo and Everett",Katrina didn't visit Littleton,0
+"Rhonda has visited Elk City, Eva has visited Uvalde",Rhonda didn't visit Palm Bay,5
+"Ramona has visited Greenville, Michele has visited Inglewood, Emily has visited Hampton, Faye has visited Southington, Janet has visited Trinidad, Renee has visited Honolulu, Connie has visited Irving, Wanda has visited Saginaw, Rachel has visited Mitchell, Misty has visited Haines, Gwendolyn has visited Valdez",Emily didn't visit Gallatin,5
+"Everyone has visited Charleston, Greenville, Beatrice, Great Neck, Rancho Cucamonga, Ysleta, Harpers Ferry, Somerville, Saint Marys City, Hot Springs, Conneaut, Crystal City and Shawnee",Leona didn't visit Beatrice,2
+"Allison has visited Sand Springs, Marcia has visited East Orange, Phyllis has visited Abilene",Phyllis didn't visit Abilene,5
+"Kristine is taller than Shelley , Shelley is taller than Joanna , Joanna is taller than Sally , Sally is taller than Cathy , Cathy is taller than Marie",Marie is taller than Sally,1
+"Dolores has visited Davis, Anne has visited San Simeon, Monica has visited Cripple Creek, Rhonda has visited Sault Sainte Marie, Gertrude has visited Brighton, Judith has visited Quincy",Gertrude didn't visit Saint Joseph,5
+"Ida has visited Gloversville, Marie has visited East Greenwich, Hazel has visited Arcadia, Heather has visited Palo Alto, Erin has visited El Paso, Susie has visited Frankfort, Amy has visited Casa Grande, Connie has visited Tacoma, Flora has visited Oswego, Jeanne has visited Bedford, Velma has visited El Reno",Heather didn't visit Weatherford,5
+Sherri has visited only eight people,Sherri has visited Vickie,4
+"Sheryl has visited Orem, Harriet has visited Hobbs",Sheryl didn't visit Exeter,5
+"Everyone has visited Sharon, Jasper, Lake City, Belfast, Portales, Marion, Berea, Abilene, Redmond and Hollywood",Christina didn't visit Raleigh,2
+"Michele, Pearl, Felicia, Leah, Lauren, Pauline, Eileen, Marsha, Iris, Sherry, Stephanie, Lorraine, Marie, Patsy, Laurie, Olivia, Naomi, Marian and Candace have visited Belen",Olivia didn't visit Belen,0
+Claire has visited only one place and only one people,Claire has visited Shannon and Joan,4
+"Martha is as tall as Amanda , Amanda is as tall as Carolyn , Carolyn is as tall as Ramona , Ramona is as tall as Sharon , Sharon is as tall as Bessie , Bessie is as tall as Lois , Lois is as tall as Marjorie , Marjorie is as tall as Teresa , Teresa is taller than Nora",Nora is taller than Bessie,1
+"Amanda is taller than Minnie , Minnie is taller than Andrea , Andrea is taller than Kathleen , Kathleen is taller than Lucy , Lucy is taller than Becky , Becky is taller than Cecilia , Cecilia is taller than Bessie",Kathleen is taller than Minnie,1
+"Ruby, Rita, Amelia, Mamie, Irene, Dolores and Brittany have visited Seneca Falls",Ruby didn't visit Seneca Falls,0
+"Ella has visited Walpi, Candace has visited Hillsborough, Vivian has visited Lahaina",Ella didn't visit Ephrata,5
+"Yvonne is as tall as Jeanette , Jeanette is as tall as Lynda , Lynda is as tall as Shelley , Shelley is as tall as Christina , Christina is as tall as Elaine , Elaine is as tall as Guadalupe , Guadalupe is as tall as Gloria , Gloria is as tall as Kathryn , Kathryn is taller than Vicki",Vicki is taller than Christina,1
+Marion and Ashley have visited Cocoa-Rockledge,Kathleen didn't visit Cocoa-Rockledge,0
+"Guadalupe has visited Washington, Leona has visited Laramie, Jean has visited Rapid City, Tammy has visited South Bend, Yvonne has visited Texarkana, Dianne has visited Northampton, Mary has visited Norfolk, Brenda has visited Saint Paul, Gertrude has visited Green Bay, Cindy has visited Illinois, Jennifer has visited Menasha",Guadalupe didn't visit Rome,5
+Lindsay has visited only sixteen people,"Lindsay has visited Jessie, Jennifer, Sylvia, Susie and Cecilia",4
+"Gina is taller than Karen, Jackie, Paula and Michele , Gina is as tall as Ruth",Michele is taller than Ruth,1
+"Donna has visited Athens, Marie has visited Allentown, Ruby has visited Prineville, Jodi has visited Saranac Lake, Robin has visited Hartford, Wanda has visited Nahant, Joan has visited Rugby, Jessica has visited Tiffin, Eleanor has visited Mankato",Marie didn't visit Dodge City,5
+June has visited only one place,June has visited San Mateo,4
+"Judy has visited Grayling, Velma has visited Englewood, Ella has visited Cicero, Hilda has visited Bartow, Rita has visited Oklahoma City, Linda has visited Elizabethton, Irma has visited Demopolis, Clara has visited Silverton, Pauline has visited Maysville, Jeanette has visited Great Falls, Claire has visited Aiken, Katie has visited Modesto",Rita didn't visit Oklahoma City,5
+"Angela has visited Tiverton, La Grange, Massena, Ohio, Boys Town, Junction City, Truro, Louisville, Des Moines, Columbus, Decatur, Salem, Weirton, Salina, West Seneca, Hazard and Florissant",Angela didn't visit West Seneca,0
+"Nicole has visited Hialeah, Newport, Gunnison, Tillamook, Hays, Parma, Iron Mountain, Springfield, Clinton, Oregon City, Murray, Spartanburg, Edenton, Harrodsburg, Carbondale, Grants, Calexico, Andalusia and Kirksville",Brandy didn't visit Calexico,0
+"Rhonda is the person that has visited every place, Rhonda has visited Lisa",Lisa didn't visit Simsbury,3
+"Christine has visited Hyattsville, Barbara has visited Hayward, Yvette has visited Dearborn, Janie has visited Logan, Willie has visited Charleston",Barbara didn't visit Hayward,5
+"Julia is taller than Edna , Edna is taller than Jeanette , Jeanette is taller than Anne , Anne is taller than Tanya , Tanya is taller than Jill , Jill is taller than Ada , Ada is taller than Olga",Tanya is taller than Jeanette,1
+"Crystal is the person that has visited every place, Alicia has visited Crystal",Crystal didn't visit Clifton,3
+"Toni has visited Vivian, Vivian is the person that has visited every place",Toni didn't visit Glen Ellyn,3
+"Bertha has visited Geraldine, Bertha is the person that has visited everyone",Geraldine didn't visit Erika,3
+Everyone has visited every place,Gwendolyn didn't visit Pauline,2
+"Olga has visited Easton, Diane has visited Mayfield, Phyllis has visited Burns, Miriam has visited Elgin, Kim has visited Aberdeen, Betty has visited Oneida, Juanita has visited McAllen, Joyce has visited Alliance, Susan has visited Tombstone, Jennie has visited Marysville, Allison has visited Grenada, Yvonne has visited Anderson",Joyce didn't visit Alliance,5
+Emily has visited only two places and only one people,Emily has visited Jacqueline,4
+"Dora has visited Clifton, Jacqueline has visited Saint George, Ellen has visited Mansfield, Arlene has visited Moline, Delores has visited Babylon, Evelyn has visited Morganton, Leslie has visited Cleburne",Delores didn't visit Babylon,5
+Juanita has visited only twenty-five places and only two people,"Juanita has visited Sandusky, Troy, Prescott, Ocean City, Ellsworth, Haines, Concord, Union, The Dalles, Lodi, Charlestown, Fall River, Saco, Watertown, Bridgeport, Nephi, Oshkosh, Gardiner, Clearwater, Tewksbury, Clarksburg, Socorro, Albany, Gainesville, Panguitch and Harrison",4
+Ella has visited only seven places and only seven people,"Ella has visited Buffalo, Deming, Flushing, Watkins Glen and Sturgeon Bay",4
+Anne has visited only ten places,"Anne has visited Franklin, Sandwich, Elizabeth, Lexington, Fontana and Valley City",4
+Sherri has visited only twenty-six people,"Sherri has visited Claudia, Angela, Janie, Kristina, Carla, Harriet, Vivian, Rosemary, Bernice, Bessie, Hazel, Lee, Lula, Kelly, Renee, Cassandra, Teresa, Beth, Shelley, Tammy, Velma, Tiffany, Fannie, Delores, Sara, Georgia and Amy",4
+Sandy has visited only one people,Sandy has visited Olga,4
+"Joanna has visited Kahului, Vera has visited Susanville, Jo has visited Bartow, June has visited Lewiston, Julia has visited Telluride, Margie has visited Newton",Vera didn't visit Susanville,5
+"Stacey has visited Ruby, Ruby is the person that has visited everyone",Stacey didn't visit Olivia,3
+"Caroline is taller than Vanessa, Pamela, April, Elizabeth, Sabrina, Kathleen, Samantha and Marsha , Claudia is as tall as Caroline",Claudia is taller than Samantha,1
+"Everyone has visited Narragansett, Nahant, Arkadelphia, Bay City, Havre, Decatur, Princeton, Athens, Hollywood and Ventura",Helen didn't visit Pueblo,2
+Everyone has visited every place,Brandi didn't visit Cindy,2
+"Crystal is taller than Courtney , Courtney is taller than Cora , Cora is taller than Janice , Janice is taller than Margaret , Margaret is taller than Ella",Ella is taller than Courtney,1
+"Catherine is the person that has visited everyone, Hazel has visited Catherine",Catherine didn't visit Misty,3
+Rachel has visited only twenty-eight places and only ten people,"Rachel has visited Peggy, Carol, Gertrude, Antoinette, Katherine, Vicki, Loretta, Candice, Sonya, Lynn and Gloria",4
+"Anne has visited Novato, Lawton, San Leandro, Shreveport, Saco, Genoa, Florence and Ellsworth",Anne didn't visit Ellsworth,0
+"Mabel has visited Hartford, Eunice has visited Effingham, Mattie has visited Baytown, Viola has visited Morrilton, Marlene has visited Wethersfield, Kristy has visited Pontiac, Ethel has visited Geneva",Ethel didn't visit Pass Christian,5
+Someone has visited every person and every place,Dora didn't visit Evansville,2
+Pearl has visited only thirteen places,"Pearl has visited Honolulu, Missoula, Lewiston, Cohasset, Decatur, Green River, Kahului, College Park, Woonsocket, Franklin, Rocky Mount, Catonsville, Casper and Hobart",4
+Theresa has visited only nine people,"Theresa has visited Margarita, Charlotte, Carmen and Norma",4
+"Everyone has visited Youngstown, Niagara Falls, Galena, Tiffin, Opelika, Huron, Lander, Hawaii, Elk City, Fairhaven, Paducah, Sherman, Burlington and Chadron",Misty didn't visit Lansing,2
+"Christina has visited Florence, Christina is the person that has visited everyone",Florence didn't visit Penny,3
+"Kimberly is the person that has visited every place, Kimberly has visited Marlene",Marlene didn't visit Salisbury,3
+Everyone has visited every place,Sabrina didn't visit Lena,2
+"Luz is the person that has visited every place, Ruth has visited Luz",Luz didn't visit Baltimore,3
+"Lisa has visited Mundelein, Mildred has visited Redlands, Josephine has visited Lakeview, Yvonne has visited San Angelo, Luz has visited Bossier City, Monique has visited Auburn, Cindy has visited Hialeah, Elsie has visited Powell, Martha has visited Sonoma",Cindy didn't visit Hialeah,5
+"Agnes is taller than Brittany , Brittany is taller than Marie , Marie is taller than Tiffany , Tiffany is taller than Madeline , Madeline is taller than Jill , Jill is taller than Maxine , Maxine is taller than Cecilia",Jill is taller than Madeline,1
+"Connie is taller than Florence , Florence is taller than Sabrina , Sabrina is taller than Jane , Jane is taller than Olivia , Olivia is taller than Monique , Monique is taller than Rachel , Rachel is taller than Carolyn",Monique is taller than Florence,1
+Everyone has visited every person,Sherri didn't visit Asheboro,2
+Everyone has visited every person,Catherine didn't visit Melinda,2
+"Virginia is taller than Lola, Rita, Alison, Sara, Geneva, Kim, Lynn, Allison and Lula , Virginia is as tall as Sharon",Lula is taller than Sharon,1
+"Gladys has visited Germantown, Harriet has visited Opelika, Eileen has visited Petaluma, Kristine has visited Saint Joseph, Lynda has visited Menominee, Elsie has visited Hickory, Agnes has visited New Britain, Karen has visited Hobart",Agnes didn't visit New Britain,5
+Alice has visited only twenty-seven places,"Alice has visited Everett, Abington, Albert Lea, Bedford, Longview, Norwalk and Portland",4
+"Anita has visited Emily, Emily is the person that has visited everyone",Anita didn't visit Tammy,3
+"June has visited Lancaster, Chelmsford, Paris, Lakeland, Aberdeen, Pass Christian, Henderson, Pagosa Springs, Sonoma, Cheektowaga, De Land, Ventura, Eufaula, Coupeville, Royal Oak and Red Bluff",June didn't visit Pass Christian,0
+"Billie, Christy, Rose, Margaret, Beatrice, Erika, Jeanne, Jenny, Sue, Yolanda, Brandi, Robin and Marsha have visited West Virginia",Robin didn't visit West Virginia,0
+"Everyone has visited Andover, Gila Bend, Carrollton, New Ulm, Westminster, Suffolk, Titusville, Menlo Park, Kaskaskia, Middlesboro, Union, Fayetteville, Bristol, Anadarko and Lakeland",Annie didn't visit Concord,2
+"Erica, Velma, Beatrice, Nora, Tamara, Rosie, Donna, Janie, Karen, Jodi, Pamela, Vickie and Georgia have visited Baltimore",Jodi didn't visit Baltimore,0
+"Wilma is as tall as Jennie , Jennie is as tall as Loretta , Loretta is as tall as Kristy , Kristy is as tall as Robin , Robin is as tall as Dorothy , Dorothy is as tall as Terri , Terri is as tall as Martha , Martha is taller than Kimberly",Robin is taller than Kimberly,1
+"Glenda has visited Kansas City, Myrtle has visited Lead, Alison has visited Devils Lake",Myrtle didn't visit Kanab,5
+Someone has visited every person and every place,Cheryl didn't visit Dover,2
+Jill has visited only thirteen places and only thirteen people,"Jill has visited Judy, Shelly, Bernice, Courtney, Betty, Mattie, Ruth, Katie, Monique, Jackie, Jessie, Claire, Toni and Emily",4
+"Kristen has visited Atchison, Thelma has visited Pomona, Misty has visited Moses Lake, Theresa has visited Sheboygan, Jacqueline has visited Watertown, Tammy has visited Ypsilanti",Kristen didn't visit Staten Island,5
+"Courtney is taller than Flora , Flora is taller than Debra , Debra is taller than Judy , Judy is taller than Delores",Debra is taller than Delores,1
+Laurie has visited only seven places,"Laurie has visited Fayetteville, Santa Barbara, Madison, Oceanside, Charles Town, Shaker Heights, Red Wing and Aberdeen",4
+Everyone has visited every person,Erin didn't visit Bellingham,2
+"Veronica is taller than Olivia, Shelley, Christine, Luz, Claire, Becky, Natasha, Victoria, Belinda and Joanna , Melinda is as tall as Veronica",Melinda is taller than Olivia,1
+"Luz, Terry, Louise, Stacey, Pauline, Natasha, Nora, Anna, Janie, Anita, Jane, Kristi, Sonia, Lucille, Christina, Connie and Nellie have visited Milford",Natasha didn't visit Milford,0
+Tonya has visited only nine places and only six people,"Tonya has visited Palo Alto, Potsdam, Silver Spring, Middletown, Moorhead, Simi Valley and Stevens Point",4
+"Brandi, Marjorie, Jamie, Christine, Faye, Flora, Eva and Jessie have visited Auburn",Brandi didn't visit Auburn,0
+"Jennifer has visited Mary, Jennifer is the person that has visited everyone",Mary didn't visit Lillie,3
+"Everyone has visited Colorado, Houston, Clovis, Wilson, North Carolina, Huron, Oregon, Daly City, Novato, Deerfield Beach, Palmer, Lafayette, Santa Fe and Rochester",Nora didn't visit Harlan,2
+"Erica is taller than Frances , Frances is taller than Charlene , Charlene is taller than Jean , Jean is taller than Carrie , Carrie is taller than Kayla",Frances is taller than Erica,1
+Rosemary has visited only seventeen places and only thirteen people,"Rosemary has visited Xenia, Louisiana, Kearney, Pawhuska, American Fork, Kingman, New Castle, Arlington, Mattoon, Glassboro, Bayonne, Rugby, Guntersville, Excelsior Springs, Warwick, Pottsville, Glen Ellyn and Marquette",4
+"Jennifer, Eileen, Alma, Delores, Cindy, April, Carolyn, Glenda, Amanda, Nora, Lola, Katrina, Gina, Josephine, Maggie, Joanna, Daisy and Carmen have visited Vernal",Katrina didn't visit Vernal,0
+"Arlene has visited Milford, Tammy has visited Springfield, Joan has visited Sedalia, Constance has visited Custer, Iris has visited New Braunfels, Marie has visited East Aurora, Joy has visited Brainerd, Elizabeth has visited Eastchester, Faye has visited Spearfish, Edith has visited Galveston, Heidi has visited Wyoming",Constance didn't visit Custer,5
+"Judith has visited Joan, Joan is the person that has visited everyone",Judith didn't visit Gwendolyn,3
+"April has visited Frances, Frances is the person that has visited every place",April didn't visit Richardson,3
+Everyone has visited every place,Olivia didn't visit Hoboken,2
+"Cynthia is taller than Allison, Charlene, Laurie, Olga, Marie and Grace , Teresa is as tall as Cynthia",Allison is taller than Teresa,1
+"Kristy has visited Charleston, Dolores has visited El Monte, Christy has visited Roswell, Sherry has visited Grand Rapids, Christine has visited Albany, Diana has visited Bismarck, Cindy has visited Princeton, Gail has visited Palmer",Christy didn't visit Roswell,5
+"Fannie, Nina, Melinda, Audrey, Marjorie, Ruth, Tonya, Lynn, Stephanie, Kristina, Martha, Charlotte, Kayla, Maggie, Shirley, Cynthia, Kim and Marian have visited Lowell",Ruth didn't visit Lowell,0
+"Teresa has visited Columbia, Fargo, Wisconsin, East Hartford, Emporia, Albany, Somerville, North Little Rock, Monticello, Newark, Dennis, West Bend, Huntington, Hoquiam, New Mexico, Crawfordsville, West Memphis, Woodstock, Casa Grande and Cicero",Teresa didn't visit Fredonia,0
+"Misty has visited Bremerton, Wilma has visited Pawhuska, Rhonda has visited Baytown, Alberta has visited Davis, Clara has visited Marion, Lisa has visited Eau Claire",Alberta didn't visit Galesburg,5
+Erica has visited only sixteen places,"Erica has visited Northfield, Sheffield, Kingsport, Goldsboro, Bremerton, Henderson, Pharr, Jeannette, Littleton, Bogalusa, Georgia, Hobart, Plano, Simsbury, Huron, Corona and Utah",4
+"Charlotte has visited Rebecca, Charlotte is the person that has visited every place",Charlotte didn't visit Goldfield,3
+Marsha has visited only twenty-seven places and only fifteen people,"Marsha has visited Plymouth, Mobile, Astoria, Hot Springs, Arlington, Kawaihae, Kaneohe, Bloomfield Hills, Steubenville, Mamaroneck, Amesbury, Mount Holly, Durango, Winter Haven, Garden City, Peru, Jersey City, Walnut Creek, Vermont, McMinnville, Bourne, Saratoga Springs, Buckhannon, Shamokin, Florence, Washington, Van Buren and Ocean City",4
+Susie has visited only ten places,"Susie has visited Greenville, Totowa, Atlantic City, Centralia and Phoenixville",4
+"Jennie has visited Maxine, Jennie is the person that has visited every place",Jennie didn't visit Durango,3
+"Kim is the person that has visited everyone, Kim has visited Bobbie",Bobbie didn't visit Lillie,3
+"Jessie has visited Leslie, Jessie is the person that has visited everyone",Jessie didn't visit Nicole,3
+"Florence has visited Sault Sainte Marie, Charlene has visited Victorville",Charlene didn't visit Victorville,5
+Vickie has visited only twenty-nine places,"Vickie has visited San Mateo, McCook, Saint Joseph, Glens Falls, Bedford, Frankfort, New Glarus, Illinois, Pekin, Santa Monica, Glendive, Torrington, Woodbridge, Livonia, Everett, Fort Smith, Burlington, Arkadelphia, Lenox, Seymour, Clayton, Bath, Jersey City, Delaware, Clearwater, Kodiak, Somersworth, New Britain, Stratford and Amesbury",4
+"Kristen has visited Hutchinson, New Milford, Bloomfield Hills, Lake Placid, Scottsdale, Meadville, Eastport, Sanford, State College, Tiverton, Nags Head, Ossining, Wauwatosa, Barnstable, Powell, Cambridge, Bedford and Douglas",Kristen didn't visit Eastport,0
+Alison has visited only thirty places,"Alison has visited Dedham, Magnolia, Hialeah, Garden City, Bedford, Marlborough, Springfield, Glens Falls, York, Honaunau, Fort Scott, Framingham, Rapid City, Northampton, Rugby, Redlands, Bonners Ferry, Princeton, Bartlesville, Stonington, Winooski, Calais, Amarillo, Connecticut, Columbia, Livonia, Athens, Granite City, Cincinnati, Starkville and Iowa",4
+"Lynda has visited Norma, Lynda is the person that has visited everyone",Norma didn't visit Katherine,3
+Dana has visited only twenty-seven places and only fifteen people,"Dana has visited Joyce, Sonya, Annette, Sharon, April, Gladys, Clara, Gina, Harriet, Michelle, Amber, Regina, Ida and Joan",4
+"Brandi has visited Myrtle Beach, Warren, Beckley, Van Buren, Windham, Torrington, Buffalo, Susanville and Warner Robins",Brandi didn't visit Duxbury,0
+"Allison is as tall as April , April is as tall as Luz , Luz is as tall as Marguerite , Marguerite is as tall as Leah , Leah is as tall as Erica , Erica is as tall as Hazel , Hazel is as tall as Cathy , Cathy is as tall as Margaret , Margaret is as tall as Sheila , Sheila is as tall as Brandy , Brandy is taller than Dora",Dora is taller than Hazel,1
+"Judith is taller than April, Ethel, Carol, Toni and Beatrice , Joyce is as tall as Judith",Joyce is taller than Ethel,1
+"Leah has visited Clinton, Genevieve has visited West Plains, Charlene has visited New Mexico, Doris has visited Huntsville, Charlotte has visited McPherson, Ruth has visited Beaufort, Ida has visited Milbank, Jacqueline has visited Natick, Diane has visited Batavia, Amanda has visited Overland Park",Leah didn't visit Clinton,5
+"Josephine is as tall as Erika , Erika is as tall as Bobbie , Bobbie is as tall as Hattie , Hattie is as tall as Diana , Diana is as tall as Marcia , Marcia is as tall as Terri , Terri is taller than Mildred",Bobbie is taller than Mildred,1
+"Vickie has visited Bryan, Peabody, Princeton, Mankato, Fairfield and Saranac Lake",Vickie didn't visit Coventry,0
+"Suzanne has visited Priest River, Marie has visited Calistoga, Ida has visited Lorain, Rhonda has visited Wyandotte, Sherry has visited Batavia, Dianne has visited Hampton",Sherry didn't visit Hattiesburg,5
+Marion has visited only seventeen places and only twelve people,"Marion has visited Tanya, Betty, Charlene, Megan, Debbie, Josephine, Gail, Candace, Olga, Ella and Sylvia",4
+"Madeline has visited Priscilla, Madeline is the person that has visited everyone",Madeline didn't visit Maggie,3
+Paula has visited only nineteen places,"Paula has visited Cherokee, Beaufort, Deerfield Beach, El Reno, Seattle, Benton, Hays, Detroit, Williston, Bartlesville, Panguitch, Eastham, Somerville, Antioch, New Martinsville, Harmony, Walsenburg, Fort Lauderdale, Florence and Warm Springs",4
+"Geraldine has visited Cheyenne, Lena has visited Huntsville, Anita has visited Duncan, Virginia has visited Lake Forest, Dora has visited Gainesville, Dawn has visited Chicago Heights, Toni has visited Schenectady, Lillian has visited College Station, Lindsay has visited Cushing, Louise has visited Fort Wayne",Lillian didn't visit College Station,5
+Angela has visited only ten places and only four people,"Angela has visited Ypsilanti, Fort Benton, Tuskegee, Bangor, Kaneohe, Greenville, Saint Petersburg and Halifax",4
+"Leslie has visited Kayla, Kayla is the person that has visited every place",Kayla didn't visit Vinita,3
+"Juana is taller than Sheila , Sheila is taller than Edith , Edith is taller than Sharon , Sharon is taller than Jeanne , Jeanne is taller than Megan",Juana is taller than Edith,1
+"Anita, Heidi, Lynda, Hilda, Yolanda, Tara, Miriam, Ramona, Elaine, Heather, Emily, Esther, Lucille, Natasha and Melissa have visited Elkins",Ramona didn't visit Elkins,0
+"Gwendolyn is as tall as Patsy , Patsy is as tall as Iris , Iris is as tall as Sarah , Sarah is as tall as Rhonda , Rhonda is as tall as Natasha , Natasha is as tall as Nora , Nora is as tall as Louise , Louise is as tall as Viola , Viola is as tall as Carla , Carla is as tall as Kristina , Kristina is taller than Susie",Susie is taller than Natasha,1
+"Cathy has visited Florissant, Robin has visited Allentown, Penny has visited Castine, Danielle has visited Jasper, Patricia has visited Caldwell, Lola has visited Chicago",Robin didn't visit Clarksdale,5
+"Toni has visited Wilmette, Jessie has visited Shaker Heights, Vera has visited Lorain, Margaret has visited Los Angeles, Eleanor has visited Rockville, Kristine has visited Climax, Angela has visited Kawaihae, Cecilia has visited Leominster, Jo has visited Wahpeton, Connie has visited Pensacola, Violet has visited Santa Clarita",Kristine didn't visit Independence,5
+"Everyone has visited Lebanon, Vermont, Concord, Newburgh, Sweetwater, Mobridge, Douglas, Plattsburgh, Fergus Falls, Southampton, Dickinson, North Carolina, Centralia, Rock Hill, Pullman, Seward, Worland and Globe",Christine didn't visit Lake Geneva,2
+"Carrie is the person that has visited every place, Carrie has visited Catherine",Catherine didn't visit Groton,3
+"Brandy is taller than Vicki , Vicki is taller than Paula , Paula is taller than Luz , Luz is taller than Pearl , Pearl is taller than Melanie , Melanie is taller than Eileen",Pearl is taller than Luz,1
+"Teresa has visited Ocean City, Annette has visited Martinsville, Sheryl has visited Barbourville, Sylvia has visited Berkeley, Shirley has visited Athens, Alison has visited Alcoa, Lydia has visited New Harmony, Tanya has visited North Little Rock, Carol has visited Morristown",Annette didn't visit Martinsville,5
+"Amy is the person that has visited everyone, Amy has visited Diane",Amy didn't visit Julie,3
+Someone has visited every person and every place,Anita didn't visit Wanda,2
+"Esther has visited Orange, Grace has visited Michigan City, April has visited Ephrata, Olivia has visited Morristown",April didn't visit Hershey,5
+"Melody has visited Nogales, Springfield, Southampton, Trinidad, Clarksville, Calhoun, Carthage, Great Bend, San Marcos, Centralia, Laguna Beach, Leavenworth and Elkhart",Laura didn't visit Elkhart,0
+"Verna has visited Lockport, Redlands, Clinton, San Luis Obispo, Shepherdstown, Mount Vernon, Edinburg and Red Wing",Verna didn't visit Clinton,0
+Nina has visited only fifteen places and only ten people,"Nina has visited San Francisco, New Castle, Eau Claire, Oregon City, Susanville, Superior, Gulfport, Mississippi and Bethany",4
+Lois has visited only twenty-nine places,"Lois has visited Tempe, Santa Rosa, Middletown, East Orange, Oak Harbor, Wheaton, Gunnison, New Castle, Gretna, Laredo, Illinois, South Saint Paul, Plymouth, Moscow, Lake Wales, New Ulm, Mishawaka, Chadron, Fairfield, Des Moines, Arizona, Clinton, Opelousas, Port Lavaca, Gallup, Randolph, Claremont, Wethersfield, Minot and West Haven",4
+"Sabrina is as tall as Juana , Juana is as tall as Katrina , Katrina is as tall as Kim , Kim is as tall as Lynn , Lynn is as tall as Mattie , Mattie is taller than Rose",Rose is taller than Kim,1
+Ethel has visited only twenty-four people,"Ethel has visited Bertha, Diana, Lucy, Sarah, Diane, Carla, Rosie, Kimberly, Suzanne, Jessica, Luz, Leslie, Viola, Carmen, Rhonda, Brandy, Guadalupe, Janie, Jan, Katie, Ashley, Willie, Heidi, Belinda and Verna",4
+"Everyone has visited Boston, Coos Bay, Webster City, Lexington, Hartsville, Lead, Jacksonville, Schenectady, Wilmington, Seminole and Clinton",Tonya didn't visit Seneca Falls,2
+"Joyce is the person that has visited every place, Joyce has visited Victoria",Victoria didn't visit Bountiful,3
+"Kristi has visited Christina, Christina is the person that has visited everyone",Christina didn't visit Peggy,3
+"Peggy has visited West Haven, Juanita has visited Pullman, Marcia has visited Eureka, Mattie has visited Shiprock, Susan has visited Los Alamos, Beatrice has visited Tempe, Debra has visited Nags Head",Marcia didn't visit Eureka,5
+Someone has visited every person and every place,Pauline didn't visit Georgia,2
+Ethel has visited only six places and only five people,"Ethel has visited Paterson, Charlotte, Tarrytown, South Charleston, Lewistown, New Hampshire and Bristol",4
+"Glenda is taller than Amy , Amy is taller than Amelia , Amelia is taller than Maria , Maria is taller than Gertrude , Gertrude is taller than Alice , Alice is taller than Kristine , Kristine is taller than Faye",Alice is taller than Amy,1
+"Gertrude is as tall as Sherri , Sherri is as tall as Carolyn , Carolyn is as tall as Terri , Terri is as tall as Linda , Linda is as tall as Samantha , Samantha is as tall as Sylvia , Sylvia is as tall as Jean , Jean is as tall as Rebecca , Rebecca is as tall as Sara , Sara is as tall as Laura , Laura is taller than Marion",Linda is taller than Marion,1
+"Brenda has visited Walla Walla, Ida has visited Philippi, Melissa has visited Woodland, Gertrude has visited Nashville, Constance has visited South Dakota, Jan has visited Waimea, Valerie has visited Newton",Jan didn't visit Columbia,5
+Everyone has visited every person,Veronica didn't visit Dora,2
+"Denise has visited Molly, Denise is the person that has visited everyone",Denise didn't visit Belinda,3
+"Karen, Juanita, Katie, Melissa, Ann, Samantha, Alma, Amelia, Judith, Rose, Candace, Margarita, Lola, Ada, Mamie, Eunice, Rebecca, Naomi and Tanya have visited New Harmony",Mamie didn't visit New Harmony,0
+"Olga has visited Nampa, Medicine Lodge, Jacksonville, Ocala, Payson, Piqua and Steamboat Springs",Olga didn't visit River Forest,0
+Everyone has visited every person,Charlotte didn't visit Barbara,2
+"Everyone has visited Priest River, Andalusia, Gallatin, Columbus, Paterson, Mississippi, Kellogg, Arlington, Moscow and Rhinelander",Kay didn't visit Lehi,2
+"Rita is the person that has visited every place, Rita has visited Joanna",Rita didn't visit North Hempstead,3
+"Jacqueline, Emily, Lucille, Lindsey, Shelly, Billie, Charlotte, Nancy, Ashley, Carol, Carla and Phyllis have visited Andersonville",Emily didn't visit Andersonville,0
+"Cheryl is the person that has visited every place, Cheryl has visited Susie",Cheryl didn't visit Revere,3
+"Everyone has visited Parkersburg, New Rochelle, Rochester, Ludlow, Deming, Jacksonville, Ossining, New Castle, Gillette, Cordova, Joplin, Port Orford, Caldwell, Santa Clara and Bristol",Rose didn't visit Bisbee,2
+Someone has visited every person and every place,Jeanne didn't visit Las Vegas,2
+Inez has visited only twenty-one places and only eight people,"Inez has visited Mae, Joan, Rosa, Misty, Miriam and Sally",4
+Everyone has visited every person,Lindsay didn't visit Joann,2
+Ellen has visited only twenty places and only two people,"Ellen has visited Riverside, Hackensack, Douglas, New Rochelle, Moore, Niles and West Chester",4
+"Lorraine is taller than Alice, Beverly, Candice, Sherri, Sylvia, Josephine, Deborah, Violet and Blanche , Lorraine is as tall as Erin",Erin is taller than Alice,1
+"Isabel has visited College Park, El Paso, Seward, Orlando, Middletown, Bay City, Dearborn, Bethesda-Chevy Chase, Chillicothe, San Francisco, Portland, Peshtigo, Portage, Sheridan, Tuskegee and Kilgore",Isabel didn't visit Bay City,0
+Dora has visited only fifteen places,"Dora has visited Greenville, Kittery, New Kensington, Arkansas City, Bountiful, Mandan, Baytown, Parma, Brooklyn, Knoxville, Thermopolis, Charlotte, West Seneca, Stillwater, Pacific Grove and Nags Head",4
+"Esther has visited Diane, Esther is the person that has visited every place",Diane didn't visit Crown Point,3
+"Crystal is as tall as Jeanette , Jeanette is as tall as Miriam , Miriam is as tall as Brandy , Brandy is as tall as Rosemary , Rosemary is as tall as Molly , Molly is as tall as April , April is as tall as Cindy , Cindy is as tall as Jessie , Jessie is taller than Dawn",April is taller than Dawn,1
+"Loretta has visited Mount Vernon, Old Saybrook and Takoma Park",Loretta didn't visit Takoma Park,0
+Everyone has visited every person and every place,Erin didn't visit Las Vegas,2
+"Jill has visited Abbeville, Thibodaux, Hickory, Fremont, New Market, Holly Springs, Franklin and Irving",Jill didn't visit Franklin,0
+"Jeanne, Lucille, Bernice, Michelle, Alison, Ruby, Joann, Isabel, Marie, Louise, Rebecca, Michele, Terri, Lynda, Peggy, Carla, June and Tracey have visited Titusville",Alison didn't visit Bloomington,0
+"Rhonda has visited Window Rock, Sonya has visited Georgia, Olga has visited Fort Pierce, Hattie has visited Gainesville, Terry has visited Fernandina Beach, Sylvia has visited Woburn",Sonya didn't visit Georgia,5
+"Karen, Shelley, Esther, Candace, Tracey, Kimberly, Shelly, Kelly, Dolores, Evelyn, Wilma, Wanda, Brandi, Ella, Ashley, Sally, Kayla, Eunice and Olga have visited Worcester",Sherri didn't visit Worcester,0
+"Sheryl is the person that has visited everyone, Yvonne has visited Sheryl",Sheryl didn't visit Debra,3
+Brenda has visited only one place,Brenda has visited Saint Louis and Weston,4
+Constance has visited only twenty-seven people,"Constance has visited Alison, Carol, Kristi, Josephine, Ashley, Veronica, Tamara, Flora, Dolores, Nora, Lisa, Joan, Sandra, Louise, Tanya, Marjorie, Madeline, Samantha, Geraldine, Marie, Alma, Holly, Patsy, Allison, Mabel and Maxine",4
+Erin has visited only twenty-five places,"Erin has visited New Castle, Sarasota, Milledgeville, Falmouth, Sturbridge and Morrilton",4
+"Deborah has visited Farmington, Kathy has visited Napa, Tammy has visited Idaho Falls, Katherine has visited Monticello, Becky has visited Delray Beach, Cecilia has visited Williamstown, Margarita has visited Conneaut, Jodi has visited Troy",Becky didn't visit Delray Beach,5
+Maureen has visited only twenty-four places,"Maureen has visited Helena, Barre, Lander, Webster City, Concord, Cheektowaga, Albany, Hollywood, Hamilton, Beaumont, Alpine, Port Huron, Jacksonville, Havre, Kewanee, Oberlin, Saint Augustine, Abington, Lebanon, Connersville, Bradenton, San Gabriel, Rockville, Highland Park and Pullman",4
+"Doris is taller than Lillie, Juana, Mary, Mildred, Nellie and Lisa , Virginia is as tall as Doris",Virginia is taller than Mildred,1
+"Jane is taller than Minnie , Minnie is taller than Candace , Candace is taller than Joy , Joy is taller than Lynn , Lynn is taller than Carrie , Carrie is taller than Alison , Alison is taller than Frances , Frances is taller than Bertha",Minnie is taller than Jane,1
+"Joy has visited Scarsdale, Dickinson, Woodbridge, Tarrytown, Concord, Casper, Cicero, San Diego, Vermillion, Kenosha, Petaluma, New Paltz, Liberal and Rapid City",Joy didn't visit Vermillion,0
+"Gwendolyn is taller than Pauline, Rachel, Fannie, Juanita, Jamie, Delores and Iris , Carla is as tall as Gwendolyn",Carla is taller than Juanita,1
+"Mamie has visited Brunswick, Pryor, Los Alamos, Lakeview, Chickasaw, Grand Haven, Middlesboro, Morgan City, Oraibi, Woburn, Zanesville, Saugus, Defiance, Poughkeepsie, Bountiful and Monterey",Sandy didn't visit Monterey,0
+Dianne has visited only nineteen places,"Dianne has visited Chillicothe, Smith Center, Hillsboro, Reno, Grand Forks, Alexandria, Fallon, Goshen, Kansas City, Petersburg, Ely, Stockton, Kansas, Monticello, Concord, Oklahoma, Champaign, Englewood, Ajo and Simsbury",4
+"Everyone has visited Winter Park, Ann Arbor, Lakewood, Vincennes, Coronado, Ojai, Andersonville, Logan, Saginaw, San Juan Capistrano and Chadron",Sandra didn't visit Lakewood,2
+"Julie has visited Ontario, Grinnell, Van Buren, Jeannette, Panama City and Crookston",Julie didn't visit Richland,0
+"Charlene is the person that has visited everyone, Charlene has visited Eleanor",Eleanor didn't visit Mary,3
+Everyone has visited every person,Vivian didn't visit Caribou,2
+"Irma is taller than Alberta, Lindsay, Roberta, Maureen, Carole, Marguerite, Laura, Ana and Inez , Mae is as tall as Irma",Maureen is taller than Mae,1
+Candice has visited only twenty-six places,"Candice has visited Oxford, Osawatomie, Brookings, Bedford, Hobart, Florence, Nebraska, Charleston, Lansing, Saint Martinville, Geneva, Manhattan, Gallatin, Bloomfield, Indio, Hanover, Piqua, Cahokia, Fernandina Beach, Clarksburg, Granite City, Cincinnati and Santa Cruz",4
+Everyone has visited every person,Monique didn't visit Maxine,2
+"Beatrice is as tall as Tracy , Tracy is as tall as Shelly , Shelly is as tall as Mabel , Mabel is as tall as Teresa , Teresa is as tall as Rhonda , Rhonda is as tall as Lynda , Lynda is as tall as Madeline , Madeline is as tall as Helen , Helen is as tall as Bessie , Bessie is as tall as Stacy , Stacy is taller than Christy",Lynda is taller than Christy,1
+"Esther has visited Gallatin, Pamela has visited Madison, Geraldine has visited Bayonne, Allison has visited West Bridgewater, Frances has visited West Allis",Pamela didn't visit Henderson,5
+"Ashley has visited Utica, Traverse City, Nyack, Orem, Jeffersonville, Chula Vista, Claremont and Hershey",Ashley didn't visit Hershey,0
+"Jill has visited Nebraska City, Casa Grande, Weston, Pittsburgh, Grand Haven and Edison",Emily didn't visit Weston,0
+Everyone has visited every person,Flora didn't visit Toni,2
+"Claudia has visited San Marino, Louise has visited Centralia, Joann has visited Mayfield, Delores has visited Titusville",Claudia didn't visit The Dalles,5
+Shannon has visited only twelve places and only five people,"Shannon has visited Delray Beach, Stroudsburg and Vandalia",4
+Jackie has visited only twenty-nine places and only twenty people,"Jackie has visited Renee, Rita, Beatrice, Angela, Iris, Jacqueline, Terry, Ann, Wendy, Emily, Melanie, Susan, Pearl, Sara, Julia, Bernice, Janice, Juana, Kelly, Katherine and Annette",4
+"Everyone has visited Albuquerque, Newburyport, South Bend, Vallejo, Mount Holly, Camden, Plattsburgh, Zanesville, Guthrie, South San Francisco, Winsted, Adrian, Vancouver, Norristown, Pagosa Springs, Georgetown, Florence and East Chicago",Marguerite didn't visit Florissant,2
+"Melissa, Nancy, Diana, Jacqueline and Kathy have visited Prescott",Jacqueline didn't visit Prescott,0
+"Leah has visited Weatherford, Dolores has visited Tallahassee, Erin has visited Tuscaloosa, Andrea has visited South Hadley, Marsha has visited Everett, Lisa has visited Augusta, Ashley has visited South San Francisco, Stella has visited New Rochelle, Suzanne has visited Marion, Judy has visited Milford, Monique has visited New York City",Judy didn't visit Corpus Christi,5
+"Tanya has visited Ames, Belen, Hamden, Tucumcari, Caldwell, Panguitch, Maryville, Uniontown, Ocean City, Lufkin, Fort Myers, Belvidere, Grand Haven and The Dalles",Tanya didn't visit Belvidere,0

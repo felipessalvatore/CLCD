@@ -1,0 +1,1001 @@
+sentence1,sentence2,label,label_form
+Everyone has visited every person,Wilma didn't visit Juanita,1,quantifier
+Everyone has visited every person and every place,Becky didn't visit Mesa,1,quantifier
+Everyone has visited every person,Jeanette didn't visit Anne,1,quantifier
+"Everyone has visited Sturgeon Bay, Watertown, Bridgeton, Amarillo, Waterford, Okmulgee, Forest Hills, Highland Park, Truro, Beaufort, East Providence, Norwalk, Fort Dodge, Norfolk, Queens, Prescott, Coupeville, Norristown, Berlin and Virden",Natalie didn't visit Cahokia,0,quantifier
+Someone has visited every person and every place,Kathryn didn't visit Wabash,0,quantifier
+Someone has visited every person and every place,Sara didn't visit Eunice,0,quantifier
+Everyone has visited every person,Tara didn't visit Pamela,1,quantifier
+Everyone has visited every person,Sandy didn't visit Dawn,1,quantifier
+"Everyone has visited Claremore, Norwich, Lower Southampton, Cheyenne, Butte, Elizabethtown, Haines, Whittier, Centralia, Lafayette, Central City, San Luis Obispo, Hempstead, Compton, Clayton, Bristol, Abbeville and Palatka",Rachel didn't visit Compton,1,quantifier
+Everyone has visited every person and every place,Dana didn't visit Boothbay Harbor,1,quantifier
+Everyone has visited every place,Samantha didn't visit Bridgeton,1,quantifier
+Everyone has visited every place,Juana didn't visit Elkhart,1,quantifier
+Everyone has visited every place,Olivia didn't visit Hoboken,1,quantifier
+Everyone has visited every place,Ida didn't visit New Market,1,quantifier
+Everyone has visited every place,Virginia didn't visit Cincinnati,1,quantifier
+Everyone has visited every person and every place,Hazel didn't visit California,1,quantifier
+Everyone has visited every person,Maureen didn't visit Naples,0,quantifier
+Someone has visited every person and every place,Phyllis didn't visit Rotterdam,0,quantifier
+Everyone has visited every person and every place,June didn't visit McAlester,1,quantifier
+"Everyone has visited Chadron, San Francisco, Concord, Brownsville, Smyrna, Norwalk, Enfield, Iron Mountain, Elgin, Hallandale Beach, Pampa, Clinton, East Cleveland and Atlanta",Janet didn't visit Iron Mountain,1,quantifier
+Everyone has visited every place,Flora didn't visit Lincoln,1,quantifier
+Someone has visited every person and every place,Tracy didn't visit Andrea,0,quantifier
+"Everyone has visited Tonawanda, Iowa, Swarthmore, Portsmouth, Derry, Euclid, Ocean Springs, Welch, Chickasaw, Southampton and Bogalusa",Lena didn't visit Visalia,0,quantifier
+Everyone has visited every place,Carrie didn't visit Laurie,0,quantifier
+Everyone has visited every person,Barbara didn't visit Wanda,1,quantifier
+"Everyone has visited Quincy, Cooperstown, Benton Harbor, Ironwood, Moscow, Danville, Kewanee, Bozeman, Annapolis, Beckley, Windsor, New Harmony, Titusville, Athens, Modesto, Stony Brook, The Village and Point Pleasant",Christine didn't visit Medford,0,quantifier
+Someone has visited every person and every place,Stacy didn't visit Whitman,0,quantifier
+"Everyone has visited Minden, Monroe, Canon City, Chambersburg, Santa Rosa, Monterey, Woodward, Guthrie, Holyoke and Lowell",Hattie didn't visit Victorville,0,quantifier
+"Everyone has visited Elmhurst, East Greenwich, Wisconsin, Ansonia, Washington, Muskegon, Parkersburg, Orange, Alexander City, Lockport, Charlevoix, Hinton, Hopewell, Hallandale Beach, Ventura, Lima, Houma, Oak Park and Ellensburg",Andrea didn't visit Selma,0,quantifier
+Everyone has visited every person,Anne didn't visit Caroline,1,quantifier
+Everyone has visited every place,Beverly didn't visit Margaret,0,quantifier
+Someone has visited every person and every place,Daisy didn't visit Ilion,0,quantifier
+"Everyone has visited Boothbay Harbor, Ossining, Chickasha, Lubbock, Bar Harbor, Henderson, Longmont, Fort Walton Beach, Indio, Sandwich, New Castle, Arlington, Auburn, El Paso, Hartsville, Bessemer, Port Gibson, Bremerton and Lancaster",Candace didn't visit Litchfield,0,quantifier
+Everyone has visited every person,Angela didn't visit South San Francisco,0,quantifier
+Someone has visited every person and every place,Cecilia didn't visit Eveleth,0,quantifier
+"Everyone has visited Athens, Waynesboro, Aliquippa, Bainbridge, Blackfoot, East Orange, Lexington, Ludlow, Plymouth, Saint Albans, Utica, San Jose, Tampa, Woodland, Waukesha, Meridian, Gunnison, Effingham and Virginia",Paula didn't visit Lexington,1,quantifier
+Everyone has visited every person,Sheryl didn't visit Corinth,0,quantifier
+Everyone has visited every person,Elsie didn't visit Sonia,1,quantifier
+"Everyone has visited Red Wing, Danvers, Portsmouth, Del Rio, Petaluma, Roselle, Athens, Greenwich, Tiverton, San Luis Obispo, Saint Cloud, Brooklyn, Fort Collins, Springfield, Redlands and Southampton",Alma didn't visit Plattsburgh,0,quantifier
+Everyone has visited every person,Wanda didn't visit Cambridge,0,quantifier
+"Everyone has visited Canon City, Hugo, New Glarus, Sunbury, Petoskey, Visalia, Kaskaskia, Medicine Lodge, Medford, Chelsea, Temple, Payson, Wauwatosa, Gallatin, Ponca City and Ripon",Iris didn't visit Hugo,1,quantifier
+Everyone has visited every person and every place,Amy didn't visit Diana,1,quantifier
+"Everyone has visited Wausau, Glenwood Springs, Amsterdam, Trinidad, Venice, Dover, Hempstead, El Centro, Newport, Blairsville, Berlin, Saint Louis, Idaho City, Oneida, Woonsocket, Pryor, Dennis, Poughkeepsie and Altoona",Evelyn didn't visit Smyrna,0,quantifier
+Everyone has visited every person,Edith didn't visit Alma,1,quantifier
+"Everyone has visited Dearborn, Truth or Consequences, Madison, Hancock, Watertown, Woodland, Huntington, Lexington, Kansas City, New Castle, Manitowoc, Longmont, Bountiful, Winnetka, Boys Town, Texas City, Seward, Bristol, Needles and Murfreesboro",Annette didn't visit Manitowoc,1,quantifier
+Everyone has visited every person and every place,Terry didn't visit Iowa City,1,quantifier
+Everyone has visited every place,Ana didn't visit Virginia Beach,1,quantifier
+Everyone has visited every place,Melanie didn't visit Eunice,0,quantifier
+"Everyone has visited Pasco, Newark, Salinas, Saratoga Springs, Boonville, Sandusky, Auburn, Hobart, Virginia, Fremont, Groton, Douglas, Calais and Akron",Lauren didn't visit Burlington,0,quantifier
+"Everyone has visited Blairsville, Farmington, McCook, Cleveland, Helena, Ann Arbor, East Lansing, Wenatchee, Melbourne, Summersville, Fort Dodge and Gloucester",Doris didn't visit Harlingen,0,quantifier
+"Everyone has visited Millville, New Castle, Moline, Steubenville, Prescott, Cherokee, Huron, Morgantown, Yorba Linda, Alhambra, Beatrice, Salina, Mount Holly, Boulder City, Great Barrington, Valparaiso and Sheffield",Yvonne didn't visit Morgantown,1,quantifier
+Everyone has visited every person and every place,Denise didn't visit Jennie,1,quantifier
+Everyone has visited every person,Darlene didn't visit Edna,1,quantifier
+"Everyone has visited Yankton, Hartford, Simsbury, Benton Harbor, Delray Beach, Fargo, Menominee, Steamboat Springs, El Monte, San Simeon, Pierre, Palmdale, Newton, Crystal City and Meadville",Brenda didn't visit Palmdale,1,quantifier
+"Everyone has visited Grants Pass, Beaumont, Worthington, Salisbury, State College, Ithaca, Paducah, Miami Beach, Pennsylvania, Boston, South San Francisco, Cheyenne, Moscow and Norfolk",Ramona didn't visit White Springs,0,quantifier
+Everyone has visited every person,Sonya didn't visit Freeport,0,quantifier
+Everyone has visited every person,Violet didn't visit Lillian,1,quantifier
+"Everyone has visited Pass Christian, Dubuque, Simsbury, Boca Raton, Wilkes-Barre, Bronx, Texas City, Arkansas, Hagerstown, Youngstown, Utica, Seattle and Eugene",Kathryn didn't visit Wilkes-Barre,1,quantifier
+Everyone has visited every person,Megan didn't visit Princeton,0,quantifier
+Someone has visited every person and every place,Yolanda didn't visit Vickie,0,quantifier
+Everyone has visited every person,Jeanette didn't visit Cheryl,1,quantifier
+"Everyone has visited Marion, Milford, East Greenwich, Wyoming, West Point, Toccoa, Yellow Springs, Auburn, Natick, Los Angeles, Portsmouth, El Paso, Pendleton and Dover",Heather didn't visit Huntington Beach,0,quantifier
+"Everyone has visited La Salle, Grand Forks, East Lansing, Sheffield, Hibbing, Centralia, Wewoka, Monroe, Boothbay Harbor, Thermopolis, East Hampton, Cheyenne, Hodgenville, Macon, Smith Center, Elmira, Oakland, Rexburg and Highland Park",Monique didn't visit Macon,1,quantifier
+"Everyone has visited Guymon, Ashtabula, Albany, Winnemucca, Quincy, Peshtigo, Peoria, Sonoma, Zanesville, Huntsville, Bloomington, Port Orford, Webster, New Madrid and Manassas",Carmen didn't visit Huntsville,1,quantifier
+Everyone has visited every person,Christina didn't visit Sonia,1,quantifier
+"Everyone has visited Bound Brook, Quincy, Bath, Bellows Falls, Ocean City, Ludlow, East Providence, Peru, Holland, Harpers Ferry, Reno, Carlsbad, California, Twin Falls, Wichita Falls, Uvalde and Kapaa",Jill didn't visit Washington,0,quantifier
+"Everyone has visited Lebanon, Vermont, Concord, Newburgh, Sweetwater, Mobridge, Douglas, Plattsburgh, Fergus Falls, Southampton, Dickinson, North Carolina, Centralia, Rock Hill, Pullman, Seward, Worland and Globe",Christine didn't visit Lake Geneva,0,quantifier
+Everyone has visited every place,Carolyn didn't visit Jo,0,quantifier
+Everyone has visited every place,Karen didn't visit Atchison,1,quantifier
+Everyone has visited every person,Rita didn't visit Flora,1,quantifier
+Someone has visited every person and every place,Dora didn't visit Evansville,0,quantifier
+Everyone has visited every person and every place,Beth didn't visit Brittany,1,quantifier
+Everyone has visited every person,Laurie didn't visit Roanoke,0,quantifier
+Everyone has visited every person,Amy didn't visit Montpelier,0,quantifier
+Someone has visited every person and every place,Julia didn't visit Plymouth,0,quantifier
+Everyone has visited every person and every place,Denise didn't visit West Des Moines,1,quantifier
+Someone has visited every person and every place,Kathy didn't visit Debra,0,quantifier
+Someone has visited every person and every place,Iris didn't visit Cora,0,quantifier
+Everyone has visited every place,Heidi didn't visit Annette,0,quantifier
+Someone has visited every person and every place,Holly didn't visit Luz,0,quantifier
+Everyone has visited every person,Cynthia didn't visit Tracey,1,quantifier
+Someone has visited every person and every place,Yvette didn't visit Kimberly,0,quantifier
+Someone has visited every person and every place,Elsie didn't visit Gainesville,0,quantifier
+Everyone has visited every place,Samantha didn't visit Irene,0,quantifier
+Someone has visited every person and every place,Yvonne didn't visit Viola,0,quantifier
+Everyone has visited every person,Alma didn't visit Eileen,1,quantifier
+"Everyone has visited Windsor Locks, Carlsbad, Washington, Williston, Phoenixville, Westminster, Mountain View, Waukegan, Bisbee, Seward and Muskogee",Lauren didn't visit Holdenville,0,quantifier
+"Everyone has visited Houlton, Frankfort, Philippi, Catonsville, Granite City, Columbus, Camden, Lebanon, Tacoma, Beaumont, West Bend and Boston",Claire didn't visit Compton,0,quantifier
+Everyone has visited every person,Rachel didn't visit Renee,1,quantifier
+"Everyone has visited Petersburg, New Kensington, Coeur d’Alene, Longmont, Lancaster, Windsor Locks, Port Hueneme, Grand Island, Valdez, Plattsburgh, Baltimore, Hayward, Ripon, Columbia, Germantown, Baton Rouge, Fitchburg, California and East Moline",Ada didn't visit Richmond,0,quantifier
+Everyone has visited every place,Claudia didn't visit Erika,0,quantifier
+Someone has visited every person and every place,Kelly didn't visit Melinda,0,quantifier
+Everyone has visited every person,Erin didn't visit Bellingham,0,quantifier
+Someone has visited every person and every place,Vickie didn't visit Enterprise,0,quantifier
+Everyone has visited every place,Becky didn't visit Elizabeth City,1,quantifier
+Everyone has visited every place,Elaine didn't visit Mary,0,quantifier
+"Everyone has visited Stockbridge, Lubec, Mesa, Portsmouth, New Castle, Southampton, Pottsville, Fond du Lac, Nampa and Deerfield Beach",Sally didn't visit Pennsylvania,0,quantifier
+Everyone has visited every place,Dora didn't visit Angie,0,quantifier
+Everyone has visited every place,Michele didn't visit Warren,1,quantifier
+Everyone has visited every person and every place,Grace didn't visit Rosemary,1,quantifier
+"Everyone has visited Tuscaloosa, Grafton, South San Francisco, Pittsfield, Ludington, Decatur, Long Branch, Alexander City, Saint Augustine, Lisle, Boonville, Mesquite, Titusville, Anaconda, South Charleston, Hampton, Longview, Wahpeton and Casper",Sharon didn't visit Interlochen,0,quantifier
+"Everyone has visited DeKalb, Middletown, Albuquerque, The Village, Rumford, Long Beach, Twin Falls, Washington, Lakeland, Wilmington, Olathe, Seminole, Kingman, Gila Bend, San Clemente, Sturbridge, Trinidad, Castine, Calais and Waterbury",Carla didn't visit Washington,1,quantifier
+Everyone has visited every person and every place,Edna didn't visit Barbara,1,quantifier
+Everyone has visited every person and every place,Madeline didn't visit Point Pleasant,1,quantifier
+Everyone has visited every place,Helen didn't visit Naomi,0,quantifier
+Everyone has visited every place,Joanne didn't visit Maria,0,quantifier
+Everyone has visited every person,Ellen didn't visit Daisy,1,quantifier
+Everyone has visited every place,Tracey didn't visit Emily,0,quantifier
+Everyone has visited every place,Marilyn didn't visit Vicki,0,quantifier
+Everyone has visited every person,Renee didn't visit Mount Holly,0,quantifier
+"Everyone has visited Highland Park, Olathe, Collinsville, Pasadena, Lake Placid, Weirton, Butte, Kingman, Hillsboro, Lewiston, Jackson, Joplin and Dover",Colleen didn't visit Watts,0,quantifier
+Everyone has visited every person,Ada didn't visit Clinton,0,quantifier
+"Everyone has visited Danville, Canon City, Indio, Rome, Painesville, Morgan City, Estes Park, Wallingford, Orange, Georgia, Marion, Phoenixville, Twin Falls, Wyandotte, Interlochen, Dedham, Auburn, Decatur, Saint Ignace and Douglas",Danielle didn't visit Saint Ignace,1,quantifier
+Everyone has visited every place,Katherine didn't visit Red Wing,1,quantifier
+Everyone has visited every place,Lynda didn't visit Barstow,1,quantifier
+"Everyone has visited Aurora, Ashland, Cripple Creek, Elizabeth City, Coupeville, Salem, Walsenburg, Knoxville, Parsippany–Troy Hills, Lebanon, Dubuque, Nashville, Fairfax, Redding, Prichard, Orange and Ontario",Billie didn't visit Ontario,1,quantifier
+Everyone has visited every place,Jeanne didn't visit Charlotte,0,quantifier
+Everyone has visited every person and every place,Marilyn didn't visit Coeur d’Alene,1,quantifier
+"Everyone has visited Temple, Hillsboro, Long Branch, Abbeville, Cookeville, Babylon, Millburn, Salem, Vallejo, Livingston, Calais, Rumford, Bloomington and Carmel",Rosa didn't visit Calais,1,quantifier
+Everyone has visited every place,Mattie didn't visit Yolanda,0,quantifier
+Someone has visited every person and every place,Rebecca didn't visit Sherry,0,quantifier
+Everyone has visited every place,Cecilia didn't visit Elizabeth,0,quantifier
+Everyone has visited every person and every place,Diana didn't visit Martha,1,quantifier
+"Everyone has visited Newport, Superior, Las Cruces, Indianapolis, Williamstown, Worthington, Boone, Sioux City, Mamaroneck, Tiffin, Denton and Green River",Stacey didn't visit Green River,1,quantifier
+Everyone has visited every place,Diana didn't visit Indiana,1,quantifier
+Everyone has visited every place,Maria didn't visit Henderson,1,quantifier
+"Everyone has visited Andover, Gila Bend, Carrollton, New Ulm, Westminster, Suffolk, Titusville, Menlo Park, Kaskaskia, Middlesboro, Union, Fayetteville, Bristol, Anadarko and Lakeland",Annie didn't visit Concord,0,quantifier
+Someone has visited every person and every place,Ana didn't visit Orlando,0,quantifier
+"Everyone has visited Sault Sainte Marie, Flint, Prescott, Truro, Muncie, Hugo, Puyallup, Marshall, DeKalb, Mountain View, Knoxville and Oxnard",Jennifer didn't visit Logan,0,quantifier
+Everyone has visited every person,Helen didn't visit Cohoes,0,quantifier
+Everyone has visited every person and every place,Grace didn't visit Bobbie,1,quantifier
+"Everyone has visited Goldfield, Odessa, Riverside, De Smet, Ishpeming, Garden Grove, Wilmington, Jonesborough, Monett, Canton, Beverly Hills, Atmore, Pasadena, Ames, Reston, Pasco, Arkansas and Aiken",Peggy didn't visit Clinton,0,quantifier
+Everyone has visited every place,Allison didn't visit Sally,0,quantifier
+Everyone has visited every person,Anita didn't visit Los Angeles,0,quantifier
+Everyone has visited every person,Heidi didn't visit Carmen,1,quantifier
+"Everyone has visited Little Rock, Falmouth, Wausau, Plano, Winter Park, Wethersfield, Harrisburg, Elizabeth City, New York, Brainerd, Franklin, Fergus Falls, San Luis Obispo, Santa Ana and Longview",Marie didn't visit East Hartford,0,quantifier
+Everyone has visited every place,Juana didn't visit Flora,0,quantifier
+"Everyone has visited Guilford, Sheffield, Plainview, Amesbury, Mexico, Bartlesville, New Castle, Vernal, Coronado and Jacksonville",Lorraine didn't visit Bartlesville,1,quantifier
+"Everyone has visited Bedford, Easton, Crown Point, Romney, Alhambra, Willingboro, Grand Junction, Connersville, Blairsville, Wahpeton, Prescott, Oceanside, Bowie and Hilo",Melody didn't visit Pass Christian,0,quantifier
+Everyone has visited every person,Donna didn't visit Laguna Beach,0,quantifier
+Everyone has visited every person,Vicki didn't visit Layton,0,quantifier
+Everyone has visited every person,Mamie didn't visit Olga,1,quantifier
+Everyone has visited every person and every place,Doris didn't visit Laura,1,quantifier
+Everyone has visited every place,Amelia didn't visit Robin,0,quantifier
+Everyone has visited every person,Tanya didn't visit Benton,0,quantifier
+Everyone has visited every person,Charlene didn't visit Janice,1,quantifier
+Someone has visited every person and every place,Helen didn't visit Ashland,0,quantifier
+Everyone has visited every place,Hazel didn't visit Kayla,0,quantifier
+Everyone has visited every person,Theresa didn't visit Bertha,1,quantifier
+Everyone has visited every place,Shirley didn't visit Joanna,0,quantifier
+"Everyone has visited Clarksville, Belleville, Narragansett, Saugus, Arlington, Danbury, Pinehurst, Brownsville, Truro, Morgan City, American Fork and Elizabeth",Ida didn't visit Winnemucca,0,quantifier
+Someone has visited every person and every place,Amanda didn't visit Antoinette,0,quantifier
+Everyone has visited every person and every place,Courtney didn't visit Natasha,1,quantifier
+"Everyone has visited Orlando, Cheektowaga, Redondo Beach, Berlin, Stony Point, Brea, Lansing, Canton, Dixon and Saint Marys City",Tammy didn't visit Dixon,1,quantifier
+"Everyone has visited San Antonio, Medford, Redding, Coney Island, Evanston, Birmingham, Morristown, Mesa, Carlsbad, Pipestone, Forrest City, Mishawaka, Winnemucca, Warren, Athens, Lebanon and Plymouth",Cathy didn't visit Birmingham,1,quantifier
+"Everyone has visited Homer, Douglas, Vincennes, Mishawaka, Nags Head, Warren, North Las Vegas, Frankfort, Woonsocket, Pomona, Cheektowaga, San Jose, Union and North Kingstown",Alma didn't visit Portage,0,quantifier
+Everyone has visited every place,Stella didn't visit Staunton,1,quantifier
+"Everyone has visited Danville, Batesville, American Fork, Bartlesville, Tillamook, Moline, Defiance, Lake Forest, Pine Bluff, Tahlequah, Florence, Springfield, Chelmsford, Spartanburg, Pacific Grove, Altus and Summit",Ethel didn't visit Lombard,0,quantifier
+Everyone has visited every person,Patsy didn't visit Karen,1,quantifier
+Everyone has visited every person,Ethel didn't visit Yvette,1,quantifier
+Everyone has visited every place,Esther didn't visit Orange,1,quantifier
+Everyone has visited every place,Betty didn't visit Claire,0,quantifier
+Everyone has visited every person,Florence didn't visit Smith Center,0,quantifier
+Everyone has visited every person and every place,Georgia didn't visit Ramona,1,quantifier
+Everyone has visited every person and every place,Edna didn't visit Portsmouth,1,quantifier
+Everyone has visited every place,Janet didn't visit Plymouth,1,quantifier
+Everyone has visited every place,Holly didn't visit Ironwood,1,quantifier
+"Everyone has visited Keokuk, San Jose, Bonners Ferry, Provincetown, Ludington, Iowa City, Levittown, McKeesport, New York, Fairhaven, Watkins Glen, Palo Alto and Jamestown",Alison didn't visit Hopewell,0,quantifier
+Everyone has visited every person,Irma didn't visit Brunswick,0,quantifier
+Everyone has visited every person,Lydia didn't visit Maria,1,quantifier
+"Everyone has visited Irvington, Kingston, West Chester, Natick, Adams, Okmulgee, Wyoming, Alexandria, East Liverpool, Saint Paul, Pittsfield, New Britain, Hyde Park and Chelmsford",Colleen didn't visit Beverly Hills,0,quantifier
+Everyone has visited every place,Suzanne didn't visit Leona,0,quantifier
+Someone has visited every person and every place,Iris didn't visit Anna,0,quantifier
+Everyone has visited every person,Jessica didn't visit Brittany,1,quantifier
+Someone has visited every person and every place,Ella didn't visit Jackson,0,quantifier
+Someone has visited every person and every place,Vicki didn't visit Cheryl,0,quantifier
+Someone has visited every person and every place,Kelly didn't visit Kristina,0,quantifier
+Someone has visited every person and every place,Dora didn't visit Kristy,0,quantifier
+"Everyone has visited Abington, Coulee Dam, Saint Martinville, Belvidere, Canton, Nyack, Jamestown, East Greenwich, Oregon City, Globe, Keene and Lexington",Lynn didn't visit Groton,0,quantifier
+"Everyone has visited Prescott, Coventry, Lubbock, Green River, Harlem, Palo Alto, Cookeville, Park Forest, Pasadena and Peshtigo",Debbie didn't visit Pasadena,1,quantifier
+Everyone has visited every person and every place,Erin didn't visit Las Vegas,1,quantifier
+Everyone has visited every person and every place,Gloria didn't visit Stonington,1,quantifier
+Everyone has visited every place,Olivia didn't visit Danville,1,quantifier
+Everyone has visited every person,Yvonne didn't visit Harriet,1,quantifier
+Everyone has visited every person and every place,Kim didn't visit Vicki,1,quantifier
+Everyone has visited every person,Paula didn't visit Woodward,0,quantifier
+Everyone has visited every person and every place,Katrina didn't visit Katie,1,quantifier
+Someone has visited every person and every place,Ada didn't visit Garden City,0,quantifier
+Everyone has visited every person,Monique didn't visit Maxine,1,quantifier
+Everyone has visited every person,Constance didn't visit Angela,1,quantifier
+Everyone has visited every place,Lori didn't visit Loretta,0,quantifier
+Someone has visited every person and every place,Kathleen didn't visit Mae,0,quantifier
+Someone has visited every person and every place,Mamie didn't visit Boca Raton,0,quantifier
+"Everyone has visited Charleston, Greenville, Beatrice, Great Neck, Rancho Cucamonga, Ysleta, Harpers Ferry, Somerville, Saint Marys City, Hot Springs, Conneaut, Crystal City and Shawnee",Leona didn't visit Beatrice,1,quantifier
+Everyone has visited every place,Pearl didn't visit Long Beach,1,quantifier
+Everyone has visited every person and every place,Erin didn't visit Vermillion,1,quantifier
+Everyone has visited every place,Lorraine didn't visit Washington,1,quantifier
+Everyone has visited every person,Myrtle didn't visit Fort Scott,0,quantifier
+Someone has visited every person and every place,Tiffany didn't visit Joanna,0,quantifier
+Someone has visited every person and every place,Monique didn't visit Port Arthur,0,quantifier
+Everyone has visited every place,Mildred didn't visit Amana Colonies,1,quantifier
+Everyone has visited every place,Gwendolyn didn't visit Point Pleasant,1,quantifier
+Everyone has visited every place,Danielle didn't visit Hot Springs,1,quantifier
+"Everyone has visited Salem, Middletown, Owensboro, Ashland, Tampa, Cicero, Fort Dodge, Garden City, Charleston, Beaufort, Fitzgerald, Murfreesboro, Las Vegas and Trenton",June didn't visit Pauls Valley,0,quantifier
+"Everyone has visited Burlington, Fort Myers, Lincoln, Santa Claus, Oxnard, Sylacauga, Cheboygan, Rye, Eastham, Florissant, New Kensington, San Gabriel, Bozeman, Longmont, Pasco, Sag Harbor, Crossett and San Pedro",Lynda didn't visit Sylacauga,1,quantifier
+Someone has visited every person and every place,Cheryl didn't visit Roberta,0,quantifier
+Everyone has visited every person and every place,Brandy didn't visit Lucy,1,quantifier
+Everyone has visited every place,Gina didn't visit Greeneville,1,quantifier
+Everyone has visited every person,Susan didn't visit Anita,1,quantifier
+Everyone has visited every person,Misty didn't visit Lake Placid,0,quantifier
+Everyone has visited every person,Dora didn't visit Hood River,0,quantifier
+Everyone has visited every person,Cecilia didn't visit Bellevue,0,quantifier
+"Everyone has visited Seward, Longview, East Hartford, Oyster Bay, Harlem, Orono, Moscow, West Haven, Scarsdale, Malibu, Alaska, Richmond, Bossier City and Bardstown",Marguerite didn't visit Oyster Bay,1,quantifier
+Everyone has visited every person,Georgia didn't visit East Greenwich,0,quantifier
+Someone has visited every person and every place,Katherine didn't visit Joan,0,quantifier
+Everyone has visited every person,Yvonne didn't visit Edgartown,0,quantifier
+Everyone has visited every person and every place,Rosa didn't visit Edna,1,quantifier
+Everyone has visited every person and every place,Stacey didn't visit Lucy,1,quantifier
+"Everyone has visited Rexburg, Barnstable, Flagstaff, Woods Hole, Orderville, Cadillac, Buena Park, Sheridan, Frederick, Goldfield, Lakeview, New York, Plattsmouth, Santa Ana, Key West, Arcadia, Shawnee, Hays and Arlington",Willie didn't visit Shawnee,1,quantifier
+Everyone has visited every place,Nicole didn't visit Melody,0,quantifier
+"Everyone has visited Harpers Ferry, Mount Vernon, Yuma, Joplin, Calexico, Wabash, Winnetka, Ontario, Boca Raton, Alliance and West Orange",Candice didn't visit Saint Marys City,0,quantifier
+Everyone has visited every person,Clara didn't visit Minnie,1,quantifier
+"Everyone has visited Richardson, Pendleton, Grand Haven, Watervliet, Narragansett, Lakewood, Saratoga Springs, New Milford, Baltimore, Paris, State College, Ellsworth, Livermore, American Fork, Normal, New Brunswick, Alaska, Miami Beach, Asheboro and Cape May",Maria didn't visit Alhambra,0,quantifier
+Everyone has visited every person,Monique didn't visit Elizabeth,1,quantifier
+Everyone has visited every place,Ashley didn't visit Euclid,1,quantifier
+"Everyone has visited Petersburg, Bordentown, Garland, Salem, Spring Green, Catonsville, Tuscaloosa, Bozeman, Saint Joseph, McCook, Conway, Elkton, Texarkana, Americus, Bloomfield Hills and Westport",Crystal didn't visit Tuscaloosa,1,quantifier
+Everyone has visited every person,Catherine didn't visit Rosie,1,quantifier
+Everyone has visited every place,Erin didn't visit Hot Springs,1,quantifier
+Everyone has visited every place,Lucille didn't visit Mattie,0,quantifier
+Everyone has visited every place,Deanna didn't visit Gail,0,quantifier
+Someone has visited every person and every place,Margaret didn't visit Natalie,0,quantifier
+Everyone has visited every place,Jamie didn't visit Alhambra,1,quantifier
+"Everyone has visited Lake City, Mandan, Saint Johnsbury, Galveston, New Market, Artesia, Tuskegee, Huntington Beach, Columbus, Batesville, Redmond, Pocatello, Gila Bend, International Falls, Bayonne, Jackson and Lafayette",Sonya didn't visit Daytona Beach,0,quantifier
+Someone has visited every person and every place,Diana didn't visit Cecilia,0,quantifier
+"Everyone has visited Arkansas Post, Orange, Cleveland Heights, Fairmont, Lebanon, John Day, Council Grove, Buffalo, Keokuk, Estes Park, Portland and Des Moines",Judith didn't visit Puyallup,0,quantifier
+"Everyone has visited Kapaa, Lansing, Windsor, Guntersville, Bath, Haines, Brookline, Hanover, Denton, Trenton, Lafayette, Fontana, Coupeville, Apalachicola, Quincy, Novato, Royal Oak and Lincoln",Bonnie didn't visit Brookline,1,quantifier
+Everyone has visited every person and every place,Dora didn't visit Susan,1,quantifier
+Everyone has visited every person and every place,Megan didn't visit Fort Valley,1,quantifier
+"Everyone has visited Fredonia, Milbank, Salt Lake City, Urbana, Eveleth, Covington, Garden City, Saugus, East Aurora, Douglas, Virginia City and Redlands",Juanita didn't visit Garden City,1,quantifier
+Everyone has visited every place,Roberta didn't visit Palmdale,1,quantifier
+"Everyone has visited Ketchikan, Chautauqua, Millburn, Pittsfield, Columbus, Wood River, Durham, Fort Scott, Homer, Tyler and Emporia",Rhonda didn't visit Columbus,1,quantifier
+"Everyone has visited Meridian, Sterling, Cairo, Idaho City, Kennebunkport, Waterville, West Des Moines, Exeter, Wayne, Cambridge, New Bedford, Harrisburg and Topeka",Gladys didn't visit Lowell,0,quantifier
+"Everyone has visited Berkeley, Alcoa, Jonesboro, Tombstone, Austin, Skagway, Windsor Locks, Port Lavaca, Okmulgee, Dallas, Henderson, McKinney, Clarksburg, Decatur and Fort Collins",Sandra didn't visit Warren,0,quantifier
+"Everyone has visited Rutland, Parkersburg, Oceanside, Clifton, Hayward, Westfield, Deadwood, Manchester, Altoona, Norwalk, Sandusky, Kingsport, Saint Joseph, Watts and Lowell",Monica didn't visit Tennessee,0,quantifier
+Everyone has visited every place,Joyce didn't visit Centralia,1,quantifier
+Everyone has visited every person,Andrea didn't visit Colleen,1,quantifier
+Everyone has visited every person,Helen didn't visit Samantha,1,quantifier
+Everyone has visited every person and every place,Toni didn't visit Cecilia,1,quantifier
+"Everyone has visited Globe, Caldwell, Holdenville, Cranford, Nebraska City, New York, Danbury, Franklin, Carrollton and Belle Fourche",Charlene didn't visit Cranford,1,quantifier
+Everyone has visited every place,Blanche didn't visit Faye,0,quantifier
+Everyone has visited every person,Claire didn't visit Willie,1,quantifier
+"Everyone has visited Rexburg, Sheridan, Crookston, Ajo, Scarsdale, Powell, Wahiawa, Boise, Helena, Ilion and Sidney",Cynthia didn't visit Newcastle,0,quantifier
+Everyone has visited every place,Carol didn't visit Nicole,0,quantifier
+Everyone has visited every place,Martha didn't visit Nora,0,quantifier
+Someone has visited every person and every place,Candice didn't visit Delores,0,quantifier
+Everyone has visited every person,Rachel didn't visit Nellie,1,quantifier
+Everyone has visited every place,Robin didn't visit Sharon,0,quantifier
+"Everyone has visited Revere, Spanish Fork, Gainesville, Laredo, Susanville, Libertyville, Galesburg, Newark, Kawaihae, Bellingham and Peekskill",Shelley didn't visit Altus,0,quantifier
+"Everyone has visited Cedar Rapids, Groton, Sandwich, Chillicothe, Pittsburgh, Milbank, Boca Raton, De Land, Windsor Locks, Edmond, Ironwood, Fairhaven, New Philadelphia, Yonkers and South Carolina",Constance didn't visit Edmond,1,quantifier
+Someone has visited every person and every place,Lois didn't visit Osawatomie,0,quantifier
+Everyone has visited every person,Yolanda didn't visit Abbeville,0,quantifier
+Everyone has visited every person,Veronica didn't visit Dianne,1,quantifier
+Everyone has visited every place,Geraldine didn't visit Chester,1,quantifier
+"Everyone has visited Lewes, Meadville, San Angelo, Buffalo, Boulder City, Lebanon, East Cleveland, Millburn, East Saint Louis, Philadelphia, Ambridge, Saint Ignace, Peru, Auburn, Abington and Boulder",Brandi didn't visit Harlem,0,quantifier
+Everyone has visited every place,Sue didn't visit Lexington,1,quantifier
+Everyone has visited every person and every place,Nora didn't visit Lois,1,quantifier
+"Everyone has visited Cedar Rapids, Beacon, Vincennes, Newton, Sheboygan, Dixon, Park Ridge, Claremore, Lowell, Raleigh, Cherokee, Jacksonville, Carson City, East Liverpool, Santa Monica, Tuscumbia and Kalamazoo",Ana didn't visit Dennis,0,quantifier
+"Everyone has visited Boston, Coos Bay, Webster City, Lexington, Hartsville, Lead, Jacksonville, Schenectady, Wilmington, Seminole and Clinton",Tonya didn't visit Seneca Falls,0,quantifier
+Someone has visited every person and every place,Susie didn't visit Sand Springs,0,quantifier
+Everyone has visited every place,Deborah didn't visit Manhattan,1,quantifier
+Everyone has visited every place,Laurie didn't visit Lackawanna,1,quantifier
+Everyone has visited every person,Irene didn't visit Jacksonville,0,quantifier
+Everyone has visited every person,Jill didn't visit Felicia,1,quantifier
+Everyone has visited every person,Deborah didn't visit New Milford,0,quantifier
+"Everyone has visited Manitowoc, Medford, Nyack, Richmond, Sedalia, Canyon, Newton, Oraibi, Pecos and Wausau",Melody didn't visit Anchorage,0,quantifier
+Someone has visited every person and every place,Jennie didn't visit Machias,0,quantifier
+Everyone has visited every place,Thelma didn't visit Virden,1,quantifier
+Everyone has visited every place,Penny didn't visit Lebanon,1,quantifier
+Someone has visited every person and every place,Loretta didn't visit Molly,0,quantifier
+Everyone has visited every place,Maria didn't visit San Pedro,1,quantifier
+Everyone has visited every place,Toni didn't visit Dawn,0,quantifier
+Everyone has visited every place,Felicia didn't visit Marion,0,quantifier
+Everyone has visited every person,Nicole didn't visit American Fork,0,quantifier
+"Everyone has visited Wheaton, Franklin, Hanover, Manitowoc, Winooski, Milan, Woodward, Bethany, Tucson, Bar Harbor and Virginia",Allison didn't visit Milan,1,quantifier
+Everyone has visited every person,Diane didn't visit Wabash,0,quantifier
+Everyone has visited every person and every place,Stephanie didn't visit Wellfleet,1,quantifier
+"Everyone has visited Albuquerque, Newburyport, South Bend, Vallejo, Mount Holly, Camden, Plattsburgh, Zanesville, Guthrie, South San Francisco, Winsted, Adrian, Vancouver, Norristown, Pagosa Springs, Georgetown, Florence and East Chicago",Marguerite didn't visit Florissant,0,quantifier
+Everyone has visited every place,Lindsey didn't visit Tewksbury,1,quantifier
+"Everyone has visited Mundelein, Window Rock, Delray Beach, Morehead City, Indianapolis, Jacksonville, Dover, Oberlin, Salem, Chickasaw, Anacortes, Iowa City, Norman, Dodge City, Lexington and Bethesda-Chevy Chase",Megan didn't visit Oberlin,1,quantifier
+"Everyone has visited Crossett, Gainesville, Corning, Layton, Pittsburg, Needles, Nags Head, Hanalei, Lead and Decatur",Yvette didn't visit Kearney,0,quantifier
+Someone has visited every person and every place,Amber didn't visit Andrea,0,quantifier
+"Everyone has visited Cripple Creek, Coulee Dam, Bakersfield, Buffalo, Beloit, Mamaroneck, Asbury Park, Yonkers, Peshtigo, Lincoln, Canton, Billings, Wenatchee and Titusville",Mabel didn't visit Port Angeles,0,quantifier
+Everyone has visited every person,Gladys didn't visit Vicki,1,quantifier
+Everyone has visited every person,Ann didn't visit Canton,0,quantifier
+"Everyone has visited Rome, Pocatello, Hays, Milford, Hyannis, Camden, Burlington, Plainfield, Murfreesboro, Lafayette and West Springfield",Alice didn't visit Plainfield,1,quantifier
+Someone has visited every person and every place,Alberta didn't visit Charlotte,0,quantifier
+Everyone has visited every person,Florence didn't visit Point Pleasant,0,quantifier
+Someone has visited every person and every place,Gail didn't visit Alameda,0,quantifier
+Everyone has visited every person and every place,Kristina didn't visit Exeter,1,quantifier
+Everyone has visited every person and every place,Cynthia didn't visit Lindsay,1,quantifier
+Everyone has visited every place,Jamie didn't visit Candace,0,quantifier
+Everyone has visited every person,Frances didn't visit Wallingford,0,quantifier
+"Everyone has visited Malibu, Perth Amboy, Medford, River Forest, Fergus Falls, Okmulgee, Wheaton, Rexburg, Gastonia, Ocean City, Warm Springs, Canon City, West Orange, Bristol, Puyallup, Saco and Florence",Jennie didn't visit Florence,1,quantifier
+Everyone has visited every person and every place,Dora didn't visit Joanna,1,quantifier
+Everyone has visited every place,Christy didn't visit Greenfield,1,quantifier
+"Everyone has visited Hinton, Farmington, Savannah, Leavenworth, Concord, Torrance, McCook, Fillmore, Elkins, Machias, Highland Park, Brainerd, Osawatomie, McKinney, Buckhannon, Reedsport, Temple, Heber City, Marietta and Belfast",Candice didn't visit Salisbury,0,quantifier
+Everyone has visited every place,Juana didn't visit Tanya,0,quantifier
+Everyone has visited every person,Lindsay didn't visit Melissa,1,quantifier
+Everyone has visited every place,Sara didn't visit Willingboro,1,quantifier
+"Everyone has visited Price, Canton, Pittsburg, Watertown, Joliet, Valdosta, Hollywood, Toccoa, Ellsworth, South Saint Paul, Kingston, Shepherdstown, Indianapolis, Estes Park, West New York, Lodi, Conneaut and Las Cruces",Ramona didn't visit Hanover,0,quantifier
+Everyone has visited every place,Carrie didn't visit Sylvia,0,quantifier
+"Everyone has visited Chula Vista, Antioch, Durango, Spearfish, Marblehead, Sunnyvale, Summersville, Aliquippa, Buena Park, East Providence, Camden, Neosho, Mamaroneck, Ojai, Fond du Lac, Dartmouth, New Bern, West Virginia, Orem and Easton",Emily didn't visit Geneva,0,quantifier
+Someone has visited every person and every place,Megan didn't visit Toni,0,quantifier
+Everyone has visited every place,Colleen didn't visit Isabel,0,quantifier
+Everyone has visited every person,Cheryl didn't visit Suffolk,0,quantifier
+"Everyone has visited Rome, Mississippi, Ogden, Adrian, Tillamook, Westerly, Danbury, Irvine, Jackson, Milwaukee, Orderville, Huntington Beach, Crossett and Arizona",Melody didn't visit Mississippi,1,quantifier
+Someone has visited every person and every place,Susan didn't visit Cheryl,0,quantifier
+Everyone has visited every person,Anne didn't visit Belfast,0,quantifier
+Someone has visited every person and every place,Amelia didn't visit Marian,0,quantifier
+Everyone has visited every person,Shirley didn't visit Mabel,1,quantifier
+"Everyone has visited Sharon, Jasper, Lake City, Belfast, Portales, Marion, Berea, Abilene, Redmond and Hollywood",Christina didn't visit Raleigh,0,quantifier
+Everyone has visited every person,Barbara didn't visit Carla,1,quantifier
+Everyone has visited every person and every place,Sherri didn't visit Margaret,1,quantifier
+Everyone has visited every place,Tracey didn't visit Kathleen,0,quantifier
+Everyone has visited every person and every place,Mae didn't visit Staunton,1,quantifier
+Everyone has visited every place,Teresa didn't visit Detroit,1,quantifier
+Someone has visited every person and every place,Brandi didn't visit Penny,0,quantifier
+Someone has visited every person and every place,Dora didn't visit Sioux Falls,0,quantifier
+Everyone has visited every place,Beverly didn't visit Totowa,1,quantifier
+Everyone has visited every person,Constance didn't visit New Rochelle,0,quantifier
+"Everyone has visited Parkersburg, New Rochelle, Rochester, Ludlow, Deming, Jacksonville, Ossining, New Castle, Gillette, Cordova, Joplin, Port Orford, Caldwell, Santa Clara and Bristol",Rose didn't visit Bisbee,0,quantifier
+"Everyone has visited Priest River, Andalusia, Gallatin, Columbus, Paterson, Mississippi, Kellogg, Arlington, Moscow and Rhinelander",Kay didn't visit Lehi,0,quantifier
+"Everyone has visited Spearfish, Champaign, Tarpon Springs, Morganton, Woodland, New London, Hayward, Idaho, Philadelphia, Fillmore, Mitchell, Greenville, Bonners Ferry, Lamar, Menlo Park, Kinston, Searcy, Vail, Wood River and Stonington",Constance didn't visit Mission,0,quantifier
+Everyone has visited every person and every place,Debbie didn't visit Berkeley,1,quantifier
+Someone has visited every person and every place,Miriam didn't visit Becky,0,quantifier
+Everyone has visited every place,Stacy didn't visit Janice,0,quantifier
+"Everyone has visited Durant, Alpine, International Falls, Homestead, South Kingstown, Gainesville, Naugatuck, Ipswich, Groton, Oswego, Hood River, Shreveport, Woonsocket, Wheeling, Ely, Washington, Neenah, Macon and Falmouth",Hattie didn't visit Falmouth,1,quantifier
+"Everyone has visited Belvidere, West Memphis, Shreveport, Charlestown, Stockton, Myrtle Beach, Jackson, Englewood, Port Angeles, Natchez and Stoughton",Jan didn't visit Belvidere,1,quantifier
+Everyone has visited every person,Jodi didn't visit Christina,1,quantifier
+Everyone has visited every person and every place,Geneva didn't visit Amherst,1,quantifier
+"Everyone has visited Cleburne, Watertown, Bismarck, Anacortes, Baytown, Palm Bay, Fort Benton, Clinton, Seattle, Santa Clarita, Berlin, Irvington, Claremont, Homestead, Reston, San Rafael, Wahiawa, Pontiac, Sioux Falls and Niagara Falls",Misty didn't visit Baytown,1,quantifier
+Everyone has visited every person,Lindsay didn't visit Turlock,0,quantifier
+Everyone has visited every place,Heidi didn't visit Nora,0,quantifier
+Everyone has visited every person and every place,Virginia didn't visit Juana,1,quantifier
+Everyone has visited every person,Hilda didn't visit Laura,1,quantifier
+Everyone has visited every person,Samantha didn't visit Willie,1,quantifier
+Everyone has visited every place,Patricia didn't visit Hayward,1,quantifier
+Everyone has visited every place,Clara didn't visit York,1,quantifier
+"Everyone has visited Mamaroneck, Glenview, Edenton, Crown Point, Palm Bay, Medford, Susanville, Bellefontaine, Emporia, Nampa, Okmulgee, Northampton, Edmond and Gainesville",Mamie didn't visit Saugus,0,quantifier
+Everyone has visited every person,Tammy didn't visit Bay City,0,quantifier
+Everyone has visited every person,Sylvia didn't visit Carmen,1,quantifier
+Everyone has visited every person,Kristine didn't visit Sylvia,1,quantifier
+Someone has visited every person and every place,Nancy didn't visit Thelma,0,quantifier
+Everyone has visited every person,Molly didn't visit Gwendolyn,1,quantifier
+Everyone has visited every person and every place,Judy didn't visit Hazel,1,quantifier
+Everyone has visited every place,Maxine didn't visit Chillicothe,1,quantifier
+Everyone has visited every person,Olga didn't visit Oskaloosa,0,quantifier
+Everyone has visited every place,Inez didn't visit Pittsburg,1,quantifier
+Everyone has visited every person,Leona didn't visit Vanessa,1,quantifier
+"Everyone has visited Madison, Cooperstown, Bath, Starkville, Milwaukee, Moline, Darien, Hyattsville, Faribault, Ludington, Meadville, Lakewood and Springfield",Tracey didn't visit Cooperstown,1,quantifier
+"Everyone has visited Nyack, Bardstown, Carthage, Logan, New Kensington, Warren, Trinidad, Iowa City, East Providence, Alexandria, The Dalles, Bethlehem, New Jersey, Kaskaskia, Laie and Arkansas Post",Catherine didn't visit The Dalles,1,quantifier
+"Everyone has visited North Little Rock, Missouri, Grenada, Bloomfield, Fall River, Charlestown, Great Bend, Custer, Fallon, Greenville, Levittown, Windsor, Edenton, Sanford, Woodland and Saint Augustine",Pamela didn't visit Columbus,0,quantifier
+Everyone has visited every person,Alberta didn't visit Ames,0,quantifier
+Everyone has visited every place,Catherine didn't visit Vincennes,1,quantifier
+"Everyone has visited Cape May, Bellevue, Greenwood, Neosho, Columbia, Little Rock, Gastonia, Woodward, Baker City, Jersey City, Pompano Beach, Fontana, Alcoa, Abington, Plymouth, Oak Ridge and Westminster",Michele didn't visit Fontana,1,quantifier
+Everyone has visited every person and every place,Susan didn't visit Bernice,1,quantifier
+Everyone has visited every place,Marian didn't visit Hagerstown,1,quantifier
+"Everyone has visited Opelousas, Bradford, New Hope, Lompoc, Utah, Cleveland Heights, La Grande, Independence, De Land, Weatherford, Virginia, Dayton, Ashland, Charleston, Auburn, Johnstown and Danbury",Courtney didn't visit Utah,1,quantifier
+Someone has visited every person and every place,Cynthia didn't visit Carthage,0,quantifier
+Everyone has visited every place,Heather didn't visit Atlanta,1,quantifier
+Everyone has visited every person,Lynda didn't visit Diana,1,quantifier
+Everyone has visited every person and every place,Jennie didn't visit Barstow,1,quantifier
+Someone has visited every person and every place,Angela didn't visit Redmond,0,quantifier
+Everyone has visited every person and every place,Yvette didn't visit Louise,1,quantifier
+Everyone has visited every person,Iris didn't visit Lindsey,1,quantifier
+Someone has visited every person and every place,Rachel didn't visit Lindsay,0,quantifier
+Everyone has visited every place,Misty didn't visit Kalamazoo,1,quantifier
+"Everyone has visited Portsmouth, Houghton, Claremont, Livermore, Manchester, Bar Harbor, Auburn, Saint Martinville, Douglas, Arizona, Gardiner, Henderson, Fitchburg, Searcy, Estes Park, Nashua, Toledo and Florida",Yvette didn't visit Arizona,1,quantifier
+Everyone has visited every place,Judy didn't visit Audrey,0,quantifier
+"Everyone has visited Winchester, Catonsville, Greensboro, Newton, Corpus Christi, Mayfield, Hartsville, Moses Lake, Irving, Anadarko, Walnut Creek, Southampton, Yuma, Harlan and Atlanta",Laura didn't visit Atlanta,1,quantifier
+"Everyone has visited Saint Paul, Peru, Evanston, Moore, Logan, Calexico, Lawrence, Anacortes, Newport News, Enterprise, Claremont, John Day, Webster City and Ogdensburg",Kristin didn't visit Torrance,0,quantifier
+"Everyone has visited State College, Athens, Montclair, Columbus, Philadelphia, Vermont, Pontiac, Aurora, New Orleans, Norfolk, Oswego, Belfast, South Orange Village, Johnson City and Mansfield",Sally didn't visit New London,0,quantifier
+"Everyone has visited Waterloo, Belle Glade, Piqua, Springfield, Fort Valley, Rensselaer, Wichita, Columbia, Houlton, Derry, Kingston, Nephi, Morgan City, Middlesboro and McMinnville",Janie didn't visit Wichita,1,quantifier
+"Everyone has visited Bellevue, Skokie, Sandusky, Salem, Greeneville, Orem, Whittier, Kingston, Seneca Falls, West Orange, Coventry, Central City, Clarksville, Monroe, Keene, Fairfax and Sumter",Kristina didn't visit Monroe,1,quantifier
+"Everyone has visited Fort Walton Beach, Ironwood, Cheboygan, Cherokee, Plano, Weehawken, Cohoes, Mayfield, Amarillo, Buffalo, Rancho Cucamonga, Johnson City, Salisbury, Mamaroneck, Bradford and North Las Vegas",Renee didn't visit Palmer,0,quantifier
+"Everyone has visited Charlottesville, Highland Park, Plattsmouth, Belen, Ilion, McAllen, Santa Ana, York, Kapaa, Saginaw and Spartanburg",Sabrina didn't visit Livingston,0,quantifier
+"Everyone has visited Kingsville, Glenview, Vermont, Chesapeake, La Crosse, Brookings, Yonkers, Adrian, Arkansas, San Mateo, Elk City and Mesa",Amber didn't visit Chesapeake,1,quantifier
+Everyone has visited every place,Jennifer didn't visit Sara,0,quantifier
+Everyone has visited every person,Charlotte didn't visit Barbara,1,quantifier
+Everyone has visited every place,Tamara didn't visit Holly,0,quantifier
+"Everyone has visited New Harmony, Douglas, Superior, New Paltz, Flint, New Bedford, Lake Oswego, Burlington, Point Pleasant, Cohasset, Corydon and Winslow",Mattie didn't visit New Harmony,1,quantifier
+Everyone has visited every person,Elaine didn't visit Portage,0,quantifier
+Everyone has visited every person and every place,Lillian didn't visit Boonville,1,quantifier
+Everyone has visited every place,Mabel didn't visit Terri,0,quantifier
+Everyone has visited every person and every place,Catherine didn't visit Kingsville,1,quantifier
+"Everyone has visited Olympia, El Reno, Danbury, Orem, Boulder City, Adrian, Jackson, Dedham, Beatrice, Altoona, Somerville, Mount Holly, Homer, Charleston, Alma, West Allis, Prineville and Wilson",Veronica didn't visit Homer,1,quantifier
+Everyone has visited every place,Opal didn't visit Joan,0,quantifier
+Everyone has visited every place,Cecilia didn't visit Woburn,1,quantifier
+Everyone has visited every person,Nancy didn't visit Saint Paul,0,quantifier
+Everyone has visited every person and every place,Annette didn't visit Marie,1,quantifier
+Everyone has visited every person,Monique didn't visit Millville,0,quantifier
+"Everyone has visited Norristown, Moline, Queens, Needles, Nampa, Rexburg, Ellensburg, Dillon, Palmyra, State College, West Hartford, Arkansas City and Niles",Vicki didn't visit Needles,1,quantifier
+"Everyone has visited Clinton, Costa Mesa, Indiana, Hanover, Staten Island, Cairo, Wallingford, Ellensburg, Long Beach, Springfield, Babylon, Homer, Henderson, Monett, Buena Park and Rotterdam",Paula didn't visit Columbus,0,quantifier
+Someone has visited every person and every place,Becky didn't visit Westfield,0,quantifier
+Everyone has visited every place,Renee didn't visit Killeen,1,quantifier
+Everyone has visited every place,Alice didn't visit Candice,0,quantifier
+Everyone has visited every person and every place,Flora didn't visit Great Neck,1,quantifier
+Everyone has visited every person and every place,Sharon didn't visit Gillette,1,quantifier
+Everyone has visited every person and every place,Jodi didn't visit Jessica,1,quantifier
+Everyone has visited every person,Vanessa didn't visit Astoria,0,quantifier
+Everyone has visited every place,Maggie didn't visit Tanya,0,quantifier
+Everyone has visited every place,Margie didn't visit Lovington,1,quantifier
+Everyone has visited every person and every place,Nellie didn't visit Roseville,1,quantifier
+Everyone has visited every person and every place,Rita didn't visit Grace,1,quantifier
+Everyone has visited every person and every place,Jeanette didn't visit Mildred,1,quantifier
+"Everyone has visited Millburn, Peterborough, Eastchester, Bloomfield Hills, Murfreesboro, Menasha, Barberton, Fairmont, Geneva, Arkansas, Clifton, Hodgenville, Dalton, Osceola and Vernal",Geneva didn't visit Rockville,0,quantifier
+Someone has visited every person and every place,Evelyn didn't visit Florence,0,quantifier
+Everyone has visited every place,Gwendolyn didn't visit Bessemer,1,quantifier
+"Everyone has visited Effingham, Great Neck, Coventry, Irvington, Anderson, Woodstock, Kentucky, Union City, Louisville, Shelbyville, Athens, Kingsville, Muskogee, New Paltz, San Luis Obispo, Westfield and Easton",Sabrina didn't visit Easton,1,quantifier
+Everyone has visited every person,Marilyn didn't visit Bridgeton,0,quantifier
+Someone has visited every person and every place,Flora didn't visit Lincoln,0,quantifier
+Everyone has visited every place,Gwendolyn didn't visit Pauline,0,quantifier
+"Everyone has visited Ipswich, Vernal, Thibodaux, Palm Springs, Annapolis, Newburyport, Urbana, Carthage, Ogdensburg, Connecticut, Virginia, Rockford, Middletown, Aiken, New London, Cadillac and Rapid City",Alicia didn't visit Kilgore,0,quantifier
+Everyone has visited every place,Natasha didn't visit Globe,1,quantifier
+"Everyone has visited Wooster, Virginia City, Escondido, South Hadley, Carthage, Pocatello, Pendleton, Walpi, San Pedro, Menasha, Pasco, Hempstead, Ajo, Tullahoma, Port Arthur, Washington, Orange, Glen Ellyn, Melbourne and Vail",Kathy didn't visit Ajo,1,quantifier
+Everyone has visited every person,Kay didn't visit Saratoga Springs,0,quantifier
+"Everyone has visited Iowa City, Delaware, Normal, San Diego, Van Buren, Janesville, Coventry, West Virginia, Alabama, Oregon City, Laredo, Fresno, Burlington and Waynesboro",Anita didn't visit Burlington,1,quantifier
+Everyone has visited every place,Velma didn't visit Vanessa,0,quantifier
+"Everyone has visited Colorado, Houston, Clovis, Wilson, North Carolina, Huron, Oregon, Daly City, Novato, Deerfield Beach, Palmer, Lafayette, Santa Fe and Rochester",Nora didn't visit Harlan,0,quantifier
+Everyone has visited every person,Janice didn't visit Durant,0,quantifier
+Everyone has visited every person,Shannon didn't visit Toccoa,0,quantifier
+Everyone has visited every place,Charlotte didn't visit Lenox,1,quantifier
+Everyone has visited every person,Stacey didn't visit Kentucky,0,quantifier
+Everyone has visited every place,Daisy didn't visit Oyster Bay,1,quantifier
+"Everyone has visited Stockbridge, Berlin, Jacksonville, Genoa, Pascagoula, Jeannette, Athens, Marlborough, South Bend, Farmington, North Adams, Chesapeake, Alcoa, Orono, Hillsboro, Lufkin, Hobart, Bourne, Boonesborough and San Fernando",Billie didn't visit Waco,0,quantifier
+Someone has visited every person and every place,Gertrude didn't visit Glassboro,0,quantifier
+Everyone has visited every place,Rose didn't visit Nora,0,quantifier
+Someone has visited every person and every place,Lucy didn't visit Rockville,0,quantifier
+Everyone has visited every place,Carolyn didn't visit Ogden,1,quantifier
+"Everyone has visited Virginia, Portsmouth, Southampton, Santa Clara, Menlo Park, Englewood, South Charleston, Tuscumbia, Bogalusa and Sumter",Miriam didn't visit Rawlins,0,quantifier
+"Everyone has visited Oakland, Cheboygan, Beckley, Peshtigo, Escondido, Cambridge, Berlin, Natick, Arthur, Custer, Palm Beach, Mattoon, Lebanon, White Springs, Medford, Galesburg, Globe and Fairfield",Sara didn't visit Oakland,1,quantifier
+Everyone has visited every person,Eva didn't visit Cahokia,0,quantifier
+Everyone has visited every place,Candace didn't visit Shaker Heights,1,quantifier
+"Everyone has visited Weatherford, Chambersburg, Spartanburg, Ipswich, Annapolis, Somerville, Watertown, Sidney, Milan, Cleveland, Manistee, Bastrop, Aliquippa and Shawneetown",Luz didn't visit Bastrop,1,quantifier
+Everyone has visited every place,Diana didn't visit Lucille,0,quantifier
+Everyone has visited every place,Monique didn't visit Tucson,1,quantifier
+Everyone has visited every place,Verna didn't visit Deanna,0,quantifier
+"Everyone has visited Alta, Vincennes, Beaufort, East Aurora, Marysville, Waynesboro, Meriden, South Charleston, Kaneohe, Hamden, Lima, Owatonna, Seneca Falls, Fort Wayne, Douglas, East Moline and Ludington",Carla didn't visit Alta,1,quantifier
+"Everyone has visited Astoria, Winslow, Moore, Harlingen, Pottstown, Hopewell, Ecorse, Northampton, Hope, Lewistown, North Little Rock, Douglas, Daytona Beach, East Saint Louis, Shamokin, Alamosa and Eagle Pass",Deanna didn't visit Rye,0,quantifier
+Everyone has visited every person,Priscilla didn't visit Galveston,0,quantifier
+Someone has visited every person and every place,Nancy didn't visit Antoinette,0,quantifier
+"Everyone has visited Adrian, Lebanon, Victorville, Vinita, Brighton, Worcester, Hot Springs, Wyoming, Gainesville, Moline, John Day, La Junta, Weymouth, Minneapolis and Jefferson City",Brandy didn't visit Madison,0,quantifier
+Everyone has visited every person,Mabel didn't visit Tewksbury,0,quantifier
+Everyone has visited every place,Flora didn't visit Watertown,1,quantifier
+"Everyone has visited Trenton, Jamestown, Hoboken, Vicksburg, Alexander City, Chesapeake, Peterborough, Hamilton, Murfreesboro and Wisconsin",Harriet didn't visit Eau Claire,0,quantifier
+Someone has visited every person and every place,Marilyn didn't visit Dianne,0,quantifier
+Everyone has visited every person and every place,Hattie didn't visit Ashley,1,quantifier
+"Everyone has visited Grand Junction, Wooster, Okmulgee, Sidney, Laie, Douglas, Grinnell, Custer, Apalachicola, Idaho, Durango, Buena Park, Lakeland, Edenton and Oswego",Debbie didn't visit Okmulgee,1,quantifier
+Someone has visited every person and every place,Belinda didn't visit Elaine,0,quantifier
+Everyone has visited every person,Anne didn't visit Lorraine,1,quantifier
+Everyone has visited every person,Sonia didn't visit Carlsbad,0,quantifier
+"Everyone has visited Cocoa Beach, Joplin, Durham, New Philadelphia, Haddonfield, Peekskill, Barrington, Union, Binghamton, Fond du Lac and Newburgh",Tiffany didn't visit Fond du Lac,1,quantifier
+Everyone has visited every person,Bertha didn't visit Hattie,1,quantifier
+"Everyone has visited Orangeburg, Crossett, Nashville, Thousand Oaks, Nampa, Hastings, Atchison, Milford, Starkville, Shawnee, Bedford, Hershey and Rawlins",Constance didn't visit Herkimer,0,quantifier
+Someone has visited every person and every place,Ella didn't visit Lillie,0,quantifier
+Everyone has visited every person and every place,Sherri didn't visit Guadalupe,1,quantifier
+Everyone has visited every place,Lena didn't visit Nampa,1,quantifier
+"Everyone has visited Boys Town, Cranford, Herrin, Odessa, Winnetka, Winslow, Walsenburg, Calumet City, Anchorage, Chambersburg, McKeesport, Orderville, Sturgis and Chattanooga",Sarah didn't visit McKeesport,1,quantifier
+Everyone has visited every place,Nellie didn't visit Genevieve,0,quantifier
+"Everyone has visited Moore, Highland Park, Baraboo, Boys Town, Wheaton, Wabash, Darlington, Alaska, Rome, New Market, Palatka, Dover, Winnetka, Starkville, Hallandale Beach, Saint Louis, Moscow, Lynchburg, Bradenton and The Dalles",Roberta didn't visit Wabash,1,quantifier
+Everyone has visited every person and every place,Ana didn't visit Susie,1,quantifier
+Everyone has visited every person,Marian didn't visit Newport,0,quantifier
+Everyone has visited every place,Gladys didn't visit Shannon,0,quantifier
+Everyone has visited every person,Debra didn't visit Maggie,1,quantifier
+Everyone has visited every place,Megan didn't visit Ten Sleep,1,quantifier
+"Everyone has visited Fort Dodge, Lombard, Staten Island, Sedalia, Clinton, Blytheville, Bakersfield, Longview, New Smyrna Beach, Irvington and Port Lavaca",Felicia didn't visit Staten Island,1,quantifier
+Everyone has visited every person and every place,Delores didn't visit Olivia,1,quantifier
+Everyone has visited every person and every place,Alicia didn't visit Kay,1,quantifier
+Everyone has visited every person,Kim didn't visit Totowa,0,quantifier
+"Everyone has visited Jonesborough, Pass Christian, Buena Park, Redlands, Belleville, Hickory, Tewksbury, Bogalusa, Macomb, Guntersville, Visalia, Queens, Lompoc, Takoma Park, Virginia and Myrtle Beach",Andrea didn't visit Buena Park,1,quantifier
+"Everyone has visited Richmond, Arkadelphia, Milledgeville, Cumberland, Plattsburgh, Delray Beach, Chickasha, Norristown, Mississippi, Grand Island, Darien, Waterloo, Rugby, New York City, West Memphis, Monett and Watertown",Tiffany didn't visit Delray Beach,1,quantifier
+"Everyone has visited Sweetwater, Mount Pleasant, Winsted, Wilson, Mission, Provincetown, Superior, Cleveland Heights, Caribou, Homer, Bremerton, Hawaii, Lewiston, Alexandria, Fredonia, Hamden, Valparaiso and Alliance",Dana didn't visit Alliance,1,quantifier
+Everyone has visited every place,Nellie didn't visit Leslie,0,quantifier
+Everyone has visited every place,Rachel didn't visit Berkeley,1,quantifier
+Everyone has visited every person and every place,Kay didn't visit Helen,1,quantifier
+Someone has visited every person and every place,Cassandra didn't visit Marcia,0,quantifier
+Everyone has visited every person,Ashley didn't visit Vickie,1,quantifier
+Someone has visited every person and every place,Virginia didn't visit Kingston,0,quantifier
+Everyone has visited every place,Sandy didn't visit April,0,quantifier
+Everyone has visited every place,Alison didn't visit Durham,1,quantifier
+"Everyone has visited Devils Lake, Harrodsburg, Belmont, Alexandria, Harwich, Greensboro, Batesville, Hays, Puyallup and Nahant",Diana didn't visit Silver City,0,quantifier
+Someone has visited every person and every place,Patricia didn't visit Red Bluff,0,quantifier
+Everyone has visited every person,Georgia didn't visit Eunice,1,quantifier
+Everyone has visited every person,Katrina didn't visit Pamela,1,quantifier
+"Everyone has visited Beloit, Tulsa, Clanton, Fall River, East Greenwich, Salem, Henderson, Thermopolis, Saint Johnsbury, Fort Scott, New York City and North Las Vegas",Arlene didn't visit Bloomington,0,quantifier
+Everyone has visited every person,Natasha didn't visit Lower Southampton,0,quantifier
+Everyone has visited every person and every place,Deanna didn't visit Sara,1,quantifier
+Everyone has visited every person and every place,Judy didn't visit Monica,1,quantifier
+Everyone has visited every place,Ann didn't visit Newark,1,quantifier
+Everyone has visited every person and every place,Becky didn't visit Sonya,1,quantifier
+Everyone has visited every place,Cathy didn't visit Fallon,1,quantifier
+Everyone has visited every person and every place,Claire didn't visit New Milford,1,quantifier
+"Everyone has visited New Ulm, Central Falls, Lebanon, Franklin, Lamar, Greenbelt, Richmond, Walnut Creek, Berkeley, Jeffersonville, Sun Valley, Pasadena, Klamath Falls, New Smyrna Beach, Greenfield, Hobart, Glenwood Springs, York and Roseburg",Ruth didn't visit Lakewood,0,quantifier
+"Everyone has visited Excelsior Springs, Lancaster, Webster, Sallisaw, Richmond, Irvington, Biddeford, Missoula, Wilkes-Barre, Painesville, Goshen and Rantoul",Mabel didn't visit Goshen,1,quantifier
+Everyone has visited every place,Tamara didn't visit Salinas,1,quantifier
+Everyone has visited every person and every place,Clara didn't visit Dover,1,quantifier
+Everyone has visited every person,Lula didn't visit Denise,1,quantifier
+Everyone has visited every place,Connie didn't visit Monroe,1,quantifier
+Everyone has visited every place,Felicia didn't visit Gaffney,1,quantifier
+"Everyone has visited Huntsville, Aurora, Great Barrington, Superior, Gretna, Shawnee, West Chester, Ely, Queens, Mobile, New Kensington, Oak Ridge, Claremont and Indiana",Iris didn't visit West Chester,1,quantifier
+Everyone has visited every person and every place,Rosie didn't visit The Village,1,quantifier
+Everyone has visited every person and every place,Alison didn't visit Alta,1,quantifier
+Everyone has visited every person,Lillie didn't visit Stephanie,1,quantifier
+Someone has visited every person and every place,Tiffany didn't visit Port Gibson,0,quantifier
+"Everyone has visited Bath, Walnut Creek, Thermopolis, DeKalb, Glendive, Elyria, Daly City, Milford, Calais, Millville, Homestead, Jeannette, Laconia, Mamaroneck, Greenwich, Georgia and Crystal City",Heather didn't visit Vernal,0,quantifier
+Everyone has visited every place,Suzanne didn't visit Diana,0,quantifier
+"Everyone has visited Whittier, Chesapeake, Oregon, Greenville, Tucson, Irvine, Lake Placid, Reno, West Des Moines, Houlton, Glendive, Decatur, Casper, River Forest, Ossining, Chelmsford, Corinth, Towson, Oakland and Crystal City",Catherine didn't visit Greenville,1,quantifier
+Everyone has visited every person,Ann didn't visit Logan,0,quantifier
+Everyone has visited every person and every place,Vera didn't visit Yvonne,1,quantifier
+"Everyone has visited Logan, Myrtle Beach, Fredericksburg, Buffalo, Duncan, Camden, Wyoming, Longview, Hyattsville, Wichita, Cheyenne, Hanover, Searcy, New Bedford, Gulfport, Oroville, Sudbury, Adrian, La Salle and Greenville",Elaine didn't visit Myrtle Beach,1,quantifier
+Everyone has visited every person,Emily didn't visit Cortland,0,quantifier
+"Everyone has visited Hackensack, Fairbanks, Freeport, East Chicago, Tennessee, Mansfield, Derry, Blairsville, Corning, Durham, San Luis Obispo, Cullman, Norfolk, Peoria and Mobridge",Suzanne didn't visit Warren,0,quantifier
+Everyone has visited every person,Norma didn't visit Charlene,1,quantifier
+Everyone has visited every person,Sally didn't visit Council Grove,0,quantifier
+Everyone has visited every person,Lucille didn't visit Emma,1,quantifier
+Someone has visited every person and every place,Heidi didn't visit Alice,0,quantifier
+Someone has visited every person and every place,Eva didn't visit Savannah,0,quantifier
+"Everyone has visited Nebraska City, Malibu, Chambersburg, Fort Dodge, Bar Harbor, Ocean City, Salem, Monett, Wausau and Plymouth",Tanya didn't visit Ocean City,1,quantifier
+Everyone has visited every place,Bertha didn't visit Helen,0,quantifier
+Everyone has visited every place,Nina didn't visit Arlene,0,quantifier
+Everyone has visited every person,Louise didn't visit Carbondale,0,quantifier
+Everyone has visited every person and every place,Emily didn't visit Westfield,1,quantifier
+Everyone has visited every place,Lauren didn't visit Joy,0,quantifier
+Everyone has visited every person,Jeanette didn't visit Defiance,0,quantifier
+Everyone has visited every person,Sheila didn't visit Salem,0,quantifier
+Everyone has visited every person,Diana didn't visit South Orange Village,0,quantifier
+"Everyone has visited Carlisle, Bound Brook, Kingston, Denton, Franklin, High Point, Martins Ferry, Park Ridge, Saugus and Zanesville",Kristina didn't visit Saugus,1,quantifier
+"Everyone has visited Morristown, Tombstone, Harpers Ferry, Saratoga Springs, Southington, Kotzebue, Worcester, Van Buren, Connersville, Amsterdam, Deming, Duxbury, Needles, Nampa, Laurel and Birmingham",Yvette didn't visit Worcester,1,quantifier
+Everyone has visited every place,Emma didn't visit Newport News,1,quantifier
+Everyone has visited every person,Shirley didn't visit Cohoes,0,quantifier
+Everyone has visited every person and every place,Rhonda didn't visit Taos,1,quantifier
+Everyone has visited every person,Minnie didn't visit Julia,1,quantifier
+Someone has visited every person and every place,Madeline didn't visit Rock Hill,0,quantifier
+Everyone has visited every place,Mary didn't visit Alison,0,quantifier
+Someone has visited every person and every place,Kimberly didn't visit Spring Green,0,quantifier
+Someone has visited every person and every place,Ella didn't visit Charlene,0,quantifier
+Everyone has visited every person,Marilyn didn't visit Stella,1,quantifier
+Everyone has visited every person,Ana didn't visit Rose,1,quantifier
+Everyone has visited every person,Beverly didn't visit Sylvia,1,quantifier
+"Everyone has visited Youngstown, Niagara Falls, Galena, Tiffin, Opelika, Huron, Lander, Hawaii, Elk City, Fairhaven, Paducah, Sherman, Burlington and Chadron",Misty didn't visit Lansing,0,quantifier
+Everyone has visited every place,Tammy didn't visit Gladys,0,quantifier
+Everyone has visited every person,Amber didn't visit Annie,1,quantifier
+Someone has visited every person and every place,Jackie didn't visit Sonia,0,quantifier
+Everyone has visited every place,Luz didn't visit Loretta,0,quantifier
+Someone has visited every person and every place,Mae didn't visit Whitman,0,quantifier
+Everyone has visited every place,Joanna didn't visit Pasadena,1,quantifier
+Everyone has visited every person and every place,Rosie didn't visit Alice,1,quantifier
+Everyone has visited every place,Bessie didn't visit Oakland,1,quantifier
+Everyone has visited every place,Dawn didn't visit Daly City,1,quantifier
+Everyone has visited every place,Ida didn't visit Gina,0,quantifier
+Everyone has visited every person,Nicole didn't visit Kristine,1,quantifier
+Everyone has visited every place,Stacey didn't visit Amanda,0,quantifier
+"Everyone has visited Wilmington, Torrington, West Allis, Indio, Frederick, Danvers, Norwalk, Vail, Carbondale, Portsmouth, Calistoga, Layton and Great Neck",Jan didn't visit Port Washington,0,quantifier
+Everyone has visited every person,Dolores didn't visit Windham,0,quantifier
+Someone has visited every person and every place,Shannon didn't visit Terre Haute,0,quantifier
+Everyone has visited every person,Ruth didn't visit Springfield,0,quantifier
+Everyone has visited every place,Lynda didn't visit Stacy,0,quantifier
+Everyone has visited every person,Vivian didn't visit Caribou,0,quantifier
+Everyone has visited every person,Holly didn't visit Cedar Rapids,0,quantifier
+Someone has visited every person and every place,Maria didn't visit Hattie,0,quantifier
+"Everyone has visited John Day, Greenfield, Hempstead, Sausalito, Grinnell, Belfast, Mansfield, Hutchinson, Alton, Orderville, Jonesboro, Sedalia, Columbus, Bend, Cape Girardeau and San Antonio",Kristin didn't visit Smyrna,0,quantifier
+Everyone has visited every person,Kathryn didn't visit Vickie,1,quantifier
+Everyone has visited every person and every place,Kristen didn't visit Torrance,1,quantifier
+Everyone has visited every person,Anne didn't visit Bozeman,0,quantifier
+Everyone has visited every person,Marion didn't visit Sonya,1,quantifier
+"Everyone has visited Bakersfield, Danville, Elizabethtown, Pontiac, Interlochen, Cairo, Socorro, Spearfish, Huntington Beach, Pennsylvania, Bayonne and Germantown",Antoinette didn't visit Pontiac,1,quantifier
+"Everyone has visited Colorado, Decatur, Paris, Hudson, Bakersfield, Boonville, Laie, Auburn, El Centro, Union, Levittown, South San Francisco, Lake Charles, Harrodsburg and Charlotte",Gladys didn't visit Cedar City,0,quantifier
+Everyone has visited every person and every place,Jan didn't visit Fannie,1,quantifier
+Everyone has visited every person,Theresa didn't visit Raton,0,quantifier
+Someone has visited every person and every place,Roberta didn't visit Utah,0,quantifier
+Everyone has visited every place,Joanne didn't visit Santa Rosa,1,quantifier
+"Everyone has visited Delta, Hastings, Leadville, Corvallis, Ogdensburg, Marion, Ventura, Portland, Groton, Eufaula and Nacogdoches",Kathy didn't visit Norton,0,quantifier
+Everyone has visited every place,Viola didn't visit Winston-Salem,1,quantifier
+Everyone has visited every person and every place,Norma didn't visit Pontiac,1,quantifier
+Everyone has visited every person and every place,Toni didn't visit Angela,1,quantifier
+"Everyone has visited Virginia City, Norwood, Baraboo, Port Orford, Raleigh, Boonesborough, San Francisco, Richmond, Smith Center, North Hempstead and Bellefontaine",Carrie didn't visit Anaheim,0,quantifier
+Everyone has visited every person and every place,Mildred didn't visit Fannie,1,quantifier
+Everyone has visited every place,Margie didn't visit Alma,0,quantifier
+Someone has visited every person and every place,Carrie didn't visit Windsor Locks,0,quantifier
+"Everyone has visited Shelby, Greenwich, Barrington, Longmont, Petoskey, Hollywood, Sheboygan, Rockford, Independence, Tacoma, Klamath Falls, Jeannette, Cheektowaga, Lawrence, Shawnee, Yonkers, Roseburg, Perth Amboy, New York City and Cincinnati",Iris didn't visit Ojai,0,quantifier
+Someone has visited every person and every place,Pauline didn't visit Georgia,0,quantifier
+Someone has visited every person and every place,Glenda didn't visit Rosie,0,quantifier
+"Everyone has visited Mankato, Gardiner, Sacramento, Belmont, McMinnville, Fort Worth, Bossier City, Lake Geneva, Newcastle, Jackson, Granite City, Newark, Washington, Abbeville, Warren and Glen Ellyn",Kim didn't visit Newcastle,1,quantifier
+Everyone has visited every person and every place,Monique didn't visit Emma,1,quantifier
+"Everyone has visited Fort Smith, Virginia City, Oxnard, Kennebunkport, Springfield, Milledgeville, Pampa, Medford, Danbury, Waimea, Alexandria, Calais, Tupelo and Beverly Hills",Katrina didn't visit Leavenworth,0,quantifier
+Everyone has visited every person,Tammy didn't visit Bertha,1,quantifier
+Everyone has visited every person,Charlene didn't visit Louise,1,quantifier
+Everyone has visited every person,Helen didn't visit Beatrice,1,quantifier
+Everyone has visited every place,Miriam didn't visit West Plains,1,quantifier
+"Everyone has visited Bath, Kingston, Huron, Conway, Birmingham, New Britain, Lander, Benton, Weymouth and Ajo",Lorraine didn't visit Heber City,0,quantifier
+Everyone has visited every place,Renee didn't visit Carlisle,1,quantifier
+"Everyone has visited Manhattan, Climax, Paris, Anderson, Logan, Lancaster, River Forest, Plattsmouth, Portland, Fort Benton, Odessa, East Chicago, Dahlonega, Elwood, Bristol, Orangeburg, Jacksonville, Culver City, Ashland and Chanute",Connie didn't visit Xenia,0,quantifier
+Everyone has visited every person,Ashley didn't visit Fairhaven,0,quantifier
+Someone has visited every person and every place,Anita didn't visit Wanda,0,quantifier
+Someone has visited every person and every place,Dorothy didn't visit Janice,0,quantifier
+Everyone has visited every place,Lee didn't visit Denise,0,quantifier
+Someone has visited every person and every place,Marilyn didn't visit Bellingham,0,quantifier
+"Everyone has visited Oconto, Bethlehem, Salem, Pawtucket, Haddonfield, College Park, Orange, Laramie, Hopewell, Libertyville, Columbus, Lewisburg, San Antonio, East Chicago, Columbia, Naugatuck, Vancouver, Lackawanna, La Habra and Newport",Kayla didn't visit Columbus,1,quantifier
+"Everyone has visited Jacksonville, Lubec, Littleton, Madison, Santa Cruz, Sausalito, Arlington, Athens, Bristol, Fort Morgan, Port Hueneme, Aberdeen, Portsmouth, Shelbyville, Vinita, Wauwatosa, Beckley, Barberton and Jackson",Naomi didn't visit Jackson,1,quantifier
+"Everyone has visited San Marcos, Huntington, Fort Kent, Boonesborough, Franklin, Worland, Ouray, Glens Falls, Hingham and Sunnyvale",Irene didn't visit San Marcos,1,quantifier
+Everyone has visited every place,Dorothy didn't visit Truth or Consequences,1,quantifier
+Someone has visited every person and every place,Regina didn't visit Casper,0,quantifier
+Everyone has visited every person and every place,Velma didn't visit Ruth,1,quantifier
+Everyone has visited every person,Sherry didn't visit Vanessa,1,quantifier
+Everyone has visited every person,Jennie didn't visit April,1,quantifier
+Everyone has visited every person,Wilma didn't visit Hackensack,0,quantifier
+Everyone has visited every person,Blanche didn't visit Jenny,1,quantifier
+Everyone has visited every place,Carmen didn't visit Great Neck,1,quantifier
+"Everyone has visited Plattsmouth, Somerville, Summit, Crown Point, Bainbridge, Coral Gables, Havre, Monticello, Levittown, North Las Vegas and Kodiak",Miriam didn't visit Levittown,1,quantifier
+Someone has visited every person and every place,Claire didn't visit Joan,0,quantifier
+Everyone has visited every place,Karen didn't visit Christy,0,quantifier
+"Everyone has visited Oak Ridge, Oakland, Tampa, Apalachicola, Milan, Rensselaer, Clinton, Sanford, Salt Lake City, Oskaloosa, Sweetwater, San Felipe and La Grande",Genevieve didn't visit Saranac Lake,0,quantifier
+Everyone has visited every place,Jenny didn't visit Abbeville,1,quantifier
+"Everyone has visited Jonesboro, Pine Bluff, West Memphis, Englewood, Yorba Linda, Lake Wales, Newport, Palmdale, Pittsburg, Alva, Livonia and San Pedro",Darlene didn't visit Alva,1,quantifier
+Everyone has visited every person,Clara didn't visit Miami Beach,0,quantifier
+"Everyone has visited Florida, Lake Oswego, Mississippi, Corvallis, Bellevue, Garden City, Highland Park, Mission, Watts, Abingdon, White Plains, New Britain, Elizabeth, Cleveland Heights, Las Vegas, Steubenville, Canton, Garland, Wahpeton and Biddeford",Natalie didn't visit Corvallis,1,quantifier
+Everyone has visited every place,Peggy didn't visit Sylvia,0,quantifier
+Everyone has visited every person,Pauline didn't visit Cheryl,1,quantifier
+Everyone has visited every person,Dolores didn't visit Elgin,0,quantifier
+Everyone has visited every place,Maureen didn't visit Robin,0,quantifier
+Everyone has visited every place,Andrea didn't visit Janet,0,quantifier
+Someone has visited every person and every place,Jeanne didn't visit Las Vegas,0,quantifier
+Everyone has visited every person,Marian didn't visit Baker City,0,quantifier
+Everyone has visited every place,Debbie didn't visit Hampton,1,quantifier
+Everyone has visited every person,Charlotte didn't visit Bound Brook,0,quantifier
+Everyone has visited every place,Brittany didn't visit Beth,0,quantifier
+"Everyone has visited Charlotte, Nashville, East Hartford, Oklahoma City, Baton Rouge, Fullerton, Lebanon, South San Francisco, Rutland, Mankato, Amana Colonies, Malden, East Point, Nebraska City, Louisiana, Acoma, Plymouth, New Milford and Clarksburg",Samantha didn't visit Louisiana,1,quantifier
+Everyone has visited every person,Pauline didn't visit Sheffield,0,quantifier
+Everyone has visited every person and every place,Cecilia didn't visit East Chicago,1,quantifier
+Everyone has visited every person,Vickie didn't visit Nancy,1,quantifier
+"Everyone has visited Leadville, Libertyville, Visalia, Fargo, Kent, Lancaster, Aberdeen, Barberton, Frederick and Bordentown",Joyce didn't visit Iowa City,0,quantifier
+Everyone has visited every person,Roberta didn't visit Little Rock,0,quantifier
+Everyone has visited every person and every place,Lydia didn't visit Emma,1,quantifier
+"Everyone has visited Hot Springs, Homer, Columbia, Indiana, Oxnard, Hollywood, Little Rock, Nashville, Mount Pleasant, Mesquite, Rye, Anacortes, Grenada, Essex and Natchez",Daisy didn't visit Anacortes,1,quantifier
+Everyone has visited every place,Judy didn't visit Ishpeming,1,quantifier
+Everyone has visited every person and every place,Hilda didn't visit Lincoln,1,quantifier
+"Everyone has visited Elkins, New Windsor, Homestead, Kenosha, Savannah, Sharon, Augusta, Wisconsin, Interlochen, Welch and Sapulpa",Natasha didn't visit Mason City,0,quantifier
+Everyone has visited every place,Peggy didn't visit Kim,0,quantifier
+Everyone has visited every person,Brittany didn't visit Jennifer,1,quantifier
+Everyone has visited every person and every place,Jan didn't visit Homer,1,quantifier
+Everyone has visited every place,Kathleen didn't visit Tracy,0,quantifier
+Someone has visited every person and every place,Joyce didn't visit Chillicothe,0,quantifier
+"Everyone has visited Wilson, Vancouver, Coronado, Honaunau, North Kingstown, Williamsport, Kearney, Omaha, Lebanon, Mattoon, Benton, Urbana, Oregon, Huntington, Hanalei, Bellingham and Hodgenville",Inez didn't visit Oregon,1,quantifier
+Everyone has visited every person,Janet didn't visit Ada,1,quantifier
+"Everyone has visited Torrington, Bath, Texarkana, Hopkinsville, Bessemer, Columbia, Victoria, Yellow Springs, Orlando, Prineville and Oshkosh",Cora didn't visit Bessemer,1,quantifier
+Everyone has visited every person and every place,Brandy didn't visit Atlantic City,1,quantifier
+Everyone has visited every person and every place,Janet didn't visit Ukiah,1,quantifier
+"Everyone has visited Gainesville, Greenwich, Saginaw, Hempstead, Port Orford, Rock Springs, Stony Brook, Nauvoo, Saint Charles, Arkansas, New Bedford and Altoona",Marsha didn't visit Rock Springs,1,quantifier
+Everyone has visited every person,Allison didn't visit Garden Grove,0,quantifier
+"Everyone has visited Norfolk, Pasadena, Corinth, Mobile, Beverly Hills, Mission, Wellfleet, Guthrie, Scottsboro, Staten Island, Turlock and Louisville",Rosa didn't visit Walpi,0,quantifier
+Everyone has visited every person,Brandy didn't visit Molly,1,quantifier
+Everyone has visited every person,Misty didn't visit Cocoa Beach,0,quantifier
+Everyone has visited every place,Sharon didn't visit Herkimer,1,quantifier
+Everyone has visited every place,Courtney didn't visit Jamie,0,quantifier
+Everyone has visited every person,Maureen didn't visit Beth,1,quantifier
+Everyone has visited every place,Priscilla didn't visit Warren,1,quantifier
+Someone has visited every person and every place,Julia didn't visit Pomona,0,quantifier
+"Everyone has visited Bainbridge, Warren, Rensselaer, Cicero, Norristown, Neosho, Staunton, Price, Gainesville, Hopkinsville, Blairsville, Independence, North Kingstown, West Virginia, Gallup, Bedford, New Iberia, Bogalusa and Hempstead",Tracey didn't visit Neosho,1,quantifier
+Everyone has visited every place,Gail didn't visit New Kensington,1,quantifier
+Everyone has visited every person and every place,Claire didn't visit Michelle,1,quantifier
+Everyone has visited every person,Heather didn't visit Philadelphia,0,quantifier
+Everyone has visited every place,Constance didn't visit Sturgeon Bay,1,quantifier
+Everyone has visited every place,Joanna didn't visit Charlotte,0,quantifier
+Everyone has visited every person and every place,Becky didn't visit Wilma,1,quantifier
+Everyone has visited every place,Christy didn't visit Harlingen,1,quantifier
+Everyone has visited every person,Wendy didn't visit Eastchester,0,quantifier
+Everyone has visited every place,Brandy didn't visit East Moline,1,quantifier
+"Everyone has visited Millville, Starkville, San Antonio, Hanover, Hope, Park City, Petersburg, Sunbury, Climax, West Des Moines and Ferguson",Hattie didn't visit Globe,0,quantifier
+Everyone has visited every person,Tara didn't visit Josephine,1,quantifier
+Someone has visited every person and every place,Eleanor didn't visit Angie,0,quantifier
+Everyone has visited every person and every place,Penny didn't visit Marilyn,1,quantifier
+"Everyone has visited Hayward, Boonesborough, Essex, Guntersville, Athol, Leavenworth, Hope, Alamogordo, South San Francisco, Grants, Miles City, Weirton, Beloit and Nevada",Annie didn't visit Hope,1,quantifier
+"Everyone has visited Sault Sainte Marie, Cripple Creek, Pasadena, Concord, Annapolis, Independence, Sturgis, Hobbs, Michigan, Aberdeen, Aliquippa, Webster, North Adams, Willmar, Minnesota, Watervliet, Chelmsford and Rapid City",Shirley didn't visit Michigan,1,quantifier
+"Everyone has visited Winchester, Columbia, Texarkana, Mesa, Wilkes-Barre, Irvington, Farmington, San Rafael, Aspen, Waycross, Lenox and Everett",Edna didn't visit San Rafael,1,quantifier
+Everyone has visited every person,Edith didn't visit Cynthia,1,quantifier
+Everyone has visited every person,Daisy didn't visit Debbie,1,quantifier
+Everyone has visited every person,Marcia didn't visit Cynthia,1,quantifier
+Everyone has visited every place,Marian didn't visit Washington,1,quantifier
+Someone has visited every person and every place,Valerie didn't visit Great Falls,0,quantifier
+"Everyone has visited Amsterdam, Harrisburg, Beaufort, Bainbridge, McCook, Dahlonega, Biloxi, Napa, Sacramento, Pascagoula, Williamstown, Spanish Fork, Portsmouth, New London, Nebraska, Starkville, Asbury Park and Abilene",Ana didn't visit Oregon,0,quantifier
+Everyone has visited every place,Candace didn't visit Rebecca,0,quantifier
+Everyone has visited every place,Kristen didn't visit Denison,1,quantifier
+Everyone has visited every person and every place,Wendy didn't visit Regina,1,quantifier
+"Everyone has visited Cocoa-Rockledge, Shiprock, Brigham City, Saint Paul, Kaneohe, Minden, Carlsbad, Arkadelphia, Barberton, Independence, Elizabeth City, Clarksdale, Breckenridge, Tuskegee, Waycross, Winter Park, Dickinson, Calistoga, Portsmouth and Hastings",Tiffany didn't visit Orono,0,quantifier
+Everyone has visited every person,Penny didn't visit Alice,1,quantifier
+"Everyone has visited Panguitch, Oak Park, Chesapeake, Newburyport, Central City, Nashville, Bossier City, Portsmouth, Ogdensburg, Myrtle Beach, Warren, Nanticoke, New Albany, Totowa, Kearney and Little Falls",Virginia didn't visit Charlottesville,0,quantifier
+Everyone has visited every place,Phyllis didn't visit Waterville,1,quantifier
+Someone has visited every person and every place,Verna didn't visit Sonia,0,quantifier
+Everyone has visited every place,Debbie didn't visit Arlene,0,quantifier
+Everyone has visited every person and every place,Agnes didn't visit Irene,1,quantifier
+Everyone has visited every person and every place,Katherine didn't visit Dorothy,1,quantifier
+Someone has visited every person and every place,Violet didn't visit Clara,0,quantifier
+Everyone has visited every person,Peggy didn't visit Brenda,1,quantifier
+Someone has visited every person and every place,Dora didn't visit Pauline,0,quantifier
+Everyone has visited every place,Brandi didn't visit Cindy,0,quantifier
+Everyone has visited every person,Doris didn't visit Amelia,1,quantifier
+Everyone has visited every person,Olga didn't visit Ellsworth,0,quantifier
+Everyone has visited every person,Lorraine didn't visit Manhattan,0,quantifier
+"Everyone has visited Mesa, New Glarus, Prichard, DeKalb, Cullman, Kelso, Jackson, Conway, Orange, York, Potsdam, Salem, Port Hueneme and Morehead City",Margie didn't visit DeKalb,1,quantifier
+Everyone has visited every person,Deanna didn't visit Rebecca,1,quantifier
+Someone has visited every person and every place,Marguerite didn't visit Olivia,0,quantifier
+Everyone has visited every person and every place,Anita didn't visit Wichita,1,quantifier
+Everyone has visited every place,Molly didn't visit Norma,0,quantifier
+Everyone has visited every person,Elizabeth didn't visit Reno,0,quantifier
+Everyone has visited every place,Tammy didn't visit Clinton,1,quantifier
+"Everyone has visited Narragansett, Nahant, Arkadelphia, Bay City, Havre, Decatur, Princeton, Athens, Hollywood and Ventura",Helen didn't visit Pueblo,0,quantifier
+Everyone has visited every person,Nancy didn't visit Chester,0,quantifier
+Everyone has visited every place,Dolores didn't visit Jim Thorpe,1,quantifier
+Someone has visited every person and every place,Toni didn't visit Burbank,0,quantifier
+Everyone has visited every place,Jackie didn't visit York,1,quantifier
+Everyone has visited every person,Samantha didn't visit Takoma Park,0,quantifier
+Everyone has visited every place,Miriam didn't visit June,0,quantifier
+Everyone has visited every place,Leona didn't visit Reston,1,quantifier
+Everyone has visited every place,Hattie didn't visit Amy,0,quantifier
+Everyone has visited every person,Debbie didn't visit Patsy,1,quantifier
+Everyone has visited every person,Sylvia didn't visit Julie,1,quantifier
+"Everyone has visited Boston, Stillwater, Plainview, Canton, Franklin, Honolulu, Greenwood, Bedford, Gila Bend, Arthur, Santa Ana, Cahokia, Okmulgee, Colorado, Lebanon, Laurel and Calistoga",Diane didn't visit Honolulu,1,quantifier
+"Everyone has visited Glendale, Asbury Park, Turlock, Rockford, Elk City, Jacksonville, Salt Lake City, Truth or Consequences, Ontario, Oyster Bay and Atchison",Susan didn't visit Jacksonville,1,quantifier
+Everyone has visited every place,Heather didn't visit Lorraine,0,quantifier
+Everyone has visited every place,Genevieve didn't visit Carolyn,0,quantifier
+Everyone has visited every person,Paula didn't visit Fredonia,0,quantifier
+Everyone has visited every place,Elizabeth didn't visit Connecticut,1,quantifier
+Everyone has visited every person,Jean didn't visit Indio,0,quantifier
+Everyone has visited every person,Brenda didn't visit Nacogdoches,0,quantifier
+Everyone has visited every person,Elizabeth didn't visit Milford,0,quantifier
+Someone has visited every person and every place,Jeanette didn't visit Memphis,0,quantifier
+Everyone has visited every person,Marie didn't visit San Gabriel,0,quantifier
+Everyone has visited every place,Robin didn't visit Lois,0,quantifier
+Everyone has visited every person,Veronica didn't visit Dora,1,quantifier
+Everyone has visited every person and every place,Bobbie didn't visit Ashley,1,quantifier
+Everyone has visited every person and every place,Victoria didn't visit Dana,1,quantifier
+Someone has visited every person and every place,Ada didn't visit Sally,0,quantifier
+"Everyone has visited Georgia, Fort Payne, Asheboro, Fort Pierce, Clayton, Toledo, Corona, Galena, Jeffersonville, Sierra Vista, Wausau, Williamsport, Boise, Lafayette, West Des Moines and Port Lavaca",Marian didn't visit Lompoc,0,quantifier
+Everyone has visited every person,Gina didn't visit Framingham,0,quantifier
+Everyone has visited every place,Kim didn't visit Morganton,1,quantifier
+Someone has visited every person and every place,Brandi didn't visit Santa Claus,0,quantifier
+"Everyone has visited La Crosse, Holyoke, Groton, Cambridge, Clifton, La Salle, Phoenix, Cocoa Beach, Janesville, Orem and Tullahoma",Renee didn't visit Tullahoma,1,quantifier
+Everyone has visited every person and every place,Mae didn't visit Suffolk,1,quantifier
+Everyone has visited every person,Christy didn't visit Vera,1,quantifier
+Everyone has visited every person,Suzanne didn't visit Hattie,1,quantifier
+"Everyone has visited La Crosse, Omaha, Alamosa, Windsor, Euclid, Alexandria, Detroit, Charlotte, Laurel, Lakehurst, Bardstown, Green River, Port Gibson, Poughkeepsie, East Cleveland, Fort Scott and Tarrytown",Stella didn't visit Charlotte,1,quantifier
+"Everyone has visited York, Mandan, Panama City, Hobbs, Cody, California, Grinnell, Livonia, Clearfield, Birmingham, Baton Rouge, Pasadena, Claremore, Nevada and New Rochelle",Marlene didn't visit Panama City,1,quantifier
+Everyone has visited every person,Jo didn't visit Kodiak,0,quantifier
+Someone has visited every person and every place,Lois didn't visit Shreveport,0,quantifier
+"Everyone has visited Camden, York, Ithaca, Winooski, Denver, Clinton, Ely, Neosho, Guthrie, Genoa and Newport",Mae didn't visit Neosho,1,quantifier
+Everyone has visited every person and every place,Amelia didn't visit Sylvia,1,quantifier
+"Everyone has visited Anniston, Vernal, Park Forest, Bemidji, San Simeon, Emporia, Menlo Park, Orderville, Cushing, Washington, Ephrata, Willmar, Canon City and Petaluma",Marian didn't visit Willmar,1,quantifier
+Everyone has visited every person and every place,Kristi didn't visit Bessemer,1,quantifier
+Everyone has visited every place,Marcia didn't visit Julie,0,quantifier
+Everyone has visited every person,Melanie didn't visit Sharon,0,quantifier
+Everyone has visited every place,Myrtle didn't visit Orange,1,quantifier
+Everyone has visited every person,Alberta didn't visit Sheila,1,quantifier
+Everyone has visited every person,Janet didn't visit Dora,1,quantifier
+Everyone has visited every person,Lisa didn't visit Saint Ignace,0,quantifier
+Everyone has visited every place,Terry didn't visit Hamden,1,quantifier
+Everyone has visited every place,Jodi didn't visit Norma,0,quantifier
+Everyone has visited every place,Sylvia didn't visit Helen,0,quantifier
+Everyone has visited every person,Mae didn't visit Sara,1,quantifier
+Everyone has visited every person and every place,Grace didn't visit Somerville,1,quantifier
+Everyone has visited every place,Priscilla didn't visit Melinda,0,quantifier
+"Everyone has visited Bristol, Frederick, Murray, Milford, New Windsor, Canton, Jonesborough, Coos Bay, East Haven, Akron, Kingston, Roanoke, Shelton, Campbellsville, Dedham, Watts, Forest Hills, Sag Harbor, Colorado Springs and Fayetteville",Carolyn didn't visit Jonesborough,1,quantifier
+"Everyone has visited Stonington, Midland, Frederick, Fayetteville, Montgomery, Irving, Claremont, Jackson, Omaha, Manhattan, Lawton, Hazleton and Hancock",Carla didn't visit Claremont,1,quantifier
+Everyone has visited every place,Sherry didn't visit Lena,0,quantifier
+"Everyone has visited Cape Coral, McAllen, Elmira, Iowa, Hibbing, Henderson, Glenwood Springs, Yankton, Ten Sleep, Rocky Mount, Shepherdstown and Taunton",Sue didn't visit Green Bay,0,quantifier
+"Everyone has visited Wilkes-Barre, Manistee, Roswell, Spartanburg, Adams, Maine, New Rochelle, Bradenton, Florence, Saint Martinville, Williamsport and Michigan City",Vickie didn't visit Adams,1,quantifier
+Everyone has visited every person,Alicia didn't visit Shannon,1,quantifier
+Everyone has visited every place,Kelly didn't visit Cincinnati,1,quantifier
+Everyone has visited every person,Nina didn't visit Elmhurst,0,quantifier
+Someone has visited every person and every place,Maryann didn't visit North Adams,0,quantifier
+Everyone has visited every person,Leona didn't visit Crystal,1,quantifier
+Everyone has visited every person and every place,Billie didn't visit Erika,1,quantifier
+Everyone has visited every place,Bertha didn't visit Tina,0,quantifier
+Everyone has visited every place,Blanche didn't visit Helen,0,quantifier
+Everyone has visited every person,Pauline didn't visit Interlochen,0,quantifier
+Someone has visited every person and every place,Jennie didn't visit Heidi,0,quantifier
+Everyone has visited every person,Sandy didn't visit Louise,1,quantifier
+"Everyone has visited Harlem, Waynesboro, Lahaina, Mount Pleasant, Lima, West Covina, Miami, New Harmony, New Albany and Portland",Gloria didn't visit Mount Pleasant,1,quantifier
+Everyone has visited every place,Erika didn't visit Lillian,0,quantifier
+Everyone has visited every place,Andrea didn't visit Lydia,0,quantifier
+Someone has visited every person and every place,Lena didn't visit Cassandra,0,quantifier
+Everyone has visited every place,Tonya didn't visit Red Cloud,1,quantifier
+Everyone has visited every person and every place,Vivian didn't visit Brandy,1,quantifier
+"Everyone has visited Fairbanks, Stuttgart, Climax, Michigan, Ojai, Mexico, Massena, Alabama, Catonsville, Andover, Hodgenville, Delaware, Plano, Eau Claire, Willimantic and Harrison",Maureen didn't visit Andover,1,quantifier
+"Everyone has visited West Springfield, Ruston, Austin, Lowell, Hazard, Saratoga Springs, Branford, Anderson, Muskogee, Greenbelt, Niles, Waukesha, Tewksbury, Andalusia and Burlington",Angela didn't visit Vermillion,0,quantifier
+"Everyone has visited Michigan City, Norton, Arlington, Covington, Flint, Eureka, Oyster Bay, Bellingham, Newton, Florida, Marshall, Nampa, San Pedro, Sierra Vista and Glendale",Juana didn't visit Marshall,1,quantifier
+Everyone has visited every person and every place,Mildred didn't visit Hazleton,1,quantifier
+Everyone has visited every person and every place,Hilda didn't visit Amelia,1,quantifier
+Everyone has visited every person,Lindsey didn't visit Cleveland Heights,0,quantifier
+Everyone has visited every person,Jackie didn't visit Jessica,1,quantifier
+Everyone has visited every place,Lola didn't visit Andalusia,1,quantifier
+Everyone has visited every person,Kathryn didn't visit Great Falls,0,quantifier
+Someone has visited every person and every place,Margie didn't visit Lenox,0,quantifier
+Everyone has visited every place,Anne didn't visit Bloomfield,1,quantifier
+Everyone has visited every place,Lola didn't visit Rosie,0,quantifier
+Everyone has visited every person,Sherri didn't visit Asheboro,0,quantifier
+Everyone has visited every place,Jennifer didn't visit Sonia,0,quantifier
+"Everyone has visited Mobile, Franklin, Rutherford, Aberdeen, Decatur, Milbank, Troy, Fulton, Willimantic, French Lick, New Castle, Oak Harbor, Independence, McAlester and Hanover",Pearl didn't visit Mineola,0,quantifier
+"Everyone has visited Hudson, Greeley, Spring Green, Braintree, Stockbridge, North Little Rock, Gloucester, Homestead, Corydon, Saint Petersburg, De Smet, Sonoma, Boise, Richardson, San Gabriel, Thermopolis, Nashville, Woodbridge and Monroeville",Carole didn't visit West Hartford,0,quantifier
+Everyone has visited every place,Eleanor didn't visit Mary,0,quantifier
+Everyone has visited every person,Hilda didn't visit Virginia,0,quantifier
+Everyone has visited every place,Flora didn't visit Tewksbury,1,quantifier
+Everyone has visited every place,Jacqueline didn't visit Kristin,0,quantifier
+"Everyone has visited Venice, Fullerton, Morgantown, Woodbridge, Lancaster, Cordova, Brookline, Warrensburg, Palmyra, Jackson, Wahiawa, Meriden, Saint Paul, Oregon, Neenah, Holland, Portales, Worland and Saint Ignace",Grace didn't visit Bristol,0,quantifier
+"Everyone has visited Vernal, Piqua, Woods Hole, Jackson, Chillicothe, West New York, Hyde Park, Thermopolis, New Orleans, Ithaca, Virden, Waterbury, Golden, Jacksonville, Dillon and Indiana",Hattie didn't visit Piqua,1,quantifier
+Everyone has visited every person,Brandy didn't visit Belle Glade,0,quantifier
+Everyone has visited every place,Helen didn't visit Corning,1,quantifier
+Everyone has visited every person and every place,Lynda didn't visit Philadelphia,1,quantifier
+Everyone has visited every place,Theresa didn't visit Rose,0,quantifier
+"Everyone has visited West Haven, Dallas, Irving, Peterborough, Northfield, Chillicothe, Ajo, Memphis, Hot Springs, North College Hill, Houlton, Indio, Warren, Ocean City, San Juan Capistrano, Fresno, Idaho City and Weatherford",Minnie didn't visit Clifton,0,quantifier
+"Everyone has visited Indiana, Rock Hill, Marion, Abilene, San Marino, Sierra Vista, Las Vegas, Eugene, Sturgeon Bay, Marblehead, Emporia, Lewistown, Yankton, Sun Valley, Gallup, Kahului, Cushing, Lompoc and Amarillo",Mae didn't visit Parkersburg,0,quantifier
+Everyone has visited every person,Tiffany didn't visit Eleanor,1,quantifier
+Someone has visited every person and every place,Andrea didn't visit Nora,0,quantifier
+Someone has visited every person and every place,Hazel didn't visit Denver,0,quantifier
+Everyone has visited every place,Jackie didn't visit Suzanne,0,quantifier
+Everyone has visited every person,Sarah didn't visit Joyce,1,quantifier
+Everyone has visited every person,Ashley didn't visit Katie,1,quantifier
+Someone has visited every person and every place,Ann didn't visit Madeline,0,quantifier
+Everyone has visited every person,Arlene didn't visit Lorraine,1,quantifier
+"Everyone has visited Lynchburg, Southington, Windham, Grand Junction, Dedham, West Memphis, Buckhannon, Saint Joseph, Tillamook, Lead, Chicago, Plattsmouth, Ilion, Hayward, San Felipe, McAllen, Red Bluff, Telluride and Tucumcari",Rose didn't visit Hayward,1,quantifier
+Everyone has visited every person,Betty didn't visit Wilma,1,quantifier
+"Everyone has visited Machias, Grand Island, Palo Alto, Anaconda, Buckhannon, Milford, Los Alamos, Highland Park, Brighton, Bound Brook, Baytown, Oskaloosa, Webster, Greenville, East Hartford, Hollywood, Cleveland Heights, Princeton, Woodbridge and Farmington",Christine didn't visit Webster,1,quantifier
+Everyone has visited every person,Nancy didn't visit Geneva,1,quantifier
+Everyone has visited every person,Martha didn't visit Margie,1,quantifier
+Everyone has visited every place,Sabrina didn't visit Lena,0,quantifier
+"Everyone has visited Crystal City, Palatka, Plainview, Saint Petersburg, Bethany, Tiffin, Deming, Plattsburgh, Vincennes, Elko, Wyandotte, Lovington, Ohio and Roseburg",Connie didn't visit Lovington,1,quantifier
+Everyone has visited every place,Audrey didn't visit Alberta,0,quantifier
+Someone has visited every person and every place,Kayla didn't visit Wichita,0,quantifier
+Everyone has visited every place,Erika didn't visit Willmar,1,quantifier
+Everyone has visited every person,Tracey didn't visit Shiprock,0,quantifier
+Someone has visited every person and every place,Elaine didn't visit El Centro,0,quantifier
+Everyone has visited every person and every place,Kelly didn't visit Amy,1,quantifier
+"Everyone has visited Oskaloosa, Indianapolis, Jacksonville, East Moline, Windsor Locks, Missoula, Rolla, West Allis, Bloomfield, Cuyahoga Falls, Morehead City, Franklin, Concord, Mundelein, Guymon, Bedford, Tacoma and Palmyra",Jeanette didn't visit South Carolina,0,quantifier
+Everyone has visited every place,Doris didn't visit Bridgeport,1,quantifier
+Someone has visited every person and every place,Carrie didn't visit Brunswick,0,quantifier
+"Everyone has visited Plains, Kalispell, Warner Robins, Richmond, Painesville, Saco, Logan, Presque Isle, Ruston, Norton, Winston-Salem, Victoria, Estherville, Lander, South Saint Paul, Bartow, Hugo, New Market, Rawlins and Washington",Ramona didn't visit Canyon,0,quantifier
+Everyone has visited every place,Georgia didn't visit Rock Hill,1,quantifier
+Everyone has visited every person and every place,Katherine didn't visit Sylvia,1,quantifier
+"Everyone has visited Greeley, South Orange Village, Arthur, Wyoming, Council Bluffs, Hattiesburg, Lansing, Victoria, Charlottesville, Americus, Edgartown, Ephrata, Milton, Bath, Winter Haven and New Ulm",Ann didn't visit Susanville,0,quantifier
+Everyone has visited every place,Maryann didn't visit Annie,0,quantifier
+Everyone has visited every person and every place,Minnie didn't visit Jackie,1,quantifier
+Everyone has visited every place,Eleanor didn't visit Laie,1,quantifier
+Everyone has visited every person,Margarita didn't visit Hoquiam,0,quantifier
+Everyone has visited every person,Christine didn't visit Kayla,1,quantifier
+"Everyone has visited Ypsilanti, Evanston, Nampa, Juneau, Thibodaux, Plainview, Peru, Bartow, Oyster Bay, Dennis and Burlington",Alma didn't visit Nampa,1,quantifier
+Someone has visited every person and every place,Cheryl didn't visit Dover,0,quantifier
+Someone has visited every person and every place,Harriet didn't visit Pottstown,0,quantifier
+"Everyone has visited Keyser, Chickasaw, Nampa, Lodi, White Springs, Oneida, Wayne, Wickford, Coney Island, Galveston, Hopewell, Scottsdale, Washington, Sylacauga, Muscatine, San Clemente and Moline",Michele didn't visit Bowling Green,0,quantifier
+Everyone has visited every place,Wilma didn't visit Terri,0,quantifier
+Everyone has visited every place,Jennie didn't visit Mount Vernon,1,quantifier
+Everyone has visited every person,Caroline didn't visit Oskaloosa,0,quantifier
+Everyone has visited every person and every place,Ana didn't visit Connie,1,quantifier
+"Everyone has visited Hanover, Kellogg, Morristown, Elko, Rome, Watkins Glen, El Paso, Johnson City, Tennessee, Wayne, Zanesville, Carrollton, Independence, Idaho City, Mitchell, Red Bluff, Alpine, Kilgore and Scottsboro",Flora didn't visit Watkins Glen,1,quantifier
+"Everyone has visited Fremont, Ocean Springs, Boca Raton, Pasadena, Martinsville, Odessa, Topeka, Charlestown, Hays, Ridgewood, Hancock, Salina, West Hartford, Orlando, Virginia Beach, Saint Martinville, Darien, Memphis and Mitchell",Maggie didn't visit Kittery,0,quantifier
+Everyone has visited every person and every place,Lindsey didn't visit Nina,1,quantifier
+Someone has visited every person and every place,Alberta didn't visit Minnie,0,quantifier
+Everyone has visited every person,Jo didn't visit Stillwater,0,quantifier
+Everyone has visited every person and every place,Alma didn't visit Harriet,1,quantifier
+Everyone has visited every place,Sue didn't visit Milford,1,quantifier
+Everyone has visited every person and every place,Jessica didn't visit Starkville,1,quantifier
+Everyone has visited every place,Marsha didn't visit Carlsbad,1,quantifier
+"Everyone has visited Steamboat Springs, Saugus, Barrington, Concord, Torrington, Miami, Lewistown, Elyria, Yazoo City, Omaha, Blairsville and Elkins",Amber didn't visit Mansfield,0,quantifier
+"Everyone has visited Redding, Pocatello, Lewiston, Fort Lauderdale, Livonia, Sidney, Nogales, West Bridgewater, South Holland, Texas, Lamar, Mansfield, Oak Harbor, Charlottesville, Ontario and Evansville",Janice didn't visit Garden City,0,quantifier
+Everyone has visited every person,Inez didn't visit Nogales,0,quantifier
+"Everyone has visited Cookeville, Lewes, Walpi, Altus, Novato, Bellingham, Collinsville, Franklin, DeKalb, Utah, Stony Brook, Utica, Warwick, Fresno, San Luis Obispo, Chester, Vallejo, Aiken and Pittsburgh",Rebecca didn't visit Aiken,1,quantifier
+"Everyone has visited Colorado Springs, Nanticoke, Old Saybrook, New London, Long Beach, New Smyrna Beach, Opelika, Danville, Sebring, Atchison, Nevada, Jonesboro, Sylacauga and Fall River",Lorraine didn't visit Montrose,0,quantifier
+Everyone has visited every place,Mattie didn't visit New Madrid,1,quantifier
+"Everyone has visited Staten Island, Anaheim, Meridian, Bristol, Kaskaskia, Shelton, Torrance, Middlebury, Yorba Linda, Estes Park, Springfield, Oxnard, Trenton and Watertown",Frances didn't visit Palm Bay,0,quantifier
+Everyone has visited every person,Paula didn't visit Westfield,0,quantifier
+Everyone has visited every place,Beatrice didn't visit Hopkinsville,1,quantifier
+Someone has visited every person and every place,Yvette didn't visit Mineola,0,quantifier
+Everyone has visited every person,Darlene didn't visit Edna,1,quantifier
+Everyone has visited every person and every place,Peggy didn't visit Maryann,1,quantifier
+Everyone has visited every person,Catherine didn't visit Melinda,1,quantifier
+Everyone has visited every person and every place,Vicki didn't visit Sally,1,quantifier
+Everyone has visited every person and every place,Lucy didn't visit Juana,1,quantifier
+Everyone has visited every place,Erin didn't visit Susie,0,quantifier
+Everyone has visited every person,Charlene didn't visit Tupelo,0,quantifier
+Everyone has visited every place,Monica didn't visit Minnie,0,quantifier
+Everyone has visited every person,Marilyn didn't visit Ludington,0,quantifier
+Everyone has visited every person and every place,Mary didn't visit Aberdeen,1,quantifier
+Everyone has visited every place,Regina didn't visit Ashley,0,quantifier
+"Everyone has visited Jersey City, Mentor, Hyde Park, Murfreesboro, Greenfield, Lahaina, Columbia, South Kingstown, Magnolia, Monett and Aberdeen",Brenda didn't visit Williamstown,0,quantifier
+"Everyone has visited Fort Lee, Deming, Santa Fe, Talladega, Middletown, Durham, East Orange, Barstow, Belle Fourche, Fairhaven, Lebanon, Charlestown and Natchitoches",Inez didn't visit Barstow,1,quantifier
+Someone has visited every person and every place,Brittany didn't visit Tanya,0,quantifier
+Everyone has visited every person,Elaine didn't visit Bloomsburg,0,quantifier
+Someone has visited every person and every place,Renee didn't visit Cassandra,0,quantifier
+Everyone has visited every place,Kristy didn't visit Ashland,1,quantifier
+"Everyone has visited Oakland, Iowa, Simi Valley, Pomona, Belen, Yakima, New Braunfels, Corpus Christi, Bloomington, Big Spring, McAllen, Downey, East Point, Fresno, Salt Lake City, Wauwatosa, Milbank, Stevens Point and Chicopee",Luz didn't visit New Braunfels,1,quantifier
+Everyone has visited every place,Jane didn't visit Maggie,0,quantifier
+Everyone has visited every place,Jackie didn't visit Ethel,0,quantifier
+Everyone has visited every person and every place,Rachel didn't visit Lisa,1,quantifier
+Everyone has visited every person,Lynda didn't visit Ana,1,quantifier
+"Everyone has visited Artesia, Chico, Provo, Pittsburg, Grosse Pointe, Ten Sleep, Toccoa, Beaufort, Price, Dennis, Edenton, Gatlinburg, Mount Pleasant, Warren, Hillsboro, Portland, Michigan, North Haven, Brookline and Ely",Luz didn't visit Dennis,1,quantifier
+"Everyone has visited Bloomington, Cleveland Heights, Newport News, Pontiac, The Village, Brattleboro, Harwich, Bethlehem, Hutchinson, Georgia, Jackson, Clinton, Forrest City, Machias, Littleton, Battle Creek and Crystal City",Lindsey didn't visit Bethlehem,1,quantifier
+Everyone has visited every place,Edith didn't visit Isabel,0,quantifier
+"Everyone has visited Jasper, Eastport, Lexington, Stockbridge, Darien, Dixon, Greenville, Boulder, Marietta, Ukiah, Norwich, Canyon, Orem, Guntersville, Arkansas Post, Hayward, Havre and Columbus",Mamie didn't visit Faribault,0,quantifier
+Someone has visited every person and every place,Renee didn't visit Danielle,0,quantifier
+Everyone has visited every person,Jennifer didn't visit Idaho City,0,quantifier
+Everyone has visited every place,Terry didn't visit Jill,0,quantifier
+"Everyone has visited Valparaiso, Enterprise, Bath, Woodbridge, Fairmont, Arcadia, Oraibi, Mansfield, Gary, Marquette, Sierra Vista, Keyser, Wyandotte, Wilmington, Lenox, Redlands, Independence, Lombard, San Fernando and Sylacauga",Jennie didn't visit Sylacauga,1,quantifier
+"Everyone has visited Springfield, Columbus, Puyallup, Castine, Harrisburg, San Antonio, Palatka, West New York, Fort Pierce and Hollywood",Bessie didn't visit Ticonderoga,0,quantifier
+Everyone has visited every person,Yolanda didn't visit Corona,0,quantifier
+Everyone has visited every person,Flora didn't visit Toni,1,quantifier
+Everyone has visited every place,Natasha didn't visit Edna,0,quantifier
+"Everyone has visited Boston, Rochester, Sanford, Chautauqua, Wilmington, Cordova, Bourne, Elizabeth, Lafayette, Klamath Falls, Lubbock, Carlinville, Cleveland, Skokie, Wilkes-Barre, Arkansas, Las Cruces, Athens and Lebanon",Faye didn't visit Greenbelt,0,quantifier
+Everyone has visited every place,Pamela didn't visit Fort Lee,1,quantifier
+Everyone has visited every person,Judy didn't visit White Sulphur Springs,0,quantifier
+Everyone has visited every person and every place,Rebecca didn't visit Peggy,1,quantifier
+"Everyone has visited Dodge City, Wilson, Dalton, Jonesborough, Biddeford, Berlin, Frankfort, Paterson, Idaho, Santa Clara, Florence and Arkansas Post",Ana didn't visit Schenectady,0,quantifier
+Someone has visited every person and every place,Carole didn't visit Laura,0,quantifier
+Everyone has visited every place,Pearl didn't visit Vickie,0,quantifier
+Everyone has visited every person,Charlotte didn't visit Cecilia,1,quantifier
+Everyone has visited every person,Audrey didn't visit Lindsay,1,quantifier
+Everyone has visited every place,Kimberly didn't visit Darlene,0,quantifier
+"Everyone has visited Titusville, Wheeling, Reading, Watertown, Lumberton, New Castle, Portsmouth, Bloomington, Hilo, Sweetwater, Little Rock, Brookline and Ocean Springs",Sherri didn't visit Sweetwater,1,quantifier
+Everyone has visited every place,Blanche didn't visit Kathy,0,quantifier
+Everyone has visited every person and every place,Janice didn't visit Carthage,1,quantifier
+"Everyone has visited Winter Park, Ann Arbor, Lakewood, Vincennes, Coronado, Ojai, Andersonville, Logan, Saginaw, San Juan Capistrano and Chadron",Sandra didn't visit Lakewood,1,quantifier
+"Everyone has visited Valley City, Gunnison, Arthur, Ludington, Spanish Fork, Framingham, Rotterdam, North Little Rock, Wailuku, Scarsdale, Mount Pleasant, Bedford, Lebanon, Milan and New Harmony",Sarah didn't visit San Jose,0,quantifier
+"Everyone has visited Uniontown, West Hartford, North Haven, Ocala, South Charleston, Kingston, Dayton, Fort Scott, Newport Beach, Morristown, Naples, Hibbing, Vallejo, Sault Sainte Marie, Beaverton, Sebring and Tuscumbia",Sheila didn't visit Naples,1,quantifier
+"Everyone has visited San Gabriel, Venice, Alamosa, Manchester, Derry, Calumet City, Hays, Santa Monica, Thousand Oaks, Winston-Salem, Truro, Elkton, Greenville, Belmont, Montrose and Dickinson",Lori didn't visit Redwood City,0,quantifier
+Everyone has visited every person,Iris didn't visit Coos Bay,0,quantifier
+"Everyone has visited Rockford, Mount Vernon, Pasadena, Palo Alto, Walsenburg, Mount Clemens, Shawneetown, Oxnard, Laconia, Northampton, Klamath Falls and Nauvoo",Iris didn't visit Gastonia,0,quantifier
+Everyone has visited every place,Lillie didn't visit Northfield,1,quantifier
+Everyone has visited every person and every place,Diane didn't visit Jackson,1,quantifier
+Someone has visited every person and every place,Yvonne didn't visit Hingham,0,quantifier
+"Everyone has visited Yuma, Boys Town, Virginia Beach, Bryan, Altoona, Redmond, Normal, Magnolia, North Dakota, Saint Johnsbury, Fairmont, Abington, East Greenwich and Okmulgee",Margarita didn't visit Corpus Christi,0,quantifier
+Someone has visited every person and every place,Tammy didn't visit Rhonda,0,quantifier
+Everyone has visited every place,Theresa didn't visit Tallahassee,1,quantifier
+Everyone has visited every person and every place,Laurie didn't visit Erica,1,quantifier
+Everyone has visited every person,Mildred didn't visit Lola,1,quantifier
+Everyone has visited every person,Hattie didn't visit Virginia City,0,quantifier
+Everyone has visited every person,Regina didn't visit Irene,1,quantifier
+Someone has visited every person and every place,Joan didn't visit Alicia,0,quantifier
+Someone has visited every person and every place,Lynda didn't visit Dothan,0,quantifier
+"Everyone has visited Eufaula, Shawneetown, Hackensack, Daly City, Brookings, Hattiesburg, Sierra Vista, Kennewick, Waukesha, Brunswick, Norris, Coffeyville, Coventry, Vincennes and Goldfield",Geraldine didn't visit Norris,1,quantifier
+Everyone has visited every person,Suzanne didn't visit Glens Falls,0,quantifier
+Everyone has visited every person,Megan didn't visit Jeannette,0,quantifier
+"Everyone has visited Bartlesville, East Cleveland, Ishpeming, Napa, Fort Walton Beach, Stillwater, Holyoke, Wisconsin, Neosho, Atlanta, Newport, Fairfield, Medicine Lodge, Hawaii, Ouray, Sausalito and Jonesborough",Carol didn't visit Medicine Lodge,1,quantifier
+Someone has visited every person and every place,Wanda didn't visit Sally,0,quantifier
+Everyone has visited every place,Margaret didn't visit Kodiak,1,quantifier
+Everyone has visited every person,Juanita didn't visit Fort Myers,0,quantifier
+"Everyone has visited Minneapolis, Sandwich, Sanford, Aberdeen, Holly Springs, Oregon City, Flagstaff, Welch, Custer, Newport, Wheeling and Seymour",Lena didn't visit Elmhurst,0,quantifier
+"Everyone has visited Petoskey, Easton, New Hope, Plano, Gulfport, Atmore, Houston, Ogdensburg, Orono, Ansonia and Murfreesboro",Bessie didn't visit Easton,1,quantifier
+Everyone has visited every person,Tanya didn't visit Tupelo,0,quantifier
+Someone has visited every person and every place,Dawn didn't visit Georgia,0,quantifier
+"Everyone has visited New Martinsville, South Orange Village, Morehead City, Toccoa, Coney Island, Sonoma, Denison, Urbana, Reading, Corinth, New Rochelle, Seattle, Myrtle Beach, Lake Havasu City, Anderson, Beaverton, Middlesboro, Pine Bluff and Charleston",Theresa didn't visit Reading,1,quantifier
+Everyone has visited every person,Carole didn't visit Lafayette,0,quantifier
+"Everyone has visited Ridgewood, Hershey, Joliet, Aberdeen, South Carolina, Saint Joseph, McKinney, Berkeley, Falls Church, Springfield, Jamestown, Alcoa, Cambridge, Troy and Homer",Marilyn didn't visit Jamestown,1,quantifier
+Everyone has visited every place,Loretta didn't visit Daisy,0,quantifier
+Everyone has visited every person and every place,Tammy didn't visit Gail,1,quantifier
+Everyone has visited every person and every place,Lillian didn't visit Lovington,1,quantifier
+"Everyone has visited San Juan Capistrano, Marshall, Longmont, Laurel, Frederick, Fitchburg, Harrisburg, Herrin, Clearfield, Auburn, Ardmore, Lehi and Red Bluff",Esther didn't visit Ardmore,1,quantifier
+Everyone has visited every place,Molly didn't visit Joanne,0,quantifier
+Everyone has visited every place,Ashley didn't visit Ipswich,1,quantifier
+Everyone has visited every place,Margarita didn't visit Inez,0,quantifier
+Everyone has visited every person and every place,Leslie didn't visit Kim,1,quantifier
+Everyone has visited every person,Evelyn didn't visit Melbourne,0,quantifier
+Everyone has visited every person and every place,Mildred didn't visit Grants Pass,1,quantifier
+Everyone has visited every person,Natalie didn't visit Gloucester,0,quantifier
+Everyone has visited every place,Melanie didn't visit Jill,0,quantifier
+Someone has visited every person and every place,Cheryl didn't visit Athens,0,quantifier
+Everyone has visited every person,Vanessa didn't visit Rosa,1,quantifier
+"Everyone has visited Reedsport, Augusta, Wilmette, Hutchinson, Vernal, Normal, Waynesboro, Fallon, Pampa, Ellsworth, Annapolis, Sumter and Pendleton",Lindsay didn't visit Hutchinson,1,quantifier
+Everyone has visited every place,Julie didn't visit Lake Geneva,1,quantifier
+Everyone has visited every place,Constance didn't visit Sally,0,quantifier
+Everyone has visited every person and every place,Mabel didn't visit Kristine,1,quantifier
+Everyone has visited every person and every place,Jackie didn't visit Guadalupe,1,quantifier
+Everyone has visited every person and every place,Esther didn't visit Tonawanda,1,quantifier
+Everyone has visited every person and every place,Evelyn didn't visit Costa Mesa,1,quantifier
+Everyone has visited every person,Penny didn't visit Faye,1,quantifier
+"Everyone has visited Sturgeon Bay, Scranton, Fairfield, Lowell, Pampa, Mesa, West Orange, Jackson, Laie, Welch, Longview, Waterville, Summersville, Branford, El Centro, East Chicago and Abington",Margie didn't visit Elkins,0,quantifier
+Everyone has visited every person,Bertha didn't visit Jenny,1,quantifier
+Someone has visited every person and every place,Grace didn't visit Shirley,0,quantifier
+Everyone has visited every person,Lindsay didn't visit Joann,1,quantifier
+Everyone has visited every person,Isabel didn't visit Margarita,1,quantifier
+Everyone has visited every place,Megan didn't visit Saint Augustine,1,quantifier
+Everyone has visited every person,Vickie didn't visit Elaine,1,quantifier
+Everyone has visited every place,Isabel didn't visit Mattie,0,quantifier
+Everyone has visited every place,Maria didn't visit Morrilton,1,quantifier
+"Everyone has visited Hempstead, Bradenton, Branson, Welch, Trenton, Watertown, Arkansas City, Faribault, Batavia, Cicero, La Junta and Naperville",Lena didn't visit Chickasha,0,quantifier
+Everyone has visited every place,Valerie didn't visit Andalusia,1,quantifier
+"Everyone has visited Kingston, Cordova, New London, Orange, Cortez, Rhode Island, Kelso, Nevada, Canton, Las Vegas, Logan, Murray, Rocky Mount, New Hope, Faribault, Beaumont, Mankato, Des Moines and Panama City",Laurie didn't visit Bridgeport,0,quantifier
+"Everyone has visited Stillwater, Alton, Saugus, Wellsburg, Wyandotte, Branford, Galveston, Yuba City, Meridian, Titusville, Tucumcari, Claremont and Ada",Angie didn't visit Ada,1,quantifier
+Everyone has visited every person,Opal didn't visit Jan,1,quantifier
+Everyone has visited every place,Barbara didn't visit Karen,0,quantifier
+Everyone has visited every place,Nora didn't visit Pearl,0,quantifier
+"Everyone has visited Oakland, Kearney, South Carolina, Maryville, Alexander City, New Market, Anacortes, Layton, Davis and Whitman",Angie didn't visit Davis,1,quantifier
+Everyone has visited every place,Priscilla didn't visit Yolanda,0,quantifier
+Everyone has visited every person,Ellen didn't visit Ely,0,quantifier

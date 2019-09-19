@@ -1,0 +1,1001 @@
+sentence1,sentence2,label
+Jezabel visitou apenas dezesseis lugares e apenas dez pessoas,"Jezabel visitou Galvão, Herculândia, Alfredo Wagner, Prado Ferreira, Mauá da Serra, Mendes Pimentel, Esperantina, Amapá, Areia Branca, Colatina, Cerquilho, Munhoz, Sapeaçu, Jaguaraçu, Balbinos, Antônio Carlos e Denise",1
+Cáren visitou apenas três lugares e apenas uma pessoa,Cáren visitou Luara e Liana,1
+"Hortense é mais alto que Raísa, Lenira, Elana, Moana, Polina, Joanina, Brásia, Matrosa e Flor de Ceres , Hortense é tão alto quanto Celisia",Celisia é mais alto que Flor de Ceres,0
+"Salvação visitou Melida, Salvação é a pessoa que visitou todo lugar",Salvação não visitou Conselheiro Lafaiete,1
+Lucie visitou apenas vinte e quatro lugares,"Lucie visitou Pinhalão, Espera Feliz, Corbélia, Macaparana, São Felipe, Morrinhos, Caiuá, Bandeira, Massaranduba, Ituberá, Salto do Céu, Paula Freitas, Castro, Brasópolis, Cabeceiras, Carnaubal, Inaciolândia, Nova Marilândia, Paranaiguara, São João do Pau d'Alho, Guarabira, Rio Real, Trizidela do Vale, São João do Pacuí e Congo",1
+"Mya é tão alto quanto Laurentina , Laurentina é tão alto quanto Adália , Adália é tão alto quanto Liete , Liete é tão alto quanto Ernestina , Ernestina é tão alto quanto Rosário , Rosário é tão alto quanto Donzélia , Donzélia é tão alto quanto Dária , Dária é tão alto quanto Herédia , Herédia é tão alto quanto Arlete , Arlete é tão alto quanto Sásquia , Sásquia é mais alto que Neotera",Neotera é mais alto que Dária,1
+"Casta é mais alto que Grimanesa, Pascualina, Bebiana, Bianka, Salomite, Eudora, Líria, Bia, Stacey e Guendolina , Casta é tão alto quanto Carmezinda",Carmezinda é mais alto que Pascualina,0
+Todo mundo visitou todas as pessoas,Inaia não visitou Edine,1
+"Éola é tão alto quanto Andrelina , Andrelina é tão alto quanto Nayla , Nayla é tão alto quanto Runa , Runa é tão alto quanto Hália , Hália é tão alto quanto Nor , Nor é tão alto quanto Sarina , Sarina é tão alto quanto Milana , Milana é mais alto que Afonsina",Andrelina é mais alto que Afonsina,0
+"Dulcina visitou São Sebastião do Uatumã, Celine visitou Senador Cortes, Nely visitou Iturama, Corália visitou Rio Novo, Aureliana visitou Pedro Afonso, Geisa visitou José Boiteux",Dulcina não visitou São Sebastião do Uatumã,1
+Todo mundo visitou todos os lugares,Laurine não visitou Iasmina,0
+Todo mundo visitou todas as pessoas,Joaquina não visitou Itá,0
+"Clemência é mais alto que Joele, Tolentina, Benjamina e Deonilde , Clemência é tão alto quanto Teresina",Teresina é mais alto que Tolentina,0
+"Carísia visitou Darnela, Carísia é a pessoa que visitou todo mundo",Darnela não visitou Eularina,0
+"Donatella é mais alto que Ivory , Ivory é mais alto que Dafne , Dafne é mais alto que Isaltina , Isaltina é mais alto que Orlandina",Isaltina é mais alto que Orlandina,0
+"Aidé visitou Piranhas, Charlotte visitou Campinas do Piauí, Sunamita visitou Caém, Jewel visitou Imaruí, Maureen visitou Major Isidoro, Leane visitou Boa Vista da Aparecida, Elaine visitou Frei Miguelinho, Candice visitou Águas de Lindóia",Sunamita não visitou Caém,1
+Lola visitou apenas onze lugares e apenas onze pessoas,"Lola visitou Mícia, Demelza, Pedrina, Hália, do Rosário, Firmina, Sury, Isa, Albana, Méline, Quézia e Priscilla",1
+"Dominika visitou Toledo, Anaíce visitou Irauçuba, dos Prazeres visitou Cuitegi, Maximiliana visitou Votuporanga, Radija visitou São Sebastião do Alto, Jil visitou Ipira, Lénia visitou São José do Egito, Noémi visitou Bom Retiro do Sul",Jil não visitou Ipira,1
+"Fiorella visitou Camaquã, Sofie visitou Patos de Minas, Evelin visitou Neves Paulista, Giada visitou São Vicente de Minas, Natividade visitou Pedras Grandes, Indaleta visitou São Miguel da Boa Vista, Leonília visitou Palestina de Goiás",Evelin não visitou Nova Colinas,0
+Alguem visitou todas as pessoas e todos os lugares,Claudemira não visitou Gáil,0
+"Crisálida é tão alto quanto Nimi , Nimi é tão alto quanto Lumi , Lumi é tão alto quanto Dominika , Dominika é tão alto quanto Audete , Audete é mais alto que Reeva",Crisálida é mais alto que Reeva,0
+"Armandina é a pessoa que visitou todo lugar, Armandina visitou Diza",Armandina não visitou Aquidauana,1
+Jéni visitou apenas doze lugares e apenas nove pessoas,"Jéni visitou Rosina, Salvadora, Iracema, Lutgarda, Edmunda, Gislene, Muna, Ilídia, Rachel e Abby",1
+"Dione é a pessoa que visitou todo mundo, Dione visitou Mona",Mona não visitou Norvinda,0
+"Gabi visitou Nhandeara, Flores da Cunha, Brejolândia, Herval d'Oeste, Várzea Grande, Catanduvas, Manaus, Caiuá, Ibaretama e Florânia",Gabi não visitou Ibaretama,1
+Todo mundo visitou todas as pessoas,Cléo não visitou Conceição do Rio Verde,0
+"Claudine é mais alto que Doroteia , Doroteia é mais alto que Honey , Honey é mais alto que Lisete , Lisete é mais alto que Ondina , Ondina é mais alto que Semíramis , Semíramis é mais alto que Lélia , Lélia é mais alto que Araci , Araci é mais alto que Mariamar , Mariamar é mais alto que Célia",Doroteia é mais alto que Lélia,0
+"Tiffany é a pessoa que visitou todo lugar, Kira visitou Tiffany",Tiffany não visitou Jundiaí,1
+"Mirella visitou Pequi, Montenegro, Paulo Bento, Nova Canaã Paulista, São Gabriel, Ichu, Cordeiro, Ibarama, Ouvidor, Cambuí e Guaçuí",Sally não visitou Ibarama,0
+"Silke é a pessoa que visitou todo mundo, Kimberly visitou Silke",Silke não visitou Genciana,1
+"Suria é mais alto que Hermânia, Rolende, Ella, Belina, Angelita, Ilse, Joraci e Jacqueline , Suria é tão alto quanto Muna",Joraci é mais alto que Muna,1
+Todo mundo visitou todos os lugares,Sunamita não visitou Agatha,0
+"Anaísa, Aldara, Emídia, Ifigénia, Florencia, Cibele, Cris e Cristele visitaram Santa Rita do Araguaia",Nadina não visitou Santa Rita do Araguaia,0
+"Linete visitou Cafarnaum, Taísa visitou Viana",Taísa não visitou Ibertioga,0
+"Todo mundo visitou Água Doce do Maranhão, Lagoa de Velhos, Rio do Fogo, Santa Filomena do Maranhão, Boracéia, São Miguel dos Milagres, Gramado dos Loureiros, Rio das Antas, Uibaí, Goiabeira, Anhanguera, Jandaia, Cururupu, Ubiretama, Água Branca, Currais, Muaná, Franciscópolis e Iuiú",Giraldina não visitou Oliveira de Fátima,0
+"Nazaré é mais alto que Florença, Gabrielle, Io, Amável, Ohana, Glaúcia, Naíl e Raina , Nazaré é tão alto quanto Papoila",Papoila é mais alto que Amável,0
+"Nádeja visitou Várzea, Karina visitou Riozinho, Salete visitou Ribeirópolis, Sally visitou Nova União, Florisbela visitou Marilac, Alfreda visitou União do Sul, Fédora visitou Presidente Dutra",Nádeja não visitou Pereiras,0
+"Josiana é tão alto quanto Pippa , Pippa é tão alto quanto Josuana , Josuana é tão alto quanto Maeva , Maeva é tão alto quanto Nélia , Nélia é mais alto que Jil",Pippa é mais alto que Jil,0
+"Sátia visitou Guarará, Barra do Piraí, Cacaulândia, Monsenhor Gil, Angical do Piauí, Presidente Dutra, Presidente Castello Branco, Iguatemi, Gabriel Monteiro, Presidente Getúlio e Santa Bárbara do Leste",Sátia não visitou São José do Cedro,0
+"Suéli visitou Marcelina, Suéli é a pessoa que visitou todo lugar",Marcelina não visitou Luiziana,0
+"Papoila visitou Mendes, Janaúba, Andirá, Santo Antônio do Jardim, Luziânia, Luiziânia e Cabeceiras do Piauí",Papoila não visitou Santa Tereza do Oeste,0
+"Gina visitou Marcionílio Souza, Narcisa visitou Modelo, Elize visitou Anápolis, Anusca visitou Brejo do Piauí, Ambrosina visitou Darcinópolis, Ludovice visitou Santa Bárbara d'Oeste, Laís visitou Pilões, Inocência visitou Tapes, Atena visitou Maranguape, Bina visitou Santo Antônio de Lisboa",Inocência não visitou Tapes,1
+Todo mundo visitou todas as pessoas e todos os lugares,Tara não visitou Cleópatra,1
+"Lais é mais alto que Belarmina, Sade, Suzanne, Norvinda, Nor, Espírito Santo, Sátia, Sunamita e Carminda , Lais é tão alto quanto Omara",Omara é mais alto que Carminda,0
+"Sextina é mais alto que Júnia, Tiara, Mirandolina, Enide e do Rosário , Sextina é tão alto quanto dos Mártires",Tiara é mais alto que dos Mártires,1
+"Noémi visitou São Miguel da Baixa Grande, Prazeres visitou Santana do Mundaú, Dália visitou Teixeira, Dores visitou Itaguara, Sadiya visitou Santo Antônio do Caiuá, Meera visitou Aripuanã",Dália não visitou Teixeira,1
+Todo mundo visitou todas as pessoas,Blásia não visitou Carminda,1
+"Athena é mais alto que Marcília , Marcília é mais alto que Maira , Maira é mais alto que Dione , Dione é mais alto que Mira , Mira é mais alto que Ariadne , Ariadne é mais alto que Narcisa , Narcisa é mais alto que Aldina",Athena é mais alto que Ariadne,0
+"Esménia visitou Mãe d'Água, Leena visitou Gilbués, Marlita visitou Uruana, Chen visitou Santa Bárbara de Goiás, Mirna visitou Macedônia, Cizina visitou Casa Grande, Haidé visitou Arroio do Sal, Diara visitou Dois Irmãos do Tocantins",Diara não visitou Pereiro,0
+"Adelina visitou Ourilândia do Norte, Aléxia visitou Santana de Pirapama, Amandina visitou Cedro do Abaeté, Sienna visitou São João do Itaperiú, Leontina visitou Emas, Karen visitou Muzambinho",Leontina não visitou Emas,1
+"Etéria, Fia, Lízi, Selina e Íngride visitaram Rio Fortuna",Selina não visitou Rio Fortuna,1
+"Jasmine visitou Pedro de Toledo, Capela, Rincão, Riachuelo, Jaupaci, Iracema, Uarini, Divino de São Lourenço, Jataí, Serraria, Nova Palma, Prudentópolis, Canaã, Benedito Leite, Salinópolis, Anitápolis, Simplício Mendes e Sertão Santana",Jasmine não visitou Rincão,1
+Carísia visitou apenas dezesseis lugares,"Carísia visitou Nova Mamoré, Várzea Grande, Açu, Senador Modestino Gonçalves, Viçosa, Morada Nova de Minas, Maripá, Casa Nova, Ibirá, Casa Grande, Sete Barras, Calumbi, Chã Grande, Castelo, Conceição do Araguaia, Jateí e Senador Amaral",1
+Alguem visitou todas as pessoas e todos os lugares,Martha não visitou Josiane,0
+Todo mundo visitou todas as pessoas,Rossana não visitou Barro,0
+"Todo mundo visitou Tejuçuoca, Olímpio Noronha, Solidão, Paiçandu, Pedra do Indaiá, Caturama, Carira, Cedro do Abaeté, Novais, Florínia, Tianguá, Bom Jesus, Vanini, Campestre da Serra, Barro Preto, Miracatu, José Raydan, São Carlos e Ibiaçá",Florença não visitou Concórdia do Pará,0
+Isolda visitou apenas quinze lugares e apenas catorze pessoas,"Isolda visitou Juna, Sian, Ivânia, Rosalinda, Rosie, Mavilde, Lourdes, Balduína, Dana, Kailani, Névia, do Amparo, Ilídia, Mariame e Guendolina",1
+"Nayma é mais alto que Eluína , Eluína é mais alto que Benigna , Benigna é mais alto que Aureliana , Aureliana é mais alto que Dialina , Dialina é mais alto que Ornela , Ornela é mais alto que Nelma , Nelma é mais alto que Clementine , Clementine é mais alto que Diná , Diná é mais alto que Rebecca",Eluína é mais alto que Rebecca,0
+"Josy visitou Morpará, Michelle visitou Jaguaruana, Eglantina visitou Bernardino Batista",Josy não visitou Morpará,1
+"Naísa visitou Igaratá, Sérgia visitou Pirapó, Candice visitou Matias Barbosa, Jânia visitou Esteio, Leonila visitou Jacaré dos Homens, Elma visitou Gado Bravo, Leandra visitou Rondon, Rosamar visitou Eldorado, Edmunda visitou Pedra Azul, Nereida visitou Correntes",Rosamar não visitou Eldorado,1
+Dorinda visitou apenas vinte e sete lugares,"Dorinda visitou Antônio Prado de Minas, Itaporanga d'Ajuda, Itauçu, Bocaina do Sul, Cafeara, Santa Terezinha, Itajobi, Pirapemas, Cristais Paulista, Selbach, Capanema, Piracema, Ivinhema, Cambuci, Santana do Garambéu, Pinhal, Capixaba, Amontada, Salvador do Sul, Fernandes Tourinho, Campo Belo, Morpará, Echaporã, São Luís do Paraitinga, Pontão, São Pedro dos Crentes, Campos Belos e Conselheiro Mairinck",1
+"Tolentina visitou Ourinhos, São Joaquim, Alto Paraíso, Bernardo Sayão, Boca do Acre, Agrestina, Acauã, Itaguajé, Barra de Santo Antônio, Inhaúma, Mucurici, Umburatiba, Ariranha, Mirassol d'Oeste, Benjamin Constant do Sul, Três Coroas e Tufilândia",Tolentina não visitou Alto Paraíso,1
+Florisbela e Khaleesi visitaram São Tomás de Aquino,Idélia não visitou São Tomás de Aquino,0
+Flamínia visitou apenas vinte e sete pessoas,"Flamínia visitou Luzinira, Aíko, Formosa, Luanda, de Fafe, Liara, Angelita, Loela, Lenira, Marilisa, Ianesis, Riana, Cereja, Salete, Belisa, Leocádia, Júnia, do Céu, Elizabete, Mariame, Gaori, Noélia, Eda, Fedra, Mariline, Maria João, Samaritana e Eleni",1
+"Liliane é a pessoa que visitou todo mundo, Ivana visitou Liliane",Ivana não visitou Lucília,0
+"Amabília é mais alto que Estéfana, Cármina, Chiara, Nessa e Seni , Amabília é tão alto quanto Edina",Chiara é mais alto que Edina,1
+Todo mundo visitou todos os lugares,Leane não visitou Juvita,0
+Estéfana visitou apenas dezenove lugares,"Estéfana visitou Eldorado dos Carajás, Capim, Muliterno, Bonfim, Pacatuba, Ibateguara, Cascalho Rico, Sacramento, Perobal, Cumaru, Carambeí e Araças",0
+"Harper visitou Curral Velho, Itambacuri, Dourado, Luís Correia, Sem-Peixe e Iraí de Minas",Mourana não visitou Dourado,0
+Morena visitou apenas sete lugares e apenas três pessoas,"Morena visitou Liberalina, Corine, Akira e Aíko",1
+"Suely, Oceane, Nadine, Malaika, Inara, Evangelista, Seni, Luanda, Natasha, Bertina, Séfora e Lurdite visitaram Pinhal da Serra",Papoila não visitou Pinhal da Serra,0
+"Paraíso visitou Poranga, Liv visitou Avelinópolis, Amabília visitou Monte Aprazível, Silvie visitou Gavião Peixoto, Modesta visitou Bodocó, Sibila visitou Iraí de Minas, Fédora visitou Bom Jesus do Tocantins, Alaia visitou Poço Fundo, Cesaltina visitou Paripiranga",Modesta não visitou Bodocó,1
+"Lenora visitou Anguera, Otília visitou Bujaru",Lenora não visitou Santana do Deserto,0
+"Melody é mais alto que Silvéria, Corine, Quaiela, Tisha, Cleia, Leonilda, Jada e Ellie , Melody é tão alto quanto Telma",Silvéria é mais alto que Telma,1
+"Evelin visitou Cananéia, São Joaquim do Monte, Conselheiro Pena, Santa Rita do Novo Destino, Guarani das Missões, Pau D'Arco do Piauí, Canhotinho, Baianópolis, Coronel Martins, Monte Santo de Minas, Ribeirão do Pinhal, Marilândia do Sul, Nísia Floresta, Tonantins, Paripiranga, Lagoa Grande do Maranhão, Itupeva, Abelardo Luz e São Sebastião do Umbuzeiro",Evelin não visitou Porto Amazonas,0
+"Otília é mais alto que Rihanna , Rihanna é mais alto que Demétria , Demétria é mais alto que Emma , Emma é mais alto que Leonna , Leonna é mais alto que Noelma , Noelma é mais alto que Dominica , Dominica é mais alto que Edna",Emma é mais alto que Leonna,0
+"Cornélia é a pessoa que visitou todo lugar, Cornélia visitou Diomar",Cornélia não visitou Pindorama,1
+"Ândria é a pessoa que visitou todo lugar, Ândria visitou Adélia",Ândria não visitou Nova Timboteua,1
+"Neusa visitou Santo Antônio do Retiro, Formosa visitou Satuba, Aurete visitou Gaspar, Luanda visitou Curralinhos, Teresca visitou Icatu, Dianna visitou Cachoeira de Minas, Digna visitou Restinga, Nerea visitou Céu Azul, Anair visitou Aguiarnópolis, Pui visitou Araçagi, dos Santos visitou Registro",Pui não visitou Araçagi,1
+"Berengária visitou Niéves, Berengária é a pessoa que visitou todo mundo",Berengária não visitou Odette,1
+"Rebecca é mais alto que Cleópatra , Cleópatra é mais alto que Alaia , Alaia é mais alto que Malu , Malu é mais alto que de Fafe , de Fafe é mais alto que Raíssa",Rebecca é mais alto que Alaia,0
+"Adosinda visitou Balneário Arroio do Silva, Nanete visitou Piacatu, Dalida visitou Bom Jesus do Galho, Eutália visitou Nova Olinda do Maranhão",Eutália não visitou Nova Olinda do Maranhão,1
+Oliviana visitou apenas seis lugares,"Oliviana visitou Eugênio de Castro, Caiçara, São João da Paraúna, Cocal de Telha, Uraí, Emas e Jussiape",1
+"Nivalda é mais alto que Lhuzie , Lhuzie é mais alto que Onélia , Onélia é mais alto que Ludovice , Ludovice é mais alto que Crisália , Crisália é mais alto que Chelsea , Chelsea é mais alto que Desiree",Chelsea é mais alto que Crisália,1
+Belle visitou apenas dez pessoas,Belle visitou Nirina e Nanina,0
+Evelin visitou apenas dezoito lugares e apenas duas pessoas,"Evelin visitou Croatá, Barra Bonita, São Pedro do Sul, Patos de Minas, Itaguari, Simão Pereira, Livramento de Nossa Senhora, Paraúna, Rio Acima, Guaíra, Alagoa, São Simão, Doutor Maurício Cardoso e Taquarussu",0
+"Cinara visitou Assunção, Mónia visitou Galvão, Gema visitou Cristiano Otoni, Elva visitou Luminárias, Delilah visitou Massaranduba, Rondina visitou São Tomé",Elva não visitou Ararendá,0
+Alguem visitou todas as pessoas e todos os lugares,Belmonte não visitou Amy,0
+Todo mundo visitou todos os lugares,Guendolina não visitou Grajaú,1
+Hope visitou apenas seis lugares,"Hope visitou Porto Firme, Charrua, Conceição de Ipanema, Otacílio Costa, Lençóis, Souto Soares e Tamboril do Piauí",1
+Julinda visitou apenas catorze lugares e apenas três pessoas,"Julinda visitou Jacqueline, Tabatha, Leonisa e Donzélia",1
+"Regina é a pessoa que visitou todo lugar, Regina visitou Nalini",Nalini não visitou Ouro Verde,0
+"Trasila visitou Oliveira de Fátima, Gabriella visitou Dom Joaquim, Chanda visitou Alenquer, Cleópatra visitou Santópolis do Aguapeí, Adriane visitou Bonito, Mariame visitou Jaú do Tocantins, Bibiana visitou Jacinto Machado, Paris visitou Eunápolis, Ella visitou Rodeio, Oscarina visitou Bom Sucesso, Eunice visitou Água Branca, Dara visitou Monte Azul",Adriane não visitou Alecrim,0
+"La-Salete, Benvinda, Sena, Eleni, Mária, Rafaella, Scarlet, Laisa, Eleonora, Naomi e Amabília visitaram Capitão",Benvinda não visitou Capitão,1
+"Laila visitou Campina das Missões, Simplício Mendes, Apuiarés, Iporanga, Flórida, Ipê, Buriti, Medicilândia, Piacatu, Novo Oriente, Caracol e Toledo",Mina não visitou Iporanga,0
+Todo mundo visitou todas as pessoas,Shakira não visitou Porto do Mangue,0
+"Laurina é mais alto que Otelina , Otelina é mais alto que Kai , Kai é mais alto que Stacy , Stacy é mais alto que Marise",Laurina é mais alto que Kai,0
+"Duana visitou André da Rocha, Medianeira, Ibiassucê, Indaial, Nova Independência, Dois Irmãos do Buriti, Marcolândia, Rondon do Pará, Icém, Santa Maria do Suaçuí, Paulo Ramos, Conceição do Araguaia, Heitoraí, Rio Manso, Guarani das Missões e Lupionópolis",Duana não visitou Rio Manso,1
+"Skylar é a pessoa que visitou todo lugar, Skylar visitou Mourana",Mourana não visitou São Benedito,0
+"Delilah é a pessoa que visitou todo lugar, Sarai visitou Delilah",Delilah não visitou General Salgado,1
+"Holly é mais alto que Joelma , Joelma é mais alto que Morian , Morian é mais alto que Elise , Elise é mais alto que Dionísia , Dionísia é mais alto que Marie , Marie é mais alto que Nila , Nila é mais alto que Carmel , Carmel é mais alto que Ione , Ione é mais alto que Josselina , Josselina é mais alto que Joela",Carmel é mais alto que Elise,1
+"Nilda visitou Vitorino, Salete, Guaraqueçaba, Moji Mirim, Mata Roma, Guanambi, Santo Antônio do Içá, Conceição do Tocantins, Roque Gonzales e Sátiro Dias",Nilda não visitou Mata Roma,1
+"Juli é mais alto que Mabilda , Mabilda é mais alto que Jessy , Jessy é mais alto que Sally , Sally é mais alto que Dafne , Dafne é mais alto que Nalini , Nalini é mais alto que Mariane",Sally é mais alto que Mariane,0
+"Myriam visitou Botuverá, Sharon visitou Caldas Novas, Idélia visitou Barracão, Fidélia visitou São Francisco, Dádiva visitou Congonhinhas, Erika visitou Glória do Goitá, Porciana visitou Califórnia",Dádiva não visitou Grajaú,0
+"Rosebele é a pessoa que visitou todo mundo, Rosebele visitou Ersília",Rosebele não visitou Chanda,1
+Todo mundo visitou todos os lugares,Charlene não visitou Cosete,0
+"Marcelina, Carol, Bina, Ida, Dineia e Erin visitaram Barra Mansa",Marcelina não visitou Barra Mansa,1
+"Mariane visitou Geovana, Geovana é a pessoa que visitou todo lugar",Mariane não visitou Teodoro Sampaio,0
+Honey visitou apenas onze lugares,"Honey visitou Hidrolândia, Presidente Tancredo Neves, Malhada, Campo do Brito, Tarauacá, Tejupá, Laranjal Paulista, Nova Europa, Cariré, Santo Augusto, Campos Gerais e Engenho Velho",1
+Alexandrina visitou apenas vinte e oito lugares,"Alexandrina visitou Tietê, Vale do Paraíso, Presidente Juscelino, Pouso Novo, Duas Barras, Santa Cecília, Brejinho, Nova Itaberaba, Caputira, Nova Floresta, Rio Doce, Uruana, Saboeiro, Forquetinha, Patrocínio Paulista, Campo Bonito, Niquelândia, Bela Vista de Goiás, Petrolândia, Santo Antônio do Grama, Itapuã do Oeste, Canápolis, Capetinga, Botucatu e Pratânia",0
+"Bia visitou Conceição do Araguaia, Numénia visitou Juvenília, Elina visitou Colônia do Gurguéia, Anusca visitou Turvelândia, Graciete visitou São João da Baliza, Armanda visitou Vera Cruz, Juna visitou Matinhas, Gara visitou Camutanga, Adália visitou Pau dos Ferros, Guislena visitou Vertente do Lério, Afra visitou Boqueirão do Leão",Armanda não visitou Vera Cruz,1
+"Celisia é mais alto que Amaia, Luela, Carmo, Lucina, Priscila, Liduína, Trasila e Felismina , Tess é tão alto quanto Celisia",Tess é mais alto que Felismina,0
+"Natércia, Leocádia, Ticiane e Marieta visitaram Canudos",Leila não visitou Canudos,0
+"Lou é a pessoa que visitou todo mundo, Lou visitou Dagmar",Dagmar não visitou Pámela,0
+"Ocridalina é tão alto quanto Isolete , Isolete é tão alto quanto Seomara , Seomara é tão alto quanto Jasmine , Jasmine é tão alto quanto Lucíola , Lucíola é tão alto quanto Rosandra , Rosandra é tão alto quanto Thaís , Thaís é tão alto quanto Alida , Alida é tão alto quanto Santa Cruz , Santa Cruz é tão alto quanto Cirila , Cirila é tão alto quanto Evangelista , Evangelista é mais alto que Évila",Évila é mais alto que Rosandra,1
+"Ruth é a pessoa que visitou todo lugar, Espírito Santo visitou Ruth",Ruth não visitou Álvaro de Carvalho,1
+Todo mundo visitou todas as pessoas,Adália não visitou São Pedro do Suaçuí,0
+Todo mundo visitou todos os lugares,Gisele não visitou Dirce,0
+Nícia visitou apenas dez lugares e apenas dez pessoas,"Nícia visitou Sarzedo, Santo Amaro das Brotas, Carrancas, São Francisco do Guaporé, Trairão, Gaurama, Santa Tereza de Goiás e São Bonifácio",0
+"Muna visitou Guarabira, Edith visitou Nova Canaã, Eliseba visitou Córrego do Ouro, Ireneia visitou Lagoa Santa, Mélodie visitou Brejão, Cipora visitou São Sebastião da Vargem Alegre, Arlanda visitou Alto Rio Novo, Ricarda visitou Nova Marilândia, Lariana visitou Formosa",Muna não visitou Guarabira,1
+"Floriana visitou Muricilândia, Major Isidoro, Buritis e Quitandinha",Anaíde não visitou Quitandinha,0
+"Maritila visitou Ipiranga de Goiás, Dione visitou Panambi, Rosita visitou Alto Araguaia, Jasmim visitou Bom Jardim de Goiás, Justina visitou Brejetuba, Luisete visitou Santa Lúcia",Luisete não visitou Santa Lúcia,1
+"Margot é mais alto que Jacinta , Jacinta é mais alto que de Deus , de Deus é mais alto que Nídia , Nídia é mais alto que Suati , Suati é mais alto que Meera , Meera é mais alto que Naraiana , Naraiana é mais alto que Ruth , Ruth é mais alto que Nise",Nise é mais alto que Meera,1
+"Tereza visitou Delilah, Delilah é a pessoa que visitou todo mundo",Delilah não visitou Emie,1
+"Simona visitou Morros, Anunciada visitou Pirenópolis, Guilhermina visitou Rochedo de Minas, Levina visitou Quinta do Sol, Catherine visitou Mato Castelhano, Júnia visitou Atibaia, Manoela visitou Buriti de Goiás, Dionísia visitou Pedro Avelino",Catherine não visitou Serrano do Maranhão,0
+"Suellen visitou Clésia, Suellen é a pessoa que visitou todo lugar",Suellen não visitou Santa Rosa de Lima,1
+"Fara visitou Igarapé-Açu, Mona visitou Itatiaiuçu, Silvéria visitou Manaus, Elize visitou Novo Xingu, Larisa visitou Murici dos Portelas, Dara visitou São João do Manhuaçu, Ália visitou Niquelândia, Ivory visitou Benedito Novo, Selena visitou Taboão da Serra, Deonilde visitou Bragança Paulista",Dara não visitou São João do Manhuaçu,1
+"Clementina visitou Isalda, Isalda é a pessoa que visitou todo mundo",Isalda não visitou Anícia,1
+"Minervina visitou Meruoca, Runa visitou Bom Jesus do Galho, Genciana visitou Cristal, Titânia visitou Glicério, Guendolina visitou Ourém, Magaline visitou Damião, Laurentina visitou Imbé de Minas, Gislene visitou Goianésia do Pará, Mécia visitou Caém",Laurentina não visitou Honório Serpa,0
+"Edite visitou Rogélia, Edite é a pessoa que visitou todo mundo",Edite não visitou Nour,1
+"Diná visitou Taquaritinga do Norte, Ecaterina visitou Ibertioga",Ecaterina não visitou Ibertioga,1
+"Margaret é mais alto que Gerta , Gerta é mais alto que Margot , Margot é mais alto que Petrina , Petrina é mais alto que Prudência , Prudência é mais alto que Norvinda , Norvinda é mais alto que Thaís , Thaís é mais alto que Albana , Albana é mais alto que Domitília",Margot é mais alto que Margaret,1
+"Maëlis visitou Mata Roma, Paraguaçu, Resende Costa, Cabrobó, Campo do Meio, Montividiu, Aquidauana e Pedrinhas",Maëlis não visitou Montividiu,1
+"Doriana visitou Fagundes, Josina visitou Viçosa do Ceará",Josina não visitou Acreúna,0
+Todo mundo visitou todas as pessoas e todos os lugares,Erméria não visitou Brunópolis,1
+"Gaela, Cleópatra, Rondina, Jewel, Lícia, Darnela, Aniana, Sienna, Oksana, Quézia, Geovana, Marisol e Iolanda visitaram Lontra",Jewel não visitou Lontra,1
+Todo mundo visitou todas as pessoas,Lurdite não visitou Porto dos Gaúchos,0
+"Brenda, Duna, Serenela, Niah, Tarina, Alaia e Mariline visitaram Faxinal do Soturno",Duna não visitou Faxinal do Soturno,1
+"da Agonia visitou Chã Preta, Faustina visitou Santana do Jacaré, Charlene visitou Itaguaí, Leana visitou Arroio Grande, Beanina visitou Arcoverde, Sássia visitou Pato Branco",Leana não visitou Boa Vista das Missões,0
+Todo mundo visitou todas as pessoas e todos os lugares,Terência não visitou Aldenir,1
+Elmira visitou apenas quinze pessoas,"Elmira visitou Danila, Francina, Oksana, Fia, Justa, Nânci, Armanda, Élin, Liza, Bianka, Inoi, Etelvina, Diomar, Chantal, Elícia e Carminda",1
+"Melânia é mais alto que Teodósia, Dominika, Nicandra, Lila, Assunta e Nimi , Hope é tão alto quanto Melânia",Hope é mais alto que Assunta,0
+"Emídia visitou Nalini, Nalini é a pessoa que visitou todo lugar",Nalini não visitou Santa Tereza do Tocantins,1
+Isolete visitou apenas dezessete lugares e apenas treze pessoas,"Isolete visitou Cafeara, Palmeirina, Santa Rita do Araguaia, Orizânia, Tutóia, Bocaina de Minas, Chorozinho, Braço do Norte, Entre Rios do Oeste, Senador Salgado Filho, São José das Palmeiras, Vilhena, Soledade de Minas, Alvorada, Redenção, Ivolândia, Aurelino Leal e Chiador",1
+"Kenya visitou Itaperuna, Parintins, Mutunópolis, Santana do Piauí, Itaboraí, Ipecaetá, Ubarana, Piratininga, Jequitibá, Aripuanã, Deputado Irapuan Pinheiro, Poço das Antas, São Braz do Piauí, Pirassununga, Quiterianópolis e Arroio do Meio",Kenya não visitou Santana do Piauí,1
+"Licínia visitou Ipatinga, Salima visitou Erval Seco, Áfrika visitou Altônia",Licínia não visitou Bernardo Sayão,0
+"Laís é tão alto quanto Eline , Eline é tão alto quanto Huguete , Huguete é tão alto quanto Suellen , Suellen é tão alto quanto Muna , Muna é tão alto quanto Luzinira , Luzinira é tão alto quanto Almerinda , Almerinda é tão alto quanto Flor de Ceres , Flor de Ceres é tão alto quanto Armandina , Armandina é mais alto que Isaurinda",Almerinda é mais alto que Isaurinda,0
+"Carlotta é tão alto quanto Iráis , Iráis é tão alto quanto Diomar , Diomar é tão alto quanto Étel , Étel é tão alto quanto Tiana , Tiana é tão alto quanto Maureen , Maureen é mais alto que Radija",Iráis é mais alto que Radija,0
+Rondina visitou apenas vinte e dois lugares e apenas quatro pessoas,"Rondina visitou Thaís, Elza, Haidé, Nair e Suati",1
+"Helen é a pessoa que visitou todo mundo, Ragendra visitou Helen",Helen não visitou Shakira,1
+"Marinela é tão alto quanto Nia , Nia é tão alto quanto Belle , Belle é tão alto quanto Bernadete , Bernadete é tão alto quanto Énia , Énia é tão alto quanto Madre de Deus , Madre de Deus é tão alto quanto Sierra , Sierra é tão alto quanto Cáren , Cáren é tão alto quanto Nelsa , Nelsa é tão alto quanto Malaika , Malaika é mais alto que Amy",Malaika é mais alto que Amy,0
+Todo mundo visitou todas as pessoas e todos os lugares,Araci não visitou Isilda,1
+"Mariema é mais alto que Harper, Kenza, Raqueline, Jaqueline, Albina, Nor e Anabel , Leanor é tão alto quanto Mariema",Leanor é mais alto que Albina,0
+Todo mundo visitou todas as pessoas e todos os lugares,Climénia não visitou Boqueirão do Piauí,1
+Todo mundo visitou todas as pessoas,Elisabeth não visitou Bonfim,0
+"Joanina é tão alto quanto Miah , Miah é tão alto quanto June , June é tão alto quanto Teresina , Teresina é tão alto quanto Dircea , Dircea é tão alto quanto Círia , Círia é tão alto quanto Primitiva , Primitiva é tão alto quanto Tirza , Tirza é tão alto quanto Gabriella , Gabriella é tão alto quanto Dalida , Dalida é tão alto quanto Salomite , Salomite é mais alto que Hulda",Hulda é mais alto que Círia,1
+"Giraldina visitou Betsabé, Betsabé é a pessoa que visitou todo lugar",Betsabé não visitou Boa Vista,1
+Johanna visitou apenas catorze lugares e apenas treze pessoas,Johanna visitou Diliana,0
+Dineia visitou apenas vinte e sete lugares e apenas vinte e um pessoas,"Dineia visitou Itamarandiba, Santo Antônio do Pinhal, Maracaçumé, Jacaraú, Senador Amaral, Araruna, Almadina, Carpina, Canudos do Vale, Belford Roxo, Santa Maria do Herval, Camboriú, Mocajuba, São João d'Aliança, Água Limpa, Vera Cruz, Marapoama, Cafarnaum, Conceição do Coité e São Tomás de Aquino",0
+Naima visitou apenas treze lugares e apenas treze pessoas,"Naima visitou Lindoeste, Sério, Mirandiba, Limoeiro do Ajuru, Matinhas, Propriá, Santo Antônio do Içá, Itaúna, Araras, Belágua, Nova Bandeirantes, Uiramutã, Iretama e Bom Sucesso",1
+Todo mundo visitou todas as pessoas e todos os lugares,Louane não visitou Afonsina,1
+"Alfreda visitou São Félix, Padre Carvalho, Morro do Pilar, Matinhas, Lagoa dos Patos, Luís Gomes, Itagibá, Ouro Preto do Oeste, Santa Cruz da Conceição, Irapuru, Farias Brito, Vertente do Lério, Itabira e Santópolis do Aguapeí",Assunção não visitou Vertente do Lério,0
+"Glaúcia visitou Touros, Nilza visitou Graça, Nair visitou Caldeirão Grande, Amorzinda visitou Lizarda",Glaúcia não visitou Ivatuba,0
+"Sahara, Delmina, Almerinda, Magdalena, Cármina, Rebecca, Daliana, Donatila, dos Prazeres, Bertilde, Josiana, Linda, Dúlia, Enilda, Leonna, Alcina, Dianna, Elisabeth e Luisete visitaram Ouricuri",Daliana não visitou Vargem Bonita,0
+"Noor visitou Priscila, Noor é a pessoa que visitou todo lugar",Priscila não visitou Jordão,0
+"Giulia visitou Tejupá, Limoeiro do Norte, Andradas, Igarapé, Nerópolis e Buriti Alegre",Giulia não visitou São Pedro da Serra,0
+"Gustava é mais alto que Mona , Mona é mais alto que Catherina , Catherina é mais alto que Quélia , Quélia é mais alto que Laia , Laia é mais alto que Lucíola",Gustava é mais alto que Mona,0
+Todo mundo visitou todas as pessoas,Karen não visitou Ponte Alta do Norte,0
+"Élia é mais alto que Guislene , Guislene é mais alto que Noor , Noor é mais alto que Anaísa , Anaísa é mais alto que Maria Rita , Maria Rita é mais alto que Almesinda , Almesinda é mais alto que Hebe",Maria Rita é mais alto que Hebe,0
+"Hebe é a pessoa que visitou todo lugar, Hebe visitou Carísia",Carísia não visitou Carangola,0
+"Eleia visitou Keiko, Keiko é a pessoa que visitou todo lugar",Keiko não visitou Luís Domingues,1
+"Filena é a pessoa que visitou todo mundo, Inaia visitou Filena",Inaia não visitou Sally,0
+"Neide visitou Caraúbas, Maribondo, Itiquira, Entre Rios, Teodoro Sampaio, Bom Jesus dos Perdões, Miraíma, Mogi das Cruzes, São João Evangelista, Iporanga, Urutaí, Sul Brasil, Imigrante, Água Doce, Carlos Chagas, Campo Alegre de Lourdes e Porto Nacional",Clívia não visitou Teodoro Sampaio,0
+Niceia visitou apenas vinte e um lugares e apenas onze pessoas,"Niceia visitou Dircila, Maribel, Ercília e Aminata",0
+"Alfreda visitou Tramandaí, Igelcemina visitou Ipiranga, Geovanna visitou Tuparendi, Ancha visitou Várzea Paulista, Biana visitou Elias Fausto, Tanagra visitou Nova Olinda, Balbina visitou Novo Horizonte do Norte, Noiala visitou Amontada, Si visitou Mirinzal, Delfina visitou Vila Boa",Ancha não visitou Várzea Paulista,1
+"Derocila, Semíramis, Sunamita, Elva, Melania, Sáli, Olga e Margaret visitaram União",Margaret não visitou União,1
+"Katty visitou de Deus, de Deus é a pessoa que visitou todo mundo",Katty não visitou Noiala,0
+"Anteia visitou Aurete, Anteia é a pessoa que visitou todo mundo",Anteia não visitou Olga,1
+"Henriette visitou Pinhalão, Formosinda visitou Itamari, Glicínia visitou Bom Jesus de Goiás, Crisálida visitou Bonito de Minas, Marciana visitou Morrinhos, Rosélia visitou Barra de Santana, Norah visitou São José dos Pinhais, Lorraine visitou Nova Aurora, Etéria visitou Guaçuí, Nicoleta visitou Triunfo, Ionara visitou Lourdes",Rosélia não visitou Diamante D'Oeste,0
+"Cita é a pessoa que visitou todo mundo, Alida visitou Cita",Alida não visitou Johanna,0
+"Patrícia visitou Jussara, La-Salete visitou Alvinópolis, Anunciada visitou Pedra Bonita, Nazarina visitou Cumbe, Cyara visitou Crixás, Neusa visitou Santa Cruz",Cyara não visitou Araçariguama,0
+"Clarina é tão alto quanto Dolores , Dolores é tão alto quanto Elmira , Elmira é tão alto quanto Mona , Mona é tão alto quanto Julianna , Julianna é tão alto quanto Daina , Daina é tão alto quanto Soline , Soline é tão alto quanto Florisbela , Florisbela é tão alto quanto Josana , Josana é tão alto quanto Elda , Elda é tão alto quanto Maeva , Maeva é mais alto que Genésia",Florisbela é mais alto que Genésia,0
+Todo mundo visitou todas as pessoas,Ivy não visitou Várzea Grande,0
+"Cesarina, Rebeka, Claudina, Genésia, Rossana, Nair e Isaurinda visitaram Canas",Genésia não visitou Bom Jesus do Araguaia,0
+"Generosa é mais alto que Calila, Margareta, Dúlia, Marinela, Mimosa, Maira, Marcelle, Dominica e Benice , Generosa é tão alto quanto Osvaldina",Calila é mais alto que Osvaldina,1
+"Luciana é mais alto que Fernandina, Mónia, Neide, Berengária, Primitiva, Graciete, Sandy e Melisa , Albertina é tão alto quanto Luciana",Berengária é mais alto que Albertina,1
+"Ersília visitou Porto dos Gaúchos, Pedrina visitou Potengi",Pedrina não visitou América Dourada,0
+"Loredana visitou Ilídia, Loredana é a pessoa que visitou todo mundo",Loredana não visitou Reece,1
+Emanuella visitou apenas um lugar e apenas uma pessoa,Emanuella visitou Mandaguaçu,0
+"Cleodice é mais alto que Katia , Katia é mais alto que Athena , Athena é mais alto que Elisabeth , Elisabeth é mais alto que Lólia",Elisabeth é mais alto que Athena,1
+"Sextina visitou Gameleiras, Dircea visitou Japaratuba, Albertina visitou Apucarana, Thai visitou Filadélfia, Maré visitou Carandaí, Orange visitou Ramilândia",Orange não visitou Ramilândia,1
+Holly visitou apenas vinte e sete lugares,"Holly visitou Coronel José Dias, Cachoeiro de Itapemirim, Feira Nova do Maranhão, Jenipapo dos Vieiras, Itapirapuã Paulista, Caruaru, Cacimbas, Pindamonhangaba, Santa Bárbara, Tuparendi, Caiabu, Canas, Campo Alegre de Lourdes, Bom Jesus, Salto Grande, São Domingos do Azeitão, Antonina, Lagamar, Pedra Preta, São Raimundo Nonato, Novo Acordo, Bambuí, Flor do Sertão, Geminiano, Coronel Pilar, Barra da Estiva, Ladário e Chorozinho",1
+"Claudemira visitou Jandaíra, Piraí do Sul, Bom Jardim de Goiás, Itaitinga, Acari, Bofete, Currais, Santo Inácio do Piauí, Sinimbu, Senador Elói de Souza, Gravatal, Bandeirantes, Nazaré do Piauí, Candiota, Touros, Iguape e Lima Campos",Claudemira não visitou Iguape,1
+"Ludovice visitou Monte Azul, Darcília visitou Martins, Jorja visitou Ibituruna, Florisbela visitou Promissão, Cristal visitou Primeiro de Maio, Natalina visitou Paraibano, Joaninha visitou Sucupira do Riachão, Leya visitou Araguatins, Tara visitou Santa Terezinha, Leia visitou Pedrinhas Paulista, Duartina visitou André da Rocha, Mavília visitou Itaiópolis",Joaninha não visitou Igrejinha,0
+Donatella visitou apenas seis lugares,"Donatella visitou Luís Gomes, Davinópolis, Santa Rosa de Lima, Teutônia, Arapeí, Planalto Alegre e Buritirama",1
+"Josiana é a pessoa que visitou todo lugar, Josiana visitou Heliodora",Josiana não visitou Buriti de Goiás,1
+"Magaline é a pessoa que visitou todo lugar, Cleia visitou Magaline",Cleia não visitou Senador Sá,0
+Alguem visitou todas as pessoas e todos os lugares,Francina não visitou Butiá,0
+Todo mundo visitou todas as pessoas e todos os lugares,Benjamina não visitou Maximiliano de Almeida,1
+Todo mundo visitou todos os lugares,Stephanie não visitou Marilita,0
+Alguem visitou todas as pessoas e todos os lugares,Thalita não visitou Matrinchã,0
+"Eunice visitou Constanza, Eunice é a pessoa que visitou todo mundo",Constanza não visitou Aurete,0
+"Lucete visitou Careaçu, Antônio João, Desterro do Melo, Pinheiral, Santa Fé, Araguaiana, Cerro Grande, Coluna, Marco, Ponte Branca, Barro Duro e Apiúna",Lucete não visitou Santa Fé,1
+"Leonida é a pessoa que visitou todo mundo, Leonida visitou Daina",Daina não visitou Ilídia,0
+Todo mundo visitou todos os lugares,Salma não visitou Suse,0
+"Joselene visitou Prata, Natalina visitou Santa Isabel do Ivaí, Auriana visitou Água Clara",Joselene não visitou Prata,1
+"Norvinda é mais alto que Bethany, Éris, Séfora, Hermenegilda e Açucena , Mari é tão alto quanto Norvinda",Mari é mais alto que Hermenegilda,0
+"Irma é a pessoa que visitou todo lugar, Irma visitou Lauren",Lauren não visitou Sapucaia,0
+"Primitiva visitou General Sampaio, Manoela visitou São Luíz do Norte, Corine visitou São João dos Patos, Modesta visitou Boa Vista do Incra, Louisa visitou Sertãozinho",Louisa não visitou Sertãozinho,1
+"Dária visitou Amanda, Amanda é a pessoa que visitou todo lugar",Amanda não visitou Iati,1
+Todo mundo visitou todos os lugares,Huguete não visitou Ianesis,0
+Aldara visitou apenas dezenove lugares,"Aldara visitou São José do Hortêncio, Mercês, Saltinho, Bom Jardim de Goiás, Piracema e Honório Serpa",0
+Suriel visitou apenas oito lugares e apenas quatro pessoas,"Suriel visitou Salima, Elsinda e Carmina",0
+Melinda visitou apenas vinte e um pessoas,"Melinda visitou Laís, Serenela, Acélia, Angie, Tarina, Cleia, Faia, Kylie, Aldenir, Constanza, Niéves, Edith, Onófria, Hersília, Afonsa, Laetitia, Deodete, Bina, Florinda, Oscarina, Adélia e do Rosário",1
+"Miraldina visitou Taboleiro Grande, Elodia visitou Santa Teresa, Julita visitou Cambuquira",Julita não visitou Cambuquira,1
+"Anaíce visitou Cristais, Leana visitou Camargo, Morena visitou Itaiópolis, Constância visitou Rio Bom",Leana não visitou Camargo,1
+"Saga visitou Uniflor, Lhuzie visitou Campo Grande, Aliça visitou Urucânia, de Pádua visitou Taboleiro Grande, Bernadete visitou Espigão Alto do Iguaçu",de Pádua não visitou Capela de Santana,0
+"Princess é mais alto que Belosinda, Íngride, Sásquia, Sidónia, Kaya, Loredana, do Amparo, Joelma, Alaina e Liara , Dana é tão alto quanto Princess",Íngride é mais alto que Dana,1
+Carsta visitou apenas catorze pessoas,"Carsta visitou Trinity, Bertila, Assunta, Benigna, Cleide, Inácia, Reece, Faustina, Mourana, Niah, do Céu, Dalinda, Nikita, Marizete e Jael",1
+"Romana, Fani e Rose visitaram Felipe Guerra",Rose não visitou Nova Veneza,0
+Todo mundo visitou todos os lugares,Gisete não visitou Cantá,1
+"Florinda é a pessoa que visitou todo mundo, Florinda visitou Lumi",Lumi não visitou Mirella,0
+Macati visitou apenas cinco lugares e apenas duas pessoas,Macati visitou Deodete,0
+"Tarina, Norma, Brice, Dalva, Peyton, Rosália, Malu, Elis, Donatila, Eularina e Sharam visitaram João Ramalho",Constância não visitou João Ramalho,0
+"Lucilina visitou Tobias Barreto, Poliana visitou Nova Alvorada, Nel visitou Monsenhor Tabosa, Pietra visitou Divisópolis, Obdúlia visitou Itatiaia, Iberina visitou Bacabeira, Hedviges visitou Marechal Cândido Rondon, Rosalinda visitou Ijuí, Naomi visitou Lagoa do Tocantins, Guendolina visitou Benjamin Constant do Sul",Lucilina não visitou Tobias Barreto,1
+"Dorinda visitou Santana de Mangueira, Matrosa visitou Ribeirão do Pinhal, Marlita visitou São João do Carú",Marlita não visitou Santa Maria Madalena,0
+Basília visitou apenas vinte e dois pessoas,"Basília visitou Paolla, Jacinta, Patrocínia, Simona, Emiliana, Nadina, Africana, Margarita, Louise, Hortênsia, Gonçala, Delisa, Rafa, Katherina, Julianna, Rachel, Nicandra, Artemísia e Glaúcia",0
+"Arlinda é mais alto que Fidélia , Fidélia é mais alto que Jó , Jó é mais alto que Marita , Marita é mais alto que do Socorro , do Socorro é mais alto que Jesus , Jesus é mais alto que Amanda , Amanda é mais alto que Marcela , Marcela é mais alto que Enilda",Jesus é mais alto que Enilda,0
+Salete visitou apenas sete lugares e apenas seis pessoas,"Salete visitou Maxaranguape, Capitão Poço, Pinhão, Encruzilhada do Sul, Santa Teresinha, Vargem Grande Paulista, Alegre e Conceição de Ipanema",1
+Jorgina e Araci visitaram Igaratá,Jorgina não visitou Igaratá,1
+Noelma visitou apenas vinte e quatro lugares e apenas treze pessoas,"Noelma visitou Pietra, Kimberly, Josefa, Gioconda, Leoménia, Io, Jana, Miliza, Janine, Dulcelina, Crisálida, Dejanira, Nazarina e Jeanete",1
+"Elodia é a pessoa que visitou todo mundo, Elodia visitou Dilsa",Elodia não visitou Maxine,1
+"Josselina é a pessoa que visitou todo mundo, Josselina visitou Gala",Josselina não visitou Carmorinda,1
+Reeva visitou apenas vinte e oito lugares,"Reeva visitou Pedro Afonso, São Fidélis, Bujaru, Santa Cruz das Palmeiras e Cristino Castro",0
+"Saphira visitou Taquaritinga, Abreu e Lima, São Francisco, Varzedo, Jumirim, São Gonçalo do Sapucaí, Aquiraz, Esperança, Alto Paraná, São José do Povo, Jardim, Passa Sete, Jaborandi e Paulistana",Saphira não visitou Santo Antônio do Tauá,0
+"Todo mundo visitou Atalaia, Serrita, Belém do Piauí, Areia Branca, Sousa, Cristais, Dois Riachos, Várzea Nova, Nova Luzitânia, Panorama, Brejo do Piauí, Centenário do Sul e São Tomé",Darci não visitou São Roberto,0
+"Celine visitou Tobias Barreto, Sade visitou Águas de São Pedro",Sade não visitou Peri Mirim,0
+Todo mundo visitou todas as pessoas,Rubi não visitou Cynthia,1
+"Deborah visitou Lagoa do Carro, Nícia visitou Floraí, Domitila visitou Itapira, Henriette visitou Glorinha, Ivana visitou Pacaraima",Henriette não visitou Tapiraí,0
+"Shirley é tão alto quanto Stacy , Stacy é tão alto quanto Iasmina , Iasmina é tão alto quanto Elle , Elle é tão alto quanto Ragendra , Ragendra é tão alto quanto Hermânia , Hermânia é mais alto que Méline",Méline é mais alto que Iasmina,1
+"Nadine visitou Jales, Dânia visitou Pedrinhas, Edine visitou Amargosa, Felisbina visitou Westfalia, Berengária visitou Vila Nova dos Martírios, Manuella visitou Rosário do Ivaí",Manuella não visitou Rosário do Ivaí,1
+"Cassilda visitou Potim, Gonzaga visitou Barra Bonita, Belinda visitou Sítio do Mato, Lólia visitou Dirceu Arcoverde, Juna visitou Antônio Prado de Minas, Donzília visitou Iguatu, Cirila visitou Formoso, Leonida visitou São Sebastião da Boa Vista, Indaleta visitou Santa Maria da Boa Vista, Khloe visitou Monte Alegre, Joele visitou Itupiranga, Isália visitou Monte das Gameleiras",Donzília não visitou Barra,0
+"Stanislava visitou Dionísio Cerqueira, Martha visitou Garopaba, Mariama visitou Passo de Torres, Nila visitou Piedade de Caratinga, Ersília visitou Tanabi",Ersília não visitou Tocantínia,0
+"Khloe é mais alto que Dália , Dália é mais alto que Simoneta , Simoneta é mais alto que Saula , Saula é mais alto que Florisbela , Florisbela é mais alto que Telma , Telma é mais alto que Delfina , Delfina é mais alto que Dores , Dores é mais alto que Tara",Khloe é mais alto que Saula,0
+"Malu é a pessoa que visitou todo lugar, Malu visitou Carisa",Carisa não visitou Itapecuru Mirim,0
+Todo mundo visitou todas as pessoas,Shania não visitou Corine,1
+Todo mundo visitou todos os lugares,Francine não visitou Clementine,0
+"Nayla é a pessoa que visitou todo lugar, Carmelina visitou Nayla",Nayla não visitou Doutor Pedrinho,1
+Ermengarda visitou apenas dezesseis lugares e apenas dez pessoas,"Ermengarda visitou Eluína, Dakota, Ercília, Sarai, Adália, Jane e Dalva",0
+"Jennifer, Daniella, Solôngia, Skylar, Gaela, Florisa, Oksana, Arinda, Catherina, Angélica, Sania, Florence e Hortênsia visitaram Jacinto",Cíntia não visitou Jacinto,0
+"Dária visitou Miraselva, Ânia visitou Santa Rosa do Sul, Nísia visitou Ponte Alta, Bianka visitou São Pedro do Sul, Darcília visitou Morada Nova de Minas",Dária não visitou Miraselva,1
+"Cleide é mais alto que Cirila , Cirila é mais alto que Sana , Sana é mais alto que Lais , Lais é mais alto que Rufina , Rufina é mais alto que Marcella , Marcella é mais alto que Macati , Macati é mais alto que Cayetana , Cayetana é mais alto que Flamínia , Flamínia é mais alto que Silviana , Silviana é mais alto que Sania",Cirila é mais alto que Flamínia,0
+"Marie visitou Pintópolis, Gaitana visitou Paraná, Daina visitou Lençóis Paulista, Balduína visitou Humaitá, Cristolinda visitou Porto do Mangue, Eduina visitou Santana da Boa Vista, Josselina visitou Coqueiro Seco",Eduina não visitou Poconé,0
+"Karina, Saulina e Loide visitaram Marco",Saulina não visitou Marco,1
+Firmina visitou apenas três lugares,"Firmina visitou Codó, Fervedouro, Jijoca de Jericoacoara e Sarandi",1
+Nicky visitou apenas vinte e sete lugares e apenas onze pessoas,"Nicky visitou Gustava, Emily, Duana, Naida, Daisi, Emmy, Gaori, Orange, Safia, Heda, Numénia e Lígia",1
+"Petrina visitou Lagoa Vermelha, Fernandina visitou Palmas, Corália visitou Piranguçu, Maeva visitou Capela Nova",Maeva não visitou Capela Nova,1
+"Maria Leonor é a pessoa que visitou todo mundo, Maria Leonor visitou Auriana",Maria Leonor não visitou Carmela,1
+"Dahlia visitou Muqui, Britney visitou Buritirana, Tracy visitou Santiago do Sul, Rosalinda visitou Borá, Narcisa visitou Paramoti, Nicoleta visitou Corbélia, Mariama visitou Eldorado",Britney não visitou São João do Pacuí,0
+"Todo mundo visitou São José dos Basílios, Pilões, Pai Pedro, Mimoso do Sul, Diamantina, Rosário, Candelária, Anapu, Junqueiro, Ibicaré, Rio Grande da Serra, Matupá, São Benedito do Sul, Palmital, Traipu, Mata de São João, Piracicaba, São José da Vitória e Arcoverde",Tayná não visitou Anapu,1
+"Margaux visitou Divinópolis do Tocantins, Anusca visitou Ouro Preto do Oeste, Belisa visitou Sítio d'Abadia, Catrina visitou Bacurituba",Margaux não visitou Divinópolis do Tocantins,1
+"Castelina visitou Raina, Raina é a pessoa que visitou todo lugar",Raina não visitou Soledade de Minas,1
+"Papoila é mais alto que Layla, Nara, Climénia, Nilce, Runa e Marilda , Lutgarda é tão alto quanto Papoila",Lutgarda é mais alto que Nara,0
+"Todo mundo visitou São Fidélis, Brejões, Santana do Deserto, Itatiaia, Santo Estêvão, Livramento, Sapucaia, Itabi, São Sebastião do Maranhão, Viana, Itapecerica e Murici dos Portelas",Evangelina não visitou Itatiaia,1
+Alguem visitou todas as pessoas e todos os lugares,Roana não visitou Braúnas,0
+"Isolda é mais alto que Katherine , Katherine é mais alto que Gonçala , Gonçala é mais alto que Giraldina , Giraldina é mais alto que Suely , Suely é mais alto que Nídia , Nídia é mais alto que Disa , Disa é mais alto que Maria Leonor , Maria Leonor é mais alto que Loela , Loela é mais alto que Cleodice",Suely é mais alto que Loela,0
+"Fantina visitou Bérnia, Bérnia é a pessoa que visitou todo lugar",Fantina não visitou Palmeirais,0
+"Agnes é mais alto que Muriel, Atenais, de Fafe, Desidéria, Naíde, Magaline, Raina e Cidalina , Agnes é tão alto quanto Elmira",Elmira é mais alto que de Fafe,0
+"Nícia visitou Monte Aprazível, Eutália visitou Paranapoema, Clementina visitou Barcarena, Noor visitou Prado, Poliana visitou Tabuleiro",Nícia não visitou Monte Aprazível,1
+"Marianna visitou Itatiaiuçu, Rolende visitou Cachoeira de Minas, Leona visitou Poços de Caldas",Rolende não visitou Cachoeira de Minas,1
+"Nahla visitou Hilda, Hilda é a pessoa que visitou todo lugar",Nahla não visitou Paulo Afonso,0
+"Ambrosina, Aliça, Gabrielle, Lurdes, Deusa, Brázia, Inaia, Nazaré, Orange, Bertina e Leonarda visitaram Ribeira do Piauí",Inaia não visitou Ribeira do Piauí,1
+"Emma é tão alto quanto Celinia , Celinia é tão alto quanto Holly , Holly é tão alto quanto Saula , Saula é tão alto quanto Sania , Sania é tão alto quanto Mecília , Mecília é tão alto quanto Cácia , Cácia é tão alto quanto Artemísia , Artemísia é tão alto quanto do Natal , do Natal é tão alto quanto Elmira , Elmira é mais alto que do Livramento",do Livramento é mais alto que Cácia,1
+Todo mundo visitou todos os lugares,Mariamar não visitou Estância,1
+"Almesinda visitou Derrubadas, Jaciara, Nova Campina e Sobradinho",Almesinda não visitou Jaciara,1
+Armanda visitou apenas dez lugares e apenas uma pessoa,Armanda visitou Bom Jesus do Araguaia,0
+"Dulcelina é mais alto que Guimar , Guimar é mais alto que Lucíola , Lucíola é mais alto que Naira , Naira é mais alto que Jenny",Lucíola é mais alto que Dulcelina,1
+"Aimara visitou Mícia, Mícia é a pessoa que visitou todo mundo",Aimara não visitou Joya,0
+"Adélia é tão alto quanto Rubi , Rubi é tão alto quanto Lizia , Lizia é tão alto quanto Amanda , Amanda é tão alto quanto Delminda , Delminda é tão alto quanto Rihanna , Rihanna é tão alto quanto Santa Rita , Santa Rita é tão alto quanto Lorenza , Lorenza é mais alto que Felisbina",Felisbina é mais alto que Rubi,1
+"Lucie é mais alto que Raqueline , Raqueline é mais alto que Ália , Ália é mais alto que Iana , Iana é mais alto que Leonilda , Leonilda é mais alto que Ilídia , Ilídia é mais alto que Octávia , Octávia é mais alto que Alaia",Leonilda é mais alto que Iana,1
+"Erin é a pessoa que visitou todo lugar, Erin visitou Mabel",Erin não visitou Arco-Íris,1
+Arlete visitou apenas vinte e dois pessoas,"Arlete visitou Cinara, Jaquelina, Kate, Castelina, Joanina e Titânia",0
+"Miriã visitou Raposos, Nova Mamoré, Andorinha, Goiânia, Sete Lagoas, São Domingos do Maranhão, Barra do Quaraí, Tuparendi, Barro Preto, Paranã, Caraguatatuba, Beneditinos, Major Sales, Laranjal do Jari e Jandaia",Miriã não visitou Mairi,0
+"Ellen visitou Cosmópolis, Jânia visitou São Pedro do Piauí, Meera visitou Nazaré Paulista, Noelma visitou Alagoinha, Dafne visitou Alto Alegre, Carmen visitou Alterosa, Nessa visitou Salinas da Margarida, Precília visitou Maribondo, Élea visitou Marianópolis do Tocantins, Taia visitou Carnaubais",Noelma não visitou Alagoinha,1
+Todo mundo visitou todos os lugares,Melânia não visitou Candy,0
+"Reyna visitou São Romão, Marizete visitou Palmares Paulista",Marizete não visitou Brasil Novo,0
+Kai e Eularina visitaram Ribeirão Grande,Eularina não visitou Oriente,0
+Todo mundo visitou todas as pessoas,Idélia não visitou Cleonice,1
+Todo mundo visitou todas as pessoas e todos os lugares,Fia não visitou Jaguaruna,1
+"Leah é tão alto quanto do Rosário , do Rosário é tão alto quanto Marjolene , Marjolene é tão alto quanto Alvarina , Alvarina é tão alto quanto Farah , Farah é tão alto quanto Gloriosa , Gloriosa é tão alto quanto Evangelista , Evangelista é mais alto que Drusila",Farah é mais alto que Drusila,0
+"Papoila é mais alto que Heidi, Esménia, Salima, Karina e Feliciana , Papoila é tão alto quanto Morgiana",Salima é mais alto que Morgiana,1
+"Rosário, Climénia, Duartina, Romã, Romana, Arlete, Florisbela, Ivana, Indira, Mira, Edine, Jael, Celsa, Carísia, de Deus, Tessa, Clementina, Dana e Dejanira visitaram Unistalda",Carela não visitou Unistalda,0
+"Gislena visitou Fruta de Leite, Caririaçu, Mário Campos, Mariana, Orleans, Lajedo do Tabocal e Santa Rosa de Lima",Gislena não visitou Promissão,0
+"Alida é mais alto que Magenta , Magenta é mais alto que Eleia , Eleia é mais alto que Dianna , Dianna é mais alto que Engelécia , Engelécia é mais alto que Quirina",Alida é mais alto que Dianna,0
+"Aleixa é tão alto quanto Fénix , Fénix é tão alto quanto Crisanta , Crisanta é tão alto quanto Quirina , Quirina é tão alto quanto Myriam , Myriam é tão alto quanto Mina , Mina é tão alto quanto Brigite , Brigite é tão alto quanto Gracinda , Gracinda é tão alto quanto Claudine , Claudine é tão alto quanto Gara , Gara é tão alto quanto Cárin , Cárin é mais alto que Gislene",Gislene é mais alto que Claudine,1
+"Todo mundo visitou Mirassol, Rio Verde de Mato Grosso, Xaxim, Gurinhém, Andirá, Mococa, Balneário Piçarras, Puxinanã, São Roque de Minas, Selvíria, Aporá, Primavera, Chapadão do Lageado, Bilac, Campo Verde e Aporé",Emie não visitou São Francisco do Pará,0
+"Oliviana visitou Calmon, Alto Horizonte, Nova Odessa, Palestina, Presidente Tancredo Neves, Baixa Grande, Ivaiporã, São José dos Quatro Marcos, Pantano Grande e Rio Doce",Oliviana não visitou Baixa Grande,1
+"Taia visitou Pitangui, Elizabeth visitou Kaloré, Helga visitou Caxambu, Maia visitou Sete Quedas",Helga não visitou Betim,0
+Todo mundo visitou todas as pessoas e todos os lugares,Jani não visitou Lya,1
+Todo mundo visitou todos os lugares,Ivy não visitou Marli,0
+"Holly visitou Kendra, Holly é a pessoa que visitou todo mundo",Kendra não visitou Sharon,0
+"dos Anjos é mais alto que Seara, Gislene, Naíde, Lina, Tara, Dúnia, Evelyn, Bebiana e Sory , Samaritana é tão alto quanto dos Anjos",Seara é mais alto que Samaritana,1
+Diva visitou apenas onze pessoas,"Diva visitou Jaquelina, Sasha, Elza, Chi, Hilda, Dineia, Leila, Caterina, Dafne, Cristal, Niéves e Denisa",1
+"Louise é tão alto quanto Mariema , Mariema é tão alto quanto Maritila , Maritila é tão alto quanto Simy , Simy é tão alto quanto Delmira , Delmira é tão alto quanto Adalgisa , Adalgisa é tão alto quanto Ocridalina , Ocridalina é tão alto quanto Basília , Basília é tão alto quanto Edma , Edma é tão alto quanto Taia , Taia é mais alto que Catherine",Basília é mais alto que Catherine,0
+"Lucíola visitou Icaraíma, Mina visitou Miraí",Lucíola não visitou Icaraíma,1
+"Amal é mais alto que Sory , Sory é mais alto que Lucete , Lucete é mais alto que Fernandina , Fernandina é mais alto que Norvinda , Norvinda é mais alto que Celisia , Celisia é mais alto que Luena , Luena é mais alto que Artemísia",Lucete é mais alto que Celisia,0
+Greta visitou apenas dezesseis lugares e apenas quatro pessoas,"Greta visitou Governador Eugênio Barros, Autazes, Barra, Jussara, Aporé, Suzanápolis, Tavares, Borá, Piraquê, Icapuí, Santo Hipólito, Florânia, Motuca, Novo Xingu, Canindé, Colônia Leopoldina e Mariópolis",1
+Sunamita e Erin visitaram Assunção,Sunamita não visitou Porto do Mangue,0
+"Melania é mais alto que Heliodora , Heliodora é mais alto que Cynthia , Cynthia é mais alto que Carmen , Carmen é mais alto que Cíntia , Cíntia é mais alto que Nirvana , Nirvana é mais alto que Eunice , Eunice é mais alto que Isalina , Isalina é mais alto que Agatha , Agatha é mais alto que Cornélia , Cornélia é mais alto que Dorina",Nirvana é mais alto que Cynthia,1
+Edite visitou apenas oito lugares e apenas oito pessoas,"Edite visitou Gustava, Astride e Alanis",0
+"Claudina visitou Elise, Claudina é a pessoa que visitou todo mundo",Claudina não visitou Jasmine,1
+Nia visitou apenas quinze lugares e apenas dez pessoas,"Nia visitou Isabelina, Leonilda, Cesária, Janine, Rossana, Danika, Nirvana, Leyla e Artemísia",0
+"Angélica é a pessoa que visitou todo lugar, Acácia visitou Angélica",Angélica não visitou Barcelona,1
+"Daniella visitou Costa Marques, São Miguel dos Milagres, Capivari, Santana, Porto de Pedras e Princesa Isabel",Daniella não visitou Porto de Pedras,1
+"Diane visitou Macatuba, Raina visitou Ponte Alta do Norte, Deliana visitou Balbinos",Diane não visitou Lagoa Grande,0
+"Grace é a pessoa que visitou todo lugar, Grace visitou Juli",Juli não visitou Presidente Sarney,0
+Todo mundo visitou todas as pessoas e todos os lugares,Nayma não visitou Lutgarda,1
+"Cárin visitou Guarapari, Domitília visitou Independência, Magali visitou Campo Novo de Rondônia",Magali não visitou Campo Novo de Rondônia,1
+"Nausica é mais alto que Bitia, Piedade, La-Salete, Elma, Mariema, Linete, Gregória e Ticiane , Leopoldina é tão alto quanto Nausica",Leopoldina é mais alto que Gregória,0
+Todo mundo visitou todas as pessoas,Cristiana não visitou Lago do Junco,0
+"Teolinda visitou Iati, Buritizal, Macieira, Engenheiro Caldas, Vicentina, Imbuia, Itaguara e Nova Bandeirantes",Teolinda não visitou Santana do São Francisco,0
+"Dara visitou Ponte Preta, Bonifácia visitou São Geraldo do Araguaia, Eglantina visitou Indaiabira, Lília visitou Santo Amaro, Henriette visitou Angelim, Darci visitou Campo Verde, Greta visitou Novo Mundo",Darci não visitou Itagi,0
+"Fânia visitou Alenquer, Shakira visitou Tatuí, Ilídia visitou Bituruna, Melanie visitou Ipaumirim, Bethany visitou Bueno Brandão, Milana visitou Apiaí, Nayara visitou Água Branca, Samaritana visitou Paranaguá, Joela visitou Itamarati de Minas, Cândida visitou Mato Rico",Joela não visitou Itamarati de Minas,1
+"Melodia visitou Conselheiro Lafaiete, Jerusa visitou Tasso Fragoso, Seomara visitou Santana da Vargem, Corine visitou Imbaú, Léonie visitou Pequeri, Soraya visitou Campinorte, Amaia visitou Mallet",Léonie não visitou Pequeri,1
+"Ima é tão alto quanto Rocio , Rocio é tão alto quanto Flamínia , Flamínia é tão alto quanto Seara , Seara é tão alto quanto Auta , Auta é tão alto quanto Ekaterina , Ekaterina é tão alto quanto Marjolene , Marjolene é tão alto quanto Safina , Safina é tão alto quanto Lena , Lena é tão alto quanto Elana , Elana é mais alto que Sátira",Flamínia é mais alto que Sátira,0
+Todo mundo visitou todas as pessoas,Diomar não visitou Denisa,1
+"Léa visitou Nova Fátima, Campo Grande, Ponte Preta e Darcinópolis",Léa não visitou Darcinópolis,1
+Domitila visitou apenas doze lugares e apenas onze pessoas,"Domitila visitou Bias Fortes, Rubim, Mucajaí, Itanhandu, Niquelândia, Campo de Santana, São José da Vitória, Guaraqueçaba, Oscar Bressane, Rio Branco do Sul, Guapiara, Quatro Barras e Inaciolândia",1
+Todo mundo visitou todos os lugares,Generosa não visitou Maeva,0
+"Maré visitou Coluna, Loreta visitou São Borja, Tirsa visitou Nova Viçosa, Cárita visitou Comendador Gomes, Iráis visitou São João do Carú, Sadiya visitou Ipixuna",Loreta não visitou Ruy Barbosa,0
+"Kenya visitou Boa Esperança, Maçambara, Cruzília, Palminópolis, Pereira Barreto e Cascavel",Martinha não visitou Pereira Barreto,0
+"Anísia, Amara, Florisbela, Luanda, Albertina, Hermânia, Soledade, Flor de Maria, Cesaltina, Maia, Rocio, Gáil, Nuna, Hope, Guislena, Gema, Paolla, Jerónima e Donatila visitaram Mariana Pimentel",Luanda não visitou São Brás do Suaçuí,0
+"Heliodora é a pessoa que visitou todo lugar, Heliodora visitou Gerta",Heliodora não visitou Boa Nova,1
+"Juraci é a pessoa que visitou todo lugar, Juraci visitou Geisa",Geisa não visitou Quedas do Iguaçu,0
+Todo mundo visitou todos os lugares,Anita não visitou Josete,0
+"Brizida visitou Candiba, Brásia visitou Cruz do Espírito Santo, Mina visitou Chapadão do Sul",Brásia não visitou Cruz do Espírito Santo,1
+"Tirsa visitou Nova Floresta, Anésia visitou Jacareacanga, Huguete visitou Cachoeira do Piriá, Brigite visitou Januária, Carmen visitou Arataca, Peyton visitou Ribeira do Pombal, Nísia visitou Timbó, Hilária visitou Araçoiaba da Serra, Allegra visitou Valença, Mabel visitou Piripá, Darnela visitou Capão Bonito do Sul, Dina visitou Penápolis",Peyton não visitou Ribeira do Pombal,1
+"Todo mundo visitou Morro da Fumaça, Nova Palma, Trairi, Jordânia, Apiúna, Presidente Kennedy, Governador Lindenberg, Aldeias Altas, Brejinho, Serra, Águas da Prata e Formoso",Dara não visitou Ilhota,0
+"Santa Cruz, Julita, Marcelle, Grace, Elda, Glenda, Nathália, Miguela, Lucie, Dalida, Nivalda, Sylvie, Artemísia e Sasha visitaram Gouveia",Nathália não visitou Gouveia,1
+Myra visitou apenas vinte e seis lugares e apenas dezoito pessoas,"Myra visitou Arminda, Benigna, Gertrudes, Gerda, Rosalie, Prudência, Derocila, Herédia, Leane e Ellen",0
+Lólia visitou apenas vinte e cinco pessoas,"Lólia visitou Naia, Dione, Filena, June, Militza, Cristiana, Giraldina, Paraíso, Serenela, Elize, Leopoldina, Mariamar, Arinda, Gaela, Katherina, Cayetana, Angie, Marianne, Excelsa, Celsa e Teolinda",0
+"Julinha é a pessoa que visitou todo mundo, Idélia visitou Julinha",Julinha não visitou Amorzinda,1
+Liseta visitou apenas quinze lugares,"Liseta visitou Reserva do Cabaçal, Lago do Junco, Januário Cicco, Arantina, Juazeiro, Governador Lindenberg, Coaraci, Adolfo, Nazaré, Irapuã, Nazário, Assunção do Piauí, Curimatá, Balsa Nova, Bom Jardim e Coronel Murta",1
+"Magenta é mais alto que Charlotte , Charlotte é mais alto que Magali , Magali é mais alto que Lilly , Lilly é mais alto que Ceres , Ceres é mais alto que Leonisa , Leonisa é mais alto que Mírtila , Mírtila é mais alto que Peyton , Peyton é mais alto que Briosa",Ceres é mais alto que Briosa,0
+"Betsabé visitou Princesa Isabel, Jezabel visitou Colônia do Gurguéia",Jezabel não visitou Colônia do Gurguéia,1
+"Todo mundo visitou Lagoa do Sítio, Filadélfia, Barroquinha, Coqueiral, Dilermando de Aguiar, Bom Jardim, Ipiranga do Sul, Porto Alegre do Piauí, Catolândia, Paulo Ramos, Carrasco Bonito, Sapezal, Nova Ramada, Pedra Branca do Amapari, Serra de São Bento, Peixe-Boi e Moraújo",Stella não visitou Tuiuti,0
+"Dona visitou Esperança, Santa Cruz do Xingu, Arroio Trinta e Sapucaia do Sul",Dona não visitou Marataízes,0
+Isalina visitou apenas dez lugares e apenas quatro pessoas,"Isalina visitou Joaquim Pires, Tupiratins, Corrente, Almas, Ingazeira, Veríssimo, São Domingos do Capim e Ouroeste",0
+Todo mundo visitou todos os lugares,Joscelina não visitou Soledade de Minas,1
+"Idrisse visitou Oureana, Idrisse é a pessoa que visitou todo lugar",Oureana não visitou Agricolândia,0
+"Jerusa é mais alto que dos Prazeres , dos Prazeres é mais alto que Laetitia , Laetitia é mais alto que Rosalina , Rosalina é mais alto que Jocelina , Jocelina é mais alto que Ragendra , Ragendra é mais alto que Leonília , Leonília é mais alto que Gloriosa",Gloriosa é mais alto que Jerusa,1
+"Rubi é a pessoa que visitou todo mundo, Mária visitou Rubi",Rubi não visitou Ianesis,1
+"Gerda visitou Santa Rita do Araguaia, Lucinda visitou Esperantina, Savannah visitou Paraibano, Ália visitou Poá",Gerda não visitou Santa Rita do Araguaia,1
+"Quitéria visitou Marília, Gerta visitou Bandeirantes, Dircea visitou Jauru, Shakira visitou Condor, Dádiva visitou Manicoré",Dircea não visitou Jauru,1
+"Biana visitou Vale Real, Dilma visitou Carmo do Rio Verde, Aldenir visitou São Sebastião do Passé, Joelma visitou Santa Mercedes, Ernestina visitou Lagoa do Barro do Piauí, Nia visitou Rio Preto da Eva, Clarinha visitou Vargem",Ernestina não visitou Lagoa do Barro do Piauí,1
+Nessie visitou apenas vinte e três lugares e apenas onze pessoas,"Nessie visitou Cyara, Octávia, Scarlet, Shirley, Élin e Mira",0
+"Marsília é mais alto que Léanor, Claire, Elise, Carmélia e Miquelina , Marsília é tão alto quanto Primitiva",Elise é mais alto que Primitiva,1
+"Rosebel é mais alto que Génesis , Génesis é mais alto que Scarlet , Scarlet é mais alto que Anaíde , Anaíde é mais alto que Jaqueline , Jaqueline é mais alto que Adalgiza",Scarlet é mais alto que Jaqueline,0
+"Apolónia é tão alto quanto Giulia , Giulia é tão alto quanto Estrelle , Estrelle é tão alto quanto Júnia , Júnia é tão alto quanto Cornélia , Cornélia é tão alto quanto Chloé , Chloé é mais alto que Nídia",Nídia é mais alto que Estrelle,1
+"Lussinga visitou Itarantim, Anaísa visitou São Braz do Piauí, Meiline visitou Regente Feijó, Lou visitou Grandes Rios, Íngride visitou Dom Viçoso, Juanita visitou Canhoba",Lou não visitou Grandes Rios,1
+"Orange é mais alto que Josefa, Gloriosa, Peyton e Fantina , Marcelina é tão alto quanto Orange",Gloriosa é mais alto que Marcelina,1
+"Isália visitou Campos Gerais, Sierra visitou Mateus Leme, Sienna visitou Vieiras, Sérgia visitou Aragominas, Ismália visitou Diamantino, Benjamina visitou Rubinéia, Soline visitou Uberaba",Ismália não visitou Palmares,0
+"Bernardete é mais alto que Amira , Amira é mais alto que Jessie , Jessie é mais alto que Sira , Sira é mais alto que Nília , Nília é mais alto que Rosalie , Rosalie é mais alto que Heliodora , Heliodora é mais alto que Talita , Talita é mais alto que Dália , Dália é mais alto que Pascualina , Pascualina é mais alto que Daliana",Amira é mais alto que Nília,0
+"Rocio visitou Olinda, Rocio é a pessoa que visitou todo mundo",Olinda não visitou Dorisa,0
+"Amabília é a pessoa que visitou todo mundo, Amabília visitou Lenira",Lenira não visitou Margaux,0
+"Albertina, Liliete, Aneide, Lucília, Felisbela e Corina visitaram Castilho",Lucília não visitou Castilho,1
+Lourdes visitou apenas vinte e sete lugares,"Lourdes visitou Beberibe, Santa Maria do Cambucá, Matinha, Monsenhor Hipólito, José Raydan, Datas, Itaipulândia, Cairu, Tacuru, Porto Belo, Bom Jesus da Serra, Arroio Trinta, Aratuba, Caraúbas do Piauí, Doutor Ulysses, Sobrado, Matozinhos, Parambu, Iuiú, Buritama, Dias d'Ávila, Cuité de Mamanguape, Arroio do Sal, Piratuba, Posse, São Félix do Tocantins, São Tomé e Santa Cruz do Sul",1
+"Afra visitou Liliete, Afra é a pessoa que visitou todo mundo",Afra não visitou do Paraíso,1
+"Anita visitou Lisana, Lisana é a pessoa que visitou todo lugar",Anita não visitou Paraibano,0
+"Nessy, Susi, Lumena, Margaux e Carísia visitaram Santo André",Abna não visitou Santo André,0
+"Margot é tão alto quanto Bernardete , Bernardete é tão alto quanto Melinda , Melinda é tão alto quanto Telma , Telma é tão alto quanto Leonida , Leonida é tão alto quanto Jandira , Jandira é tão alto quanto Obdúlia , Obdúlia é tão alto quanto Rosário , Rosário é mais alto que Nila",Rosário é mais alto que Nila,0
+Neli visitou apenas cinco lugares e apenas quatro pessoas,"Neli visitou Paraíso, Sérgia, Guislena, Diomar e Tolentina",1
+"Diomar é mais alto que Thai, Casta, Suely, Priyanka, Melinda, Josselina e Levina , Diomar é tão alto quanto Gonzaga",Josselina é mais alto que Gonzaga,1
+Carísia visitou apenas dez lugares e apenas quatro pessoas,"Carísia visitou Monteirópolis, Ângulo, Cajuri, Belo Monte, Jucás, Juramento, Tabapuã, Itapetininga, Nova Nazaré, Agronômica e Rondon",1
+"Nanina visitou Colômbia, Maureen visitou Glicério, Liv visitou Regeneração, Isolete visitou Pouso Novo, Aniana visitou Populina, Lea visitou Boa Vista",Liv não visitou Alexandria,0
+"Carsta é mais alto que Orlanda, Georgiana, Rosanete, Brásia, Briolanja, Gravelina, Marie, Noémia e Leanor , Carsta é tão alto quanto Deotila",Deotila é mais alto que Briolanja,0
+"Hortense, Marilisa, Terência, Isalda, Priscila, Genésia, Lauriana, Heliodora, Deise, Marcelle, Marilda, Gisele, Seong, Sarai, Amável e Rosita visitaram Nerópolis",Marilisa não visitou Nerópolis,1
+"Elaina visitou Lace, Lace é a pessoa que visitou todo mundo",Elaina não visitou Guislena,0
+Marilina visitou apenas doze lugares e apenas nove pessoas,"Marilina visitou Nilda, Cléo, Genésia, Cândida, Léna, Domitila, Cora, Rebeka, Leontina e Herédia",1
+"Amabélia visitou Lilite, Lilite é a pessoa que visitou todo lugar",Amabélia não visitou Petrolina,0
+Todo mundo visitou todas as pessoas,Keiko não visitou Perdizes,0
+"Constance, Bella, Cesarina, Engelécia, Isabelle, Sira, Jessie, Lenira, Raqueline, Jacqueline, Jerusa, Benícia, Léonie, Briolanja, Melodia, Mavília, Neiza, Nor, Ionara e Lariana visitaram Vila Valério",Lariana não visitou Vila Valério,1
+Todo mundo visitou todas as pessoas,Ocridalina não visitou Leme do Prado,0
+"Rebeka visitou São João do Triunfo, Benigna visitou Ourilândia do Norte",Benigna não visitou Cristalândia do Piauí,0
+"Suzy visitou Jaíba, Sapé, Jateí, São Tomás de Aquino, Fervedouro, Juarina, Tapejara, Passagem, Moju, Barra, Cortês, Carlópolis, Taquaruçu do Sul, Itapejara d'Oeste e Nova Odessa",Suzy não visitou Tapejara,1
+"Paris visitou Goiatins, Catuípe, Chã de Alegria, Igarapé do Meio, Nova Veneza, Montes Claros, João Pinheiro, Jupi, Guabiju, Guanambi, São José da Barra, Murici dos Portelas, Diamante D'Oeste, Sertaneja, Esperantina, Poté e Espigão D'Oeste",Hulda não visitou Jupi,0
+Joséfa visitou apenas onze lugares e apenas duas pessoas,"Joséfa visitou Vera Cruz, Ângulo, Cristais Paulista, Ponto Chique, Vargem Bonita, Divina Pastora, Lamarão, Congonhas do Norte, Olho D'Água do Piauí, Camaragibe, Paraíso do Norte e Santo Antônio dos Milagres",1
+"Cipora visitou Mauriti, Skylar visitou Teodoro Sampaio, Desidéria visitou Boninal, Aurete visitou Tamandaré, Joya visitou Demerval Lobão, Leonora visitou Sarzedo, Amaia visitou Presidente Médici, Jorja visitou Humaitá, Nuna visitou Itapeva",Joya não visitou Novo Hamburgo,0
+"Rihanna visitou Catuti, Macaé, Sarapuí, Inhapim, Milton Brandão, Baianópolis, Santa Maria do Cambucá, Porto Seguro, Cacimbinhas, Riachão das Neves e Senador Sá",Rihanna não visitou Maracaju,0
+"Íngride visitou Paulo Lopes, Ibaretama, Santarém, Barra de Guabiraba, Frei Lagonegro, Santa Bárbara do Tugúrio, Bombinhas, Saquarema e Sabino",Neusa não visitou Barra de Guabiraba,0
+"Sérgia visitou Alto Araguaia, Castelina visitou Igrapiúna, Cayetana visitou Bugre, Leolina visitou São João do Paraíso, Suzana visitou Itarema, Inara visitou Castanhal",Suzana não visitou Lavandeira,0
+"Todo mundo visitou Nhandeara, Vicência, Bom Princípio do Piauí, São Rafael, Antônio Martins, José Raydan, Tiros, Felipe Guerra, Lagoa da Prata, Chã de Alegria, Ibema e Engenheiro Navarro",Cidalina não visitou Feira Grande,0
+Todo mundo visitou todos os lugares,Lucie não visitou Nioaque,1
+"Ciana visitou Teofilândia, Glenda visitou Boqueirão, Bibiana visitou Marcação, Trasila visitou Quatá, Antera visitou Acará, Étel visitou Taciba, Ivory visitou Carlos Barbosa, Margot visitou Humaitá",Bibiana não visitou Tabaporã,0
+Carmorinda visitou apenas seis lugares,"Carmorinda visitou Tuntum, Água Azul do Norte, Itaberaba e Cacoal",0
+"Doralice visitou Jóia, Amara visitou Atalaia",Amara não visitou Tamandaré,0
+"Cacilda visitou João Câmara, Tejuçuoca, Monsenhor Gil e Quatá",Cacilda não visitou Monsenhor Gil,1
+"Trasila, Marieta, Ingeburga, Etéria, Faia, Leonete, Saga, Dariana, Michelle e Dulcídia visitaram Ouricuri",Leonete não visitou Ouricuri,1
+"Adelinda visitou Emily, Emily é a pessoa que visitou todo lugar",Adelinda não visitou Tarrafas,0
+"Sarai é mais alto que Afra , Afra é mais alto que Cremilda , Cremilda é mais alto que Natividade , Natividade é mais alto que Rihanna , Rihanna é mais alto que Feba , Feba é mais alto que Patrocínia",Afra é mais alto que Rihanna,0
+Fédora visitou apenas vinte e cinco lugares e apenas dez pessoas,"Fédora visitou Santa Cecília, Serra do Ramalho, São Bentinho, Gonzaga, Parapuã, Sumidouro, Santa Inês, Capão da Canoa, Santa Bárbara do Leste, Nova Brasilândia, Vista Alegre, São João Batista, Cruzeiro do Sul, Paraopeba, Santa Cecília do Pavão, Monsenhor Gil, Olivedos, Saudade do Iguaçu, Mariana Pimentel, Lucena, Pedregulho, Palmeiras do Tocantins, Guarujá do Sul, São Roque de Minas, Francisco Dumont e Formosa do Oeste",1
+"Stacy é a pessoa que visitou todo lugar, Cleonice visitou Stacy",Cleonice não visitou Turmalina,0
+"Carol visitou Jacinta, Jacinta é a pessoa que visitou todo mundo",Jacinta não visitou Cipora,1
+Todo mundo visitou todas as pessoas e todos os lugares,Josiana não visitou Floresta,1
+"Sory é mais alto que Lola , Lola é mais alto que Miriã , Miriã é mais alto que Ercília , Ercília é mais alto que Rosália",Lola é mais alto que Sory,1
+Todo mundo visitou todas as pessoas,Gerta não visitou Brasópolis,0
+Suse visitou apenas nove pessoas,"Suse visitou Jael, Petrina, Constantina e Casta",0
+Heli visitou apenas sete pessoas,"Heli visitou Emmy, Dana, Eleine, Armandina, Natividade, Sory, Lucília e Leonida",1
+"Anair é mais alto que Noiala , Noiala é mais alto que Guendolina , Guendolina é mais alto que Círia , Círia é mais alto que Laya , Laya é mais alto que Celinia",Círia é mais alto que Guendolina,1
+"Nikita é a pessoa que visitou todo mundo, Maëlis visitou Nikita",Nikita não visitou Beanina,1
+"Caroline, Acácia, Tabatha, Joele, Bertila, Safia, Bertina, Delminda, Salomite, Karen, Quaresma, Emídia, Simona, Shakira e Licínia visitaram Ribamar Fiquene",Salomite não visitou Morro Cabeça no Tempo,0
+"Gardela visitou Guarapari, São Leopoldo, São Sebastião do Alto, São Miguel, Taboão da Serra, Avelinópolis, Boa Vista do Sul, Aloândia, Satubinha, Jaguarari, Paulo Bento, Boca da Mata, Sertaneja, Zabelê, Guaraí, Mathias Lobato, Palestina do Pará e Fernando Prestes",Hortense não visitou Fernando Prestes,0
+"Benigna visitou Campo Magro, Agnes visitou Cocal dos Alves, Kayla visitou Coronel Xavier Chaves, Precious visitou Nicolau Vergueiro",Agnes não visitou Viamão,0
+"Genésia visitou São João del Rei, Sasha visitou Crisólita, Blandina visitou Lagoa de São Francisco",Genésia não visitou Pitanga,0
+"Nilsa, Sienna, Elaine, Elza, Rosalinda, Susanna e Graciete visitaram Santo Antônio de Goiás",Susanna não visitou Santo Antônio de Goiás,1
+Grimanesa visitou apenas vinte e oito pessoas,"Grimanesa visitou Lais, Laurentina, Assunção, Serenela, Minervina, Brunilde, Rodriga, Terezinha, Lisbon, Milene, Ariane, Suzana, Isolda, Isabelle, Nelsa, Salete, Cyara, Jennifer, Alcina, Gaitana, Florisbela, Francesca, Rocio, Briolanja, Lurdite, Mireia, Lacey, Ioque e Suria",1
+"Matrosa é a pessoa que visitou todo mundo, Matrosa visitou Marinha",Marinha não visitou Jezabel,0
+Todo mundo visitou todos os lugares,Carlotta não visitou Rosebel,0
+"Carmelita é a pessoa que visitou todo lugar, Salúquia visitou Carmelita",Salúquia não visitou Riolândia,0
+"Terência visitou Ronda Alta, Nayara visitou Osvaldo Cruz, Espírito Santo visitou Presidente Juscelino, Éola visitou Lagarto, Demelza visitou Sabino, Cayetana visitou Marquinho",Cayetana não visitou Marquinho,1
+Raquelina visitou apenas dois lugares,Raquelina visitou Niquelândia,0
+Melodia visitou Crato e Tabira,Melodia não visitou Tabira,1
+"Geraldina visitou Antônio Cardoso, Taquarituba, Novo Oriente de Minas, Indiana, Bilac, Alvarenga, Chapada de Areia, Colorado, Mata Grande, Caratinga, Ribeirão Cascalheira e Marco",Liduína não visitou Caratinga,0
+Alguem visitou todas as pessoas e todos os lugares,Chema não visitou Pé de Serra,0
+"Lariana visitou Caiçara, Chloé visitou Quixabeira, Misha visitou Tupaciguara, Elisabeth visitou Santa Rita do Tocantins, Thaís visitou Bonito, Alita visitou Igarassu, Lucina visitou Alto Alegre",Elisabeth não visitou Santa Rita do Tocantins,1
+"Taia é mais alto que Faith , Faith é mais alto que Kylie , Kylie é mais alto que Gertrudes , Gertrudes é mais alto que Maëlis , Maëlis é mais alto que Selesa , Selesa é mais alto que Leslie , Leslie é mais alto que Casta",Leslie é mais alto que Casta,0
+"Ireneia visitou Rincão, Natali visitou Presidente Kennedy, Sarai visitou Arceburgo, Lilá visitou Bela Vista da Caroba, Jorgina visitou Jandaíra",Lilá não visitou Bela Vista da Caroba,1
+"Selénia, Ragendra, Marisol, Belle, Jennifer, Marian, Liliane, Niah, Leonilde e Glaúcia visitaram Santana do Ipanema",Jennifer não visitou Santana do Ipanema,1
+Julinda visitou Santana dos Montes e Tamboril do Piauí,Julinda não visitou Arapongas,0
+"Susanna é mais alto que Dominica, Teresca, Cristene, Trinity, Talita e Arinda , Rania é tão alto quanto Susanna",Rania é mais alto que Talita,0
+Dione visitou apenas seis lugares e apenas uma pessoa,"Dione visitou Cerro Grande do Sul, Castelo do Piauí, Sirinhaém, Maxaranguape, Verê, Montanha e Chupinguaia",1
+"Naraiana visitou Mirandópolis, Selene visitou Benjamin Constant, Flória visitou Cambará, Donzília visitou Crato, Isalda visitou São Sebastião do Anta",Selene não visitou Campo Erê,0
+"Cleide visitou Palmeira das Missões, Areado, Chã Grande, Douradina, Carangola, Itajá, Pindoba, Adustina, Boa Vista do Incra, Castro, Santana dos Montes, Pedro Teixeira, Mata Grande, Jardinópolis, Santa Rita do Araguaia, Anagé, Formigueiro e Areiópolis",Cleide não visitou Pedro Teixeira,1
+"Cizina é tão alto quanto Nerea , Nerea é tão alto quanto Elisabeth , Elisabeth é tão alto quanto Laureen , Laureen é tão alto quanto Eleia , Eleia é tão alto quanto Etel , Etel é tão alto quanto Deise , Deise é mais alto que Isalina",Isalina é mais alto que Elisabeth,1
+Geraldina visitou apenas dezesseis lugares e apenas dezesseis pessoas,"Geraldina visitou Aparecida, Pio XII, Manoel Ribas e São Miguel do Guaporé",0
+"Marianna visitou São Francisco de Itabapoana, Duartina visitou Itapirapuã Paulista, Hédila visitou Ourinhos, Guimar visitou Paracuru, Mavília visitou Uniflor",Mavília não visitou Uniflor,1
+Anteia visitou apenas oito lugares,"Anteia visitou Campo Alegre de Goiás, Novo Airão, Braga e Antônio João",0
+"Lais, Harper, Constance, Ivy, Desiree, Jandira, Joaquina, Seni e Joséfa visitaram São Roque do Canaã",Seni não visitou São Roque do Canaã,1
+Malika visitou apenas duas pessoas,Malika visitou Dúnia,0
+"do Paraíso visitou Ouro Branco, Ilca visitou Ivolândia",Ilca não visitou Viadutos,0
+"Fédora, Lace, Dinarta, Igelcemina, Laureen, Amy, Kai, Tessa, Geovanna, Sharam, Naia, Pixie, Prudência, Harper, Ludmila, Charlize, Carmen, Gara e Corália visitaram Itapirapuã Paulista",Bernadete não visitou Itapirapuã Paulista,0
+"Malu visitou Balsa Nova, Brejinho, Sidrolândia, Presidente Olegário, Coribe, Lagoa do Itaenga, Jaboatão dos Guararapes, Maruim e Nova Esperança do Sul",Dinarta não visitou Coribe,0
+"Joselina é mais alto que Leana , Leana é mais alto que Domitília , Domitília é mais alto que Paris , Paris é mais alto que Décia , Décia é mais alto que Anteia , Anteia é mais alto que Adália , Adália é mais alto que Mariamar",Décia é mais alto que Anteia,0
+"Diliana é mais alto que Maré, Pietra, Lízie, Kailani, Elizabeth, Carmela, Marilisa, Chantal e Catila , Diliana é tão alto quanto Jéni",Pietra é mais alto que Jéni,1
+"Noémia é mais alto que Justina , Justina é mais alto que Francesca , Francesca é mais alto que Morian , Morian é mais alto que Jacinta , Jacinta é mais alto que Marguerita , Marguerita é mais alto que Iana , Iana é mais alto que Quirina",Quirina é mais alto que Justina,1
+"Taciana visitou Pratânia, Iolanda visitou Itapuranga, Clívia visitou Teófilo Otoni, Brenda visitou Piraquara",Clívia não visitou Teófilo Otoni,1
+"Sylvie, Mícia, Jandira, Simy, Leonora, Sunamita, Taia, Auxília, Lina, Elícia, Cristene, Niceia, Ida e dos Mártires visitaram Palmitos",Marieva não visitou Palmitos,0
+"Lucília é a pessoa que visitou todo lugar, Quitéria visitou Lucília",Lucília não visitou Augusto Pestana,1
+"Hosana visitou Diza, Diza é a pessoa que visitou todo mundo",Hosana não visitou Lilá,0
+Alguem visitou todas as pessoas e todos os lugares,Noor não visitou Campos Lindos,0
+"Simaura visitou Frei Miguelinho, Etel visitou Camamu, Nilsa visitou Coronel Pilar, Anunciação visitou Nossa Senhora das Dores, Samaritana visitou Aragarças, Joaninha visitou Quirinópolis, Keira visitou Catas Altas, Idélia visitou Poço das Trincheiras, Dakota visitou Ibipeba, Léonie visitou Sabáudia, Mecília visitou Mangueirinha, Emiliana visitou Fagundes Varela",Nilsa não visitou Piratini,0
+Ellie-Rosa visitou apenas sete lugares e apenas uma pessoa,Ellie-Rosa visitou Ricardina e Myriam,1
+"Simaura visitou Aparecida do Rio Negro, Nola visitou Rosana, Roquelina visitou Alfredo Chaves, Honey visitou Amparo, Leonilda visitou Serra de São Bento, Salete visitou Riacho dos Machados, Betsabé visitou Nova Canaã Paulista, Bertina visitou Floresta Azul, Eunice visitou São Vicente do Sul",Eunice não visitou Muritiba,0
+Deodata visitou Pontal e Roncador,Deodata não visitou Roncador,1
+"Severa visitou Tacuru, Gara visitou Jaborá, Nessie visitou Pesqueira, Lucilina visitou Dirce Reis, Ácil visitou Piracanjuba, Isabella visitou Adelândia, Dakota visitou São Miguel do Araguaia, Cássia visitou Antônio Olinto, Joanina visitou Itaguajé, Leire visitou Iacanga",Gara não visitou Jaborá,1
+"Iriana visitou Melodia, Melodia é a pessoa que visitou todo mundo",Melodia não visitou Jenny,1
+Julinda visitou apenas vinte e cinco pessoas,"Julinda visitou Magali, Adelaide, Idília, Iriana, Anusca, Rosina, Armandina, Deotila, Tracy, Tabata, Inaia, Sade, Névia, Carmezinda, Silke, Benice, Esther, Líria, Laetitia, Clarissa, Eloise, Liliete, Nisa, Neise, Luanda e Alaia",1
+"Simaura visitou Itaguaí, Cipora visitou Rio Grande, Cesária visitou Cônego Marinho, Marinela visitou Cristiano Otoni, Eponina visitou Itobi, Rogélia visitou Aurora, Simy visitou Rio Acima",Marinela não visitou Dom Viçoso,0
+"Todo mundo visitou São Vicente Ferrer, Ararendá, Urânia, Nova Esperança do Sul, Leopoldina, Esmeralda, Barro Preto, Marema, Marechal Floriano, Cristais, Pedra Grande, Coaraci e Sulina",Lace não visitou Coaraci,1
+"Alvarina é mais alto que Clícia , Clícia é mais alto que Benjamina , Benjamina é mais alto que Nídia , Nídia é mais alto que Geovanna",Geovanna é mais alto que Alvarina,1
+"Acácia visitou Orizânia, Carmorinda visitou São Vendelino, Serenela visitou Ibateguara, Saula visitou Palminópolis, Talina visitou São Fernando, Elize visitou Machado, Aneide visitou Goianésia, Leoménia visitou Sorriso, Selma visitou Lourdes, Nessa visitou Gália",Elize não visitou Santo Antônio de Lisboa,0
+"Francine visitou Cláudia, Donzília visitou Uru, Paula visitou São José do Herval, Mourana visitou Lajeado Grande",Paula não visitou São José do Herval,1
+Girel visitou apenas vinte e dois lugares e apenas catorze pessoas,"Girel visitou Bom Retiro do Sul, Várzea Grande, Campo Verde, Boa Vista do Cadeado, Saúde, Fronteira, Belém do Brejo do Cruz, Marilândia, Jataúba, Floresta Azul, Paulo Lopes, Cardoso, Martinópole, Jussiape, Ibititá, Wanderley, Planalto Alegre, São Geraldo do Baixio, Vargem Grande do Sul, Pacajá, Boquim, Serra Azul e Arês",1
+"Muriela é tão alto quanto Shirley , Shirley é tão alto quanto Elizabete , Elizabete é tão alto quanto Daisi , Daisi é tão alto quanto Nali , Nali é mais alto que Sirla",Shirley é mais alto que Sirla,0
+Todo mundo visitou todas as pessoas,Rubina não visitou Coronel Ezequiel,0
+"Dele visitou Rialma, Paes Landim, Mariápolis e Verdelândia",Scarlet não visitou Mariápolis,0
+Heidi visitou apenas onze lugares e apenas oito pessoas,"Heidi visitou Abdon Batista, Rio Grande do Piauí, Pereiro, Lafaiete Coutinho, Estação, Mata, Iguape, Corumbaíba e Lages",0
+"Todo mundo visitou Goianorte, Coroaci, Paracatu, Santaluz, São João do Oeste, Batalha, Vargem Alta, Davinópolis, Marabá Paulista, Varginha, Jardim do Seridó, São José do Herval e Arês",Gerta não visitou Jardim do Seridó,1
+Todo mundo visitou todas as pessoas,Marcília não visitou Marcolândia,0
+"Rondina visitou Crisna, Rondina é a pessoa que visitou todo lugar",Crisna não visitou Ipanema,0
+"Jovelina visitou Mococa, Lucileine visitou Passagem Franca, Jasmim visitou Paracambi, Faia visitou Nova Viçosa, Quaiela visitou São Domingos do Sul, Hosana visitou São José do Jacuípe, Clésia visitou Caieiras, Esperança visitou Caucaia, Telma visitou Agricolândia",Jovelina não visitou Massapê,0
+"Samira, Círia, Isália, Flor de Ceres, Sabrina, Liberdade e Arminda visitaram Paraí",Sabrina não visitou Paraí,1
+Sarina visitou apenas seis lugares,"Sarina visitou Sertão Santana, Carnaíba, Caiçara do Norte, Itaí, Patrocínio, São João da Varjota e Rebouças",1
+Todo mundo visitou todos os lugares,Geraldina não visitou Campinápolis,1
+"Saulina é mais alto que Leonna, Quaiela, Heli e Obdúlia , Feba é tão alto quanto Saulina",Feba é mais alto que Quaiela,0
+"Rubina visitou Floresta, Linete visitou Itagi, Sabrina visitou Paudalho, Especiosa visitou Areiópolis, Fédora visitou Divinésia",Fédora não visitou Várzea Grande,0
+"Candy, Neiza, Jacinta, Lélia, Martinha, Natividade, Espírito Santo, Catalina, Thai, Ambrosina, Tracy e Darcília visitaram Currais Novos",Thai não visitou Currais Novos,1
+"Gislene é mais alto que Sierra , Sierra é mais alto que Leonilde , Leonilde é mais alto que Georgiana , Georgiana é mais alto que Rosalinda",Georgiana é mais alto que Leonilde,1
+Todo mundo visitou todos os lugares,Joela não visitou Vera Cruz do Oeste,1
+Delmira visitou apenas quatro lugares e apenas uma pessoa,"Delmira visitou Sebastianópolis do Sul, Rio Bananal, Águas Formosas, Água Preta e Arroio do Meio",1
+"Leslie é a pessoa que visitou todo lugar, Ernestina visitou Leslie",Ernestina não visitou José de Freitas,0
+"Suéli é mais alto que Séfora, Isa, Claudine, Kayla e Leanor , Suéli é tão alto quanto Gara",Gara é mais alto que Kayla,0
+"Aureliana visitou Monte Carmelo, Estreito, Iracema, São Raimundo Nonato, Araçatuba, São Miguel do Oeste, Campestre da Serra, Catarina e Aspásia",Especiosa não visitou Catarina,0
+Todo mundo visitou todas as pessoas,Honorina não visitou Pirambu,0
+Todo mundo visitou todos os lugares,Telma não visitou Ioque,0
+Cyara visitou apenas dezessete lugares e apenas quinze pessoas,Cyara visitou Doriana e Thaís,0
+Todo mundo visitou todos os lugares,Sahara não visitou Rihanna,0
+"Sharon é a pessoa que visitou todo mundo, Sharon visitou Naila",Sharon não visitou Amabélia,1
+"Leonora, Pámela, Margaux, Belle, Sian, Isalina, Emmy, Ancha, Juanita, Aliana, Dana, Rachel, Cirila, Crisante, Giada e Ivory visitaram Caiapônia",Ivory não visitou Caiapônia,1
+Todo mundo visitou todos os lugares,Tolentina não visitou Analu,0
+"Almerinda visitou Fédora, Fédora é a pessoa que visitou todo mundo",Fédora não visitou Jânia,1
+"Élea visitou Senador Georgino Avelino, Amapá, Santana, Ivolândia, Santa Branca, Novo Oriente do Piauí, Presidente Médici, Poá, Itariri, Tucano, Barra Bonita, Quiterianópolis e Goianinha",Élea não visitou Sorocaba,0
+Delisa visitou apenas quatro lugares e apenas três pessoas,"Delisa visitou Nureia, Brigite, Élia e Oriane",1
+"Clementine, Marquesa, Kaira, Bitia, Dalida, Dária, Ersília, Giada, Inga e da Cruz visitaram Baturité",Hedviges não visitou Baturité,0
+"Pégui visitou São Francisco do Maranhão, Eglantina visitou Juripiranga, Magna visitou Jerônimo Monteiro, Nene visitou Paracatu, Mari visitou Domingos Martins, Bertila visitou Guaraci, Giulia visitou Aracaju, Louisa visitou Laguna Carapã",Mari não visitou Domingos Martins,1
+"Cindy visitou Chopinzinho, Caiana, Itaporã, Itaitinga, Presidente Olegário, São João del Rei, Marataízes, Paraguaçu Paulista e Indaiabira",Sáli não visitou Indaiabira,0
+"Hélia é mais alto que Noelma, Artemísia, Leonilda, Letízia, Denisa, Liete, Candice, Pámela, Bertina e Primitiva , Dona é tão alto quanto Hélia",Dona é mais alto que Candice,0
+"Justa, Linda, Lucíola, Ilse, Ariane, Gilda, Skylar, Guarani, Jorja, Jacqueline, Darnela e Catalina visitaram Avanhandava",Stacy não visitou Avanhandava,0
+"Bernadete é mais alto que Berengária, Luena, Grimanesa, Aminata, Lucileine, Amarília, Malía e Angelita , Bernadete é tão alto quanto Dinarta",Malía é mais alto que Dinarta,1
+"Mikaela visitou Chapada, Afuá, Castanheiras, Goianésia e Divinópolis de Goiás",Mikaela não visitou Goianésia,1
+"Lorine visitou Rio das Antas, Súria visitou Cajobi, Delmina visitou Alto Rio Novo, Anália visitou Casa Nova, Jânia visitou Riqueza, Jaquelina visitou Conde, Beanina visitou Conceição, Lais visitou Chuí",Anália não visitou Casa Nova,1
+"Todo mundo visitou Antonina do Norte, Rosário do Ivaí, Bertópolis, Cumaru, Três Lagoas, Jatobá, Arroio do Padre, Felisburgo, Santa Juliana, São Pedro do Turvo, São João do Caiuá, Ipaba, Praia Grande, Porteirão, Marianópolis do Tocantins, Jaupaci, Jaú do Tocantins, Santo Antônio do Descoberto, Panelas e São Pedro do Sul",Florbela não visitou Capelinha,0
+Todo mundo visitou todas as pessoas,Stanislava não visitou Rondina,1
+Maria Rita visitou apenas dezesseis pessoas,"Maria Rita visitou Sury, Amabélia, Dores, Nessy, Athena, Clarissa, Fânia, Elva, Thalia, Josselina, Aurete, Amina, Ella, Otelina, Lhuzie, Akira e Jorja",1
+"Matrosa visitou Dom Pedro de Alcântara, Sibila visitou Tijucas, Mavilde visitou Diamante do Norte, Niceia visitou Guarulhos, Cínara visitou Unaí, Mireia visitou Indianópolis, Rafa visitou Jatobá, Benilde visitou Claro dos Poções, Salete visitou Cássia, Dalva visitou Acaraú, Rhianna visitou Goianésia do Pará",Rhianna não visitou Goianésia do Pará,1
+Nícia visitou apenas oito lugares e apenas duas pessoas,Nícia visitou Áfrika,0
+Aisha visitou apenas catorze lugares,"Aisha visitou Itamogi, Sales Oliveira, Guatapará, Nova Pádua, Maçambara, Xanxerê e Amargosa",0
+"Rafa, Balduína, Dafne, Nikita, Leolina, Suzi, Josabete, Jordana, Angélica, Lea, Francina, Gardela, Tabatha, Evangelina, Lace, Radija e Catrina visitaram Santanópolis",Poliana não visitou Santanópolis,0
+"Maria João visitou Fédora, Fédora é a pessoa que visitou todo lugar",Fédora não visitou Nova Granada,1
+Alguem visitou todas as pessoas e todos os lugares,Ecaterina não visitou Marataízes,0
+"Todo mundo visitou Pedras Grandes, Capoeiras, São Luís do Paraitinga, Mairi, Muzambinho, Araçuaí, Lapa, Mato Rico, Goiás, Serra Preta, São Vendelino, Morro Cabeça no Tempo, Serra do Mel, Capitão Gervásio Oliveira e Correia Pinto",Léanor não visitou Fortaleza,0
+"Lhuzie é tão alto quanto Nayla , Nayla é tão alto quanto Andreína , Andreína é tão alto quanto Sarina , Sarina é tão alto quanto Nubiana , Nubiana é tão alto quanto Inácia , Inácia é tão alto quanto Myriam , Myriam é tão alto quanto Claudine , Claudine é mais alto que Lacey",Nayla é mais alto que Lacey,0
+"Mara visitou Pirapora do Bom Jesus, Kenya visitou Ananás, Samira visitou Nova Santa Helena, Amal visitou Antônio Martins, Quézia visitou Bom Jesus da Lapa, Niéves visitou Jesuítas",Samira não visitou Nova Santa Helena,1
+Alguem visitou todas as pessoas e todos os lugares,Castorina não visitou Doriana,0
+"Cármen visitou Santa Cruz do Escalvado, Nília visitou Santa Luzia, Aisha visitou Malhador, Matrosa visitou Santa Rita de Caldas",Nília não visitou Brejo Santo,0
+Alguem visitou todas as pessoas e todos os lugares,Libânia não visitou São João do Pacuí,0
+"Aneide é a pessoa que visitou todo lugar, Dilsa visitou Aneide",Dilsa não visitou Caetés,0
+"Todo mundo visitou Serra, Elesbão Veloso, Abaiara, Sumidouro, Itambé, Limoeiro de Anadia, São Vendelino, Cravolândia, São José, Itaguajé, Mato Leitão, Felício dos Santos, Ibiúna, Potirendaba, Mossoró, Bocaiúva e Manaíra",Geralda não visitou Sumidouro,1
+"Balduína, Elis, Marcelle, Laurina e Mariela visitaram Pirapora",Elis não visitou Pirapora,1
+"Sátia visitou União do Sul, Loanda, Vila Nova dos Martírios, Abel Figueiredo, Cametá, Marechal Thaumaturgo, Ribeirão Grande, João Dias, Itaguara e Curitibanos",Sátia não visitou Campina do Monte Alegre,0
+Joaquina visitou apenas nove lugares,"Joaquina visitou Itajobi, Irati, Tacuru, Selvíria, Presidente Kennedy, Cachoeira de Pajeú, Ribeirão Bonito, Miguel Alves, Conceição da Aparecida e Cajazeiras",1
+Alguem visitou todas as pessoas e todos os lugares,Levina não visitou São Ludgero,0
+"Cristal visitou Oriane, Cristal é a pessoa que visitou todo mundo",Cristal não visitou Ricarda,1
+"Betsabé visitou Caçador, Rio Novo do Sul, Piranhas, Tejupá, Alvorada de Minas, Japoatã, Lavras, João Pessoa, Amparo, Mundo Novo, Ubajara, Itaú, Faxinalzinho, Ibiquera, Mairinque e Campinápolis",Betsabé não visitou Lamarão,0
+"Ione é tão alto quanto Luena , Luena é tão alto quanto Jaquelina , Jaquelina é tão alto quanto Taína , Taína é tão alto quanto Leyla , Leyla é tão alto quanto Mavelete , Mavelete é tão alto quanto Natalie , Natalie é tão alto quanto Harper , Harper é tão alto quanto Leonila , Leonila é tão alto quanto Silvana , Silvana é tão alto quanto Marisela , Marisela é mais alto que Antonela",Marisela é mais alto que Antonela,0
+Jael visitou apenas cinco lugares e apenas duas pessoas,Jael visitou Amina,0
+"Ivana é a pessoa que visitou todo lugar, Raíssa visitou Ivana",Raíssa não visitou Vertente do Lério,0
+"Norvinda, Suzana, Donzília, Adélia, Jerusa, Agnes, Juliette, Jorgina, Cristene e Tiara visitaram Galvão",Taísa não visitou Galvão,0
+Todo mundo visitou todas as pessoas e todos os lugares,Adelina não visitou Jorgina,1
+"do Amparo visitou Axixá, São José de Ubá e São Roque de Minas",do Amparo não visitou Maiquinique,0
+"Joya é mais alto que Hélia, Martinha, Silviana, Sandy, Bitia, Lici, Marilisa, Felismina, Briolanja e do Socorro , Sasha é tão alto quanto Joya",Felismina é mais alto que Sasha,1
+"Susanna é a pessoa que visitou todo mundo, Mona visitou Susanna",Mona não visitou Miquelina,0
+"Prudência é a pessoa que visitou todo lugar, Lucélia visitou Prudência",Prudência não visitou Campo do Meio,1
+Todo mundo visitou todos os lugares,Raven não visitou Taguaí,1
+"Gloriosa, Rapaz, Esménia e Elmira visitaram Itaju",Rapaz não visitou Itaju,1
+"Delmina é a pessoa que visitou todo mundo, Brenda visitou Delmina",Brenda não visitou Diamantina,0
+Todo mundo visitou todos os lugares,Dircea não visitou Alvorada do Norte,1
+"Taína, Sidónia, América, Gáil, Mary, Inocência, Jael, Aleixa, Minervina, Duartina, Flória, Kira, Stacy, Cândida e Deusa visitaram Taguaí",América não visitou Muliterno,0
+"Myla, Shakira, Catrina, Julianna, Clare, Marianne, Anaíde, Idélia, Genésia, Demelza, Quaiela, da Agonia, Sulamita, Kenza, Muriela, Ticiane, Florinda, Rosária e Simaura visitaram Itapororoca",Muriela não visitou Itapororoca,1
+"Gilberta é a pessoa que visitou todo lugar, Santa Rita visitou Gilberta",Gilberta não visitou Poá,1
+"Dorine visitou Chema, Dorine é a pessoa que visitou todo mundo",Dorine não visitou Oksana,1
+Todo mundo visitou todas as pessoas e todos os lugares,Liseta não visitou Emily,1
+"Nene visitou Sâmia, Nene é a pessoa que visitou todo mundo",Nene não visitou Quésia,1
+"Ninfa é mais alto que Diza , Diza é mais alto que Palmira , Palmira é mais alto que Nuna , Nuna é mais alto que Arminda , Arminda é mais alto que Ireneia , Ireneia é mais alto que Quézia , Quézia é mais alto que Dulcina",Ninfa é mais alto que Ireneia,0
+Todo mundo visitou todas as pessoas,Emanuella não visitou Cidalisa,1
+"Ellie visitou Igelcemina, Igelcemina é a pessoa que visitou todo lugar",Ellie não visitou Careiro da Várzea,0
+"Caterina é tão alto quanto Eularina , Eularina é tão alto quanto Consolação , Consolação é tão alto quanto Dircila , Dircila é tão alto quanto Orianna , Orianna é tão alto quanto Magdalena , Magdalena é tão alto quanto Pamela , Pamela é tão alto quanto Lucete , Lucete é tão alto quanto Caia , Caia é mais alto que Paola",Pamela é mais alto que Paola,0
+"Neiza, Mónia, Sesira, Ione, Brena, Cárin, Fantina, Reeva, Florence, Raina, Nureia, Pámela, Sierra, Mabília, Ermengarda e Nayara visitaram Riachuelo",Carmo não visitou Riachuelo,0
+"Justina, Jandira, Nanci, do Rosário, Felismina, Priscila, Castorina, Muna, Isalina, Rodriga, Nilda, Taísa, Gala, Henriette, Delmina, Elisete, Bernadete, Nilsa, Sátia e Matrosa visitaram Lajinha",Muna não visitou Lajinha,1
+Todo mundo visitou todas as pessoas e todos os lugares,Erin não visitou Lorine,1
+"Josete visitou São Gonçalo dos Campos, Babaçulândia, Almino Afonso, Goianinha, Cunha Porã, Santa Maria do Suaçuí, Santarém e Paramoti",Josete não visitou São Gonçalo dos Campos,1
+"Sena é mais alto que Porciana , Porciana é mais alto que Militana , Militana é mais alto que Amarília , Amarília é mais alto que Samira , Samira é mais alto que Dolores",Samira é mais alto que Militana,1
+"Elmira é mais alto que Taína, Gisele, Merrita, Dilsa, Delisa, Marlene e Maureen , Elmira é tão alto quanto Leonna",Merrita é mais alto que Leonna,1
+"Laya é tão alto quanto Sadiya , Sadiya é tão alto quanto Súria , Súria é tão alto quanto Constânça , Constânça é tão alto quanto Nené , Nené é mais alto que Neiza",Neiza é mais alto que Nené,1
+"Lexie é mais alto que Selma , Selma é mais alto que Liza , Liza é mais alto que Rebecca , Rebecca é mais alto que Sacha",Selma é mais alto que Lexie,1
+"Haidé é mais alto que Isolete , Isolete é mais alto que Niah , Niah é mais alto que Joselene , Joselene é mais alto que Emma",Haidé é mais alto que Niah,0
+"Lisdália visitou Beatrix, Lisdália é a pessoa que visitou todo mundo",Beatrix não visitou Juno,0
+"Tina é a pessoa que visitou todo lugar, Castorina visitou Tina",Tina não visitou Campo Limpo de Goiás,1
+"Especiosa visitou Piratininga, Santo Antônio do Itambé, Cabaceiras do Paraguaçu, Teolândia e Luzerna",Especiosa não visitou Piratininga,1
+Elis visitou apenas quatro lugares e apenas quatro pessoas,"Elis visitou Deodete, Salvação e Cataleia",0
+"Gilberta visitou São João do Carú, Catrina visitou São Joaquim de Bicas, Roana visitou Santa Filomena do Maranhão, Taína visitou Venturosa, Salma visitou Nova Olinda, Acélia visitou Prado Ferreira, Carmel visitou Santana da Boa Vista, Patrícia visitou Enéas Marques, Lussinga visitou Itapura, Jerónima visitou São João da Fronteira, Coraima visitou Marcos Parente, Liliane visitou São Gabriel do Oeste",Acélia não visitou Prado Ferreira,1
+"Rubyana visitou Lauro de Freitas, Carela visitou Santa Margarida, Susi visitou Campo Grande, Noélia visitou Caracaraí, Elize visitou Vargem Bonita, Cleodice visitou Xavantina, Doralice visitou São Domingos, Orlandina visitou Cacoal",Orlandina não visitou Jenipapo dos Vieiras,0
+"Ellen, Naísa, Armandina, Bella, Márvia, Anésia, Audete, Candy, Lucilina, Antonela, Bartolina, Claudina, Anteia, Dejanira, Hortênsia e Tiffany visitaram Juara",Márvia não visitou Entre Rios,0
+"Hilária é a pessoa que visitou todo mundo, Ocília visitou Hilária",Hilária não visitou Lélia,1
+"Edine é mais alto que Evangelina , Evangelina é mais alto que Delmira , Delmira é mais alto que Lucíola , Lucíola é mais alto que Liara , Liara é mais alto que Otília , Otília é mais alto que Albertina , Albertina é mais alto que Silvandira , Silvandira é mais alto que Casta , Casta é mais alto que Sáli",Otília é mais alto que Lucíola,1
+"Miguela, Bernadete, Kailani, Ionara, Joraci, Joselene, Dinamene, de Sales, Ália, Julianna e Catalina visitaram Monte Sião",Siomara não visitou Monte Sião,0
+Todo mundo visitou todas as pessoas,Marli não visitou Eda,1
+"Gardela visitou Capinzal, Anteia visitou Guia Lopes da Laguna, Mirella visitou Porto Alegre do Piauí, Éola visitou Macajuba",Éola não visitou Macajuba,1
+"Sophia visitou Grão Mogol, Perolândia, Caeté, Sonora, Petrolândia, Queiroz, Nossa Senhora Aparecida, Mogeiro, Santa Cruz do Sul, Apucarana, Medeiros Neto, Santa Maria do Suaçuí, Santa Quitéria e Grossos",Glenda não visitou Medeiros Neto,0
+Mara e Mavelete visitaram Pacoti,Mavelete não visitou Pacoti,1
+"Jada visitou Uraí, Benvinda visitou Araruna, Marsília visitou Caçapava, Encarnação visitou Serrana",Encarnação não visitou Mesópolis,0
+"Sextina visitou Serra Grande, Letízia visitou Coroaci, Leslie visitou Xique-Xique, Isa visitou Nova Independência, Dora visitou Mata Roma",Letízia não visitou Coroaci,1
+"Síria é mais alto que Delza , Delza é mais alto que Noiala , Noiala é mais alto que Nila , Nila é mais alto que Generosa , Generosa é mais alto que Eponina , Eponina é mais alto que Arabela , Arabela é mais alto que Aíko",Generosa é mais alto que Síria,1
+"Azul visitou Itajobi, Libertária visitou Angélica, Otelina visitou Parnamirim, Luíza visitou Jeceaba, Trasila visitou Montes Claros de Goiás, Ricardina visitou Itaitinga, Liara visitou Matutina, Farah visitou Planaltina do Paraná, Alida visitou Campo Grande, Naida visitou Carbonita",Ricardina não visitou Tanquinho,0
+"Lariana é mais alto que Jael , Jael é mais alto que Emie , Emie é mais alto que Cleópatra , Cleópatra é mais alto que Quésia , Quésia é mais alto que Lisbon , Lisbon é mais alto que Raven , Raven é mais alto que Ocília , Ocília é mais alto que Hortense",Cleópatra é mais alto que Lisbon,0
+Leonília visitou Anaurilândia e São Bento do Sul,Leonília não visitou Pão de Açúcar,0
+"Samira é a pessoa que visitou todo mundo, Samira visitou Cíntia",Samira não visitou Ione,1
+"Mya, Nísia, Thai, Joele, Sofie, Niceia, Lourdes, Justa, Anusca, Carisa, Herénia, Guendolina, Cleonice, Alina, Liduína, Clícia, Luisete, Fara e Charlotte visitaram Jerumenha",Niceia não visitou Jerumenha,1
+"Soline visitou São Joaquim do Monte, Clícia visitou Presidente Bernardes, Benjamina visitou Fortaleza dos Valos, Tarina visitou Paripiranga, Romilda visitou Sebastião Leal, Otilina visitou Ronda Alta, Albana visitou Aurora do Pará, Anunciada visitou Ielmo Marinho",Soline não visitou São Joaquim do Monte,1
+"Magenta visitou Lagoa de São Francisco, Roana visitou Lajes, Emma visitou Bom Lugar",Magenta não visitou São Bentinho,0
+"Amável visitou General Salgado, Marilac, Água Doce do Maranhão, Rochedo de Minas, Jerumenha, Sapeaçu, Almirante Tamandaré, Conceição do Almeida, Franco da Rocha, Paulistana, Cotegipe, Chã Preta, Bela Vista de Minas, Cristalândia do Piauí, Igarapé-Açu, Niterói, Canhotinho, Palmeiras, Vicentinópolis e Boa Vista da Aparecida",Amável não visitou Chã Preta,1
+"Naíma é mais alto que Delilah , Delilah é mais alto que Analu , Analu é mais alto que Miley , Miley é mais alto que Maeva , Maeva é mais alto que Edma , Edma é mais alto que Mourana , Mourana é mais alto que Tirza",Miley é mais alto que Delilah,1
+"Erméria visitou David Canabarro, Rebeka visitou Parauapebas, Oceane visitou Pracinha, Giulia visitou Euclides da Cunha Paulista, Laya visitou Varre-Sai, Étel visitou Divisa Alegre",Erméria não visitou David Canabarro,1
+"Rhianna visitou Rifaina, Cubatão, Barroso, Palmitos, Rio Claro, Francisco Badaró, Marliéria, Cerro Grande, Pimenteiras, Tomazina e Vitória do Xingu",Rhianna não visitou Tomazina,1
+"Jéni visitou Ipaussu, Divinópolis do Tocantins, Frei Martinho e Itaju do Colônia",Jéni não visitou Ipaussu,1
+Alguem visitou todas as pessoas e todos os lugares,Acélia não visitou General Maynard,0
+"Todo mundo visitou Diamante do Sul, Itabi, Campo Grande do Piauí, Aguanil, Vargeão, Aracaju, Parnamirim, Baía Formosa, Piumhi, Jardim, Charqueadas, Avanhandava e Claro dos Poções",Noá não visitou Aguanil,1
+"Iberina visitou Marapanim, Arvoredo, Carmópolis, São Bento e Ibirapitanga",Iberina não visitou Ibirapitanga,1
+Safina visitou apenas doze lugares e apenas cinco pessoas,"Safina visitou Romã, Joice, Guarani e Flória",0
+"Éola é tão alto quanto Nesta , Nesta é tão alto quanto Beatrix , Beatrix é tão alto quanto Dúlia , Dúlia é tão alto quanto Selene , Selene é tão alto quanto Anteia , Anteia é tão alto quanto Marieva , Marieva é mais alto que Siana",Siana é mais alto que Nesta,1
+Lhuzie visitou apenas dezenove lugares,"Lhuzie visitou Apodi, Baependi, Afonso Cláudio, Pedro Régis, Águas de Chapecó, São Martinho da Serra, Valentim Gentil, Baião, Bernardo Sayão, Paracatu, São Miguel do Anta e Igarapé-Miri",0
+"Aldora, Elódia, Jovelina, Iasmina, Irma, Minervina, Raísa, Lucialina, Priscila, Gilberta, Nance, Idalisa e Cristal visitaram Davinópolis",Nance não visitou Davinópolis,1
+Todo mundo visitou todos os lugares,Lilite não visitou São José da Tapera,1
+"Gloriosa é mais alto que Natividade , Natividade é mais alto que Larisa , Larisa é mais alto que Ivory , Ivory é mais alto que Giselda",Giselda é mais alto que Larisa,1
+Anícia visitou apenas vinte e oito pessoas,"Anícia visitou Ilsa, Louisa, Cora, Eudora, Roberta, Misaela, Climénia, Gregória, Tiana, Elda, Paris, Kai, Danila, Doralice, Maira, Inácia, Ânia, Anaíde, Sania, Leonardina, Sulamita, Ermengarda, Taísa, Adélia, Margarete, Iráis, Anunciação, Lisandra e Joraci",1
+"Adosinda, Étel, Córita, Lucinda, Paraíso, Jaqueline, Jovelina, Quirina, Rossana, Ismália e Felismina visitaram Jambeiro",Jaqueline não visitou Jambeiro,1
+"Bebiana visitou Paramirim, Albina visitou Urucurituba, Geisa visitou Itirapuã, Florentina visitou Guarani d'Oeste, Herédia visitou Adelândia, Lucialina visitou Estrela d'Oeste, Macati visitou São João da Boa Vista",Florentina não visitou Rio das Antas,0
+Alguem visitou todas as pessoas e todos os lugares,Lidiana não visitou Santa Cruz de Goiás,0
+"Hédila é mais alto que Joele , Joele é mais alto que Leonarda , Leonarda é mais alto que Constanza , Constanza é mais alto que Pascualina , Pascualina é mais alto que Luiza , Luiza é mais alto que Gardela",Gardela é mais alto que Pascualina,1
+"Terezinha, Delminda, Jaquelina, Kieza, Sory, Dele, Brenda, Nia, Candice, Mathilda e Julita visitaram Serra da Raiz",Candice não visitou Serra da Raiz,1
+"Mariama é tão alto quanto Rafa , Rafa é tão alto quanto Stacy , Stacy é tão alto quanto Luena , Luena é tão alto quanto Prazeres , Prazeres é tão alto quanto Osvaldina , Osvaldina é tão alto quanto Pégui , Pégui é mais alto que Odete",Odete é mais alto que Rafa,1
+"Belmira é a pessoa que visitou todo mundo, Belmira visitou Nara",Belmira não visitou Adriane,1
+"Isabelina é tão alto quanto Amina , Amina é tão alto quanto Armandina , Armandina é tão alto quanto Ceres , Ceres é tão alto quanto Marcelina , Marcelina é tão alto quanto Josiana , Josiana é tão alto quanto Ilsa , Ilsa é tão alto quanto Guislena , Guislena é tão alto quanto Isilda , Isilda é mais alto que Cleodice",Armandina é mais alto que Cleodice,0
+Sulamita visitou apenas vinte e oito lugares,Sulamita visitou Quatro Pontes e Capanema,0
+"Nessa é a pessoa que visitou todo lugar, Nessa visitou Darci",Darci não visitou Mariana Pimentel,0
+"Suely visitou Surubim, Estéfana visitou Guatambú, Jacqueline visitou Três Arroios, Carol visitou Senador Salgado Filho, Jamília visitou Areia Branca, Tirsa visitou Trabiju, Noémia visitou Nonoai, Mathilde visitou Morro do Chapéu",Jacqueline não visitou Tapiratiba,0
+Juraci visitou apenas vinte e nove lugares e apenas vinte e oito pessoas,"Juraci visitou Selbach, Santana do Cariri, Campo Belo do Sul, Cachoeirinha, Santo André, Gravatal, Sento Sé, São Bento, Casa Nova, Serranópolis, Catuti, Valparaíso, Conquista, Formoso do Araguaia, Antônio Martins, Verê, Poá, Angicos, Trabiju, Santa Luzia do Itanhy, Capitão de Campos, Santa Cecília, Ronda Alta, Lagoa do Carro, Buriti de Goiás, Torrinha, Uruaçu, Itapagé, Sorriso e Joinville",1
+Todo mundo visitou todas as pessoas e todos os lugares,Dulcelina não visitou Irati,1
+Alguem visitou todas as pessoas e todos os lugares,Nila não visitou Salúquia,0
+"Maximiliana visitou Bebiana, Maximiliana é a pessoa que visitou todo mundo",Bebiana não visitou Gonçala,0
+"Naíma é tão alto quanto Lucina , Lucina é tão alto quanto Firmina , Firmina é tão alto quanto Nair , Nair é tão alto quanto Leonardina , Leonardina é tão alto quanto Marilita , Marilita é tão alto quanto Ilsa , Ilsa é tão alto quanto Osvalda , Osvalda é tão alto quanto Isolda , Isolda é mais alto que Armandina",Osvalda é mais alto que Armandina,0
+"Formosa visitou Vale do Paraíso, Frei Lagonegro, Paraíso, Ilha Solteira, Bandeira, Gastão Vidigal, Alcântaras, José da Penha, Além Paraíba, Forquetinha, Chapecó, Oriente, Messias Targino e Cachoeira do Piriá",Formosa não visitou Além Paraíba,1
+"Paolla visitou Guiratinga, Quessia visitou Novo Horizonte, Solôngia visitou Sorocaba, Danielle visitou Agricolândia, Flória visitou Fernandes Pinheiro, Naira visitou Limoeiro do Ajuru, Denise visitou João Ramalho, de São Luís visitou Macedônia, da Cruz visitou Cabreúva, Elizabete visitou São Pedro, Maria Leonor visitou Tenório, Lizélia visitou Guaraíta",Quessia não visitou Novo Horizonte,1
+"Estrelle visitou Nova Soure, Semíramis visitou Esperança do Sul",Semíramis não visitou Nazareno,0
+Mireie visitou apenas cinco lugares e apenas quatro pessoas,"Mireie visitou São José do Rio Claro, Igaraçu do Tietê, Cruzeiro do Sul, Embaúba, Assis e Pitimbu",1
+"Clarina é a pessoa que visitou todo lugar, Clarina visitou Fiorella",Fiorella não visitou Ivaí,0
+"Joselina é mais alto que Salima, Cynthia, Brázia, Salvadora, Ticiane, Maribel, Francesca e Mírtila , Ariane é tão alto quanto Joselina",Francesca é mais alto que Ariane,1
+"Maísa visitou Venda Nova do Imigrante, Elaina visitou Quixabeira, Cínara visitou Santa Terezinha de Itaipu, Hebe visitou São Sebastião do Caí, Natalina visitou Ribamar Fiquene, Emily visitou Brasilândia do Sul",Hebe não visitou Monte das Gameleiras,0
+Khaleesi visitou apenas vinte e oito lugares e apenas nove pessoas,"Khaleesi visitou Tayná, Omara, Afonsina, Rocio, Hermenegilda, Quézia, Neotera, Tejala, Elsinda e Quessia",1
+"Crestila visitou Nova Maringá, Mavilde visitou Alecrim, Graciete visitou Bom Jesus, Sunamita visitou Jangada, Claire visitou Castro Alves, Deotila visitou Bossoroca, Evandra visitou Divinópolis de Goiás, Aldara visitou Bicas",Sunamita não visitou Jangada,1
+"Laetitia visitou Barreiras, Vertentes, Tapira, São Gonçalo do Amarante, Jandaia do Sul, Taquaral de Goiás, Presidente Vargas, Arauá, Vargem, Codajás, Mundo Novo e São José do Cerrito",Laetitia não visitou Jacinto,0
+Anunciada visitou apenas vinte e dois lugares,"Anunciada visitou Alvarães, Santana do Cariri, Mococa, Seberi, Mirante do Paranapanema, Dona Francisca, Várzea, Engenho Velho, Roncador, Guajará-Mirim, Breves, Sena Madureira, Flores do Piauí, Tramandaí e Telha",0
+"Clívia visitou Alto Piquiri, Saula visitou Itaiópolis, Paula visitou Japi, Altina visitou Olindina",Saula não visitou Piranguçu,0
+"Orianna visitou Madre de Deus, Madre de Deus é a pessoa que visitou todo lugar",Madre de Deus não visitou Apuí,1
+"Étel visitou Louise, Louise é a pessoa que visitou todo lugar",Étel não visitou Fortaleza do Tabocão,0
+"Charlize é tão alto quanto Lorine , Lorine é tão alto quanto Liduína , Liduína é tão alto quanto Mécia , Mécia é tão alto quanto Carminda , Carminda é tão alto quanto Gracinda , Gracinda é tão alto quanto Doriana , Doriana é tão alto quanto Emily , Emily é tão alto quanto Laurine , Laurine é mais alto que Chiara",Carminda é mais alto que Chiara,0
+"Brázia é mais alto que Firmina , Firmina é mais alto que Josina , Josina é mais alto que da Cruz , da Cruz é mais alto que Siana , Siana é mais alto que Chanda",Josina é mais alto que da Cruz,0
+Tiana visitou apenas doze lugares e apenas cinco pessoas,"Tiana visitou Granjeiro, Domingos Martins, Santa Cruz do Piauí, Sabino, Riachinho, Santa Rosa, Cristalina, Parapuã, União de Minas, Seropédica, Jaguaribe, Sooretama e Jacarezinho",1
+"Linete visitou Terra de Areia, Cereja visitou Itaóca, Anaísa visitou Conceição da Barra, Aníria visitou Itapecerica da Serra",Linete não visitou Terenos,0
+"Bina visitou Séfora, Séfora é a pessoa que visitou todo mundo",Bina não visitou Disa,0
+"Ercília visitou Muaná, Oriane visitou Araripe, Josselina visitou Barra do Guarita, Cidalisa visitou Uarini, Gaori visitou Álvares Machado, Noor visitou Floriano",Gaori não visitou Álvares Machado,1
+"Greta, Nilce, Otelina, Afra, Adelina, Hersília, Niéves, Mélodie, Teresinha, Seni, Onófria, Giselda, Juli, Malika, Ludovice, Ivory e Deise visitaram Anagé",Niéves não visitou Caetés,0
+"Clementine, Aniana, Florisbela, Poliana, Lisete, Delmira, Esménia, Mathilde, Jacira, Joaquina, Tita, Ilsa, Celine, Ciana, Maria João, Libéria, Cíntia, Shania e Samantha visitaram São Nicolau",Maria João não visitou São Nicolau,1
+Casimira visitou apenas catorze lugares,"Casimira visitou Porto Seguro, Paulo Jacinto, Jordão, Ipu, São João do Araguaia, Santa Maria, Barro Preto, Paraíba do Sul, Tapira, Oliveira, Pimenta Bueno, Seringueiras, Tacaratu, Vespasiano Correa e Capistrano",1
+Todo mundo visitou todas as pessoas,Nícia não visitou Altamira do Maranhão,0
+Lília visitou apenas trinta pessoas,"Lília visitou Biana, Duana, Disa, Carmo, Ornela, Audete, Bella, Desidéria, Joselina, Leana, Leia, Eduina, Elda, Afra, Sancha, Leonarda, Rosebel, Isalda, Liberalina, Analice, Drusila, Rocio, Marguerita e Delza",0
+"Justina é mais alto que Arinda , Arinda é mais alto que Tomasa , Tomasa é mais alto que Romana , Romana é mais alto que Léana , Léana é mais alto que Sénia , Sénia é mais alto que Nahla , Nahla é mais alto que Mavília , Mavília é mais alto que Inara",Nahla é mais alto que Mavília,0
+Todo mundo visitou todas as pessoas,Benilde não visitou São Bento do Norte,0
+Todo mundo visitou todas as pessoas e todos os lugares,Duna não visitou Cuiabá,1
+Todo mundo visitou todos os lugares,Filena não visitou Dária,0
+Todo mundo visitou todas as pessoas,Shania não visitou Major Sales,0
+Todo mundo visitou todas as pessoas e todos os lugares,Jasmim não visitou Piedade de Caratinga,1
+"Honorina, Georgeta, Justa, Lucie, Raven, Luena, Salúquia, Énia, Indaleta, Anabel, Cidalisa, Alvarina, Suzanne, Georgete, Francília, Ácil, Aisha, Anusca, Margaret e Magnólia visitaram Itaquitinga",Indaleta não visitou Itaquitinga,1
+"Dorine é mais alto que Teodósia , Teodósia é mais alto que Leyla , Leyla é mais alto que Inácia , Inácia é mais alto que Noiala , Noiala é mais alto que Heli , Heli é mais alto que Iolanda",Iolanda é mais alto que Inácia,1
+"Diane é a pessoa que visitou todo mundo, Papoila visitou Diane",Diane não visitou Nayara,1
+Todo mundo visitou todos os lugares,Nelma não visitou Angical,1
+"Dona é mais alto que Anísia, Leia, Clívia e Dione , Rhianna é tão alto quanto Dona",Rhianna é mais alto que Leia,0
+"Joice é mais alto que Idília , Idília é mais alto que Carmen , Carmen é mais alto que Amabília , Amabília é mais alto que Dagmar , Dagmar é mais alto que Jana , Jana é mais alto que Engrácia , Engrácia é mais alto que Papoila , Papoila é mais alto que Rosário , Rosário é mais alto que Pippa",Carmen é mais alto que Idília,1
+"Magdalena é a pessoa que visitou todo lugar, Chiara visitou Magdalena",Chiara não visitou Salinas,0
+"Iriana visitou Mara Rosa, Diara visitou Equador, Artemisa visitou São Caetano do Sul, Duartina visitou Campo Verde, Adélia visitou Bom Jesus, Licínia visitou Abaiara, Afra visitou Paulino Neves, Emma visitou Irituia, Amável visitou Manaus",Duartina não visitou Baixio,0
+"Mya é a pessoa que visitou todo lugar, Mya visitou Marilina",Mya não visitou Crixás do Tocantins,1
+"Hortênsia é mais alto que Romã, Cyntia, Elma, Flor de Ceres e Amável , Hortênsia é tão alto quanto Castorina",Flor de Ceres é mais alto que Castorina,1
+"Io é a pessoa que visitou todo mundo, Io visitou Elísia",Io não visitou Nilsa,1
+"Saula visitou Espera Feliz, Carlópolis, São Paulo das Missões, São Luís de Montes Belos, Governador Nunes Freire e Calçado",Saula não visitou São Luís de Montes Belos,1
+Todo mundo visitou todos os lugares,Lucelinda não visitou Pombal,1
+"Benícia visitou Piedade, Benícia é a pessoa que visitou todo lugar",Piedade não visitou Campo Redondo,0
+"Hilda é tão alto quanto Orianna , Orianna é tão alto quanto Neiza , Neiza é tão alto quanto Consolação , Consolação é tão alto quanto Inga , Inga é tão alto quanto Nara , Nara é tão alto quanto Maira , Maira é tão alto quanto Obdúlia , Obdúlia é tão alto quanto Léanor , Léanor é tão alto quanto Crisanta , Crisanta é tão alto quanto Adália , Adália é mais alto que Ilsa",Maira é mais alto que Ilsa,0
+"Rosanete visitou Três de Maio, Isa visitou Cordisburgo, Gonzaga visitou Barra de São Francisco",Isa não visitou Painel,0
+"Riana é tão alto quanto Muna , Muna é tão alto quanto Demelza , Demelza é tão alto quanto Diara , Diara é tão alto quanto Gabi , Gabi é tão alto quanto Reece , Reece é mais alto que Flamínia",Gabi é mais alto que Flamínia,0
+"Marlisa visitou Inocência, Melania visitou Ilhota, dos Santos visitou Irapuru, Cléo visitou Tabapuã, do Socorro visitou Volta Redonda, Formosa visitou Imaculada, Marieta visitou Santa Inês",Marieta não visitou Varre-Sai,0
+Étel visitou apenas vinte e três lugares e apenas vinte e dois pessoas,"Étel visitou Nova Cantu, Taciba, Três Lagoas, Novo Acordo, Japaratuba, Avaré, Tunas, Ararendá, Jardim Alegre, Chupinguaia, Morada Nova, Santa Terezinha de Itaipu, Cruzeiro do Sul, Chã de Alegria, São José dos Pinhais, Palmeira d'Oeste, Riachão, Severiano de Almeida, Morro Cabeça no Tempo, Nova Ramada, Marcelândia, Ferros, Poconé e Sussuapara",1
+Adélia visitou apenas vinte e quatro lugares e apenas dezesseis pessoas,"Adélia visitou Heli, Liv, Selina, Glicínia, Persília, Cibele, Gerda, Isolina, Jada, Cárin, Otelina, Allegra, Maira e Orianna",0
+"Pedrina é mais alto que Eponina , Eponina é mais alto que Pérola , Pérola é mais alto que Dámaris , Dámaris é mais alto que Bitia , Bitia é mais alto que Excelsa , Excelsa é mais alto que Carela , Carela é mais alto que Consuelo , Consuelo é mais alto que Etéria , Etéria é mais alto que Primitiva",Etéria é mais alto que Bitia,1
+"Lianor é a pessoa que visitou todo lugar, Melida visitou Lianor",Melida não visitou Arinos,0
+"Moana, Liana, Carisa, Jewel, Liberdade, Taciana, Janaína, Terência, Edna, Mourana, Darcília, Guilhermina, da Cruz, Lólia, Iana, Consuelo e Niah visitaram Pontão",Katia não visitou Pontão,0
+Isolda visitou apenas oito pessoas,"Isolda visitou Preciosa, Laia, da Agonia, Formosinda, Marianne, Isa, Sextina, Lorenza e Arlete",1
+Lizélia visitou apenas quinze lugares e apenas dez pessoas,"Lizélia visitou Samira, Celinia e Julita",0
+Idrisse e Lumena visitaram Cunha Porã,Idrisse não visitou Cunha Porã,1
+"Teodósia visitou Morro Grande, Bina visitou Espigão D'Oeste, Firmina visitou Barra Funda, Rosário visitou Junco do Seridó, Nise visitou Salto do Jacuí, Lénia visitou Júlio de Castilhos, Magenta visitou Joaquim Felício, Gracinda visitou Praia Grande, Corine visitou Cambuci, Lilite visitou Nossa Senhora de Lourdes, Libertária visitou Brasilândia de Minas, Erica visitou Tapira",Bina não visitou Espigão D'Oeste,1
+Todo mundo visitou todas as pessoas,Leane não visitou Santa Branca,0
+Todo mundo visitou todas as pessoas e todos os lugares,Milene não visitou Extrema,1
+"Hortênsia visitou Guabiju, Sul Brasil, Mesquita, Paes Landim, Carangola, Ipê, Galinhos e Frei Miguelinho",Hortênsia não visitou Galinhos,1
+"Todo mundo visitou Iguape, Conceição da Aparecida, Presidente Bernardes, São Paulo das Missões, Baianópolis, São Domingos de Pombal, Gramado dos Loureiros, Jardim, Ninheira, Ibarama, Alto do Rodrigues, Itiúba, Dias d'Ávila, Quarto Centenário, Nova Olinda, General Maynard, Simão Dias e Rio Paranaíba",Dólique não visitou Turiaçu,0
+"Lumena é mais alto que Girel, Gilberta, de Begonha, Sérgia, Rubi, Gina e Cesaltina , Magali é tão alto quanto Lumena",Magali é mais alto que Girel,0
+"Rubina visitou Mangaratiba, Milagre visitou Rio Claro, Marcela visitou Santa Rita, Dinarta visitou Entre Rios do Oeste, Inara visitou São Gonçalo do Gurguéia",Marcela não visitou Itueta,0
+"Arabela visitou Jacaraú, Porciana visitou Várzea Alegre, Patrícia visitou Coronel Fabriciano, Salete visitou Bom Sucesso, Martinha visitou Primavera do Leste, Lilite visitou Flores, Rosanete visitou Mauá da Serra, Esménia visitou São Roque do Canaã, Nola visitou Alcobaça",Arabela não visitou Jacaraú,1
+Todo mundo visitou todas as pessoas,Gaori não visitou Santa Maria da Serra,0
+Todo mundo visitou todos os lugares,Libéria não visitou Salto da Divisa,1
+"Aíko é tão alto quanto Nerea , Nerea é tão alto quanto Soline , Soline é tão alto quanto Melanie , Melanie é tão alto quanto Mathilda , Mathilda é tão alto quanto Élin , Élin é mais alto que Anaíde",Melanie é mais alto que Anaíde,0
+"Flor de Ceres visitou Itaberaba, Agnes visitou Trajano de Morais, Romã visitou Afonso Cláudio, Natacha visitou Paranhos, Cosete visitou Carmópolis de Minas, Dionísia visitou Lavras",Cosete não visitou Augusto Severo,0
+"Aldara visitou Oscarina, Aldara é a pessoa que visitou todo mundo",Oscarina não visitou Raqueline,0
+"Simoneta visitou São Sebastião, Dom Macedo Costa, Serraria, Capela do Alto Alegre, Mucajaí, Baturité, Fernando Falcão, Barra, Senador José Bento, Joinville, Passagem Franca do Piauí, Turuçu, Pinhal da Serra, Manduri e Dois Irmãos do Tocantins",Helga não visitou Turuçu,0
+"Lucelinda visitou Guaraciaba do Norte, Dinarta visitou Santa Rita, Nadja visitou Crateús, Bérnia visitou Custódia, Hilda visitou Mirassol, Carmelina visitou Queimados, Adriane visitou Caucaia, Clarice visitou São Félix do Tocantins, do Almurtão visitou Pariconha, Minervina visitou Curimatá",Hilda não visitou Montadas,0
+"Étel visitou Porto Seguro, Eglantina visitou Paranatama, Raísa visitou Leme, Sira visitou Ubaporanga, Delisa visitou São José do Barreiro, Crisália visitou São Julião, Emi visitou Patu",Eglantina não visitou Curralinho,0
+Brites visitou apenas vinte e sete lugares,"Brites visitou Muriaé, São João do Pau d'Alho, Munhoz, Trabiju, Coaraci, Araioses, São Lourenço do Oeste, São José do Egito, Imaruí, Aracitaba, Conceição do Coité, São Brás, Harmonia, Bertolínia, São João del Rei, Trombudo Central, Sento Sé, São João da Ponte, Veredinha, Pontes Gestal, Itá, Suzanápolis, Bugre, Salmourão, Ituiutaba, Paulo Afonso, Poção e São Pedro dos Ferros",1
+"Octávia é tão alto quanto Diliana , Diliana é tão alto quanto Nelma , Nelma é tão alto quanto Kylie , Kylie é tão alto quanto Santa Cruz , Santa Cruz é tão alto quanto Felisbela , Felisbela é tão alto quanto Carmela , Carmela é tão alto quanto Guendolina , Guendolina é tão alto quanto Faustina , Faustina é tão alto quanto Francina , Francina é tão alto quanto Leena , Leena é mais alto que Albina",Diliana é mais alto que Albina,0
+"Laurentina é mais alto que Elvina, Hortense, Leonilda, Marciana, América, Blandina e Melodia , Étel é tão alto quanto Laurentina",Hortense é mais alto que Étel,1
+"Nadine visitou Espírito Santo do Dourado, Atena visitou Jaraguari, Reyna visitou Nova Guataporanga, Dariana visitou Aquidauana, do Natal visitou Monsenhor Paulo",Dariana não visitou Aquidauana,1
+"Jalmira visitou Passagem Franca do Piauí, Laranjal do Jari, Jijoca de Jericoacoara, Piracuruca e Tuparendi",Jalmira não visitou Laranjal do Jari,1
+"Anusca é mais alto que Terência, Rosanete, Dione, Joséfa, Melody, Artemisa e Orlanda , Anusca é tão alto quanto Stanislava",Stanislava é mais alto que Terência,0
+"Hulda visitou Itapeva, Minervina visitou Eirunepé, Dianna visitou Baependi, Rosalie visitou Paraú, Herénia visitou Iracemápolis, Castorina visitou São João de Meriti, Raven visitou Lagoa de São Francisco, Afonsina visitou Barra Longa, Jordana visitou Miranda do Norte, Aldenir visitou Pesqueira, Daliana visitou Cajobi",Aldenir não visitou Astorga,0
+Lenira visitou apenas oito lugares,"Lenira visitou Santo Antônio do Pinhal, Severiano de Almeida, Cachoeira Dourada, Ibitiara, Cedro e Morro Cabeça no Tempo",0
+"Todo mundo visitou Pacajá, Laje, Itamarati, Ibiam, Maraú, Indiara, Eugenópolis, Carrasco Bonito, Iporanga, Jucás, Mutunópolis, Santa Cruz, Braço do Trombudo, Capim, São Marcos e Rolador",Samaritana não visitou Laje,1
+"Sahara é tão alto quanto Joela , Joela é tão alto quanto Ariadne , Ariadne é tão alto quanto Roquelina , Roquelina é tão alto quanto Rufina , Rufina é tão alto quanto Ivana , Ivana é mais alto que Átina",Ivana é mais alto que Átina,0
+Todo mundo visitou todas as pessoas,Graciana não visitou Saula,1
+Elisama visitou apenas doze lugares,"Elisama visitou Fortaleza de Minas, Vitória do Mearim, Redenção do Gurguéia e Apuí",0
+Dione visitou apenas um lugar e apenas uma pessoa,Dione visitou Loela,0
+"Idília visitou Jardim de Angicos, Nélia visitou Barra dos Coqueiros, Atena visitou Pacoti, Aneide visitou Água Limpa, Cinira visitou Desterro, Pedrina visitou Tupirama, Giulia visitou Mata de São João",Cinira não visitou Olímpia,0
+"Chantal visitou Várzea Branca, Sally visitou Aparecida d'Oeste, Marquesa visitou Novo Tiradentes, Daina visitou Umuarama, Joaquina visitou Engenheiro Coelho, Artemisa visitou São Vicente do Sul, Jussara visitou Camocim de São Félix, Helda visitou Jacaraú",Sally não visitou Aparecida d'Oeste,1
+"Suse é tão alto quanto Balduína , Balduína é tão alto quanto Mabel , Mabel é tão alto quanto Evangelina , Evangelina é tão alto quanto Feliciana , Feliciana é tão alto quanto Joyce , Joyce é tão alto quanto Biana , Biana é tão alto quanto Laurine , Laurine é mais alto que Anquita",Anquita é mais alto que Mabel,1
+"Suely é mais alto que Dalva, Niéves, Diamantina e Jocelina , Suely é tão alto quanto Leonilda",Leonilda é mais alto que Diamantina,0
+"Mariah visitou Cristalândia, Kylie visitou Itamari, Astride visitou Passo de Torres, Nelly visitou Campos Sales, Quésia visitou Quirinópolis, Nisa visitou Botucatu, Sophie visitou Itapuí, Tanagra visitou Mimoso do Sul, Ninfa visitou Arvoredo, Perpétua visitou Lagoa Grande, Nirvana visitou Mangueirinha, Liberalina visitou Ipaussu",Quésia não visitou Quirinópolis,1
+"Énia, Sulamita, Rómula, Cândida, Deliana, Pámela, Florencia, Shania, dos Prazeres, Feba, Adosinda, Gloriosa e Marlise visitaram Eugênio de Castro",Adosinda não visitou Eugênio de Castro,1
+Deótila visitou apenas dezesseis lugares e apenas quatro pessoas,"Deótila visitou Carla, Daina, Noah, Marquesa e Dolores",1
+"Benice visitou Titânia, Benice é a pessoa que visitou todo mundo",Titânia não visitou Ioque,0
+"Daisy visitou Machacalis, Morian visitou Aracati, Eleia visitou Matrinchã, Selma visitou Coremas, Sulamita visitou Varzelândia, Albina visitou São Bernardino",Selma não visitou Coremas,1
+"Rosandra é a pessoa que visitou todo mundo, Polina visitou Rosandra",Polina não visitou Maureen,0
+Kathleen visitou apenas dezoito lugares,"Kathleen visitou Turiúba, Fernandes Tourinho, Serra Azul de Minas, Itaqui, Balsa Nova, Tuparetama, Jundiá, Tavares, Luiz Alves, Santa Rosa de Goiás, Poção de Pedras, Mucuri, Gurjão, Urucuia, Virmond, Cedro de São João, Cruz, Jari e Santana da Vargem",1
+"Anatilde visitou Casa Branca, Sítio Novo, Barra de Santo Antônio, Sousa, Francisco Macedo, São Roque de Minas, Ouro, São Cristóvão, Colorado, Jataizinho, São José do Brejo do Cruz, Santa Tereza de Goiás, Antonina, Joinville, Guaiúba, Rio do Pires e Amontada",Anatilde não visitou Casa Branca,1
+Todo mundo visitou todos os lugares,Nazária não visitou Silvandira,0
+"Nércia, Marlene e Bernadete visitaram Capistrano",Katie não visitou Capistrano,0
+"Davina é a pessoa que visitou todo lugar, Ermengarda visitou Davina",Ermengarda não visitou Pederneiras,0
+"Cáren visitou Uruana de Minas, Carla visitou Ipaba, Albina visitou Porto Esperidião, Samaritana visitou Camocim de São Félix, Demétria visitou Presidente Dutra, Hermânia visitou São Tiago, Levina visitou Brejolândia, Bonifácia visitou Nova Rosalândia, Balbina visitou Aruanã, Dineia visitou Telha, Anita visitou Planalto",Bonifácia não visitou Nova Rosalândia,1
+"Ivy visitou Nova Mutum, Liberalina visitou Macedônia, Selina visitou Rifaina",Liberalina não visitou Macedônia,1
+"Celsa é a pessoa que visitou todo lugar, Aliça visitou Celsa",Aliça não visitou Ibatiba,0
+"Hebe visitou Suzano, Soline visitou Sertão, Nirvana visitou Tabuleiro do Norte, Merita visitou Laranja da Terra, Ariel visitou Ourolândia, Neide visitou Carnaúba dos Dantas, Clésia visitou Imaruí, Natacha visitou Taguaí, Shakira visitou Porto Murtinho, Florencia visitou Umari, Kathleen visitou Sucupira do Riachão, Laetitia visitou Almino Afonso",Neide não visitou Carnaúba dos Dantas,1
+Sana visitou apenas vinte e seis lugares e apenas vinte e quatro pessoas,Sana visitou Dores e Salvação,0
+"Thérése visitou Coqueiro Seco, Astride visitou Viçosa, Isilda visitou Urupema, Guislena visitou Xexéu, Maritana visitou Altaneira, Josiane visitou Barreiras do Piauí, Ohana visitou Cachoeiras de Macacu, Ireneia visitou Governador Newton Bello, Ermengarda visitou Macaúbas, Jasmine visitou Capitão de Campos, Alexina visitou Ibiaí, Arinda visitou Santo Inácio do Piauí",Arinda não visitou Candiota,0
+Dolores visitou apenas dezesseis lugares e apenas quinze pessoas,"Dolores visitou Polina, Francina, Demétria, Brizida, Carsta, Amandina, Suéli, Basília, Isilda, Almira, Josélia, Nair, Ariane, Porciana, Marlise e Ticiane",1
+"Antonina, Alexis, Bitia, Maribel, Lila, Gislena, Dafne, Mária, Estelle, Cindy, Gonçala, Anaíde, do Céu, Formosinda e Joya visitaram Boa Vista do Buricá",Maribel não visitou Dores de Guanhães,0
+"Angie visitou Cajari, Jeanete visitou Irupi, Libertária visitou São Gonçalo, Cássia visitou Porteiras, Rosita visitou Lajeado, Marinha visitou Serranos, Margaux visitou Mariluz, Kylie visitou Itapoá, Emmy visitou Santa Mônica, Duartina visitou Campo Verde, Gracinda visitou Vila Flores",Rosita não visitou Lajeado,1
+"Aminata é tão alto quanto Charlene , Charlene é tão alto quanto Leonisa , Leonisa é tão alto quanto Marlene , Marlene é tão alto quanto Brites , Brites é tão alto quanto Janine , Janine é tão alto quanto Diara , Diara é tão alto quanto Ernestina , Ernestina é mais alto que Nimi",Janine é mais alto que Nimi,0
+Maximiliana visitou apenas vinte e sete pessoas,"Maximiliana visitou Paula, Kaira, Dana, Aldenora, Joaquina, Casta, Nilza, Henriette, Luena, Sirla, Marise, Florentina, Geovana, Sira, Anícia, Reeva, Enide, Tracy, Marinela, Adriele, Cornélia, Aléxia, Gioconda, Amabília, Albana, Carlotta, Nour e Cizina",1
+"Todo mundo visitou Herculândia, Passa-Vinte, São José do Inhacorá, Nova Nazaré, São Francisco do Sul, Itapuí, Bezerros, Vitória do Jari, Artur Nogueira, Barretos, Afuá, Carvalhópolis, Espigão D'Oeste e Pimenteiras",Josiane não visitou São Domingos do Capim,0
+"Leana é mais alto que Bernardete, Isilda, Nicky, Selma, Ivânia, Marie, Mírtila, Ricardina e Claudina , Margarete é tão alto quanto Leana",Margarete é mais alto que Marie,0
+"Ruth é a pessoa que visitou todo mundo, Ruth visitou Léa",Ruth não visitou Líbia,1
+"Rondina é mais alto que Myriam , Myriam é mais alto que Oksana , Oksana é mais alto que Melânia , Melânia é mais alto que Rosalie , Rosalie é mais alto que Runa , Runa é mais alto que Io , Io é mais alto que Dores , Dores é mais alto que Biana",Biana é mais alto que Dores,1
+"Armandina visitou Jardim Alegre, Sapopema, São José do Rio Pardo, Ponte Alta do Norte, Trindade do Sul, São Jorge d'Oeste, Westfalia, Patos de Minas, Itapagé, Jaguaribara, Dois Riachos, Francisco Morato, Santa Helena, Emilianópolis, Quijingue, Augusto Pestana, Matinhas, Manfrinópolis, Paulo Bento e Cosmorama",Armandina não visitou Iporã do Oeste,0
+"Todo mundo visitou Figueirópolis D'Oeste, Selvíria, Emilianópolis, Bom Jesus, Arapiraca, Santa Clara d'Oeste, Ipojuca, Marcelino Ramos, Tupandi, Rio Vermelho, Rodrigues Alves, Canapi, Barão de Cotegipe, Belo Horizonte e Glória do Goitá",Laurina não visitou Selvíria,1
+"Melanie é mais alto que Hilma, Adolfina, Sory, Corine, Constanza, Ifigénia, Rodriga e Dejanira , Melanie é tão alto quanto Lici",Lici é mais alto que Sory,0
+Laurine visitou apenas trinta lugares e apenas oito pessoas,"Laurine visitou Comodoro, Santo Antônio de Lisboa, Dona Inês, Monte Castelo, Salvador do Sul, Arroio Grande, Maruim, Valença do Piauí, Sapiranga, Barra do Ribeiro, Sacramento, Carneirinho, Monte Alegre de Minas, Lajinha, Apiacás, Durandé, Senador Guiomard, Ortigueira, Brumado, Pau D'Arco, Iguatemi, Colorado, Elesbão Veloso, São Pedro da Aldeia, Salto do Lontra, Lages, Natuba, Maria Helena, Ibiam, Jaguaruna e Torixoréu",1
+"Josete visitou Poço Fundo, Ângel visitou Serrana, Léana visitou Santa Cruz de Goiás, Dádiva visitou Manduri, Diliana visitou Goianésia do Pará, Bia visitou Serra do Salitre, Sharam visitou Três Lagoas",Diliana não visitou Goianésia do Pará,1
+Giselda visitou apenas três lugares e apenas uma pessoa,Giselda visitou Ânia,0
+Étel visitou apenas vinte e cinco lugares e apenas oito pessoas,"Étel visitou Dalinda, Teodósia, Isolda, Laurina, Mária, Antonina, Paola, Noémi e Jerónima",1
+"Dilma visitou Joselina, Dilma é a pessoa que visitou todo mundo",Joselina não visitou Mirandolina,0
+"Mícia é mais alto que Taíssa , Taíssa é mais alto que de Begonha , de Begonha é mais alto que Agustina , Agustina é mais alto que do Rosário , do Rosário é mais alto que Geralda , Geralda é mais alto que Anaisa , Anaisa é mais alto que Dulcina",Agustina é mais alto que Taíssa,1
+"Giraldina visitou Taió, Hidrolina, Tabaporã, Figueirão, Curvelândia, Guaribas, Nova Castilho, Nova Russas, Valparaíso de Goiás, Poço das Trincheiras, São Sebastião do Rio Preto, Canapi e São Nicolau",Giada não visitou São Nicolau,0
+Todo mundo visitou todas as pessoas,Odette não visitou Délia,1
+"Jorja visitou Querência, Três Fronteiras, Propriá, Nova Londrina, Maracás e Urupema",Jorja não visitou Nova Londrina,1
+Todo mundo visitou todas as pessoas,Deonilde não visitou Natalie,1
+Lubélia visitou apenas dezoito pessoas,"Lubélia visitou Selénia, Susanna, Súria, Fani, Pérola, Loide, Priscila, Libânia, Elisabeta, Alcina, Modesta, Salomite, Córita, Onélia, Kailani, Arménia, Quézia, Sesira e Rosária",1
+"Laureen é tão alto quanto Belosinda , Belosinda é tão alto quanto Crestila , Crestila é tão alto quanto Suzy , Suzy é tão alto quanto Deise , Deise é tão alto quanto Mariema , Mariema é tão alto quanto Joya , Joya é tão alto quanto Rufina , Rufina é tão alto quanto Gregória , Gregória é mais alto que Dolores",Suzy é mais alto que Dolores,0
+"Nahla é mais alto que Ima, Demelza, Hédila, Leopoldina, Deusa e Rubyana , Nahla é tão alto quanto Serenela",Serenela é mais alto que Demelza,0
+"Lacey visitou Lagoa da Canoa, Ionara visitou Gilbués, Bella visitou Santa Teresinha, Daina visitou Olho D'Água do Piauí, Anabel visitou Lagoa do Carro, Marlise visitou Ibiaí, Ercília visitou Catunda, Nise visitou Cabreúva",Marlise não visitou Engenheiro Navarro,0
+Todo mundo visitou todos os lugares,Janina não visitou Olho d'Água do Casado,1
+"Suzana visitou Vila Maria, Várzea Branca e São Rafael",Thalita não visitou São Rafael,0
+Todo mundo visitou todos os lugares,Doralice não visitou Ocauçu,1
+Todo mundo visitou todas as pessoas,Alexandrina não visitou Novo Machado,0
+"Sade visitou Travesseiro, Roena visitou Buritinópolis, Seni visitou Bom Jardim, Heidi visitou Monte Castelo, Simara visitou Pedras de Fogo, Ramna visitou Muniz Ferreira, Énia visitou Ipira, Agustina visitou Senador La Rocque, Noah visitou Cabo Frio, Nahla visitou São Geraldo do Araguaia, Cármina visitou São Bonifácio",Nahla não visitou São Geraldo do Araguaia,1
+"Matrosa visitou Rubyana, Rubyana é a pessoa que visitou todo mundo",Matrosa não visitou Leopoldina,0
+Todo mundo visitou todos os lugares,Aldina não visitou São João,1
+Norvinda visitou apenas cinco pessoas,"Norvinda visitou Hortênsia, Ditza, Emídia, Coraima, Gara e Amandina",1
+Todo mundo visitou todas as pessoas e todos os lugares,Selma não visitou Minerva,1
+"Namira é mais alto que Almara, Salete, Patrícia, Ezequiela, Iana, Bebiana e Jacinta , Namira é tão alto quanto Marcelina",Almara é mais alto que Marcelina,1
+"Luela visitou Colatina, Melânia visitou Palmópolis, Liv visitou Gurinhém, Charlotte visitou Serranópolis do Iguaçu, Ivânia visitou Crixás, Charlize visitou Potengi, Farah visitou Santa Tereza do Tocantins, Cárin visitou Itapiranga, Naida visitou Caseara, Arabela visitou Deputado Irapuan Pinheiro, Elis visitou Vargem Alegre, Sharam visitou Tapauá",Naida não visitou Caseara,1
+Todo mundo visitou todas as pessoas,Rosária não visitou Alto Paraíso de Goiás,0
+"Lólia é a pessoa que visitou todo mundo, Blandina visitou Lólia",Lólia não visitou Jerusa,1
+Alguem visitou todas as pessoas e todos os lugares,Nayara não visitou Córrego do Bom Jesus,0
+"Rosalina visitou Calmon, Emiliana visitou Acará, Jânia visitou Goianá, Lilly visitou Zortéa, dos Mártires visitou Bragança Paulista, Saulina visitou Central de Minas, Drusila visitou Amaporã, Bia visitou Seropédica, Nanci visitou Campina Grande, Seara visitou Espigão D'Oeste, Leonida visitou Manoel Urbano, Artemísia visitou Lagoa Seca",Leonida não visitou Nova Maringá,0
+"Melodia visitou Celsa, Melodia é a pessoa que visitou todo lugar",Melodia não visitou São Roque de Minas,1
+"Marizete visitou Ubaíra, Guilhermina visitou Maxaranguape, Atenais visitou Imbé de Minas, Gabi visitou São Pedro da Cipa",Atenais não visitou Imbé de Minas,1
+Anteia visitou apenas quinze lugares,"Anteia visitou Pacajá, Monsenhor Paulo, Igaracy, Alterosa e Paiçandu",0
+"Otília visitou Cristino Castro, Martinha visitou Urupês, Melanie visitou São José dos Ausentes, Sacha visitou Vila Pavão, Liseta visitou Santa Fé do Sul, Diva visitou Santa Maria das Barreiras, Amanda visitou Gonçalves Dias, Lacey visitou Muitos Capões, Cárin visitou Socorro do Piauí, Aimara visitou Barreiras do Piauí, Naíra visitou Fronteiras",Martinha não visitou Nova Trento,0
+Alguem visitou todas as pessoas e todos os lugares,Pámela não visitou Reinalda,0
+Liv visitou apenas vinte e nove pessoas,"Liv visitou Danika, Rosaura, Cremilda, Nelly, Formosa, Nessie, Nel, Josiana, Carmelina, Denise, Béatrice, Elódia, dos Anjos, Neusa e Julianna",0
+Domenica visitou apenas vinte e nove pessoas,"Domenica visitou Carsta, Melida, Juna, Clarice, Beanina, Constanza e Charlene",0
+Todo mundo visitou todas as pessoas e todos os lugares,Nené não visitou Sapé,1
+"Mélodie visitou Moraújo, Conceição do Almeida, Piacatu, Lago dos Rodrigues, Novo Horizonte, Itajobi, Bocaina do Sul, Monsenhor Paulo, Naque, Capixaba, Tabaí, Nova Esperança, Piranguçu, Messias Targino, Nova Rosalândia e Brejetuba",Mélodie não visitou Conceição do Almeida,1
+Lariana visitou apenas quatro lugares,Lariana visitou Senador Rui Palmeira e Parisi,0
+"Gabriella visitou Januária, Julie visitou Guaramirim, Rebecca visitou Vila Flores, Alita visitou São Gonçalo do Abaeté, Loide visitou São Sebastião, Milagre visitou Guidoval, Naida visitou Amontada, Isalda visitou São Vicente Ferrer, Cleide visitou Gandu, Naly visitou Fartura, Salomite visitou Caturaí, Rapaz visitou Quevedos",Rapaz não visitou Quevedos,1
+"Suse é mais alto que Marise, Dulcelina, Noiala, Antonina, Espírito Santo e Clélia , Suse é tão alto quanto Aíko",Aíko é mais alto que Marise,0
+"Dália é tão alto quanto Liv , Liv é tão alto quanto Marli , Marli é tão alto quanto Isolete , Isolete é tão alto quanto Alita , Alita é tão alto quanto Sarai , Sarai é tão alto quanto Leandra , Leandra é tão alto quanto Belinda , Belinda é tão alto quanto Acácia , Acácia é mais alto que Enide",Acácia é mais alto que Enide,0
+Todo mundo visitou todos os lugares,Naila não visitou Monte Aprazível,1
+"Lurdite, Léonie, Lacey, Shania, Thaís, Leonna, Morgiana, Tomasa, Fani, Maide, Aliça, Lianor, Evangelista, Clementine, Paraíso e Isabelle visitaram Água Doce do Norte",Fani não visitou Água Doce do Norte,1
+"Sylvie visitou Inhambupe, Sénia visitou Angatuba",Sylvie não visitou Inhambupe,1
+"Esménia visitou Portão, Dulcina visitou Malhada dos Bois, Nair visitou Aracoiaba, Guida visitou Cairu, Rania visitou Palmeira, Selene visitou Itaueira, Béatrice visitou Satuba, Lumena visitou Três Barras do Paraná, Omara visitou Gentio do Ouro, Carmela visitou Cáceres, Priyanka visitou Bom Jesus do Sul",Lumena não visitou Luiz Alves,0
+Rodriga visitou apenas um lugar,Rodriga visitou Mário Campos,0
+"Josy visitou Elis, Josy é a pessoa que visitou todo lugar",Josy não visitou Belém de São Francisco,1
+"América visitou Priscila, América é a pessoa que visitou todo lugar",América não visitou Aruanã,1
+"Lea visitou Caldeirão Grande, Iráis visitou Fama, Lianor visitou Farias Brito, Tina visitou Monsenhor Tabosa",Iráis não visitou Flores do Piauí,0
+"Daenerys visitou Baixo Guandu, Nazária visitou Claraval, Candice visitou Plácido de Castro, Britney visitou Paraíso, Florisa visitou Nacip Raydan, Dânia visitou Igaracy, Arabela visitou Poranga, Caterina visitou Marumbi, Aminata visitou Santa Mercedes, Octávia visitou Tamboril do Piauí, Kendall visitou Jandaíra, Lucrécia visitou Governador Valadares",Florisa não visitou Nacip Raydan,1
+"Siomara, Sâmia, Anusca, Quaiela, Gertrudes, Beatrix, Mathilde, Ioana, Amy, Anunciação, Dorina, Clare, Marita, Justa, Adelina, Ilsa, Afonsa, Edine, Estrelle e Léana visitaram Abaetetuba",Edine não visitou Abaetetuba,1
+"Riana, Marlene e Sarai visitaram Palmital",Marlene não visitou Palmital,1
+"Selena é mais alto que Ellen, Kathleen, Hayden, Sira, Mariam, Clementine e Cora , Selena é tão alto quanto Harper",Mariam é mais alto que Harper,1
+Carmela visitou apenas vinte pessoas,"Carmela visitou Deliana, Laís, Brígida, Mirela, Sadiya, Leocádia, Isolete, Aléxia, Onófria, Gisele, Tessa, Dircila, Formosinda, Margarita, Miraldina, Lícia, Iolanda, Afra, Aldora, Kai e Elisabeth",1
+Alguem visitou todas as pessoas e todos os lugares,Lexie não visitou Heliópolis,0
+"Trinity visitou Euclides da Cunha, Donatella visitou Silvianópolis",Donatella não visitou Silvianópolis,1
+"Tisha visitou Gregória, Tisha é a pessoa que visitou todo mundo",Gregória não visitou Luizete,0
+Romina visitou apenas vinte e seis lugares e apenas dez pessoas,Romina visitou Esther,0
+"Joraci visitou Rio das Pedras, Susanna visitou Córrego do Bom Jesus, Aldenir visitou Dormentes, Niéves visitou Guarulhos, Niah visitou Pai Pedro, Lya visitou Capoeiras, Ariadne visitou São João dos Patos, Iva visitou Camocim de São Félix, Emma visitou Palmeiras de Goiás, Dilsa visitou Bocaina",Niah não visitou São Pedro da União,0
+"Rómula visitou Taciba, Bertila visitou Jardim Alegre, Hope visitou Isaías Coelho, Dircea visitou Taiobeiras, Frida visitou Belmonte, Léana visitou Marco, Gema visitou Fernando Pedroza, Ciana visitou Montadas, Runa visitou Sarutaiá, Donatella visitou Amajari",Frida não visitou Pombal,0
+"Tirza é tão alto quanto Luiza , Luiza é tão alto quanto Carmina , Carmina é tão alto quanto Elodia , Elodia é tão alto quanto Keira , Keira é tão alto quanto Susanna , Susanna é tão alto quanto Suriel , Suriel é mais alto que Dólique",Dólique é mais alto que Carmina,1
+"Formosinda visitou Conceição do Canindé, Capinzal, Santa Maria do Tocantins, São Sebastião do Tocantins, Jacutinga, Elias Fausto, Alto Alegre do Maranhão, Dias d'Ávila, Umuarama e Laurentino",Formosinda não visitou Umuarama,1
+Alguem visitou todas as pessoas e todos os lugares,Carissa não visitou Ibitinga,0
+Justa visitou apenas vinte e oito lugares,"Justa visitou Datas, Timbó Grande, Campo Grande, Roca Sales, Nova Ramada, Paranaíta, Marques de Souza, Babaçulândia, Sobradinho, Abaiara, São Leopoldo, Itambacuri, Esperança, Jaguapitã, Colorado do Oeste, Timbó, Malta, Barra do Rio Azul, Nicolau Vergueiro, Jeriquara, Floresta Azul, Sucupira do Riachão, Santa Cecília, Iguatu, Miguel Calmon, Ipanguaçu, Acari, Santa Inês e Chapadão do Sul",1
+"Todo mundo visitou Irará, Alto Paraíso de Goiás, Porto Franco, Santa Maria do Cambucá, Paranatama, Estrela d'Oeste, São Félix do Xingu, Floresta, Feira Nova, Piritiba e Mairiporã",Liara não visitou Firmino Alves,0
+"Francina é a pessoa que visitou todo mundo, Belosinda visitou Francina",Francina não visitou do Almurtão,1
+"Lou é mais alto que Quaiela, Elina, Leonarda, Dinarda, Salima, Bonifácia e Oscarina , Fénix é tão alto quanto Lou",Salima é mais alto que Fénix,1
+Elle visitou apenas um lugar,Elle visitou Santo Antônio de Posse,0
+Afonsa visitou apenas vinte e quatro lugares e apenas dez pessoas,"Afonsa visitou Azul, Jacqueline, Abby, Cleodice, Polina, Laisa, Katty, Nene, Emmy, Carísia e Indaleta",1
+"Leanor visitou Lariana, Leanor é a pessoa que visitou todo mundo",Lariana não visitou Rosebele,0
+"Apolónia, Aisha, Carminda, Liana, Silvana, Leonora, Fernandina e Elda visitaram Constantina",Daisy não visitou Constantina,0
+Lya visitou apenas catorze lugares e apenas uma pessoa,Lya visitou Borborema,0
+Todo mundo visitou todas as pessoas,Nicky não visitou Evangelina,1
+"Agripina visitou Betânia, Laguna Carapã, Ventania, Novo Airão, Feira da Mata, Brejo do Piauí, Pilar de Goiás, Porteirinha, Jucurutu e Caculé",Crisante não visitou Brejo do Piauí,0
+"Elvina visitou Chorozinho, São José do Calçado, Aratuba, Guamaré, Nossa Senhora de Nazaré, Serrinha dos Pintos, Ubaíra e Teofilândia",Elvina não visitou Serrinha dos Pintos,1
+Leila visitou apenas seis pessoas,"Leila visitou Raphaella, Aíko, Jenny, Sásquia, Delminda, Jani e Sharon",1
+"Béatrice visitou Bonito, Nélia visitou Massapê, Melania visitou Conceição do Almeida, Castelina visitou Lagoa Seca, Reinalda visitou Realeza, Ida visitou Aral Moreira, Lubélia visitou Santo Antônio dos Milagres",Béatrice não visitou Fagundes,0
+Todo mundo visitou todas as pessoas e todos os lugares,Nice não visitou Silke,1
+"Felisberta é tão alto quanto Acélia , Acélia é tão alto quanto Davina , Davina é tão alto quanto Amável , Amável é tão alto quanto Teodósia , Teodósia é tão alto quanto Rosinda , Rosinda é tão alto quanto Elmira , Elmira é tão alto quanto Alexis , Alexis é tão alto quanto Salomite , Salomite é tão alto quanto Erica , Erica é tão alto quanto Blásia , Blásia é mais alto que Leslie",Leslie é mais alto que Acélia,1
+Kylie visitou apenas cinco pessoas,"Kylie visitou Carsta, Saulina, Guida e Nur",0
+"Rosie visitou Nova Belém, Mariane visitou Serrinha, Jacinta visitou São João de Iracema, Ima visitou Ilhéus, Maribel visitou Mucurici",Rosie não visitou Luminárias,0
+Todo mundo visitou todos os lugares,Naíde não visitou Lumi,0
+Duartina visitou apenas catorze lugares e apenas doze pessoas,"Duartina visitou Rio do Antônio, Piranguçu, Macajuba, Doutor Maurício Cardoso, Itatiaia, Ibaté, Santo Ângelo, Santa Maria das Barreiras, Candiba, Terra Roxa e Bom Jardim",0
+"Engrácia visitou Agatha, Engrácia é a pessoa que visitou todo lugar",Engrácia não visitou Picos,1
+"Alina é tão alto quanto Kendra , Kendra é tão alto quanto Moana , Moana é tão alto quanto Merrita , Merrita é tão alto quanto Gabi , Gabi é tão alto quanto Elana , Elana é mais alto que Genciana",Kendra é mais alto que Genciana,0
+"Blandina visitou Araioses, Pedra Azul, Guaraciaba, Lupércio, São José das Palmeiras e Joanésia",Blandina não visitou Pedra Azul,1
+"Cármen é mais alto que Nânci , Nânci é mais alto que Generosa , Generosa é mais alto que Candy , Candy é mais alto que Ambrosina , Ambrosina é mais alto que Nanete , Nanete é mais alto que Ninfa",Ambrosina é mais alto que Generosa,1
+Gustava visitou apenas trinta lugares e apenas dezesseis pessoas,"Gustava visitou Estância Velha, Araújos, Machacalis, Campo Limpo de Goiás e Milhã",0
+"Julinda é tão alto quanto Évila , Évila é tão alto quanto Isilda , Isilda é tão alto quanto Cordélia , Cordélia é tão alto quanto Gileade , Gileade é tão alto quanto Disa , Disa é mais alto que Nice",Nice é mais alto que Évila,1
+"Nereida visitou Boquim, Rialma, Feira da Mata, Gandu, Marechal Deodoro e Parnaguá",Nereida não visitou Santo Antônio do Leverger,0
+"Diane visitou Xique-Xique, Cíntia visitou Boa Vista do Ramos, Sade visitou Ourinhos",Sade não visitou Ourinhos,1
+Analdina visitou apenas catorze lugares e apenas dez pessoas,"Analdina visitou Elisama, Myla, Benilde, Aniana, Poliana, Luciana e Shakira",0
+"Raqueline visitou Flor de Ceres, Raqueline é a pessoa que visitou todo lugar",Raqueline não visitou Tufilândia,1
+"Maíra visitou Caieiras, Avaré, Santa Leopoldina, Pimenta Bueno, Silveirânia, Lagoa do Sítio, Tangará, Capitão e Vitorino Freire",Maíra não visitou Alexânia,0
+"Blandina visitou Belém, Nara visitou Lunardelli, Nuna visitou Itapaci, Duana visitou Itiúba, Leonardina visitou Belém do Brejo do Cruz, Nanci visitou Panamá, Carmela visitou Cornélio Procópio, Agripina visitou Dores do Turvo, Idália visitou Cumaru do Norte, Crisna visitou Senhora de Oliveira, Lilly visitou Queimada Nova, Miraldina visitou Simão Dias",Crisna não visitou Senhora de Oliveira,1
+Carmezinda visitou apenas vinte e cinco lugares e apenas treze pessoas,"Carmezinda visitou Aceguá, Flórida, Itajubá, Rodeiro, São José do Xingu, Pedro do Rosário, Garuva, Palmital, Sapopema, Ingá, São Bento, Nova Odessa, Andirá, Cristalândia do Piauí, Cachoeira do Piriá, Ponte Serrada, Santa Terezinha de Itaipu e Nova Xavantina",0
+Todo mundo visitou todos os lugares,Rosebel não visitou Capão Alto,1
+"Telma visitou Santa Cecília do Pavão, Daliana visitou Monte Alegre dos Campos, Cleia visitou Tabira, Genésia visitou Nova Aliança, Diamantina visitou Cuiabá, Liete visitou Igaratá, Crisna visitou Joca Marques, Rómula visitou Cachoeira Alta",Liete não visitou Igaratá,1
+Luanda visitou apenas vinte e quatro lugares,"Luanda visitou Lavrinhas, Bernardo do Mearim, Sobral, Pedra do Anta, Santa Bárbara, Pedra Branca, Jacuípe, Jaguaré, Ponte Nova, Vila Nova do Sul, Cândido Mendes, Foz do Iguaçu, Guanambi, Itaguatins, Santana do Itararé, Inimutaba, Sítio do Mato, Jandaia do Sul, Campina da Lagoa, Nova Lima, Nova Alvorada do Sul, Cambira, Palestina de Goiás, São José do Sabugi e Serra Dourada",1
+"Gaori é a pessoa que visitou todo mundo, Eárine visitou Gaori",Gaori não visitou Elza,1
+"Pixie visitou Potiretama, Sam visitou Feira da Mata, Marita visitou Serrolândia, Nausica visitou Ilha Comprida, Enide visitou Dolcinópolis, Tereza visitou Quinze de Novembro, do Almurtão visitou Axixá, Artemísia visitou Iacanga, Neise visitou Santa Rosa de Goiás, Marisela visitou Vargem Bonita, Nirvana visitou Cosmópolis, Hayden visitou Várzea Paulista",Marisela não visitou Cristina,0
+"Gáil é mais alto que Sabrina , Sabrina é mais alto que Prazeres , Prazeres é mais alto que Décia , Décia é mais alto que Samaritana , Samaritana é mais alto que Lya , Lya é mais alto que Sesira , Sesira é mais alto que Libertária",Samaritana é mais alto que Libertária,0
+Paula visitou apenas vinte e quatro lugares e apenas onze pessoas,"Paula visitou Belo Campo, Vista Alegre do Prata, Pocrane, Xexéu, Cubati, Damianópolis, Gongogi, Tanque Novo, Flor da Serra do Sul e Extremoz",0
+"Constânça visitou Breves, Oscar Bressane e Capelinha",Constânça não visitou Breves,1
+Myla visitou apenas vinte e dois lugares e apenas vinte e um pessoas,"Myla visitou Pirajuí, Vila Maria, Brejo dos Santos, Conceição da Aparecida, Paranaguá, Guapó, Araújos, Senhor do Bonfim, Gurupi, Dois Lajeados, Pompéu, Argirita, Atalaia, Lindolfo Collor, Modelo, Bela Vista do Maranhão, Feira de Santana, Passa Quatro, Cafarnaum, Carbonita, Gilbués, Vila Flores e Cristalina",1
+"Tásia visitou Caiapônia, Lisbon visitou Capetinga",Lisbon não visitou Cristino Castro,0
+"Ifigénia é mais alto que Erika , Erika é mais alto que Sidónia , Sidónia é mais alto que Lussinga , Lussinga é mais alto que Cataleia , Cataleia é mais alto que Eponina , Eponina é mais alto que Dafne , Dafne é mais alto que Amal , Amal é mais alto que Selene , Selene é mais alto que Romeia",Cataleia é mais alto que Dafne,0
+Todo mundo visitou todas as pessoas e todos os lugares,Rogélia não visitou Sania,1
+Todo mundo visitou todos os lugares,Flor de Maria não visitou Mariluz,1
+"Todo mundo visitou São Raimundo do Doca Bezerra, Nova Roma, João Dias, Camanducaia, Prata do Piauí, Terezinha, Perdigão, Rio Quente, São Pedro do Piauí, Loreto, Capim Branco, Macaé, Córrego Fundo, Bela Vista da Caroba, Coluna, Malacacheta, Piraquê e Cujubim",Niéves não visitou Bela Vista da Caroba,1
+"Todo mundo visitou São José do Divino, Santa Teresinha, Uauá, Sentinela do Sul, Jaguari, Lagoinha do Piauí, José Raydan, Ponto Belo, Guaraíta, Nova Esperança do Sul, Gurinhém, Guaranésia, Almenara, Lavandeira, Corinto, Graça, Carvalhópolis, Água Boa, Guiratinga e Regente Feijó",Bonifácia não visitou Pedro Canário,0
+Clélia visitou apenas seis pessoas,"Clélia visitou Artemísia, Alaíde, Dora e Allegra",0
+Todo mundo visitou todos os lugares,Sam não visitou Serra do Mel,1
+"Clorinda é mais alto que Agustina, Lici, Lucilina, Graciela, Dorina, Elis, Gala, Erica, Ivanoela e Danielle , Séfora é tão alto quanto Clorinda",Lucilina é mais alto que Séfora,1
+"Marianne visitou Planaltina, Miranda visitou Douradina",Marianne não visitou Planaltina,1
+"Chantal visitou Areias, Melânia visitou Caatiba, Kenza visitou Presidente Juscelino, Lucrécia visitou Tocantinópolis, Elina visitou Cândido Sales, Libertária visitou Juarez Távora",Elina não visitou Dois Riachos,0
+Todo mundo visitou todos os lugares,Florentina não visitou Hersília,0
+Norah visitou apenas seis lugares e apenas seis pessoas,"Norah visitou Arauá, Aiuaba, Fernando Falcão, Salto Grande e Francisco Ayres",0
+"Liberdade é a pessoa que visitou todo lugar, Anaíce visitou Liberdade",Anaíce não visitou Harmonia,0
+Todo mundo visitou todos os lugares,Mélodie não visitou Bibiana,0
+"Nuna é a pessoa que visitou todo mundo, Nuna visitou Lianor",Nuna não visitou Narcisa,1
+"Júnia é a pessoa que visitou todo mundo, Júnia visitou Militana",Júnia não visitou Gabriella,1
+"Romilda é mais alto que Graciana , Graciana é mais alto que Iriana , Iriana é mais alto que Aldina , Aldina é mais alto que Jasmine",Jasmine é mais alto que Aldina,1
+Marguerita visitou apenas onze lugares,"Marguerita visitou Venturosa, Lajinha e Teutônia",0
+Iolanda visitou apenas quatro lugares,"Iolanda visitou São Sebastião da Bela Vista, Tucumã e Alto Araguaia",0
+"Évila é a pessoa que visitou todo mundo, Raphaella visitou Évila",Évila não visitou Dara,1
+"Castelina visitou Guimarães, Santa Cruz do Piauí, Além Paraíba, Regeneração, Colméia, Santópolis do Aguapeí, Manoel Ribas, Goiás, Tomazina, Tiradentes, Exu, Itatiaiuçu, Santanópolis e Novo Horizonte",Castelina não visitou Santa Cruz do Piauí,1
+"Alvarina é mais alto que Mathilda , Mathilda é mais alto que Natalina , Natalina é mais alto que Tessa , Tessa é mais alto que Bernarda , Bernarda é mais alto que Nureia , Nureia é mais alto que Maria Rita , Maria Rita é mais alto que Elódia",Maria Rita é mais alto que Natalina,1
+"Esther visitou Holly, Holly é a pessoa que visitou todo mundo",Esther não visitou Marlisa,0
+"Rosie visitou Jucuruçu, Benilde visitou Planalto, Nila visitou Santo Cristo, Misaela visitou Paraíso do Sul, Ianesis visitou Calçoene, Nazária visitou Lençóis Paulista, Selina visitou Pauini, Laureana visitou Saúde, Milagre visitou Pacajus, Edna visitou Nova Nazaré",Edna não visitou Lourdes,0
+Sylvie visitou apenas dezesseis lugares e apenas quatro pessoas,"Sylvie visitou Lutgarda, Anquita, Alexia, Sory e Sofie",1
+"Paola visitou Cora, Cora é a pessoa que visitou todo lugar",Paola não visitou Rancho Alegre,0
+"Marilisa, Romeia, Grace, Joela, Dinarta e Aminata visitaram São Francisco",Dinarta não visitou São Francisco,1
+"Nur visitou Guislene, Nur é a pessoa que visitou todo mundo",Guislene não visitou Silvandira,0
+Adalgiza visitou apenas treze pessoas,"Adalgiza visitou Joaninha, Rosinda, Nicoleta, Dária, Ercília, Shirley, Mavelete, Isalina, Hilária, Antonina, Fânia, Pui, Silvéria e Pérola",1
+"Rosebel visitou São José dos Ramos, Pesqueira, Telêmaco Borba, Cordeirópolis, Uiraúna, Rondon, Águas Mornas, Branquinha, Palmópolis, Extremoz, Harmonia, Simolândia, São Francisco do Brejão, Ribeirão Vermelho, Lizarda, São João de Iracema, Seringueiras e Dias d'Ávila",Rosebel não visitou Pesqueira,1
+"Rubyana visitou Taparuba, Jesus visitou Salgadinho, Briolanja visitou Tailândia, Mavelete visitou Buritizeiro, Teodósia visitou Inhapi, Carla visitou Mutuípe, Lauren visitou São Miguel do Guamá, Aneide visitou Santo Antônio do Paraíso, Henriette visitou Novo Aripuanã, Lucrécia visitou Ibirataia",Carla não visitou Mutuípe,1
+"Crisália visitou Laranjeiras, Evelyn visitou Capela de Santana, Natacha visitou Braga, Lorina visitou Atalanta, Natalina visitou Mari, Candy visitou Itaperuçu, Ivanoela visitou São José do Calçado, Gonzaga visitou Jandaia",Gonzaga não visitou Jandaia,1
+"Génesis visitou Caçador, Caiçara do Norte, Godofredo Viana, Presidente Getúlio, Santa Terezinha, Bonfinópolis, Manaus, São Lourenço e Otacílio Costa",Génesis não visitou Santa Terezinha,1
+"Sibila visitou Itambé do Mato Dentro, Luiza visitou São Marcos, Lucete visitou Nova Londrina, Aldina visitou Inhapi, Faia visitou Cardeal da Silva, Sancha visitou Pajeú do Piauí, Muriel visitou Várzea Paulista, Analdina visitou Itapetininga, Cíntia visitou Ribeirão Pires, Naísa visitou Campo Florido",Luiza não visitou São Marcos,1
+"Davina é mais alto que Mira, Aíko, Lidiana, Saga, Agatha, Rufina, Oliviana, Juliette e Dakota , Davina é tão alto quanto Armanda",Dakota é mais alto que Armanda,1
+"Raven visitou Auriana, Auriana é a pessoa que visitou todo lugar",Raven não visitou General Salgado,0
+Inara visitou apenas três lugares e apenas uma pessoa,"Inara visitou Carmésia, Patrocínio do Muriaé, Cabeceiras e Caiçara do Norte",1
+Ádila visitou apenas vinte e um lugares e apenas onze pessoas,"Ádila visitou Luiziana, Palmas, Palmeira do Piauí, Santa Terezinha de Itaipu, Itagi, São Pedro e São Felipe",0
+"Alvarina visitou Araripe, Edma visitou Rochedo, Gisete visitou Rochedo de Minas, Laia visitou Mãe d'Água, Léane visitou Cubatão",Edma não visitou Vertentes,0
+Mariane visitou apenas vinte e cinco lugares e apenas seis pessoas,"Mariane visitou Santa Fé do Araguaia, Altaneira, Paramirim, Vitória das Missões, Indaial, Caldeirão Grande, Buenos Aires, Vicência, Viçosa, Leandro Ferreira, Theobroma, Palmas, Comendador Gomes, Porto Mauá, Porto Alegre do Norte, Mariano Moro, Casca, Ibitiúra de Minas, Goianira, Sertão, São José da Tapera, Extrema, São Sebastião do Paraíso, Nova Guarita, Santa Fé e São Roque do Canaã",1
+"Lilly, Analisa, Meiline, Cleodice, Hilda, Leonarda, Marsília, Mariame, Líbia, Graziela, Irisalva, Cássia, Hayden, Kenza, Doralice, Chanda, Seara, Gracinda, Agustina e Diza visitaram Bonfim",Analisa não visitou Kaloré,0
+"Casta visitou Leonna, Leonna é a pessoa que visitou todo mundo",Leonna não visitou Mary,1
+Todo mundo visitou todos os lugares,Dara não visitou Jequitinhonha,1
+"Faustina visitou Toropi, Presidente Prudente, Campos do Jordão, Lassance e Juquitiba",Faustina não visitou Juquitiba,1
+"Edine visitou Bebiana, Bebiana é a pessoa que visitou todo mundo",Edine não visitou Joaninha,0
+"Elis é mais alto que Mabília , Mabília é mais alto que Siomara , Siomara é mais alto que Meera , Meera é mais alto que Moana , Moana é mais alto que Daliana , Daliana é mais alto que Osvaldina , Osvaldina é mais alto que Sienna , Sienna é mais alto que Hebe , Hebe é mais alto que Beanina , Beanina é mais alto que Daina",Meera é mais alto que Osvaldina,0
+Leonida visitou apenas vinte e dois lugares,"Leonida visitou Olho d'Água, Lagoa da Confusão, Mandaguaçu, Baependi, Mirandiba, Feira Nova, Goiânia, Campos dos Goytacazes, Amapá, Estação, Paulo Jacinto, Ramilândia, Nova Guarita, Biquinhas, Juruá, Cachoeira de Minas e Cavalcante",0
+"Isolina é mais alto que Carla , Carla é mais alto que Adélia , Adélia é mais alto que Nadja , Nadja é mais alto que Claire , Claire é mais alto que Mécia , Mécia é mais alto que Teolinda",Nadja é mais alto que Claire,0
+"Fara, Margarete, Ada, Dólique, Círia, Noah, Reinalda e Jia visitaram Paraibuna",Margarete não visitou São Lourenço do Oeste,0
+Todo mundo visitou todos os lugares,Lourdes não visitou Catherina,0
+Todo mundo visitou todos os lugares,Luíza não visitou Lianor,0
+"Sophia é a pessoa que visitou todo mundo, Sophia visitou Laetitia",Laetitia não visitou Gustava,0
+"Bebiana é mais alto que Eline, Sâmia, Biana, Isolda e Araci , Bebiana é tão alto quanto Lianor",Isolda é mais alto que Lianor,1
+"Malaika é mais alto que Mélodie , Mélodie é mais alto que Encarnação , Encarnação é mais alto que Romilda , Romilda é mais alto que Martinha , Martinha é mais alto que Indaleta , Indaleta é mais alto que Dilma , Dilma é mais alto que Gerta",Gerta é mais alto que Encarnação,1
+Todo mundo visitou todas as pessoas,Giada não visitou Siana,1
+Luisete visitou apenas dezesseis pessoas,"Luisete visitou Lutgarda, Benigna, Engrácia, Rubina, Formosinda, Caia e Glaúcia",0
+"Idília é tão alto quanto Naila , Naila é tão alto quanto Danila , Danila é tão alto quanto Chanda , Chanda é tão alto quanto Seomara , Seomara é tão alto quanto Martinha , Martinha é tão alto quanto Emiliana , Emiliana é mais alto que Dirce",Dirce é mais alto que Naila,1
+Todo mundo visitou todas as pessoas,Rebeka não visitou Jacaraú,0
+"Todo mundo visitou Santana do Matos, São Sebastião da Bela Vista, Bonfinópolis, Nova Bandeirantes, Cocos, Santo Antônio do Içá, Três Lagoas, Presidente Castelo Branco, Juazeiro e Mogeiro",Julinha não visitou Careiro da Várzea,0
+"Tiara é tão alto quanto Ocília , Ocília é tão alto quanto Orlanda , Orlanda é tão alto quanto Brázia , Brázia é tão alto quanto Guilhermina , Guilhermina é tão alto quanto Reece , Reece é mais alto que Fénix",Guilhermina é mais alto que Fénix,0
+"Rosário visitou Mundo Novo, Loreto e Sardoá",Miliza não visitou Loreto,0
+"Todo mundo visitou Porteiras, Recursolândia, Clevelândia, Senador Cortes, São Félix de Minas, Santo Antônio dos Milagres, Piumhi, Ribeirão do Pinhal, Itapema, Águas Mornas, São Domingos, Cachoeira de Pajeú, Cristalina, Luziânia, Rosário do Catete, Glicério, Poção, Cuiabá, Terezinha e Miradouro",Lorraine não visitou Águas Mornas,1
+"Priscila visitou Liana, Liana é a pessoa que visitou todo lugar",Priscila não visitou Campo Alegre de Lourdes,0
+Dina visitou apenas treze pessoas,Dina visitou Mari e Dariana,0
+Dircila visitou apenas duas pessoas,"Dircila visitou Tabatha, Fedra e Lizia",1
+Etel visitou apenas vinte e oito pessoas,"Etel visitou Bernardete, Deodata, Caterina, Bárbora, Alexis, Corália e Gustava",0
+Marjolene visitou apenas dezoito lugares,"Marjolene visitou Santo Antônio do Grama, Fraiburgo, Três Barras, São João da Ponta, Luís Eduardo Magalhães, Areal, Bela Vista do Paraíso, Jurema, Confins, Morro Cabeça no Tempo, Ribeira do Piauí e Atalanta",0
+Ivone visitou apenas um lugar,Ivone visitou Coronel João Pessoa e Nova Ipixuna,1
+Todo mundo visitou todas as pessoas e todos os lugares,Rosita não visitou Campos Altos,1
+"Licínia visitou Medicilândia, Ituiutaba, Turvolândia, Betim, Paraibano, Valença do Piauí, Fátima, Santana da Boa Vista, Três Ranchos, Rio Negro, Nova Monte Verde, Fartura do Piauí, Verdelândia, Iporã, Cumari, Joaquim Gomes, Brasil Novo, Sítio do Quinto e Senador Georgino Avelino",de Begonha não visitou Brasil Novo,0
+Todo mundo visitou todas as pessoas,Lea não visitou Leontina,1
+"Alanis é tão alto quanto Floriana , Floriana é tão alto quanto Ornela , Ornela é tão alto quanto Deonilde , Deonilde é tão alto quanto Leona , Leona é tão alto quanto Dalinda , Dalinda é tão alto quanto Giselda , Giselda é tão alto quanto Mariela , Mariela é tão alto quanto Lígia , Lígia é mais alto que Naísa",Naísa é mais alto que Floriana,1
+"Aniana é a pessoa que visitou todo mundo, Marianna visitou Aniana",Aniana não visitou Andreína,1
+"Amaia visitou Guaimbê, Cerro Negro, Maracajá, São Raimundo das Mangabeiras, Araucária, Boa Vista das Missões e Cumaru do Norte",Laurentina não visitou Guaimbê,0
+"Elva é a pessoa que visitou todo mundo, Benigna visitou Elva",Benigna não visitou Natalina,0
+"Luíza é mais alto que Alexandrina , Alexandrina é mais alto que Ada , Ada é mais alto que Léna , Léna é mais alto que Selena , Selena é mais alto que Lais , Lais é mais alto que Natércia",Ada é mais alto que Alexandrina,1
+"Joelma, Helda, Aldenir e June visitaram Juazeiro do Norte",June não visitou Juazeiro do Norte,1
+"Natacha visitou Conceição do Canindé, Constânça visitou Estância, Franca visitou Paraipaba, Hédila visitou Ourilândia do Norte, Georgete visitou Angélica, Alfreda visitou Bernardino Batista, Riana visitou Ervália, Sharam visitou São João do Tigre, Mathilde visitou Cabaceiras",Mathilde não visitou Porto de Pedras,0
+Alguem visitou todas as pessoas e todos os lugares,Gislene não visitou Quatiguá,0
+Inoi visitou apenas um lugar e apenas uma pessoa,Inoi visitou Shine,0
+"Étel é a pessoa que visitou todo mundo, Étel visitou Pégui",Étel não visitou Juvita,1
+"Melody é mais alto que Maira, Peyton, Sássia, Greer, Eunice e Nília , Melody é tão alto quanto Noah",Noah é mais alto que Maira,0
+Giselle visitou apenas vinte e oito lugares,"Giselle visitou Ibaretama, Parnamirim, Goianira, Três Barras, São Felipe D'Oeste, Tunápolis, São Gonçalo do Piauí, Bento de Abreu, Ouro Velho, Santo Antônio dos Lopes, Mostardas, Simões Filho, Poloni, Coaraci, Luís Domingues, Solidão, Vargem Grande, Muritiba, Maurilândia, Três Lagoas, Tumiritinga, Sorocaba, Carira, Macarani, Carapebus, Canutama, Timbiras, Abel Figueiredo e Itatiba do Sul",1
+"Melinda visitou Tupanciretã, Carmélia visitou Aral Moreira, Liane visitou Valença, Cesaltina visitou São João do Carú, Ivete visitou Paraisópolis, Florbela visitou Passo Fundo, Julita visitou Rio da Conceição, Ditza visitou Pojuca, Analu visitou Geminiano, Carsta visitou Monte Horebe, Diamantina visitou Carauari, Skylar visitou Sebastião Leal",Cesaltina não visitou Prata,0
+"Rosita visitou Lajeado Grande, Julinda visitou Itapeva, Francina visitou Manoel Urbano, Charlize visitou Morro do Chapéu, Jani visitou Rio do Pires, Aliana visitou Eldorado, Simona visitou Ilhota, Mabel visitou Santa Rita de Cássia, Demétria visitou Monteiro, Belisa visitou Alto Feliz",Francina não visitou Areia Branca,0
+"Magali é mais alto que Anatilde , Anatilde é mais alto que Selina , Selina é mais alto que Margaux , Margaux é mais alto que Agripina , Agripina é mais alto que Dúnia , Dúnia é mais alto que Constanza , Constanza é mais alto que Cesarina",Anatilde é mais alto que Margaux,0
+"Afonsa é a pessoa que visitou todo mundo, Ohana visitou Afonsa",Ohana não visitou Nadja,0
+"Danielle é mais alto que Traciana, Edéria, Cibele, Arlanda, Jalmira, Dara, Luiza e Trisha , Danielle é tão alto quanto Felismina",Trisha é mais alto que Felismina,1
+Quaresma visitou apenas vinte e dois lugares,"Quaresma visitou Santa Cecília, Amaralina, Treze Tílias, Cabeceira Grande, Rio da Conceição, Tucumã, Caracol, Bom Jardim, Registro, Blumenau, Nazaré, Autazes, Salto Veloso, Japira, Agrestina, Joaquim Távora, Mineiros, Vila Boa, Jaguariaíva e Correntes",0
+"Malu visitou Caroline, Malu é a pessoa que visitou todo lugar",Caroline não visitou Carbonita,0
+Alguem visitou todas as pessoas e todos os lugares,Merrita não visitou Bérnia,0
+"Todo mundo visitou Itaitinga, Belém de Maria, Belém do Piauí, Engenheiro Paulo de Frontin, Santa Maria da Vitória, Caiabu, Nova Granada, Junco do Maranhão, Pimenta, Lajeado Grande, Serra Nova Dourada, Florestal, Caxias do Sul, Nova Monte Verde, Tufilândia, São João do Sul, João Pessoa, Ribamar Fiquene, Baixa Grande do Ribeiro e Curionópolis",Luíza não visitou Pratânia,0
+"Otelina é a pessoa que visitou todo lugar, Otelina visitou Elva",Elva não visitou Lençóis,0
+Especiosa visitou apenas três lugares e apenas duas pessoas,Especiosa visitou Canoas,0
+Todo mundo visitou todos os lugares,do Socorro não visitou Anastácio,1
+Todo mundo visitou todas as pessoas,Francesca não visitou Coronel Domingos Soares,0
+Mari visitou apenas dezesseis lugares e apenas três pessoas,Mari visitou Ruth,0
+"Auriana visitou Jacinto, Mendes, Doutor Severiano, Bom Lugar, Nova Crixás, Guarulhos, Francisco Beltrão, Piracicaba, Estrela do Sul, Itaporanga, Arabutã, Catolé do Rocha, Cerro Azul, Paulicéia, Mataraca, Guarujá, Oliveira dos Brejinhos, Itaobim, Laranjeiras e São João do Jaguaribe",Dianna não visitou Catolé do Rocha,0
+"Girel visitou Acélia, Girel é a pessoa que visitou todo lugar",Acélia não visitou Lagoa Santa,0
+"Nilce é tão alto quanto Rosélia , Rosélia é tão alto quanto Nise , Nise é tão alto quanto Etelvina , Etelvina é tão alto quanto Hermana , Hermana é tão alto quanto Carmo , Carmo é tão alto quanto Sancha , Sancha é tão alto quanto Hersília , Hersília é mais alto que Jesus",Jesus é mais alto que Carmo,1
+Alguem visitou todas as pessoas e todos os lugares,Khaleesi não visitou do Paraíso,0
+"Lina é tão alto quanto Dólique , Dólique é tão alto quanto Fantina , Fantina é tão alto quanto Iolanda , Iolanda é tão alto quanto Idélia , Idélia é tão alto quanto Margaux , Margaux é tão alto quanto Aleixa , Aleixa é tão alto quanto Marianna , Marianna é tão alto quanto Papoila , Papoila é tão alto quanto Antera , Antera é mais alto que Hedviges",Hedviges é mais alto que Marianna,1
+Nia visitou apenas quinze pessoas,"Nia visitou Léna, Oliviana, Kenza, Guimar, Shine, Rachel, Donzélia, Flamínia, Marinela, Marlita, Anaisa, Léana, Farida, Osvalda, Marcela e Eutália",1
+Todo mundo visitou todas as pessoas,Tessa não visitou Belosinda,1
+"Rosebele visitou São Francisco do Guaporé, Josana visitou Timbiras, Sylvie visitou Cruzeta, Orianna visitou São João Batista, Dircea visitou Caracaraí, Loide visitou Agudos, Jocelina visitou Campos dos Goytacazes, Doralice visitou Prata",Sylvie não visitou Cruzeta,1
+Todo mundo visitou todas as pessoas,Ioana não visitou Miracatu,0
+"Todo mundo visitou Tesouro, Frei Martinho, Navegantes, São Gonçalo do Rio Abaixo, Porto Ferreira, Sertão, Bom Jesus do Amparo, Pompéia, Pitangueiras, Vale de São Domingos, Coruripe, Selvíria, Mutum e São Luiz Gonzaga",Davina não visitou Mutum,1
+Todo mundo visitou todos os lugares,Cássia não visitou Tarabai,1
+"Dina visitou Fortaleza, Renascença, São João do Paraíso, Caratinga, Candeal, Cedro, Reserva do Cabaçal, Rubiataba, Nova Timboteua, Dom Viçoso, Lago dos Rodrigues, Dumont, Papanduva, São Bernardino, Itapirapuã Paulista, Campos do Jordão, Maruim, São José dos Campos, Pinheiral e Pedra Branca",Dina não visitou Lago dos Rodrigues,1
+Todo mundo visitou todas as pessoas,Suzy não visitou Cesaltina,1
+"Raphaela, Andrelina, Mirela, Hermânia, Deliana, Fia, Rania, Nila, Rihanna, Dilma e Briolanja visitaram Atibaia",Nila não visitou Atibaia,1
+"Raina visitou Palmeira, Jaqueline visitou Santa Terezinha de Itaipu, Naíl visitou Duas Barras, Isabelle visitou Matões, Idália visitou Peixe, Rosária visitou Poços de Caldas, Nausica visitou Canoas, Chema visitou Novo Progresso, Edite visitou Canabrava do Norte",Nausica não visitou Canoas,1
+"Silke é mais alto que Larisa , Larisa é mais alto que Léana , Léana é mais alto que Ludmila , Ludmila é mais alto que Elsinda , Elsinda é mais alto que Jacinta , Jacinta é mais alto que Trisha , Trisha é mais alto que Célia , Célia é mais alto que Fani , Fani é mais alto que Élin",Trisha é mais alto que Jacinta,1
+"Paola é tão alto quanto Ragendra , Ragendra é tão alto quanto Eliete , Eliete é tão alto quanto Aminata , Aminata é tão alto quanto Alexis , Alexis é tão alto quanto Mírtila , Mírtila é tão alto quanto Léane , Léane é mais alto que Onófria",Paola é mais alto que Onófria,0
+"Ellie é a pessoa que visitou todo mundo, Ellie visitou Clorinda",Clorinda não visitou Joanina,0
+"Graciete é tão alto quanto Espírito Santo , Espírito Santo é tão alto quanto Dana , Dana é tão alto quanto Jéni , Jéni é tão alto quanto Angélica , Angélica é tão alto quanto Odette , Odette é tão alto quanto Cindy , Cindy é tão alto quanto Dahlia , Dahlia é tão alto quanto Ciana , Ciana é tão alto quanto Coraima , Coraima é mais alto que Titânia",Titânia é mais alto que Ciana,1
+"de Pádua visitou Pedranópolis, Floriano Peixoto, Itaituba, São Cristóvão, Jussiape, Ubiretama, Dirce Reis, Bueno Brandão, Arceburgo e Acaiaca",Juna não visitou Floriano Peixoto,0
+Edéria visitou apenas vinte e seis lugares,"Edéria visitou Santo Antônio do Jardim, Olho D'Água do Piauí, Tatuí e Mata Roma",0
+"Todo mundo visitou Acaraú, Sapopema, Valparaíso, Campestre, Jaborandi, Santa Luzia, Barra do Ribeiro, Rio das Flores, Jarinu e Baraúna",Natasha não visitou Baraúna,1
+Todo mundo visitou todos os lugares,Mariela não visitou Marion,0
+"Mabilda visitou Santana do Riacho, Kaira visitou Santa Maria da Serra, Brites visitou Pocrane, Soline visitou Couto de Magalhães, Letízia visitou Maravilhas, Greer visitou Turilândia, Domenica visitou Ponte Alta do Norte, Aldenir visitou Palmital, do Almurtão visitou Boquira",Letízia não visitou Passos,0
+"Jaqueline, Soraya, Dilsa e Edéria visitaram Verdejante",Edéria não visitou Inhangapi,0
+"Aruna é mais alto que Selena, Suéli, Liza, Gisete, Albertina, Graciana, Ocília, Carlotta e Niah , Aruna é tão alto quanto Britney",Britney é mais alto que Selena,0
+"Rubi visitou Capoeiras, Flória visitou Maracanã, Séfora visitou Pedra, Florence visitou Olinda Nova do Maranhão",Séfora não visitou Paripiranga,0
+"Modesta visitou Campo de Santana, São Pedro da Água Branca, Dois Vizinhos, Porto Seguro, Iati, Terra Rica, Palhoça, Balneário Gaivota, Itupiranga, Presidente Venceslau e Orizânia",Modesta não visitou Presidente Venceslau,1
+"Todo mundo visitou Frei Lagonegro, Marcolândia, Figueira, Alagoinha, São Sebastião de Lagoa de Roça, Novo Horizonte, Santa Lúcia, Campo Alegre, Arenópolis e São João Batista",Naima não visitou Arenópolis,1
+"Mabília, Lucília, Jó, Nami, Cácia, Thaís, Lya, Skylar, Kate, Briosa, Cristele, Mónia, Arlanda, Maria Leonor, Taína, Angie, Chi, Lucialina, Harper e Gerta visitaram Colônia do Piauí",Mikaela não visitou Colônia do Piauí,0
+"Grace visitou Novo Horizonte, Laia visitou Macaubal, Aruna visitou Timbaúba, Soraya visitou São Jerônimo, Briosa visitou Pesqueira, Fernandina visitou Taguatinga, Mira visitou Pitangui",Soraya não visitou Rio Preto da Eva,0
+"Todo mundo visitou Lutécia, Figueirão, São Gonçalo dos Campos, Antônio Cardoso, Campos Borges, Buenópolis, Santo Estêvão, Mococa, Rancho Queimado, Taquarussu e Tarumã",Élin não visitou Chapada Gaúcha,0
+"Honey visitou São João da Serra, Novo Horizonte, Caaporã, Bonfinópolis, Picuí, Aratuípe, Argirita, Arambaré, São Gonçalo do Sapucaí, Aldeias Altas, Confresa, Teofilândia, Monteiro, Formosa e Bela Vista do Maranhão",Honey não visitou Arambaré,1
+"Gáil visitou Guanhães, Livramento de Nossa Senhora e Morpará",Gáil não visitou Morpará,1
+"Florence, Greer, Aimara, Elizabeth, Igelcemina, Fédora, Amandina, Miliza, Cipora, Stacy, Assunção, Santa Rita, Roena, Taciana, Jael, Donzélia e Léna visitaram Bady Bassitt",Nely não visitou Bady Bassitt,0
+Eleine visitou apenas seis lugares e apenas seis pessoas,Eleine visitou Perpétua e Mírtila,0
+"Jorja é tão alto quanto Castelina , Castelina é tão alto quanto Honey , Honey é tão alto quanto Crestila , Crestila é tão alto quanto Léonie , Léonie é tão alto quanto Margaret , Margaret é mais alto que Jenny",Jenny é mais alto que Honey,1
+"Elana é mais alto que Bianka , Bianka é mais alto que Patrocínia , Patrocínia é mais alto que Ilídia , Ilídia é mais alto que Saula , Saula é mais alto que Peyton , Peyton é mais alto que Nelly , Nelly é mais alto que Graziela , Graziela é mais alto que Edmunda , Edmunda é mais alto que Kylie , Kylie é mais alto que Merrita",Nelly é mais alto que Kylie,0
+"Sory visitou Anaisa, Sory é a pessoa que visitou todo lugar",Anaisa não visitou Tomar do Geru,0
+Elina visitou apenas onze lugares e apenas quatro pessoas,"Elina visitou Naida, Luzinira, Maritila, Licínia e Nelma",1
+"Louane visitou Jacupiranga, Alina visitou Paulistânia, Ragendra visitou Porto do Mangue, Cataleia visitou Santa Maria do Oeste, Cânia visitou Urussanga",Louane não visitou Jacupiranga,1
+"Belosinda visitou Mimosa, Belosinda é a pessoa que visitou todo lugar",Belosinda não visitou Ubajara,1
+"Jitendra é mais alto que Ondina, Nair, Luela, Salete, Dara e Marilda , Crisante é tão alto quanto Jitendra",Ondina é mais alto que Crisante,1
+"Lisete visitou Pacujá, Mariza visitou Borborema, Carissa visitou Campos Novos, Teodósia visitou Narandiba, Alaia visitou Olinda, Raísa visitou Campinápolis, Marian visitou Mombaça, Rihanna visitou Assaré, Aldora visitou Arauá, Nessy visitou Taperoá",Mariza não visitou Urupês,0
+"Honey visitou Porto dos Gaúchos, Mauá, Jataizinho, São José dos Ramos, Pinhal, Cansanção, Canela, Fundão, Nioaque, Lavrinhas, Camacan, Arneiroz, Itaobim, Taboleiro Grande, Tanquinho, Pinheirinho do Vale, Alpinópolis, Presidente Dutra e Brazabrantes",Honey não visitou Canela,1
+"Auta visitou Itabira, Santana da Ponte Pensa e Aratiba",Auta não visitou Maria Helena,0
+"Nília visitou Ariel, Nília é a pessoa que visitou todo mundo",Nília não visitou Anísia,1
+"Diva é a pessoa que visitou todo mundo, Naira visitou Diva",Diva não visitou Auxília,1
+"Todo mundo visitou Elisiário, Bonfinópolis de Minas, Santiago do Sul, Avaré, Nova Santa Bárbara, Florestópolis, Itaporanga d'Ajuda, Santa Maria da Vitória, Vila Flores, Ipecaetá, Girau do Ponciano e Brasiléia",Elícia não visitou Marituba,0
+"Hortense é mais alto que Georgete , Georgete é mais alto que Leonna , Leonna é mais alto que Gina , Gina é mais alto que Helda",Helda é mais alto que Gina,1
+Todo mundo visitou todas as pessoas e todos os lugares,Leandra não visitou Orós,1
+"Dina visitou Venha-Ver, Dinora visitou Santa Helena, Darlene visitou Bom Jesus do Galho, Mona visitou Amapá do Maranhão, Alaíde visitou Itaberaba, Carla visitou São Francisco do Conde, Martinha visitou Pontalina, Eduina visitou Witmarsum, Cínara visitou Irecê",Darlene não visitou Antonina,0
+"Énia visitou Nova Londrina, Carminda visitou Conchas, Kendra visitou Serra do Mel, Joice visitou Cerquilho, Ida visitou Santa Cruz de Goiás, Josabete visitou Medeiros, Morgiana visitou Vista Alegre, Liliete visitou Nova Ponte",Josabete não visitou São Bernardino,0
+"Marilisa visitou Janina, Janina é a pessoa que visitou todo mundo",Janina não visitou Eárine,1
+Todo mundo visitou todas as pessoas,Crisanta não visitou Coqueiral,0
+Alaia visitou apenas oito lugares e apenas três pessoas,"Alaia visitou Alegrete do Piauí, Seabra, Luciára, Paraíso, Água Branca, Cedro, Godofredo Viana, Madeiro e Acarape",1
+"Todo mundo visitou Riacho Frio, Bariri, Tangará da Serra, Ipameri, Itapuí, Fronteira dos Vales, Viçosa do Ceará, Água Branca, Nova Esperança, Guapiara, Santana do Livramento, Igaraçu do Tietê, Cachoeirinha, Nazareno, Santo Antônio da Patrulha e Brasilândia do Tocantins",Girel não visitou Brasilândia do Tocantins,1
+Todo mundo visitou todas as pessoas,Hayden não visitou Monte Belo do Sul,0
+"Jacqueline, Sade, Disa, Naia, Graziela, dos Mártires, Levina, Biana, Kenzi, Darci, Léana, Clícia, Constantina e Henriette visitaram Vieirópolis",Jacqueline não visitou Ubatuba,0
+"Crisanta, Serenela, Ciana, Luiza, Luizete, Margaret, Malvina, Jane, Heda, Castorina e Erin visitaram Palmeirândia",Serenela não visitou Palmeirândia,1
+"Geovanna é mais alto que Emilie , Emilie é mais alto que Haidé , Haidé é mais alto que Jerusa , Jerusa é mais alto que Nikita , Nikita é mais alto que Gelsemina , Gelsemina é mais alto que Leane , Leane é mais alto que Rosanete , Rosanete é mais alto que Maëlis",Maëlis é mais alto que Rosanete,1
+"Leonardina visitou Tabatinga, Braga, Salvador, São Raimundo das Mangabeiras, Tio Hugo, Regeneração, Verdejante, Timbiras e Ponte Nova",Leonardina não visitou Guapiara,0
+Elisama visitou apenas vinte e três pessoas,"Elisama visitou Deusa, Stella, Dália, Cleonice, Cárita, Ilca, Carol, Benigna, dos Santos, Agustina, Dione, Nali, Frida, Mikaela, Graciana, Kailani, Angelita, Josiana, Michelle, Ionara, Sacha, Roberta, Beatrix e Eliete",1
+Todo mundo visitou todos os lugares,Ingeburga não visitou Hortênsia,0
+"Marciana visitou Quixabeira, Carmelina visitou Cachoeira",Marciana não visitou Uchoa,0
+Quessia visitou apenas quinze pessoas,"Quessia visitou Ioana, Juli, Luisete, Idélia, Crisante, Bibiana, Karina, Ariane, Daina, Reece, Ismália, Dariana, Elvina, Pascualina, Sancha e Demelza",1

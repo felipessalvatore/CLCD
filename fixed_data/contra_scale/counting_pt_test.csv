@@ -1,0 +1,1001 @@
+sentence1,sentence2,label,label_form
+Ludovice visitou apenas quatro pessoas,"Ludovice visitou Dana, Tolentina, Simara, Séfora e Amorzinda",1,counting
+Myra visitou apenas vinte e seis lugares e apenas dezoito pessoas,"Myra visitou Arminda, Benigna, Gertrudes, Gerda, Rosalie, Prudência, Derocila, Herédia, Leane e Ellen",0,counting
+Idalete visitou apenas vinte e três lugares e apenas onze pessoas,"Idalete visitou Suria, Graciliana, Araci, Grimanesa e Círia",0,counting
+Marion visitou apenas um lugar e apenas uma pessoa,Marion visitou Ipu e Piaçabuçu,1,counting
+Afonsa visitou apenas vinte e quatro lugares e apenas dez pessoas,"Afonsa visitou Azul, Jacqueline, Abby, Cleodice, Polina, Laisa, Katty, Nene, Emmy, Carísia e Indaleta",1,counting
+Marise visitou apenas vinte e um lugares,"Marise visitou Rio de Contas, Juara, Três Passos, Ananindeua, Dolcinópolis, São Carlos, Frei Rogério, São Sebastião do Passé, Almirante Tamandaré, Nova Redenção, Alexandria, Centralina, Anguera, Aroeiras do Itaim, Estrela Velha, Miracatu, Lagoa do Tocantins, Sardoá, Bugre, Canoas, Isaías Coelho e Cruz Alta",1,counting
+Kylie visitou apenas cinco pessoas,"Kylie visitou Carsta, Saulina, Guida e Nur",0,counting
+Engelécia visitou apenas vinte e dois lugares,"Engelécia visitou Tupiratins, São Roque do Canaã, Guia Lopes da Laguna, Vacaria, Juara, Pedra Lavrada, Lagoa da Confusão, Irauçuba, Ouro Preto do Oeste, Igaratinga, Paranaíba, Nova Ponte, Bom Sucesso, Guaribas, Ibiúna, Santa Luzia, Bom Princípio do Piauí, São Luiz, Macambira, Mirim Doce, Santa Cruz da Vitória, Ilhota e Cumari",1,counting
+Clarissa visitou apenas vinte e dois lugares e apenas treze pessoas,"Clarissa visitou Hersília, Noélie, Rubi, Nené, Leena, Leonora, Clívia, Roena, Açucena, Estelle, Domitília, Belinda, Laila e Riu",1,counting
+Bartolina visitou apenas quatro lugares e apenas quatro pessoas,Bartolina visitou Catalina e Sharam,0,counting
+Clícia visitou apenas dezesseis pessoas,"Clícia visitou Suriel, Ivanoela, Thaís, Laís, Reinalda, Janina, Joelma, Blásia, Chiara, Enilda, Nami e Aliana",0,counting
+Anair visitou apenas vinte e dois lugares e apenas treze pessoas,"Anair visitou Anapu, Capetinga, Lidianópolis, Serrinha dos Pintos, Quevedos, Boninal, Jaguaruna, Matões do Norte, Conceição do Mato Dentro, Dourado, Vera Cruz, Roca Sales, Pitangui, Anhembi, Japoatã, Santa Bárbara do Leste, São Miguel do Iguaçu, Bom Jesus da Penha, Mutuípe, Canguaretama, Mossoró, Barreira e Torres",1,counting
+Hope visitou apenas vinte e quatro lugares e apenas vinte e dois pessoas,"Hope visitou São Gonçalo do Piauí, Uchoa, São José, Herval d'Oeste, Turvolândia, Anagé, Cerro Negro, Águas de Chapecó, Cambará do Sul, Orizânia, Arceburgo, Lindoeste, Papanduva, Valença, Lagoa Grande, Tracuateua, Itarana, Goianápolis, Chapada de Areia, Rio Real, Nova Alvorada do Sul, São Lourenço do Oeste, Parelhas, Conquista D'Oeste e Machadinho",1,counting
+Dámaris visitou apenas onze lugares e apenas nove pessoas,"Dámaris visitou Paranaguá, Imbituva, Cachoeira dos Índios, São Bentinho, Carpina, João Neiva, São João das Duas Pontes, Gurupi, Rio Bom, Potengi, Materlândia e Campos do Jordão",1,counting
+Bebiana visitou apenas oito lugares,"Bebiana visitou Augustinópolis, Campo do Tenente, Muniz Ferreira, Coité do Nóia, São Bernardo do Campo, Tijucas do Sul, Santa Rita d'Oeste, Itaporanga e Rio de Contas",1,counting
+Louane visitou apenas vinte e oito lugares e apenas vinte pessoas,"Louane visitou Amanda, Lízie, Almira, Évila, Cácia, Khloe, Ada, Nirina, Kieza, Nilda, Roberta, Luena, Blásia, Lilite e Elizabeth",0,counting
+Étel visitou apenas oito lugares e apenas oito pessoas,"Étel visitou Arroio do Sal, Areia Branca, Mulungu do Morro, Bambuí, Indaiatuba, Arroio Trinta, Maria da Fé, Esperantina e Santa Terezinha",1,counting
+Lumi visitou apenas três pessoas,"Lumi visitou Délia, Delisa, Evelyn e Loide",1,counting
+Nené visitou apenas nove lugares e apenas quatro pessoas,Nené visitou Ceres,0,counting
+Adriela visitou apenas dezoito lugares e apenas cinco pessoas,"Adriela visitou Béatrice, Bertina, Salvadora e Briolanja",0,counting
+Liberalina visitou apenas dezesseis pessoas,"Liberalina visitou Sabrina, Edine, Eduina, Maeva, Amal, Michelle, Odete, Lélia, Flamínia, Diamantina, Carisa, Oana, Donatella, Isalina, Nali, Ilca e Rebeka",1,counting
+Jovelina visitou apenas treze pessoas,"Jovelina visitou Hortênsia, Rosandra, Cizina, Liliane, Suzi, Faith, Si, Ivete, Anatilde, Dominica, Benícia, Reeva, Pui e Tessa",1,counting
+Minerva visitou apenas dez lugares e apenas duas pessoas,"Minerva visitou Terra Alta, Paulo Bento, Belém, Nova Tebas, Carmópolis de Minas e Padre Paraíso",0,counting
+Naly visitou apenas dez lugares e apenas seis pessoas,"Naly visitou Amina, Joraci, Deótila, Samantha, de Deus, Soline e Roberta",1,counting
+Licínia visitou apenas trinta lugares e apenas vinte e quatro pessoas,"Licínia visitou Silvie, Catherina, Joselina, Rosebel, Lumi, Marilisa, Giuliana, Pippa, Elize, Delfina, Lea, Hermânia, Emma, Lubélia e Aurete",0,counting
+Lólia visitou apenas vinte e cinco pessoas,"Lólia visitou Naia, Dione, Filena, June, Militza, Cristiana, Giraldina, Paraíso, Serenela, Elize, Leopoldina, Mariamar, Arinda, Gaela, Katherina, Cayetana, Angie, Marianne, Excelsa, Celsa e Teolinda",0,counting
+Inara visitou apenas três lugares e apenas uma pessoa,"Inara visitou Carmésia, Patrocínio do Muriaé, Cabeceiras e Caiçara do Norte",1,counting
+Lya visitou apenas treze pessoas,"Lya visitou Gonzaga, Arabela, Nadina, Luamar, Léanor, Graciete, Lexie, Evangelina, Rapaz e Nilda",0,counting
+Saula visitou apenas dez lugares,Saula visitou Pires do Rio,0,counting
+Dione visitou apenas um lugar e apenas uma pessoa,Dione visitou Loela,0,counting
+Iberina visitou apenas vinte e seis lugares e apenas quinze pessoas,"Iberina visitou Maxine, Marianne, Ivete, Myra, Enilda, Gisele, Nila, Alexina, Rafa, Cipora, Rosélia, Alexia, Reinalda, Mariluz, Guislene e Méline",1,counting
+Gertrudes visitou apenas vinte lugares e apenas sete pessoas,"Gertrudes visitou Chapada de Areia, Vila Nova do Sul, Emilianópolis, Santa Terezinha de Itaipu, Belém, Pedra Branca, Paulínia, Lucas do Rio Verde, Palmas, Sul Brasil, Riacho de Santana, Borborema, Iuiú, São Sebastião do Alto, Vespasiano, Alterosa, Coelho Neto, Santo Antônio da Platina, Caetanópolis, Santo Antônio dos Milagres e Palmeiras",1,counting
+Blandina visitou apenas onze pessoas,"Blandina visitou Nanina, do Socorro e Emmy",0,counting
+Adalgiza visitou apenas treze pessoas,"Adalgiza visitou Joaninha, Rosinda, Nicoleta, Dária, Ercília, Shirley, Mavelete, Isalina, Hilária, Antonina, Fânia, Pui, Silvéria e Pérola",1,counting
+Melinda visitou apenas vinte e um pessoas,"Melinda visitou Laís, Serenela, Acélia, Angie, Tarina, Cleia, Faia, Kylie, Aldenir, Constanza, Niéves, Edith, Onófria, Hersília, Afonsa, Laetitia, Deodete, Bina, Florinda, Oscarina, Adélia e do Rosário",1,counting
+Maria Rita visitou apenas dezesseis pessoas,"Maria Rita visitou Sury, Amabélia, Dores, Nessy, Athena, Clarissa, Fânia, Elva, Thalia, Josselina, Aurete, Amina, Ella, Otelina, Lhuzie, Akira e Jorja",1,counting
+Bernardete visitou apenas oito lugares e apenas seis pessoas,Bernardete visitou Braganey e Igaracy,0,counting
+Crestila visitou apenas um lugar e apenas uma pessoa,Crestila visitou Guarani,0,counting
+Jaquelina visitou apenas vinte lugares e apenas sete pessoas,"Jaquelina visitou Lagamar, Garrafão do Norte, Francisco Badaró, Córrego Danta, Itaquara, Carmo do Rio Claro, Chapadão do Céu, Sinimbu, Aparecida, Brejinho e Bagé",0,counting
+Kaya visitou apenas uma pessoa,Kaya visitou Belosinda e Tess,1,counting
+Leane visitou apenas sete lugares e apenas duas pessoas,"Leane visitou Aurora, Gentio do Ouro, Coração de Maria, Cafarnaum, Aparecida d'Oeste, Marapanim, Canguçu e Paulino Neves",1,counting
+Joscelina visitou apenas vinte e quatro pessoas,"Joscelina visitou Marizete, Luara, Malika, Gustava, Dagmar, Guislena, Cesaltina, Salomite, Neusa, Alaíde, Atena, Eleonora, Bernarda, Evandra, Nalini, Osíris, Graziela, Léa, Angie, Adelina, Tejala, Leonídia, Lena, Cita e Carsta",1,counting
+Hédila visitou apenas vinte e um lugares,"Hédila visitou Água Boa, Nova Ibiá, Portão, Sud Mennucci, Anita Garibaldi, Jaramataia, Betânia do Piauí, Lindoeste, Duque de Caxias, Ubaporanga, Caetanos, Santa Cruz, Talismã, São Cristóvão, Divisa Nova, Mãe d'Água, Estrela do Indaiá, São João do Caiuá, Pedras Altas e Senador Rui Palmeira",0,counting
+Simoneta visitou apenas oito lugares e apenas uma pessoa,Simoneta visitou Sátira e Britney,1,counting
+Azul visitou apenas oito lugares e apenas quatro pessoas,Azul visitou Leyla e Delisa,0,counting
+Dionilde visitou apenas vinte e um lugares e apenas dezesseis pessoas,"Dionilde visitou Moreira Sales, Indiana, Palmácia, Lajedinho e Tangará",0,counting
+Clélia visitou apenas seis pessoas,"Clélia visitou Artemísia, Alaíde, Dora e Allegra",0,counting
+Rhianna visitou apenas três lugares,"Rhianna visitou Messias Targino, Bonito, Balneário Gaivota e Engenheiro Caldas",1,counting
+Cassandra visitou apenas vinte e seis pessoas,"Cassandra visitou Malía, Marli, Elícia, Natasha, Leoménia, Ionara, Iracema, Almesinda, Piedade, Laya, Precious, Carmezinda, Gislena, Fiorella, Reyna, Emi, Marisela, Marilisa, Mírtila, Preciosa, Ismália, Leonília, Analdina, Lucina, Dione, Ingeburga e Si",1,counting
+Marilita visitou apenas dezessete lugares e apenas seis pessoas,"Marilita visitou Nhandeara, Tijucas, Alegrete do Piauí, Paraíso do Tocantins, Iacri, São Cristóvão, Valente, Paranaíba, Lagoa do Barro do Piauí, Neves Paulista, Araquari, Almadina, Terenos, Barra do Bugres, Curitibanos, Urupês, Cristina e Nova América",1,counting
+Nádeja visitou apenas vinte e dois lugares,"Nádeja visitou Antônio Gonçalves, Mortugaba, Caetanos, Japoatã, Nova Canaã, Bom Jardim, Seara, Santarém, Três Fronteiras e Novo Airão",0,counting
+Anair visitou apenas vinte e um lugares e apenas vinte pessoas,"Anair visitou Guarulhos, Salgadinho, São Geraldo da Piedade, Carmo da Mata, Camacan, Nova União, Belterra, Laje do Muriaé, Maximiliano de Almeida, Marechal Thaumaturgo, Riolândia, Pintadas, Ferreira Gomes, Macaé, Minaçu, Uiramutã, Joanópolis, São Francisco do Pará, Fátima, Taiaçu, São Francisco de Paula e Bandeira",1,counting
+Mélodie visitou apenas nove pessoas,"Mélodie visitou Ivete, Misha, Gerda, Iva, Eutália, Soline, Terezinha, Carmezinda, Natasha e Rosalinda",1,counting
+Catila visitou apenas vinte e sete lugares e apenas dezenove pessoas,"Catila visitou Borá, Novo Oriente de Minas, Pedrinhas Paulista, Álvares Florence, Cajapió, Indiara, Bom Jesus da Lapa, Icapuí, Presidente Kennedy, Peritoró, Ivolândia, Roque Gonzales, Morrinhos, Novo Gama, Inhapim, Campestre, Ituverava, Guarani de Goiás, Igarassu, Damianópolis, Ibipeba, Alto Bela Vista, Santa Adélia, Vertentes, Querência do Norte e Olímpio Noronha",0,counting
+Dineia visitou apenas vinte e sete lugares e apenas vinte e um pessoas,"Dineia visitou Itamarandiba, Santo Antônio do Pinhal, Maracaçumé, Jacaraú, Senador Amaral, Araruna, Almadina, Carpina, Canudos do Vale, Belford Roxo, Santa Maria do Herval, Camboriú, Mocajuba, São João d'Aliança, Água Limpa, Vera Cruz, Marapoama, Cafarnaum, Conceição do Coité e São Tomás de Aquino",0,counting
+Arlete visitou apenas vinte e dois pessoas,"Arlete visitou Cinara, Jaquelina, Kate, Castelina, Joanina e Titânia",0,counting
+Anunciação visitou apenas dois lugares e apenas uma pessoa,"Anunciação visitou Piranhas, Santo Antônio da Patrulha e Poção de Pedras",1,counting
+Rufina visitou apenas dezenove lugares e apenas quatro pessoas,"Rufina visitou Quixaba, Ouro Fino, Cacimbas e Jaguapitã",0,counting
+Ermengarda visitou apenas dezesseis lugares e apenas dez pessoas,"Ermengarda visitou Eluína, Dakota, Ercília, Sarai, Adália, Jane e Dalva",0,counting
+Lea visitou apenas vinte lugares,"Lea visitou Estreito, Santo Antônio de Pádua, Capela do Alto, Formosa, Manaus, Santo Estêvão, Itaueira, Baependi, São Gonçalo do Sapucaí, Caseiros, Chupinguaia, Nossa Senhora do Livramento, Antônio Dias, Jucuruçu, Urupema, Guaxupé, Rio Brilhante, São Sebastião do Rio Verde, Vila Rica, Alto Bela Vista e Lago dos Rodrigues",1,counting
+Estrella visitou apenas vinte e seis pessoas,"Estrella visitou Elma, Elise, Dária, Dakota, Piedade, Marilisa, Marieta, Lauren, Tejala, Mikaela, Josete, Scarlet, Catila, Sylvie, Carmelita e Salete",0,counting
+Nânci visitou apenas vinte e dois lugares,"Nânci visitou Álvares Machado, Codajás e Aparecida",0,counting
+Sátira visitou apenas vinte e seis lugares e apenas vinte e três pessoas,"Sátira visitou Nova Canaã, Araújos, São Sebastião da Vargem Alegre, Apuí, Cruz Alta, Restinga, Santanópolis, Abadia de Goiás, Nantes, Cruzeiro do Sul, Rochedo, Lagoa Santa, Vitória das Missões, Cristal, São Francisco de Paula e Eliseu Martins",0,counting
+Catherina visitou apenas nove lugares e apenas oito pessoas,"Catherina visitou Coronel João Pessoa, São José da Coroa Grande, Laranjal do Jari, Serrinha, Lunardelli, Manhumirim, Guatambú, Itaúna do Sul, Coração de Maria e Combinado",1,counting
+Alvarina visitou apenas um lugar e apenas uma pessoa,Alvarina visitou Basília,0,counting
+Diara visitou apenas vinte e cinco pessoas,"Diara visitou Nília, Cândida, Thalita, Elaina, Sérgia, Tayná, Flor de Maria, Clare, Nanete, Malvina, Cesaltina, Leonora, Guendolina, Casta, Chanel, Deotila, Suellen, Melânia, Almara, Brena, Lilite, Adelaide, Primitiva, Maximiliana, Norma e Faustina",1,counting
+Anaíce visitou apenas vinte e três lugares,"Anaíce visitou Santo Antônio de Jesus, Arraias e Guaranésia",0,counting
+Luanda visitou apenas trinta lugares,"Luanda visitou Piedade dos Gerais, Aguanil, Muaná, Pimenta Bueno, Ouro Verde de Goiás, Pinheiro, Porto Acre, Itabela, Paula Freitas, Campos Sales, Ribeirão Corrente, Alto do Rodrigues, Córrego do Ouro, Senador La Rocque, Novo Horizonte, Alvorada do Gurguéia, Nova América da Colina, Pitangueiras e Mombaça",0,counting
+Jennifer visitou apenas dezoito lugares,"Jennifer visitou Itatinga, Bom Jesus da Serra, Teixeira, Oriximiná, Nova Prata, Horizonte, Teutônia, Córrego Novo, Palmares, Lagoa Salgada, Datas, Nossa Senhora do Socorro, Nova Santa Rita, Vargem Bonita, Cafezal do Sul, Entre-Ijuís, Ponte Nova, Peritoró e Curitiba",1,counting
+Morgiana visitou apenas quatro lugares,"Morgiana visitou Castanheiras, Guarantã do Norte, Pedra Branca, Jales e Juquiá",1,counting
+Delisa visitou apenas onze pessoas,"Delisa visitou Sénia, Nise, Helda e Nícia",0,counting
+Névia visitou apenas doze lugares,"Névia visitou Biritinga, Guaraíta, Marmeleiro, Taquaruçu do Sul, União do Sul, Serrinha, Santa Fé do Sul, Capivari do Sul, Cumaru, Ipuiúna, Ibipeba, Estrela de Alagoas e Novo Oriente do Piauí",1,counting
+Hilma visitou apenas quatro pessoas,"Hilma visitou Liduína, Adelinda, Gaori, Muriela e Osíris",1,counting
+Odette visitou apenas três lugares e apenas três pessoas,Odette visitou Curral Novo do Piauí,0,counting
+Marlene visitou apenas vinte e quatro lugares e apenas vinte e quatro pessoas,"Marlene visitou Manga, Uberaba, Pracuúba, Novo Mundo, Santana de Cataguases, Ibirapitanga, Axixá do Tocantins, Nova Veneza, Buriti do Tocantins, Ipanguaçu, Avaí, Patos de Minas, Pacajá, João Dias, Barra do Bugres, Itabirito, Lagoa de Dentro, Ipueira, Bom Sucesso, Gavião, São João da Boa Vista, Igarapé do Meio, Mococa, Nanuque e Guanhães",1,counting
+Ludovice visitou apenas quatro pessoas,"Ludovice visitou Karina, Alisande e Evelyn",0,counting
+Nuna visitou apenas vinte e oito pessoas,"Nuna visitou Graziela, Isaltina, Nami, Dafne, Ilídia, Cleia, Nádeja, Esther, Jordana, Loela, Agnes, Abna, Ivy, Armanda, Méline, Cínara, Clarice, Samira, Cidalina, Lucélia, Chen, Nair, Aruna, Giulia, Rosalinda, Amorzinda, Maeva, Kailani e Orlandina",1,counting
+Altina visitou apenas dezesseis pessoas,"Altina visitou Noelma, Cristele, Roena, Piedade, Constanza, Graciela, Nicky, Antera, Albana, Aldina, Orlanda, Lilian, Nureia, Graciana, Mimosa, Trasila e Nessie",1,counting
+Mya visitou apenas dezesseis lugares e apenas três pessoas,Mya visitou Énia e Raphaela,0,counting
+Ambrósia visitou apenas onze lugares e apenas uma pessoa,Ambrósia visitou Malaika e Marie,1,counting
+Brígida visitou apenas vinte e dois pessoas,"Brígida visitou Angelita, Salvação, Edma, Saulina, Dalva, Méline, do Socorro, Gabriella, Iolanda, Aneide, Nicolina, Emie, Saray, Bethany, Silvana, Stephanie, Catila, Leonete, Cármina, Florentina, Disa, Dólique e Tirza",1,counting
+Polina visitou apenas vinte e nove pessoas,"Polina visitou Joaquina, Alexis, Brena, Dulcina, Dora, Súria, Alvarina, Pedrina, Arabela, Brites, Laurentina, Lucinda, do Paraíso, Morgiana, Felisberta, Honorina, Severina, Bia, Elva, Carmo, Tanagra, Perpétua, Candice, Açucena e Raíssa",0,counting
+Rufina visitou apenas vinte e cinco lugares e apenas vinte e um pessoas,"Rufina visitou Magenta, Cita, Dorinda, Erika, Ceres, Eleia, Jessie, Preciosa, Magaline, Mavília, Geovana, Albana, Marisol, América, Ifigénia, Liete, Lhuzie, Otelina, Deusa, Neiza, Bonifácia e Noémia",1,counting
+Ádila visitou apenas vinte e um lugares e apenas onze pessoas,"Ádila visitou Luiziana, Palmas, Palmeira do Piauí, Santa Terezinha de Itaipu, Itagi, São Pedro e São Felipe",0,counting
+Guislena visitou apenas sete lugares e apenas duas pessoas,Guislena visitou Paola,0,counting
+Lélia visitou apenas catorze lugares e apenas sete pessoas,"Lélia visitou Joice, Maximiliana, Terezinha, Rebecca, Elana, Katty, Maré e Elmira",1,counting
+Dária visitou apenas onze pessoas,"Dária visitou Luizete, Marcília, Amanda, Merrita e Nirvana",0,counting
+Benjamina visitou apenas vinte e seis lugares e apenas vinte e seis pessoas,"Benjamina visitou Lubélia, Cornélia, Josete, Cassandra, Nicandra e Silvie",0,counting
+Sextina visitou apenas dois lugares e apenas duas pessoas,Sextina visitou Antônio Olinto,0,counting
+Myra visitou apenas vinte e três pessoas,"Myra visitou Léanor, Casta, Nirina, Cornélia, Nísia, Jenny, Graciana, de São Luís, Quirina, Mabel, Idélia, Semíramis, Natalina, Davina, Hermenegilda, Alida, Roena, Darnela, Quaresma, Lumi, Silvana, Domitila, Dariana e Almerinda",1,counting
+Darci visitou apenas vinte e dois lugares e apenas vinte pessoas,"Darci visitou Angie, Katty, Magenta, Laisa, Raquelina, Leyla, Rosária, Disa, Arlanda, Eleni, Leane, Nayla e Nair",0,counting
+Raíssa visitou apenas dezenove lugares e apenas doze pessoas,"Raíssa visitou Ancha, Simona, Salvação, Rosaura, Kathleen, Meiline, Analdina, Naísa, Iasmina, Nahla, Dianna, Persília e Mary",1,counting
+Heliodora visitou apenas dezenove lugares,"Heliodora visitou Icaraíma, Satubinha, Guariba, Jussara, Feira Grande, Sobrália, Pintadas, Matozinhos, Brunópolis, Palmelo, Pinheiro Machado, Marilândia do Sul, Nova Tebas e Macarani",0,counting
+Leslie visitou apenas quatro pessoas,"Leslie visitou Felisbela, Geisa, Bétia, Dominica e Lígia",1,counting
+Georgeta visitou apenas vinte e sete pessoas,"Georgeta visitou Mariamar, Súria, Hilma, Morena, Casimira, Eduina, Matilda, Lucie, Brice, Kate, Louise, Laureana e Lurdite",0,counting
+Lília visitou apenas trinta pessoas,"Lília visitou Biana, Duana, Disa, Carmo, Ornela, Audete, Bella, Desidéria, Joselina, Leana, Leia, Eduina, Elda, Afra, Sancha, Leonarda, Rosebel, Isalda, Liberalina, Analice, Drusila, Rocio, Marguerita e Delza",0,counting
+Danila visitou apenas quatro lugares e apenas três pessoas,"Danila visitou Guarantã do Norte, Urupá e Quebrangulo",0,counting
+Justa visitou apenas dezoito pessoas,"Justa visitou Graciosa, Teresinha, Lorina, Laisa, Cidalina, Brígida, Guarani, Clarina, Méline, Emídia, Cármen, Cléo e Cosete",0,counting
+Jânia visitou apenas vinte e quatro lugares,"Jânia visitou Bocaina de Minas, Promissão, Nova Itarana, São João da Boa Vista, Bernardino de Campos, Independência, Mulungu, São Bento do Una, Itirapuã, Coronel Pilar, Santa Tereza de Goiás, Anagé, Nova Aliança e Alterosa",0,counting
+Elina visitou apenas onze lugares e apenas quatro pessoas,"Elina visitou Naida, Luzinira, Maritila, Licínia e Nelma",1,counting
+Florisbela visitou apenas um lugar e apenas uma pessoa,Florisbela visitou Porangaba e Jundiaí do Sul,1,counting
+Nirina visitou apenas doze lugares e apenas três pessoas,"Nirina visitou Deonilde, Gileade, Círia e Helda",1,counting
+Lisdália visitou apenas dezessete pessoas,"Lisdália visitou Candice, Décia, Rosebel, Louane e Sásquia",0,counting
+Omara visitou apenas doze lugares e apenas nove pessoas,"Omara visitou Caçapava, São Francisco do Sul, Assis Chateaubriand e Pirapozinho",0,counting
+Eliseba visitou apenas catorze lugares,"Eliseba visitou Ribeirão Claro, Simolândia, Araújos, Alvorada do Norte, Curaçá, Conceição da Aparecida, Pacoti, Aratuípe, São Pedro do Suaçuí, Roncador, Sandolândia, Itapecuru Mirim, Buenópolis, Conceição do Almeida e Pedro Osório",1,counting
+Formosinda visitou apenas nove lugares e apenas uma pessoa,"Formosinda visitou Inhangapi, Mucugê, Loreto, Silva Jardim e Capim Branco",0,counting
+Claire visitou apenas vinte e dois lugares e apenas dez pessoas,"Claire visitou Hazel, Sidónia, Indaleta, Cidalina, Mariline, Anaíde, Mathilde, Hilária, Libertária, Nur e Francesca",1,counting
+Jéni visitou apenas oito lugares e apenas duas pessoas,"Jéni visitou Mathilda, Adolfina e Atena",1,counting
+Mathilde visitou apenas dezenove lugares e apenas oito pessoas,"Mathilde visitou Demétria, Almira, Laia e Analice",0,counting
+Nami visitou apenas dezessete lugares,"Nami visitou Chapada da Natividade, Patos, Pedranópolis, Tanguá, Itapiranga, Trindade, Pereiro e Limoeiro do Norte",0,counting
+Selma visitou apenas treze pessoas,"Selma visitou Haidé, Omara, Rosebele, Dádiva, Deodete, Eularina, Anita, Rose, Eleine, Henriette, Júnia, Maureen, Graciela e Graciana",1,counting
+Catherine visitou apenas quinze lugares,"Catherine visitou Sertão Santana, São Francisco de Sales, Nuporanga, Santa Maria, Galinhos, Teodoro Sampaio, Nova Redenção, Indianópolis, Maracaju, Novo Planalto, Itaquara, Guaxupé, São Sepé, Ponte Preta, Santo Antônio da Patrulha e Amajari",1,counting
+Lélia visitou apenas vinte e cinco lugares e apenas vinte e quatro pessoas,"Lélia visitou São José do Divino, Belo Vale, São Pedro do Ivaí, Nova Santa Rosa, Bela Vista do Maranhão, Simões Filho, Irará, Tuparendi, Santa Maria do Salto, Caibi, Aripuanã, Cruz Machado, Contagem, Madeiro, Capitão Andrade, Senador José Bento, Americana, Ipê, Serra Dourada, Boituva, Itaperuçu, Jaçanã, Muqui, São Joaquim do Monte, Ibirá e Bela Vista do Toldo",1,counting
+Jerusa visitou apenas sete lugares e apenas sete pessoas,"Jerusa visitou Alto Jequitibá, Ponte Branca, Miravânia, Cocal, Tufilândia, Água Preta, Conde e Reserva",1,counting
+Norah visitou apenas onze pessoas,"Norah visitou Malu, Elódia, Sophia, Selina, Radija, Excelsa, Iana, Guilhermina, Demétria, Savannah, Prudência e Maira",1,counting
+Atena visitou apenas vinte e sete lugares,"Atena visitou Montalvânia, Caratinga, São José do Peixe, Lagoa de São Francisco, João Costa, Taquaritinga, Ribeirão Branco, Ariquemes, Vespasiano, Rio de Contas, Alto Bela Vista e Bom Princípio do Piauí",0,counting
+Emily visitou apenas dois lugares e apenas uma pessoa,Emily visitou Nádeja,0,counting
+Geisa visitou apenas dezesseis lugares,"Geisa visitou André da Rocha, Jiquiriçá, Tijucas do Sul, Ibirubá, Ribeira do Amparo, São Miguel do Guaporé, Holambra, Virginópolis, Floriano, Teofilândia, Ladário, Guaíra, Bom Jardim, Nazário, Bom Repouso, Figueirópolis D'Oeste e Itabuna",1,counting
+Dália visitou apenas catorze lugares e apenas dez pessoas,"Dália visitou Salgadinho, Nicolau Vergueiro, Palmeira, Vila Boa, Afuá, Poloni e Lagoa d'Anta",0,counting
+Tita visitou apenas treze lugares e apenas quatro pessoas,"Tita visitou Fernandópolis, Itaberá, Carmo de Minas, Santa Helena e Rio Novo do Sul",0,counting
+Lisana visitou apenas seis lugares,"Lisana visitou Morro Reuter, Jaguaribara, São Miguel do Aleixo, Barreiras do Piauí, Borebi, Virgem da Lapa e Carutapera",1,counting
+Aldara visitou apenas dezenove lugares,"Aldara visitou São José do Hortêncio, Mercês, Saltinho, Bom Jardim de Goiás, Piracema e Honório Serpa",0,counting
+Beatrix visitou apenas vinte e dois lugares e apenas vinte e dois pessoas,"Beatrix visitou Macaíba, Santo Antônio dos Milagres, Adustina, Itabi, Iraceminha e Ipê",0,counting
+Clarinha visitou apenas oito lugares e apenas três pessoas,Clarinha visitou Iguaraçu,0,counting
+Mabel visitou apenas cinco lugares,"Mabel visitou Olinda Nova do Maranhão, Taipas do Tocantins, Santa Gertrudes e Comendador Gomes",0,counting
+Gema visitou apenas vinte e quatro lugares,"Gema visitou Itutinga, Bonito, Marcelino Vieira, Brejinho de Nazaré, Rio Tinto, João Câmara, Bacabeira, Paranapoema, Angicos, Liberdade, Eliseu Martins, Água Clara, Nova Palmeira, Itupeva, Seara, Ibituruna, Santa Cruz dos Milagres, Lagoa Seca, Arcoverde, Severiano de Almeida, Santo Antônio do Leste, São Sebastião da Vargem Alegre, Santa Margarida do Sul, Indiana e Cidreira",1,counting
+Naida visitou apenas oito pessoas,"Naida visitou Celisia, Madre de Deus, Raven, Isaltina, Gregória e Elisama",0,counting
+Isolda visitou apenas oito pessoas,"Isolda visitou Preciosa, Laia, da Agonia, Formosinda, Marianne, Isa, Sextina, Lorenza e Arlete",1,counting
+Jaqueline visitou apenas dez lugares,"Jaqueline visitou Sombrio, Craíbas, Caaporã e Presidente Getúlio",0,counting
+Rolende visitou apenas nove lugares,"Rolende visitou Sericita, Campina das Missões, Urucânia, Tamarana, Nova Russas, Palmópolis, Flexeiras, Campo Novo de Rondônia, Santo Antônio dos Milagres e Godofredo Viana",1,counting
+de São Luís visitou apenas onze lugares,"de São Luís visitou Garanhuns, Curral de Cima, Mateiros, Ibirajuba, Monte Alegre do Piauí e Pau Brasil",0,counting
+Neotera visitou apenas cinco lugares e apenas três pessoas,Neotera visitou Justa e Sana,0,counting
+Cáren visitou apenas três lugares e apenas uma pessoa,Cáren visitou Luara e Liana,1,counting
+Neli visitou apenas vinte e cinco lugares,"Neli visitou Dores do Indaiá, Jacupiranga, Marmeleiro, Porto de Pedras, Guaíra, Vera Mendes, Campo Alegre de Goiás, Ampére, Itabaiana, Luz e Curionópolis",0,counting
+Arlete visitou apenas dezoito lugares,"Arlete visitou Tutóia, Marapoama, Gongogi, Gramado, Pareci Novo, Cachoeira, Rondonópolis, Passo de Torres, Mara Rosa, Gonçalves Dias, Dois Vizinhos, Santo Amaro, Pracuúba, Mococa, Guareí, São João do Sabugi, Riachão do Jacuípe, Vigia e São Pedro da Água Branca",1,counting
+Nanci visitou apenas vinte e nove lugares,"Nanci visitou Novo Oriente, Santa Lúcia, Elísio Medrado, Guamiranga, Timon, Guapimirim, Saquarema, Cutias, Mairiporã, Campina do Simão, Antas, Barra do Jacaré, Moreira Sales, Marechal Deodoro, Sarapuí, Senador Canedo, Capitão Andrade, Conceição das Pedras, Catuti, Sento Sé, Laguna, Lençóis Paulista, Nova Crixás, Serrano do Maranhão, Vitória da Conquista, Taiobeiras, Itapuã do Oeste, Torixoréu, Nova Lacerda e Princesa",1,counting
+Norah visitou apenas vinte e seis pessoas,"Norah visitou Elisete, Felisbela, Cáren, Gabi, Pérola, Greer, Belle, Ancha, Marian, Anita, Lutgarda, Daliana, Bertina, Sandrina, Nur, Delza, Sophia, Chema, Araci, Esperança, Almira, Salima, Elza, Bonifácia, Severa, Niéves e Dulcina",1,counting
+Rolende visitou apenas nove pessoas,Rolende visitou Isabelle,0,counting
+Isaltina visitou apenas um lugar,Isaltina visitou Paraíso e Monte Carmelo,1,counting
+Ciana visitou apenas seis lugares,"Ciana visitou Ilópolis, Jaicós, Ribeirãozinho, São Cristovão do Sul, Santo Hipólito, Guaraçaí e Redenção do Gurguéia",1,counting
+Sahara visitou apenas dezessete lugares,"Sahara visitou Piratuba, Bezerros, Ibirataia, Itirapuã, Ouro Branco, Cataguases, Gameleira de Goiás, Agronômica, São Miguel da Baixa Grande, Coronel Pacheco, Umari, Costa Marques, Sacramento, Nova Belém, São Mateus do Maranhão, Carpina, Ijuí e Frecheirinha",1,counting
+Darnela visitou apenas vinte e quatro lugares,"Darnela visitou Salvador do Sul, Califórnia, Sítio do Mato, Itacoatiara, Andorinha, Coqueiro Baixo, Santo Antônio do Retiro, Datas e Presidente Juscelino",0,counting
+Leona visitou apenas quatro lugares e apenas três pessoas,Leona visitou Chanda,0,counting
+Naraiana visitou apenas trinta lugares,"Naraiana visitou Garopaba, Parambu, Nova Palmeira, Lindolfo Collor, São João do Oriente, Coronel Barros, Quaraí, Lagoa dos Três Cantos, Santa Cruz, Atalaia do Norte, Mucugê, Santo Antônio do Leste, Charqueadas, Lontras, Surubim e Livramento de Nossa Senhora",0,counting
+Nice visitou apenas dezesseis pessoas,"Nice visitou Neide, Carissa, Délia, Afonsa, Ramna, Generosa, Charlize, Mireie, Rosalinda, Lariana, Africana, Harper, Ragendra, Laís, Maëlis, Heliodora e Gabriella",1,counting
+Lianor visitou apenas onze pessoas,"Lianor visitou Noelma, Osíris, Juno, Chi, Cacilda, Suzi, Neireide, Ioana, Simaura, Charlene, Africana e Daniella",1,counting
+Liliane visitou apenas três lugares e apenas duas pessoas,Liliane visitou Tabatinga,0,counting
+Carlotta visitou apenas treze lugares e apenas uma pessoa,"Carlotta visitou Paranapoema, Tupanci do Sul, Sítio do Quinto, Wenceslau Guimarães, Coronel Ezequiel, Itapuã do Oeste, Boa Esperança, Orós e Brasileira",0,counting
+Teresinha visitou apenas vinte e seis lugares e apenas dezoito pessoas,"Teresinha visitou Adamantina, Tracunhaém, Santa Rita do Trivelato, Anitápolis, Leandro Ferreira, Santo Antônio do Itambé, Água Fria, Arcos, Juquitiba, Deodápolis, Jari, Jacaraú, São Domingos do Azeitão, Nuporanga, Icaraíma, Jesuânia, Esplanada, Manhumirim, Estrela de Alagoas, Rafael Fernandes, Silvânia, Santa Luzia do Paruá, Medeiros, São João da Barra, Pinheiros, Ipanema e Serrinha dos Pintos",1,counting
+Louane visitou apenas quinze lugares e apenas duas pessoas,Louane visitou Diva,0,counting
+Julinda visitou apenas catorze lugares e apenas três pessoas,"Julinda visitou Jacqueline, Tabatha, Leonisa e Donzélia",1,counting
+Taína visitou apenas vinte e nove pessoas,"Taína visitou Balduína, Muna, Hedviges, Cristal, Florbela, Mercília, Leolina, Marise, Celsa, Afonsa, Rosebele, Jaquelina, Marilina, Marlisa, Mariema, Marieta, Afonsina, Donatila, Cléo, Ninfa, Jéni, Ariel, Odette, Suely, Pui, Crisanta, Catherina e Domitila",0,counting
+Marie visitou apenas vinte e cinco pessoas,"Marie visitou Agna, Bebiana, Rufina, Julinda, Diva, Elma, Justa, Nola e Mona",0,counting
+Marilúcia visitou apenas dezesseis lugares e apenas seis pessoas,"Marilúcia visitou Eldorado do Sul, Ibaiti, Divinópolis de Goiás, São João da Baliza, Brotas, Jundiaí, Pedro Osório, Nina Rodrigues, Baliza, Pirambu, Santópolis do Aguapeí, Presidente Alves, Riacho dos Cavalos, Iaras, Glória, Piracaia e Reduto",1,counting
+Otilina visitou apenas vinte e sete lugares e apenas cinco pessoas,"Otilina visitou São Domingos do Norte, Medeiros Neto, Doutor Ricardo, Barreirinhas, São Miguel do Gostoso, Candiba, Dona Inês, Palmeirândia, Cunha, Serra Negra, Venturosa, Sapucaia do Sul, Caranaíba, Vila Flores, Potengi, Santiago, Limeira do Oeste, Pau D'Arco do Piauí, Monte Mor, Senador Rui Palmeira, Soledade, Cabo Verde, Theobroma, Ivatuba, Ocara, Cocos, Nossa Senhora Aparecida e Tarabai",1,counting
+Seara visitou apenas vinte e três lugares e apenas onze pessoas,"Seara visitou Afonsa, Rosita, Margareta e Josiane",0,counting
+Basília visitou apenas três lugares,"Basília visitou Terezópolis de Goiás, Santa Cruz, Anhumas e Santa Cruz da Esperança",1,counting
+Gonçala visitou apenas nove pessoas,"Gonçala visitou Agna, Emanuella, Deótila, Iolanda, Thai e Katie",0,counting
+Saula visitou apenas nove lugares,Saula visitou Teotônio Vilela,0,counting
+Bertilde visitou apenas dezenove lugares e apenas sete pessoas,"Bertilde visitou Sítio do Mato, Itapiranga, Monte Belo do Sul, Cupira, Faina, Monte Alegre do Sul, Lagoa do Itaenga, Professor Jamil, Poranga, Moreira Sales, Andirá, Cariacica, Serranópolis do Iguaçu, Cristalândia do Piauí, Pimenteiras e São Félix do Araguaia",0,counting
+Giulia visitou apenas vinte e um lugares,Giulia visitou Antas e General Carneiro,0,counting
+Doriana visitou apenas sete pessoas,"Doriana visitou Safina, Feliciana, Johanna, Nazária, Mariamar, Lauren, Liliete e Ioana",1,counting
+Súria visitou apenas quinze lugares e apenas oito pessoas,"Súria visitou Álvares Machado, Aveiro, Quixeré, Pereira Barreto, Cândido Mota, Águas de Chapecó, Barão de Cotegipe, Piripiri, Parelhas, Ipira, Ararendá, Vertente do Lério, Itapiratins, Lafaiete Coutinho, Lagoa Grande e Barra do Corda",1,counting
+Leonida visitou apenas cinco lugares e apenas uma pessoa,"Leonida visitou Estrela d'Oeste, Tangará, Campo Verde, Laurentino, Silvianópolis e Nova Olinda",1,counting
+Kylie visitou apenas duas pessoas,"Kylie visitou Janine, Morgiana e Sarina",1,counting
+Eunice visitou apenas dezessete lugares e apenas dezesseis pessoas,"Eunice visitou Jaborá, Carneirinho, Barreira, Paula Cândido, Timbaúba, Dias d'Ávila e Taquaral",0,counting
+Isabelle visitou apenas vinte e quatro lugares,Isabelle visitou Rorainópolis,0,counting
+Marilisa visitou apenas nove lugares,"Marilisa visitou Mato Leitão, Anadia, Limoeiro de Anadia e Terra Alta",0,counting
+Ellie visitou apenas dois lugares e apenas uma pessoa,Ellie visitou Nor,0,counting
+Kylie visitou apenas dez lugares e apenas seis pessoas,"Kylie visitou Cinira, Jamília, do Paraíso e Léonie",0,counting
+Juraci visitou apenas dezenove lugares,"Juraci visitou Brasiléia, Cacoal, São Bernardo, Sítio do Mato, Cupira, Alvarães, Pejuçara, Prainha, Mococa, Morada Nova, Meleiro, Terenos, Florianópolis, Seberi, Santana do Itararé, Capanema, Araranguá, Feira Nova, Águas de Lindóia e Parelhas",1,counting
+Sira visitou apenas treze pessoas,"Sira visitou Ivete, Salete, Reyna, Bertina e Magenta",0,counting
+Safia visitou apenas treze lugares e apenas uma pessoa,"Safia visitou Itambacuri, Tomazina, Júlio de Castilhos, Ibiaí, Loreto, Trindade, São João da Lagoa e Muitos Capões",0,counting
+Crystal visitou apenas seis lugares e apenas três pessoas,"Crystal visitou São João de Meriti, Paulo de Faria e São Felipe D'Oeste",0,counting
+Luíza visitou apenas um lugar e apenas uma pessoa,Luíza visitou Alvorada do Gurguéia,0,counting
+Lenora visitou apenas cinco lugares e apenas duas pessoas,"Lenora visitou Altamira, Anapu, Balneário Arroio do Silva e Várzea Grande",0,counting
+Otília visitou apenas uma pessoa,Otília visitou Melania e Naira,1,counting
+Leila visitou apenas seis pessoas,"Leila visitou Raphaella, Aíko, Jenny, Sásquia, Delminda, Jani e Sharon",1,counting
+Suzy visitou apenas nove lugares,"Suzy visitou Rio Piracicaba, São Bernardino, Andradina, Irati, Balneário Camboriú, Getulina, Ritápolis, Caridade, Poço Dantas e Morro do Chapéu do Piauí",1,counting
+Deonilde visitou apenas sete lugares e apenas cinco pessoas,Deonilde visitou Ourolândia e Montividiu,0,counting
+Névia visitou apenas dezesseis lugares e apenas seis pessoas,"Névia visitou Portão, São Pedro do Turvo, Jarinu, Rio Quente, Gravataí, Itapicuru, Maracaí, Vitorino Freire, Santa Bárbara do Pará, Santa Cruz da Baixa Verde, Itobi, Divisópolis, Jaguariaíva e Tenente Portela",0,counting
+Rosália visitou apenas dez lugares,Rosália visitou Igaratá e Mathias Lobato,0,counting
+Catrina visitou apenas sete pessoas,"Catrina visitou Simoneta, Suzy, Riana, Cármina, Emmy, Keira, Nila e Modesta",1,counting
+Andreína visitou apenas vinte e três pessoas,"Andreína visitou Lubélia, Florença, Gerda, Katia, Etel, Nércia, Claudemira, Marieva, Dorina, Traciana, Isalina, Eárine, Siomara, Aneide, Disa, Savannah, Chantal, Alexandrina, Nayla, Trisha, Liberdade, Genésia, Nirvana e Rondina",1,counting
+Gisete visitou apenas vinte e um lugares e apenas três pessoas,"Gisete visitou Lisbon, Cynthia, Romina e Afonsa",1,counting
+Duana visitou apenas vinte e seis lugares,"Duana visitou Arroio do Sal, Piau, Castilho, Chapadinha, Pedras Grandes, Lagoa Vermelha, Anaurilândia, Serro, Almadina, Mucugê, Olho d'Água Grande, Três Fronteiras, Nova Castilho, Tabuleiro, Senador Salgado Filho, Cupira, Gurinhém, Ventania, Quatiguá, Tapauá, Penaforte, Felisburgo, Caturité, Salitre, Itapecuru Mirim, Divinolândia e Lizarda",1,counting
+Francília visitou apenas dezenove lugares,"Francília visitou Palmitos, Crisólita, Santa Cruz, Canudos, Aliança, Ipumirim, Belo Horizonte, General Salgado, Imaculada, Varzedo, Rio Manso e Fernando Pedroza",0,counting
+Honey visitou apenas onze lugares,"Honey visitou Hidrolândia, Presidente Tancredo Neves, Malhada, Campo do Brito, Tarauacá, Tejupá, Laranjal Paulista, Nova Europa, Cariré, Santo Augusto, Campos Gerais e Engenho Velho",1,counting
+Kate visitou apenas vinte e quatro pessoas,"Kate visitou Cristiana, Albina, Melodia, Honorina, Guilhermina, Giuliana, Lurdes, Berengária, Aldora, Brásia, Natali, Mari, Pixie e Maide",0,counting
+Melania visitou apenas nove lugares,"Melania visitou Dom Pedrito, São Lourenço do Sul, Caruaru, Vicentina e Santana da Boa Vista",0,counting
+Cornélia visitou apenas vinte e três lugares e apenas oito pessoas,"Cornélia visitou Lavras, Benjamin Constant do Sul, São Valério do Sul, Alcinópolis, Angélica, Taquarituba, Santa Rosa de Lima, Luzinópolis, Guarani de Goiás, Amélia Rodrigues, Jaguariúna, Santo Antônio do Monte, Antônio Gonçalves, Itabela, Senador Sá, Frei Miguelinho, Cacique Doble e Cedral",0,counting
+Ernestina visitou apenas dezesseis lugares e apenas nove pessoas,"Ernestina visitou Donzília, Jennifer, Aldenora, Basília, Elina, Marizete, Malvina, Paris, Cidalina e Laia",1,counting
+Hédila visitou apenas catorze lugares,"Hédila visitou Maracajá, Iguatu, Santa Maria, Conceição do Mato Dentro, Dionísio Cerqueira, Parnarama, Gado Bravo, Iperó, Acará, Araguapaz, Santanópolis, Maragogipe, Santo Antônio do Rio Abaixo, Várzea Paulista e Tucumã",1,counting
+da Agonia visitou apenas onze lugares,"da Agonia visitou Curiúva, Itapetininga, Ouriçangas, Canavieira, Mostardas, Tremembé, Riachão do Dantas, Mineiros do Tietê, Vila Valério, Pedrinhas, Carneiros e Chã Preta",1,counting
+Allegra visitou apenas vinte e nove pessoas,"Allegra visitou Nirvana, Carmen, Séfora, Celinia, Dolores, Norma, Taísa, Laurentina, Léa, Chloé, Naama, Bianka, Ella, Lou, Taíssa, Iva, Sena, Jacqueline, Merita, Graciosa, Córita, Chanda, Ireneia, Benice, Fantina, Stella, Mirandolina, Anusca, Tita e Mercília",1,counting
+Johanna visitou apenas catorze lugares e apenas treze pessoas,Johanna visitou Diliana,0,counting
+Maëlis visitou apenas onze lugares,"Maëlis visitou São Pedro dos Ferros, Pombal e Gonçalves",0,counting
+Paula visitou apenas vinte e quatro lugares e apenas onze pessoas,"Paula visitou Belo Campo, Vista Alegre do Prata, Pocrane, Xexéu, Cubati, Damianópolis, Gongogi, Tanque Novo, Flor da Serra do Sul e Extremoz",0,counting
+Ezequiela visitou apenas dez lugares,"Ezequiela visitou Lençóis Paulista, Salinópolis e Miracatu",0,counting
+Larisa visitou apenas vinte e quatro lugares e apenas vinte e dois pessoas,"Larisa visitou Leonardina, Melinda, de Pádua, Liliane, Caia, Agostinha, Norma, Natércia, Glenda, Oana, Diná, Sérgia, Seara, Noiala, Jerusa, Rocio, June, Marcelle e Nelly",0,counting
+Emanuella visitou apenas um lugar e apenas uma pessoa,Emanuella visitou Mandaguaçu,0,counting
+Célia visitou apenas dezessete lugares e apenas catorze pessoas,"Célia visitou Bernarda, Mariela, Maria Leonor, Tejala, Libertária, Juraci, Almira, Isolete, Muriela e Stacy",0,counting
+Lenira visitou apenas oito lugares,"Lenira visitou Santo Antônio do Pinhal, Severiano de Almeida, Cachoeira Dourada, Ibitiara, Cedro e Morro Cabeça no Tempo",0,counting
+Athena visitou apenas vinte e dois lugares e apenas cinco pessoas,"Athena visitou Bom Progresso, Santa Inês, Urupês, Rio do Sul, Cafelândia, Caparaó, Passos, Wanderley, Dias d'Ávila, Porto Grande, Tupãssi, Cajazeiras, Limoeiro de Anadia, Bocaina, Jussara, Imbaú, Alto Paraná, Itamarati, Itaguajé, Capela Nova e Cocal dos Alves",0,counting
+Teolinda visitou apenas vinte e seis lugares e apenas vinte e seis pessoas,"Teolinda visitou Congonhal, Caroebe, Iuiú, Patis, Londrina, Ipira, Aiuruoca, Novo Horizonte, Santa Cruz de Goiás, Pojuca, Novais, Pérola, Paquetá, Campo Magro, Adelândia, Santo Antônio das Missões, Rolante, Francisco Macedo, São José do Jacuri, Inajá, Barra do Quaraí, Sangão, Marechal Cândido Rondon, Monte Alegre, Jaquirana, Bugre e Almas",1,counting
+Eudora visitou apenas vinte e nove pessoas,"Eudora visitou Ilca, Adalgisa, Dialina, Selene, Elda, Edine, Aidé, Salvadora, Tita, Isabella, Castelina, Silvina, Delmina, Luciana e Heda",0,counting
+Dolores visitou apenas dezesseis lugares e apenas quinze pessoas,"Dolores visitou Polina, Francina, Demétria, Brizida, Carsta, Amandina, Suéli, Basília, Isilda, Almira, Josélia, Nair, Ariane, Porciana, Marlise e Ticiane",1,counting
+Sephora visitou apenas catorze lugares e apenas duas pessoas,Sephora visitou Jéni,0,counting
+Girel visitou apenas vinte e dois lugares e apenas catorze pessoas,"Girel visitou Bom Retiro do Sul, Várzea Grande, Campo Verde, Boa Vista do Cadeado, Saúde, Fronteira, Belém do Brejo do Cruz, Marilândia, Jataúba, Floresta Azul, Paulo Lopes, Cardoso, Martinópole, Jussiape, Ibititá, Wanderley, Planalto Alegre, São Geraldo do Baixio, Vargem Grande do Sul, Pacajá, Boquim, Serra Azul e Arês",1,counting
+Leana visitou apenas doze lugares e apenas doze pessoas,"Leana visitou Matriz de Camaragibe, Jacinto Machado, Ipira, Muçum, Manari, Barra dos Coqueiros, Mato Leitão, Guarda-Mor, Ipiranga do Piauí, Juripiranga, Capão Bonito, Moema e Santa Branca",1,counting
+Stacey visitou apenas vinte e dois lugares e apenas duas pessoas,"Stacey visitou Olho D'Água do Piauí, Bom Princípio do Piauí, Riachão, Lamim, Morro Redondo, Bonfim e Várzea Grande",0,counting
+Sana visitou apenas vinte e seis lugares e apenas vinte e quatro pessoas,Sana visitou Dores e Salvação,0,counting
+Iberina visitou apenas vinte e nove lugares e apenas vinte e oito pessoas,"Iberina visitou Santa Tereza do Tocantins, Teofilândia, Lagoinha, Capim Branco, São Luís, Penaforte, Trombudo Central, Saúde, Demerval Lobão, Restinga Seca, São Geraldo da Piedade, Ribeirão, Santo Antônio, Capivari de Baixo, São Gonçalo do Abaeté, Conceição do Lago-Açu, Caraúbas, Santo Amaro das Brotas, Pirapora do Bom Jesus, Riolândia, Palotina, Monte do Carmo, Inaciolândia, Nova Timboteua, Prata, Gouveia, Chapadão do Céu, Itauçu, Pintadas e Formosa",1,counting
+Anícia visitou apenas vinte e oito pessoas,"Anícia visitou Ilsa, Louisa, Cora, Eudora, Roberta, Misaela, Climénia, Gregória, Tiana, Elda, Paris, Kai, Danila, Doralice, Maira, Inácia, Ânia, Anaíde, Sania, Leonardina, Sulamita, Ermengarda, Taísa, Adélia, Margarete, Iráis, Anunciação, Lisandra e Joraci",1,counting
+Caterina visitou apenas duas pessoas,"Caterina visitou Estrella, Ioque e Priyanka",1,counting
+Hédila visitou apenas vinte e um lugares e apenas uma pessoa,"Hédila visitou General Câmara, Terra Santa, Sangão, Carmo do Paranaíba, Sebastião Laranjeiras, Dueré, Novo Horizonte do Norte, Codó, Sapezal, Porto Xavier, Macedônia, São Tiago, Chuvisca, Manoel Ribas, Ivaí, Silvanópolis, Cajuri, Corumbataí do Sul, Lagarto e Baixa Grande do Ribeiro",0,counting
+Akira visitou apenas doze pessoas,"Akira visitou Rafaella, Ilsa, Fara, Hope, Bina, Eunice, Diara, Silviana, Maureen e Lexie",0,counting
+Dina visitou apenas treze lugares,"Dina visitou Assunção, Salitre, Sabinópolis, Iguape, Fontoura Xavier, Veredinha, Barão, Jordânia e Minduri",0,counting
+Melânia visitou apenas três lugares e apenas uma pessoa,Melânia visitou Suellen e Raven,1,counting
+Jéni visitou apenas doze lugares e apenas nove pessoas,"Jéni visitou Rosina, Salvadora, Iracema, Lutgarda, Edmunda, Gislene, Muna, Ilídia, Rachel e Abby",1,counting
+Tiana visitou apenas doze lugares e apenas cinco pessoas,"Tiana visitou Granjeiro, Domingos Martins, Santa Cruz do Piauí, Sabino, Riachinho, Santa Rosa, Cristalina, Parapuã, União de Minas, Seropédica, Jaguaribe, Sooretama e Jacarezinho",1,counting
+Gisele visitou apenas onze pessoas,Gisele visitou Mavilde,0,counting
+Agatha visitou apenas doze lugares e apenas quatro pessoas,"Agatha visitou Amaporã, Iuiú, Candói, Campo do Tenente, Encruzilhada, Mafra e Neópolis",0,counting
+Rolende visitou apenas vinte e três lugares e apenas oito pessoas,"Rolende visitou Bacuri, Barão de Cotegipe, Niquelândia, Itararé, Itambé, Terra Rica, Jóia e Glória",0,counting
+Naíma visitou apenas sete lugares,"Naíma visitou Barão de Cotegipe, Brejo, Pomerode, Denise, Miraí, Taipu, Andaraí e Corumbiara",1,counting
+Lusa visitou apenas doze lugares e apenas duas pessoas,"Lusa visitou Sahara, Isaurinda e Lízie",1,counting
+Jil visitou apenas uma pessoa,Jil visitou Alfreda e Rafa,1,counting
+Matrosa visitou apenas um lugar,Matrosa visitou Itaporã e Pinheirinho do Vale,1,counting
+Bernarda visitou apenas seis pessoas,"Bernarda visitou dos Milagres, Cita, Leta, Marcella, Kieza, Raphaela e Paola",1,counting
+Numénia visitou apenas uma pessoa,Numénia visitou Lubélia e Alcíone,1,counting
+Brice visitou apenas vinte e dois lugares,"Brice visitou Barras, Barra de São Miguel, Bernardino Batista, Minador do Negrão, Balbinos, Nazaré Paulista, Buriti dos Lopes, Crato, São José do Rio Pardo, Pesqueira, Santa Cruz da Esperança, Carira, Sertão Santana, Rio Grande do Piauí, Canarana, Bom Sucesso, Ibiraiaras, Planura, Aquidabã, São Sebastião, Chorozinho, Central do Maranhão e Alfredo Vasconcelos",1,counting
+Sana visitou apenas dezesseis lugares e apenas cinco pessoas,"Sana visitou Nur, Mya e Giada",0,counting
+Cácia visitou apenas dez lugares,"Cácia visitou Ibipitanga, Maracajá, Olivedos e Caraúbas do Piauí",0,counting
+Liv visitou apenas vinte e nove pessoas,"Liv visitou Danika, Rosaura, Cremilda, Nelly, Formosa, Nessie, Nel, Josiana, Carmelina, Denise, Béatrice, Elódia, dos Anjos, Neusa e Julianna",0,counting
+Basilissa visitou apenas doze lugares,"Basilissa visitou Santa Cruz de Minas, Acajutiba, Junqueirópolis, Novo Horizonte, Junco do Maranhão, Ouro Verde do Oeste, Cândido de Abreu, Acreúna, Taiúva, Santiago do Sul, Janiópolis, Rondon do Pará e Santa Isabel do Rio Negro",1,counting
+Catila visitou apenas dezessete lugares,"Catila visitou São Bonifácio, Saubara, Chiapetta, Senador Pompeu, Carmo do Cajuru, Santa Cruz das Palmeiras, Bonfim, Cananéia, Nortelândia, Jesúpolis, Ibertioga, Albertina, Pau dos Ferros, Altamira do Maranhão, Quissamã, Capela do Alto Alegre, Malhada de Pedras e Coronel Freitas",1,counting
+Etel visitou apenas vinte e quatro pessoas,"Etel visitou Celinia, Lucelinda, Trisha, Engrácia, Nuna, Paola, Leah, Harper, Soline, Suely, Lízi, Roquelina, Cassilda, Tomasa, Suzanne, Mariamar, Hortense, Lólia e Faia",0,counting
+Cárita visitou apenas vinte e cinco lugares,"Cárita visitou Cametá, Juiz de Fora, São João Batista do Glória, Ibiá, Manoel Viana, Martinópolis, Maracajá, São Pedro do Paraná, Galiléia, Pancas, Marabá Paulista, Chapada de Areia, Guajará, Torre de Pedra, Santa Helena, Barcarena, Juru, Júlio Mesquita, Juvenília, Lidianópolis, Lacerdópolis, Caiapônia, Quirinópolis, Palhoça, Santa Cruz das Palmeiras e Cambará",1,counting
+Naíra visitou apenas catorze pessoas,"Naíra visitou Nadine, Herénia, Basília, Dúnia, Lauriana, Iriana, Isalda, Polina, Gilberta, Amandina, Naia, Lariana, Clarina, Alexandrina e Peyton",1,counting
+Hebe visitou apenas trinta pessoas,"Hebe visitou Graciela, Cataleia, Lorraine, Iberina, Quaresma, Audete, Amara, Rosandra, Rolende, Omara, Chema, Nânci, Délia, Neotera, Josélia, Merrita, Paris, Ifigénia, Kylie, Matrosa, Gracinda, Liliane, Gravelina, Cora, Briolanja, Nísia e Mary",0,counting
+Brice visitou apenas vinte e seis pessoas,"Brice visitou Feba, Drusila, Tirza, Cleia, Arabela, Etelvina, Delilah, Dircila, Elana, Raquelina, Nayma e Sena",0,counting
+Sury visitou apenas um lugar,Sury visitou Vista Alegre do Alto e Baturité,1,counting
+Benigna visitou apenas vinte e quatro lugares,"Benigna visitou Costa Rica, Lago da Pedra, Ibaiti, São José do Egito, Atilio Vivacqua, Cristino Castro, General Maynard, Embu-Guaçu, Três Barras do Paraná, Dueré, Itabaiana, Currais, Itaiçaba, Cumaru do Norte, Tamboril do Piauí, Santa Filomena do Maranhão, Brás Pires, Campo Maior, Fronteira, São José de Piranhas, Xangri-lá, Bannach, Brasilândia de Minas, Bálsamo e Boa Vista do Incra",1,counting
+Farah visitou apenas vinte e quatro lugares,"Farah visitou Mãe d'Água, Baldim, São Roque, Canarana, Pradópolis, Surubim, Milhã, Ulianópolis, Porto Calvo, São Francisco de Sales, Hugo Napoleão, Abelardo Luz, Iguape, Paes Landim, Faro, Bambuí, Arceburgo, Dirceu Arcoverde, Presidente Bernardes, São José do Rio Pardo, Lebon Régis e Oriximiná",0,counting
+Cíntia visitou apenas vinte e oito lugares e apenas dezenove pessoas,"Cíntia visitou Mariane, Marianna, Dúlia, Ima, Marquesa e Mecília",0,counting
+Tracy visitou apenas vinte e cinco lugares e apenas vinte e dois pessoas,"Tracy visitou Várzea, Caracol, Ipiranga de Goiás, Gurupi, Macambira, Rio da Conceição, Chapadão do Lageado, São José do Belmonte, Queluzito, Boa Esperança do Iguaçu, Barracão, Miracatu, Pimenteiras do Oeste, Itaporanga d'Ajuda, Alcântara, Avanhandava, Novo Brasil, Cabeceiras do Piauí, Cristal do Sul, Francisco Beltrão, Sapé, Morro Agudo de Goiás, Paverama, Cachoeira Alta, São José de Piranhas e Acaiaca",1,counting
+Inaia visitou apenas dez lugares e apenas oito pessoas,Inaia visitou Énia,0,counting
+Hosana visitou apenas quatro pessoas,"Hosana visitou Ermengarda, Eglantina, Especiosa, Graciana e Safia",1,counting
+Rihanna visitou apenas vinte e três lugares e apenas vinte e dois pessoas,"Rihanna visitou Neli, Maide, Tanagra, Hália, Cleodice, Mariah, Saphira, Athena, Matrosa, Méline, Gravelina, Basilissa, Lisandra, Alcina, Cassilda, Sofie, Nessy, Jana, Iráis, Brizida, Indaleta, Cândida e Ticiane",1,counting
+Numénia visitou apenas três lugares e apenas três pessoas,"Numénia visitou Alegria, Muqui, Mercedes e General Maynard",1,counting
+Otelina visitou apenas seis lugares e apenas três pessoas,"Otelina visitou Peritiba, Pedro do Rosário, Bom Jesus do Amparo, Nova Aliança e Santo Antônio da Platina",0,counting
+Patrícia visitou apenas vinte lugares e apenas dezessete pessoas,"Patrícia visitou Colina, Pedralva, Santa Bárbara, Cabreúva, Riachão das Neves, Contenda, Ponte Serrada, Coremas, Jeceaba, Catuípe, Tuiuti, Ipuã, Novo Gama, Fernando Falcão, Eldorado do Sul, Bonito de Santa Fé, Agronômica, Itinga, Uberaba, Casca e Orobó",1,counting
+Julinda visitou apenas nove lugares e apenas uma pessoa,"Julinda visitou Ibitinga, Açu, Itororó, Frederico Westphalen, Presidente Jânio Quadros, Lagoa Real, Patos de Minas e Gracho Cardoso",0,counting
+Malaika visitou apenas cinco pessoas,"Malaika visitou Clésia, Cesária, Mariluz, Bianka, Adriela e Miliza",1,counting
+Miliza visitou apenas um lugar e apenas uma pessoa,Miliza visitou Boquim,0,counting
+Justa visitou apenas vinte e oito lugares,"Justa visitou Datas, Timbó Grande, Campo Grande, Roca Sales, Nova Ramada, Paranaíta, Marques de Souza, Babaçulândia, Sobradinho, Abaiara, São Leopoldo, Itambacuri, Esperança, Jaguapitã, Colorado do Oeste, Timbó, Malta, Barra do Rio Azul, Nicolau Vergueiro, Jeriquara, Floresta Azul, Sucupira do Riachão, Santa Cecília, Iguatu, Miguel Calmon, Ipanguaçu, Acari, Santa Inês e Chapadão do Sul",1,counting
+Clarina visitou apenas quinze pessoas,"Clarina visitou Hope, Graciosa, Anésia, Edmunda, Mavília e Lauren",0,counting
+Aliana visitou apenas vinte e cinco lugares,"Aliana visitou Duartina, Santa Maria do Herval, Camacho, Santo Antônio do Descoberto, Sinimbu, Feira Nova, Quijingue, Coronel Pilar, São Rafael, Hugo Napoleão, Cafezal do Sul, Itapé, Campos Novos Paulista, Corumbaíba, Redenção, Itaporanga, Tacaratu, Banabuiú, Abreu e Lima, Mallet, Machado, Lagoa Alegre e Mundo Novo",0,counting
+Selesa visitou apenas vinte e cinco lugares,"Selesa visitou Nova Porteirinha, São Miguel dos Milagres, Campo Bom, Salgado de São Félix, Santa Gertrudes, Marcelino Vieira, Miraguaí, Quinze de Novembro, Rio Piracicaba, Guaíra, Umuarama, Cristal do Sul, Cidade Ocidental, Barra do Garças, Ribeirão Bonito, Peritoró, Boa Viagem, São João do Soter, Atilio Vivacqua, Alto Araguaia, Riacho da Cruz, Maracás, Perdigão, Valparaíso, Alto Bela Vista e Jequitaí",1,counting
+Crisante visitou apenas um lugar,Crisante visitou Cotriguaçu e Santa Rosa,1,counting
+Clementine visitou apenas três lugares e apenas duas pessoas,Clementine visitou Corália,0,counting
+Nilda visitou apenas dezenove lugares e apenas dezesseis pessoas,"Nilda visitou Sítio do Quinto, Virgem da Lapa, Mairiporã, Manaquiri, Rio Real, Sananduva, Brazabrantes, Otacílio Costa, Porto Real do Colégio, Itaboraí, Coxixola, Romelândia, Parnamirim, Tarumã, Américo de Campos, Agronômica, Brumadinho, Governador Newton Bello, Cambira e Pongaí",1,counting
+Arinda visitou apenas dez pessoas,"Arinda visitou Laurina, Soledade, Oana, Charlene, Sharon, Nalini, Lenira, Lianor, Eliane, Dahlia e Giselle",1,counting
+Samantha visitou apenas cinco lugares e apenas quatro pessoas,"Samantha visitou Carísia, Nadine, Sylvie, Ciana e Mariema",1,counting
+Castelina visitou apenas três lugares e apenas uma pessoa,Castelina visitou Pamela e Leena,1,counting
+Margaret visitou apenas nove lugares e apenas sete pessoas,Margaret visitou Pixie e Liliane,0,counting
+Haidé visitou apenas um lugar e apenas uma pessoa,Haidé visitou Agna e Tina,1,counting
+Alzira visitou apenas doze lugares,Alzira visitou Morungaba,0,counting
+Guarani visitou apenas doze lugares,"Guarani visitou Angra dos Reis, Ataléia e Itaitinga",0,counting
+Cléo visitou apenas vinte e nove lugares,"Cléo visitou Aguiarnópolis, Glorinha, Brejo do Piauí, Mirante, Mogi Guaçu, Buritinópolis, Parauapebas, Souto Soares, Acarape, Wenceslau Guimarães, Uberaba, Divinolândia de Minas, Carauari, Lourdes, Nova Esperança, Ibirá, Mangueirinha, Cocal dos Alves, Araras, Santo Antônio da Barra, Rubinéia, Araxá, Ipubi, Cotegipe, Medianeira, Santa Rosa do Purus, Tiros, Tapiramutá, Santo Estêvão e Indianópolis",1,counting
+Semíramis visitou apenas seis pessoas,Semíramis visitou Lízie e Greer,0,counting
+Elma visitou apenas oito pessoas,"Elma visitou Évila, Sérgia, Aldenora, Mirella, Shania, Primitiva, Romina, Afonsa e Salúquia",1,counting
+Eglantina visitou apenas vinte e oito pessoas,"Eglantina visitou Soraya, Léonie, Donzília, Leopoldina, dos Milagres, Mariama, Lorenza, Ambrósia, Lilá, Jael, Dorisa, Dineia, Arménia, Julinda, Anésia, Daisi e Alzira",0,counting
+Onélia visitou apenas vinte e dois pessoas,"Onélia visitou Giada, Amabília, Sania, Rachel, Elisete, Nereida e Mina",0,counting
+Muriela visitou apenas três pessoas,"Muriela visitou Mecília, Isalina, Nené e Dejanira",1,counting
+Aldenora visitou apenas vinte e sete lugares e apenas duas pessoas,"Aldenora visitou Tess, Brígida e Aldina",1,counting
+Bernadete visitou apenas trinta lugares,"Bernadete visitou Pentecoste, Taquaruçu do Sul e Monjolos",0,counting
+Nessa visitou apenas vinte e oito pessoas,"Nessa visitou Lígia, Idália, Miguela, Leocádia, Flor de Ceres, Ada, Lucileine, de Fafe, Emiliana, Ilsa, Ilundi, Delilah, Darnela, Thaís, Arlinda, Tomasa, Bárbora, Aliana, Maëlis, Lénia, Nelly, Saulina, Mari, Pérola, Milana, Kieza, Isaltina, Gaori e Cesária",1,counting
+Ândria visitou apenas vinte e um lugares e apenas onze pessoas,"Ândria visitou Digna, Dircila, Nesta, Melânia, Ariane, Lina, Fénix, Jil, Íngride, Numénia, Heliodora e Chi",1,counting
+Elva visitou apenas um lugar,Elva visitou Bonito e Vitória de Santo Antão,1,counting
+Tabatha visitou apenas vinte e seis lugares e apenas dezoito pessoas,"Tabatha visitou Santa Clara d'Oeste, Sebastião Laranjeiras, Santo Antônio da Barra, Ibitiara, Divinópolis de Goiás, Indaiatuba, Santo Antônio da Platina, Palmeirina, Juruaia, Ipira, Marechal Thaumaturgo, Poções, Mato Verde, Marau, Lajinha, Orizânia, Presidente Nereu, Brodowski, Ipuaçu, Catas Altas, Jacutinga, Sarzedo, Tremedal, Humaitá, Santa Luzia do Pará, Bequimão e Xambioá",1,counting
+Prudência visitou apenas duas pessoas,Prudência visitou Rosamar,0,counting
+Edith visitou apenas vinte e cinco pessoas,"Edith visitou Neide, Heda, Flória, Malvina, Lucie, Lucíola, Chloé e Lariana",0,counting
+Nicky visitou apenas vinte e sete lugares e apenas onze pessoas,"Nicky visitou Gustava, Emily, Duana, Naida, Daisi, Emmy, Gaori, Orange, Safia, Heda, Numénia e Lígia",1,counting
+Duartina visitou apenas catorze lugares e apenas doze pessoas,"Duartina visitou Rio do Antônio, Piranguçu, Macajuba, Doutor Maurício Cardoso, Itatiaia, Ibaté, Santo Ângelo, Santa Maria das Barreiras, Candiba, Terra Roxa e Bom Jardim",0,counting
+Élea visitou apenas dez pessoas,"Élea visitou Ditza, Khaleesi, Oureana, Liana, Matrosa, Caia, Stacey, Angelita, Miquelina, Roena e Sérgia",1,counting
+Myla visitou apenas vinte e dois lugares e apenas vinte e um pessoas,"Myla visitou Pirajuí, Vila Maria, Brejo dos Santos, Conceição da Aparecida, Paranaguá, Guapó, Araújos, Senhor do Bonfim, Gurupi, Dois Lajeados, Pompéu, Argirita, Atalaia, Lindolfo Collor, Modelo, Bela Vista do Maranhão, Feira de Santana, Passa Quatro, Cafarnaum, Carbonita, Gilbués, Vila Flores e Cristalina",1,counting
+Natali visitou apenas vinte e sete lugares e apenas catorze pessoas,"Natali visitou Gramado Xavier, Arceburgo, Irituia, João Alfredo, Serra Dourada, Amorinópolis, Graça, Bandeira, Boa Hora, Santa Carmem, Acrelândia, Iúna, São João Nepomuceno, Campo Florido, Frei Rogério, Fernandes Tourinho, Natividade, Mucajaí, Nova Bandeirantes, Queluzito, São Tomé e Coimbra",0,counting
+Cléo visitou apenas vinte e seis lugares e apenas uma pessoa,Cléo visitou Simona,0,counting
+Heli visitou apenas onze pessoas,"Heli visitou Anair, Giselle, Rosalinda, Joele, Florbela, Naila, Cleonice, Naíma, Naly, Erika, Lucrécia e Martinha",1,counting
+Daliana visitou apenas vinte e um lugares e apenas uma pessoa,Daliana visitou Erica e Leanor,1,counting
+Otília visitou apenas vinte e oito lugares e apenas vinte e sete pessoas,"Otília visitou Manuella, Carmina, Fédora, Luena, Marlene, Mikaela, Dialina, Constantina, Neotera, Magdalena, Sephora, Antera, Edine, Naama, Analu, Anusca, Noelma, Taíssa, Si, Tina, Paolla, Felisbina, Analice, Dinarta, Inara, Clarinda, Gema e Hosana",1,counting
+Graciete visitou apenas vinte e sete pessoas,"Graciete visitou Aureliana, Luiza, Roberta, Susete, Jezabel, Stacey, Emie, Stacy, Aniana, Prazeres, Emiliana, Janina, Gema, Nikita, Leia, Nicandra, Felisbina e Ludovice",0,counting
+Regina visitou apenas treze pessoas,"Regina visitou Precília, Evangelista, Nara, Mírtila, Rosamar, Ariadne, Maeva, Jael, Dalinda, Clorinda, Analice, Dulcineia, Thai e Encarnação",1,counting
+Britney visitou apenas vinte e oito pessoas,"Britney visitou Darlene, Jana, Anair, Nilce, Bella, Juna, Analisa, Jacqueline, Iva, Deliana, Marise, Ermengarda, Josabete, Silviana, Berengária, Kieza, Hermânia, Especiosa, Petrina, Adalgiza, Laureana, Tabata, Gilberta, Liza, Soline, de Fafe, Rosinda, Elisabeta e Marisela",1,counting
+Diva visitou apenas onze pessoas,"Diva visitou Jaquelina, Sasha, Elza, Chi, Hilda, Dineia, Leila, Caterina, Dafne, Cristal, Niéves e Denisa",1,counting
+Jacqueline visitou apenas vinte e sete pessoas,"Jacqueline visitou Sáli, Natali, Carmina, Melodia, Si, Hortênsia, Telma, Rocio, Cremilda, Paraíso, Ariane, Deótila, Rosebel, Misha, Natalina, Eduina, Dara, Delisa, Riu, Luamar, Carmela, Selesa, Carlotta, Daliana, Mari, Simara, Laís e Belmonte",1,counting
+Elmira visitou apenas quatro lugares e apenas três pessoas,Elmira visitou Aléxia,0,counting
+Ditza visitou apenas catorze lugares e apenas onze pessoas,"Ditza visitou Olinda, Cibele, Cesária, Julianna, Ivana, Celsa, Cárita, América, Marise, Loredana, Maré e Eurídice",1,counting
+Suse visitou apenas nove pessoas,"Suse visitou Jael, Petrina, Constantina e Casta",0,counting
+Especiosa visitou apenas três lugares e apenas duas pessoas,Especiosa visitou Canoas,0,counting
+Mirela visitou apenas dezesseis lugares e apenas oito pessoas,"Mirela visitou Brunilde, Donatila, Arlinda, Hilda e Brigite",0,counting
+Marion visitou apenas uma pessoa,Marion visitou do Rosário,0,counting
+Nicky visitou apenas trinta lugares,"Nicky visitou São João do Tigre, Lago da Pedra, Coimbra, Alpestre, Fernando Pedroza, Guimarânia, Urupá, Cambira, Wall Ferraz, Patrocínio Paulista, Várzea Branca, Parobé, Casserengue, Toropi, Brejetuba, Martins, Capitão de Campos, Poloni, Aratuba, Dirce Reis, Brasileira, Itumbiara, Bom Jesus do Oeste, Santos, Porto Real, Paraíba do Sul, Bento Fernandes, Mauá da Serra, Entre Folhas, Ouro Verde e Ciríaco",1,counting
+Idrisse visitou apenas vinte e dois lugares e apenas duas pessoas,"Idrisse visitou Frida, Sana e Ândria",1,counting
+Sharon visitou apenas dezoito lugares,Sharon visitou Barroso e Batatais,0,counting
+Norah visitou apenas seis lugares e apenas seis pessoas,"Norah visitou Arauá, Aiuaba, Fernando Falcão, Salto Grande e Francisco Ayres",0,counting
+Soraya visitou apenas um lugar e apenas uma pessoa,Soraya visitou Lucianópolis,0,counting
+de Pádua visitou apenas dezenove lugares e apenas catorze pessoas,"de Pádua visitou dos Anjos, Tereza, Margarita, Gileade, Astride, Gisele, Gina, Isilda, Romina, Daniana, Benice, Dúnia, Adélia, Évila e Luela",1,counting
+Laurentina visitou apenas vinte e sete lugares,"Laurentina visitou Bom Jardim, Jurema, Cacimbinhas, Bagé, São Simão e Alcinópolis",0,counting
+Marilina visitou apenas doze lugares e apenas nove pessoas,"Marilina visitou Nilda, Cléo, Genésia, Cândida, Léna, Domitila, Cora, Rebeka, Leontina e Herédia",1,counting
+Belmonte visitou apenas vinte e quatro lugares e apenas vinte e quatro pessoas,"Belmonte visitou Eleanor, Casimira, Nimi, Carmorinda, Délia, Laila, Mabilda, Otília, Léana, Léa, Dircea, Libéria, Georgeta, Dana, Basilissa, Léna, Leontina, Paolla, Albana, Marlita, Marinela e Greta",0,counting
+Lízi visitou apenas dezesseis lugares e apenas dez pessoas,"Lízi visitou Medina, Bernardo Sayão, Padre Paraíso, Arapeí, Camutanga, São Ludgero e Passabém",0,counting
+Amandina visitou apenas dezessete lugares e apenas catorze pessoas,Amandina visitou Lila,0,counting
+Cyara visitou apenas dezessete lugares e apenas quinze pessoas,Cyara visitou Doriana e Thaís,0,counting
+Auxília visitou apenas nove pessoas,"Auxília visitou Mariane, Marilisa, Dulcelina, Simy, Catrina, Bitia, Nur, Isabella, Petrina e Nazaré",1,counting
+Lorine visitou apenas doze lugares,"Lorine visitou Magé, Duque Bacelar, Tarabai, Caiapônia, São Gonçalo do Amarante, Aspásia, Alfenas, Aurora, Flora Rica, Terra Alta, Santo Antônio do Retiro, Pilões e Batatais",1,counting
+Mireie visitou apenas catorze lugares e apenas três pessoas,Mireie visitou Oceane e Sena,0,counting
+Analisa visitou apenas trinta lugares e apenas vinte e seis pessoas,"Analisa visitou Mira, Nubiana, Marcelle, Darlene, Leila, Deliana, Cleodice, Artemísia, Cosete, Leoménia, Antonina, Skylar, Rapaz, Alaia, Elaine, Geralda, Mimosa, Naraiana, Lilian, Albertina, Cássia e Neusa",0,counting
+Marquesa visitou apenas vinte lugares e apenas vinte pessoas,"Marquesa visitou Anita, Mavelete, Cipora, Stacey, Nathália, Melinda, Maria Rita, Charlotte, Dinamene, Oceane, Claudemira, Rogélia e Fédora",0,counting
+Margaux visitou apenas dezessete lugares e apenas três pessoas,"Margaux visitou Murutinga do Sul, Vacaria, Pedra Branca do Amapari, Nova Andradina e Cerquilho",0,counting
+Étel visitou apenas vinte e três lugares e apenas vinte e dois pessoas,"Étel visitou Nova Cantu, Taciba, Três Lagoas, Novo Acordo, Japaratuba, Avaré, Tunas, Ararendá, Jardim Alegre, Chupinguaia, Morada Nova, Santa Terezinha de Itaipu, Cruzeiro do Sul, Chã de Alegria, São José dos Pinhais, Palmeira d'Oeste, Riachão, Severiano de Almeida, Morro Cabeça no Tempo, Nova Ramada, Marcelândia, Ferros, Poconé e Sussuapara",1,counting
+Etel visitou apenas vinte e oito pessoas,"Etel visitou Bernardete, Deodata, Caterina, Bárbora, Alexis, Corália e Gustava",0,counting
+Selina visitou apenas seis lugares,"Selina visitou Poço Dantas, Iracemápolis, Moreilândia, Presidente Venceslau, Santo Antônio do Jardim, Mairinque e Buriti Bravo",1,counting
+Hayden visitou apenas vinte lugares e apenas doze pessoas,"Hayden visitou São José de Mipibu, Mutum, São José dos Quatro Marcos, Jaguaraçu, Alagoinha, São Miguel do Araguaia, São João del Rei, Cocos e Xangri-lá",0,counting
+Clementina visitou apenas vinte lugares e apenas treze pessoas,"Clementina visitou Sofie, Susete, Dorinda, Éola, Almira, Dolores, Clésia, Mariza e Sâmia",0,counting
+Gioconda visitou apenas vinte e oito lugares,"Gioconda visitou Custódia, Mara Rosa, Tarrafas, Santa Tereza do Oeste, Nortelândia, Porto Franco, Conceição das Pedras, São Luís Gonzaga do Maranhão, São Caitano, Nova Aliança, Barros Cassal, Caicó, Imbé, Ramilândia, Itamarati de Minas, Felisburgo, Tavares, Nova Araçá, Arambaré, São Pedro do Ivaí, Piraquê, Campo Alegre, Pedro Afonso, Contendas do Sincorá, Tacaratu, Cristal, Riacho dos Cavalos, Beneditinos e Bocaiúva",1,counting
+Heli visitou apenas cinco lugares e apenas cinco pessoas,"Heli visitou Greta, Cléo, Meiline, Cácia, Sharam e Alaíde",1,counting
+Cristene visitou apenas vinte e nove lugares e apenas vinte e sete pessoas,"Cristene visitou Titânia, Gerta, Malaika, Selésia, Betsabé, Inoi, Engrácia e Suriel",0,counting
+Nikita visitou apenas vinte e nove lugares e apenas oito pessoas,"Nikita visitou Nova Trento, Januário Cicco, Areia de Baraúnas, Mococa, São Sebastião, Júlio Mesquita, Pinhal de São Bento, Sinop, Cedral, Santana dos Garrotes, Cascavel, Desterro, Parecis, Erechim, André da Rocha, Arealva, São Romão, Padre Paraíso, Campina Grande do Sul, Ibiara, Morada Nova, Santa Terezinha de Itaipu, Japoatã, Araçaí, Inúbia Paulista, Camaquã, Itambacuri, Tiradentes, Mogi das Cruzes e Macaé",1,counting
+Emanuella visitou apenas seis pessoas,"Emanuella visitou Elisabeta, Brice, Pedrina, Naiane, Lisdália, Ludovice e Didiana",1,counting
+Danika visitou apenas dezessete pessoas,"Danika visitou Laís, Doroteia, Chi, Nené, Daisi, Tess, Norvinda, Leonília, Biana, Janaína, Elza, Nadine, América, Nísia, Marlise, Rafa, Bonifácia e Davina",1,counting
+Noelma visitou apenas treze lugares e apenas uma pessoa,Noelma visitou Dinarta e Dália,1,counting
+Graciete visitou apenas seis lugares e apenas seis pessoas,Graciete visitou Cândido Mendes e Caririaçu,0,counting
+Liete visitou apenas vinte e um lugares,"Liete visitou Grandes Rios, Amargosa, Anapurus, Gravataí, Vitorino Freire, Bonito, Icaraí de Minas, Porto, Gavião, Passagem Franca, Bagé, Bezerros, Paulo Jacinto, Várzea Grande, Bandeirantes do Tocantins, Xambrê, Santa Mônica, Maçambara, Diamante do Sul, Ribeirão, Frei Martinho e Taquarituba",1,counting
+Florence visitou apenas treze pessoas,"Florence visitou Anabel, Julinda, Jaquelina, Darnela, Princess e Manuella",0,counting
+Hersília visitou apenas onze pessoas,"Hersília visitou Benvinda, Kimberly, Josefa, Áfrika, Morian, Traciana, Carlotta, Donatella, Clarissa, Nené, Sory e do Almurtão",1,counting
+Arabela visitou apenas dez pessoas,"Arabela visitou Nene, Marieta, Osvaldina, Clarinha, Romana, Serenela, Dulcídia, Suzy, Évila, Nilsa e Brásia",1,counting
+Aisha visitou apenas catorze lugares,"Aisha visitou Itamogi, Sales Oliveira, Guatapará, Nova Pádua, Maçambara, Xanxerê e Amargosa",0,counting
+Julinda visitou apenas vinte e cinco pessoas,"Julinda visitou Magali, Adelaide, Idília, Iriana, Anusca, Rosina, Armandina, Deotila, Tracy, Tabata, Inaia, Sade, Névia, Carmezinda, Silke, Benice, Esther, Líria, Laetitia, Clarissa, Eloise, Liliete, Nisa, Neise, Luanda e Alaia",1,counting
+Aliana visitou apenas dez pessoas,"Aliana visitou Patrocínia, Névia, Basília, Mária e Lila",0,counting
+Grimanesa visitou apenas vinte e oito pessoas,"Grimanesa visitou Lais, Laurentina, Assunção, Serenela, Minervina, Brunilde, Rodriga, Terezinha, Lisbon, Milene, Ariane, Suzana, Isolda, Isabelle, Nelsa, Salete, Cyara, Jennifer, Alcina, Gaitana, Florisbela, Francesca, Rocio, Briolanja, Lurdite, Mireia, Lacey, Ioque e Suria",1,counting
+Laurine visitou apenas quinze lugares e apenas sete pessoas,"Laurine visitou Bom Retiro, Modelo, Assaí, Borda da Mata, Vargem Alta, Cerro Grande do Sul, Senador Amaral, Liberato Salzano, Ceará-Mirim, Ibiam e São João das Missões",0,counting
+Emídia visitou apenas vinte e cinco lugares,"Emídia visitou Caridade, Vista Gaúcha, Mateus Leme, Sobrália, Augusto Corrêa, Pedro Afonso, Boa Esperança, Regente Feijó, Guaçuí, Medicilândia, Juruti e Manoel Ribas",0,counting
+Quessia visitou apenas doze pessoas,"Quessia visitou Suse, Adália, Mariame, Marguerita, Lucélia, Áfrika, Apolónia, Jacinta, Analice, Naia e Sadiya",0,counting
+Dúnia visitou apenas vinte e quatro lugares,"Dúnia visitou Massaranduba, Jambeiro, Dois Córregos, Bom Jesus e Santa Maria Madalena",0,counting
+Altina visitou apenas dez lugares,"Altina visitou Santa Luzia do Paruá, Pacaembu, Caapiranga, Serranópolis de Minas, Francisco Morato, Barra da Estiva, Ninheira, Major Sales, Nova Castilho, Groaíras e Santa Maria da Vitória",1,counting
+Orlandina visitou apenas dois lugares,Orlandina visitou Caetés,0,counting
+Diza visitou apenas catorze pessoas,"Diza visitou Dorisa, Isolina, Elísia, Anísia, Ersília, Misaela, Giuliana, Iberina, Lucileine, Mécia e Inara",0,counting
+Shakira visitou apenas vinte e cinco pessoas,"Shakira visitou Luanda, Graciliana, Espírito Santo, Líbia, Rubina, Raísa, Digna, Deonilde, Basília, Nahla, Kieza, Cosete, Mathilda, Muriel, Florisa, Cyara, Dana, Fedra, Cáren, Beanina, Lucinda, Clemência, Magaline, Shakira, Joanina e Altina",1,counting
+Chantal visitou apenas vinte e oito lugares e apenas duas pessoas,"Chantal visitou Itamogi, Miradouro, Cachoeira dos Índios, São José da Safira, Peruíbe, Autazes, Criciúma, São José dos Basílios, Ibirapuitã, Amapá, Miraselva, Paula Cândido, Jucurutu, São Tiago, Santo Antônio do Aventureiro, Maximiliano de Almeida e Varjão",0,counting
+Rhianna visitou apenas vinte e um lugares e apenas vinte pessoas,"Rhianna visitou Taísa, Aldina, Honorina, Bebiana, Claudina, Analu, Clarice, Dirce, Shirley, Bertilde, Séfora, Myriam, Gara, Emídia, Marlene, Lólia, Bartolina, Kimberly, Tayná, Francília e Ellie",1,counting
+Leila visitou apenas vinte e dois lugares,"Leila visitou Atilio Vivacqua, Pilão Arcado, Goianá, Feliz Natal, Novo Triunfo, Araçariguama, Tocos do Moji e Palestina",0,counting
+Giselda visitou apenas três lugares e apenas uma pessoa,Giselda visitou Ânia,0,counting
+Santa Rita visitou apenas cinco pessoas,Santa Rita visitou Taíssa,0,counting
+Belosinda visitou apenas onze lugares e apenas dez pessoas,"Belosinda visitou Modesta, América, Almesinda, Frida, Thalia, Emmy, Bethany, Paola, Lucilina, Joice e Bianka",1,counting
+Antera visitou apenas dezoito lugares,"Antera visitou Correia Pinto, Santa Cruz de Minas, Japonvar, São Bonifácio, Campo Grande, Pilões, Alagoa Grande, Nova Esperança do Sul, Borebi, Itapoá, Anadia, Campo Magro, Curvelândia, Lençóis Paulista, Mirador, Lamim, Francisco Beltrão, Terezinha e Penedo",1,counting
+Porciana visitou apenas seis lugares e apenas duas pessoas,"Porciana visitou Josana, Corine e Cínara",1,counting
+Palmira visitou apenas dezenove lugares e apenas dezessete pessoas,"Palmira visitou Destiny, Cyara, Lilian, Cynthia, Elda, do Rosário, Alcíone, Naama, Gerda, Inoi, Ivory, Minervina, Torpécia, Círia, Génesis, Leonídia, Aimara e Constantina",1,counting
+Laurine visitou apenas trinta lugares e apenas oito pessoas,"Laurine visitou Comodoro, Santo Antônio de Lisboa, Dona Inês, Monte Castelo, Salvador do Sul, Arroio Grande, Maruim, Valença do Piauí, Sapiranga, Barra do Ribeiro, Sacramento, Carneirinho, Monte Alegre de Minas, Lajinha, Apiacás, Durandé, Senador Guiomard, Ortigueira, Brumado, Pau D'Arco, Iguatemi, Colorado, Elesbão Veloso, São Pedro da Aldeia, Salto do Lontra, Lages, Natuba, Maria Helena, Ibiam, Jaguaruna e Torixoréu",1,counting
+Inga visitou apenas trinta pessoas,"Inga visitou Emiliana, Florisa, Kendall, Severina, Nely, Dária, Daisi, Malvina, Jani, Clementine, Bina, Consolação, Arlete, Silviana, Niceia, Sania, Antonina, Almara, Joya, Dulcelina, Milana, Caia, Pippa, Jovelina, Súria, Naila, Lucie, Lea, Átina, Chloé e Jasmim",1,counting
+Deotila visitou apenas treze pessoas,"Deotila visitou Jânia, Lízi, Catila, Marcelina, Beanina, Laureana, Khloe, Auxília, Léane, Safina, Tara, Oana, Ocília e Iriana",1,counting
+Susete visitou apenas vinte e sete pessoas,"Susete visitou Inácia, Misaela, Leonarda, Carmelinda, Petrina, Palmira, Jovelina, Lisana, Mikaela, Sana, Nilsa, Brenda, Doralice, Noá, Júnia, Daenerys, Jó, Feba, Severa, Bárbora, Cássia, Surya, Ruth, Suely, Josana, Joselina, Ivânia e Gertrudes",1,counting
+Mónia visitou apenas nove lugares e apenas três pessoas,"Mónia visitou Fernandina, Ima, Clarina e Quézia",1,counting
+Benilde visitou apenas dezenove lugares,"Benilde visitou Sumé, Quixabeira, Benjamin Constant do Sul, Barras, Chuí, Serra Alta, Ibitiara, Riachão do Bacamarte, Almas, Orlândia, Governador Edison Lobão, Itaúna do Sul, Boa Esperança, Alto Alegre, Vila Lângaro, Imbaú, São João do Carú, Jucás, Quinta do Sol e Mimoso de Goiás",1,counting
+Estelle visitou apenas treze lugares,"Estelle visitou São Bento, Alto Santo, São João das Missões, Amaturá, João Monlevade, Terra de Areia, Sarzedo, Motuca, Érico Cardoso, Tocantins e Aguiarnópolis",0,counting
+Domenica visitou apenas vinte e nove pessoas,"Domenica visitou Carsta, Melida, Juna, Clarice, Beanina, Constanza e Charlene",0,counting
+Léanor visitou apenas dezesseis lugares e apenas uma pessoa,"Léanor visitou Cardoso Moreira, Ipueira, Regente Feijó, Barros Cassal, Itaguaçu, Piên, São Lourenço do Piauí, Lucas do Rio Verde, Terezópolis de Goiás, Ingá e Ivinhema",0,counting
+Rosamar visitou apenas um lugar e apenas uma pessoa,Rosamar visitou Apiaí e Arapoti,1,counting
+Delmira visitou apenas quatro lugares e apenas uma pessoa,"Delmira visitou Sebastianópolis do Sul, Rio Bananal, Águas Formosas, Água Preta e Arroio do Meio",1,counting
+Francina visitou apenas vinte e seis lugares e apenas dezesseis pessoas,"Francina visitou Dracena, Viradouro, Cachoeirinha, São Bernardo do Campo, Olaria, Pacatuba, Jenipapo de Minas, Juazeiro do Piauí, Ribeirão do Largo, Barreirinha, Lajedão, Japoatã, Lajeado Grande, Ibirapuitã, São Jerônimo, Triunfo Potiguar, Franca, Santa Luzia D'Oeste, Três Coroas, Estreito, São Sebastião do Passé, Renascença, Navegantes e São Pedro da Água Branca",0,counting
+Nour visitou apenas oito lugares e apenas quatro pessoas,"Nour visitou São Sebastião do Alto, Santana do Mundaú, Sossêgo, Agudos, Monsenhor Gil, Cruzália, Bom Jesus, Colombo e Itapetim",1,counting
+Palmira visitou apenas vinte e nove lugares e apenas onze pessoas,"Palmira visitou Belmira, Afonsa, Belle, Cipora, Cibele, Cesária, Diamantina, Suzana, Giselle, Ellen, Dulcina e Lais",1,counting
+Florença visitou apenas quinze pessoas,"Florença visitou Roana, Priscila, Elise, Lily, Elvina, Anair, Mariamar, Lorina, Lisandra, Ondina, Mira, Liseta, Franca, Pippa, Gislena e Jandira",1,counting
+Nanci visitou apenas vinte e três pessoas,"Nanci visitou Leonila, Tessa, Gerda, Lisdália, Nila e Hortense",0,counting
+Ecaterina visitou apenas trinta lugares,Ecaterina visitou Serra da Saudade,0,counting
+Lizia visitou apenas trinta pessoas,"Lizia visitou Dionísia, Estéfana, Naiane, Merrita, Florisbela, Margarete, Marianna, Giselda, Laurine, Nélia, Benjamina, Ocridalina, Erméria, Josabete, Guarani, Janine, Dana, Crestila, Isaurinda, Dânia, Cristolinda, Giada, Margareta, Aurete, Lígia, Nise, Nimi, Lacey, Córita, Sena e Rebecca",1,counting
+Doriana visitou apenas quinze lugares e apenas quatro pessoas,"Doriana visitou São João da Varjota, Aguiar, São Francisco de Paula, Guapimirim, São Domingos das Dores, Itapeva, Itacaré, Planaltino, Itapira, Sabará, Conceição dos Ouros, Santa Teresinha, Salete, Baianópolis, Pilões e Toritama",1,counting
+Diná visitou apenas oito pessoas,"Diná visitou Reeva, Lilá, Salma e Benvinda",0,counting
+Marjolene visitou apenas dezoito lugares,"Marjolene visitou Santo Antônio do Grama, Fraiburgo, Três Barras, São João da Ponta, Luís Eduardo Magalhães, Areal, Bela Vista do Paraíso, Jurema, Confins, Morro Cabeça no Tempo, Ribeira do Piauí e Atalanta",0,counting
+Elis visitou apenas quatro lugares e apenas quatro pessoas,"Elis visitou Deodete, Salvação e Cataleia",0,counting
+Isalda visitou apenas vinte e quatro lugares e apenas duas pessoas,"Isalda visitou São João do Pacuí, Alto Paraguai, Jardim de Piranhas, Itaquitinga, Espigão Alto do Iguaçu, Capanema, Macieira, Taiúva, Imbé, Barra do Guarita, Anchieta, Monte Alegre do Sul, João Dourado, Bilac, Caldeirão Grande, Apiúna, Ingá, Nova Prata do Iguaçu, Cipó, Bom Princípio do Piauí e Maravilhas",0,counting
+Rafaella visitou apenas vinte e três lugares,Rafaella visitou São Manoel do Paraná e Inácio Martins,0,counting
+Séfora visitou apenas nove lugares e apenas cinco pessoas,"Séfora visitou Ribeirão Pires, São Valério da Natividade, Jaraguá do Sul, Novo Mundo, Arvorezinha, Conceição dos Ouros, Utinga e Vale do Sol",0,counting
+Sénia visitou apenas vinte e oito lugares e apenas dezesseis pessoas,"Sénia visitou Paulistana, Conceição da Aparecida, Jundiá, Americana, Sobrado, Moreira Sales, Barão de Antonina, Mogi das Cruzes, Toritama, Tavares e Alfredo Marcondes",0,counting
+Diomar visitou apenas dez lugares e apenas quatro pessoas,"Diomar visitou Leane, Delminda, Brena, Helen e Paraíso",1,counting
+Amira visitou apenas dez lugares,"Amira visitou Cambira, Cariré e Nova Palmeira",0,counting
+Karen visitou apenas vinte e sete pessoas,"Karen visitou Rosalina, Dele, Heliodora, Lea, Estrelle, de Fafe, Gloriosa, Bernardete, Quaiela, Audete, Hannah, Myra, Miley, Marinela, Julinha, Marisela, Indaleta, Ceres, Nicolina, Bertila, Miliza, Liliane, Lízi, Josiane, Lizia, Ilca, Daenerys e Shakira",1,counting
+Jael visitou apenas cinco lugares e apenas duas pessoas,Jael visitou Amina,0,counting
+Magnólia visitou apenas vinte lugares,"Magnólia visitou Curuá, Tunápolis, Juazeirinho, Turiaçu, Teixeiras, Jacareacanga, Venda Nova do Imigrante, Taquaraçu de Minas, Dois Vizinhos, São José da Barra, Várzea da Roça, Logradouro, Feira da Mata, Feira Nova do Maranhão, Alvarenga, Belém do Piauí, Leandro Ferreira, Jaci, Santa Luz, Vera e Cruz",1,counting
+Erin visitou apenas trinta lugares e apenas quatro pessoas,"Erin visitou Alexina, Pui, Orlandina, Nisa e Leonisa",1,counting
+Cacilda visitou apenas vinte e seis pessoas,"Cacilda visitou Torpécia, Lici, Idália, Leila, Elaina, Isolda, Oliviana, Evangelista, Nicolina, Cármina, Daenerys, Clarinha, Taia, Nureia, Keira, Fénix, Candice, Mirandolina, Nour, Faustina, Justina, Eleni e Erin",0,counting
+Carmo visitou apenas seis lugares,"Carmo visitou Natividade, Ibirapuitã, Esperança do Sul, Mendes Pimentel, Sambaíba, Santo Antônio de Jesus e Anapu",1,counting
+Naly visitou apenas doze lugares e apenas oito pessoas,"Naly visitou Marcela, Jerusa e Katty",0,counting
+Adelinda visitou apenas oito lugares,Adelinda visitou Indiara e Maurilândia,0,counting
+Cassandra visitou apenas catorze lugares,"Cassandra visitou Palhoça, Ipameri, Olaria e Cruz das Almas",0,counting
+Khaleesi visitou apenas vinte e oito lugares e apenas nove pessoas,"Khaleesi visitou Tayná, Omara, Afonsina, Rocio, Hermenegilda, Quézia, Neotera, Tejala, Elsinda e Quessia",1,counting
+Luizete visitou apenas vinte e cinco pessoas,"Luizete visitou Gonçala, Jamília, Dólique, Naima, Armanda, Shine, Ismália, Crisanta, Cármen, Lariana, Jó, Maísa, Formosa, Eloise, Lisdália, Márvia e Mariema",0,counting
+Mira visitou apenas nove lugares e apenas três pessoas,"Mira visitou Carmo, Leonisa, Sirla e Gabrielle",1,counting
+Catherina visitou apenas vinte e oito lugares,Catherina visitou Caxambu e Patos,0,counting
+Tereza visitou apenas vinte e dois pessoas,"Tereza visitou Roena, Florisbela, Edna, Dona, Belarmina, Mercília, Dores, Nessy, Evandra, Maëlis, Gáil, Ivete, Mariama, Margaret, Hilda, de Fafe, Mirela, Daisy, Marcelle, Primitiva, Melodia, Melida e Dilma",1,counting
+Reece visitou apenas um lugar,Reece visitou Uniflor e Ananindeua,1,counting
+Engrácia visitou apenas onze lugares,"Engrácia visitou Três Barras, Camamu, Parelhas, Jaguariaíva, Nova Marilândia e Faria Lemos",0,counting
+Evelyn visitou apenas dez lugares e apenas sete pessoas,"Evelyn visitou Nova Olinda, Içara, Paulo Ramos, Porto Franco, Boa Hora, Baliza, Monte Carlo, Cujubim, Santo Antônio do Jacinto, Igarapava e Alto Alegre dos Parecis",1,counting
+Meera visitou apenas um lugar e apenas uma pessoa,Meera visitou Léna,0,counting
+Carmela visitou apenas vinte pessoas,"Carmela visitou Deliana, Laís, Brígida, Mirela, Sadiya, Leocádia, Isolete, Aléxia, Onófria, Gisele, Tessa, Dircila, Formosinda, Margarita, Miraldina, Lícia, Iolanda, Afra, Aldora, Kai e Elisabeth",1,counting
+Dircila visitou apenas duas pessoas,"Dircila visitou Tabatha, Fedra e Lizia",1,counting
+Roena visitou apenas dezesseis lugares,"Roena visitou Parnaguá, São Miguel do Guaporé, Touros, Duas Barras, Serra da Saudade, Itapura, Pinhalão, Nova Tebas, Pedra Dourada, Santa Rita de Caldas, Riachão, Lindoeste, Colorado do Oeste, Severiano Melo, Rio dos Bois, Coroaci e Porto Grande",1,counting
+Sulamita visitou apenas vinte e oito lugares,Sulamita visitou Quatro Pontes e Capanema,0,counting
+Mireie visitou apenas cinco lugares e apenas quatro pessoas,"Mireie visitou São José do Rio Claro, Igaraçu do Tietê, Cruzeiro do Sul, Embaúba, Assis e Pitimbu",1,counting
+Rhianna visitou apenas trinta pessoas,"Rhianna visitou Nadja, Cibele, Assunção, Isália, Laia, Marianne, Araci, Leah, Matrosa, Emie, Ilca, Jânia, Ariane, Maëlis, Ismália, Prazeres, Clarinha, Davínia, Melisa, Crisália, Sabrina, Julianna, Lariana, Jordana, Mavilde, Denise, Amarília, Dionilde, Carmel, Apolónia e Mélodie",1,counting
+Taísa visitou apenas dezesseis lugares e apenas onze pessoas,"Taísa visitou Palmeirópolis, Canavieiras, Muliterno, Januário Cicco, Nantes, Caranaíba, Barra de Santana, Pomerode, São Miguel dos Milagres, Mariápolis, Vicente Dutra, Cacique Doble, Paracatu, Alexandria e São Francisco de Assis do Piauí",0,counting
+Greta visitou apenas dezesseis lugares e apenas quatro pessoas,"Greta visitou Governador Eugênio Barros, Autazes, Barra, Jussara, Aporé, Suzanápolis, Tavares, Borá, Piraquê, Icapuí, Santo Hipólito, Florânia, Motuca, Novo Xingu, Canindé, Colônia Leopoldina e Mariópolis",1,counting
+Nânci visitou apenas três lugares e apenas três pessoas,Nânci visitou Veranópolis e Mirandiba,0,counting
+Elaina visitou apenas dezesseis lugares e apenas dezesseis pessoas,"Elaina visitou Marion, Marita, Suriel, Justina, Fedra, Isolina, Nimi, Luíza, Atena, Stephanie, Honey, Roena, Aléxia, Cosete, Bina, Bertilde e Crisália",1,counting
+Rosinda visitou apenas sete lugares e apenas cinco pessoas,"Rosinda visitou São Caetano de Odivelas, Itatuba, Nova Itaberaba, Glicério e São Jerônimo da Serra",0,counting
+Otilina visitou apenas sete lugares e apenas três pessoas,"Otilina visitou Pamela, do Céu, Assunta e Natalina",1,counting
+Lícia visitou apenas três lugares e apenas duas pessoas,"Lícia visitou Geovana, Precious e Leane",1,counting
+Chanda visitou apenas onze pessoas,"Chanda visitou Edith, Léanor, Lena, Thaís, Nila, Dolores, Dalida, Selena, Elisabeta, Shine, Mimosa e Kendra",1,counting
+Liseta visitou apenas quinze lugares,"Liseta visitou Reserva do Cabaçal, Lago do Junco, Januário Cicco, Arantina, Juazeiro, Governador Lindenberg, Coaraci, Adolfo, Nazaré, Irapuã, Nazário, Assunção do Piauí, Curimatá, Balsa Nova, Bom Jardim e Coronel Murta",1,counting
+Sátira visitou apenas seis pessoas,"Sátira visitou Cármina, Lucíola, Lutgarda, Palmira, Hope, Noélia e Neireide",1,counting
+Josiane visitou apenas vinte e dois lugares e apenas nove pessoas,Josiane visitou Almara e Romã,0,counting
+Militza visitou apenas dezoito lugares e apenas treze pessoas,"Militza visitou Itapuca, Torixoréu, São Sebastião do Oeste, Medeiros Neto, São Bernardo, Barbalha, Pardinho, Gurupá, Jesuânia, Valparaíso, Atibaia, Jumirim, Itapecerica da Serra, Lajeado, Caxambu do Sul, Itaperuçu, Alto Alegre, Roca Sales e Colônia Leopoldina",1,counting
+Elise visitou apenas quatro lugares e apenas duas pessoas,"Elise visitou Glorinha, Mazagão, Serra Dourada, Barbosa e Rolador",1,counting
+Estéfana visitou apenas dezenove lugares,"Estéfana visitou Eldorado dos Carajás, Capim, Muliterno, Bonfim, Pacatuba, Ibateguara, Cascalho Rico, Sacramento, Perobal, Cumaru, Carambeí e Araças",0,counting
+Berta visitou apenas dez lugares,"Berta visitou Monte Carmelo, Itabaianinha, Lagoa Seca, Capão Bonito, Cruzmaltina, Pinhalão, Araripe, Alvorada, Teixeira de Freitas, Nova Módica e Uiraúna",1,counting
+Minervina visitou apenas vinte e oito lugares e apenas três pessoas,Minervina visitou Mavelete e Rosalinda,0,counting
+Antonina visitou apenas dezesseis lugares e apenas seis pessoas,"Antonina visitou Bacabeira, Serra do Mel, Calmon, Rondon, Taquari, Cacaulândia, Muniz Freire, Porto Estrela, Iguape, Mamanguape, Portelândia, Miranda do Norte, Limeira, Abatiá, Santa Albertina, Avaí e Porto Alegre",1,counting
+Dalinda visitou apenas dois lugares,"Dalinda visitou Congo, São Jorge do Ivaí e Vila Boa",1,counting
+Sylvie visitou apenas vinte e três lugares e apenas dezoito pessoas,"Sylvie visitou Inocência, Valentim Gentil, Jaguaraçu, Embaúba, São Roque do Canaã, Nhamundá, Amparo, Flor da Serra do Sul, Florestal, Óleo, Amorinópolis, Miguel Alves, Várzea da Palma, Santo Cristo, Santa Cruz da Conceição, Xinguara, Alexânia, Pedralva, Lupércio, Itinga do Maranhão, Campina da Lagoa, Itororó, Buritis e Nova Ubiratã",1,counting
+Agostinha visitou apenas vinte e dois pessoas,"Agostinha visitou Dana, Leonida, Clementina, Eglantina, Ambrósia, Rosina, Lília, Giulia, Dominica, Dahlia, Cleópatra, Leire, Felismina, Mabel, Beanina, Eárine, Lily, Gabrielle, Lucrécia, Eudora, Ácil, Bertila e Nel",1,counting
+Daliana visitou apenas vinte e nove lugares,"Daliana visitou Coivaras, Ipecaetá, Anhanguera, Ipaumirim, Mirandiba, Nova Iorque, São José do Cerrito, Japi, Coaraci, Talismã, Bertolínia, Centralina, Morro do Chapéu, Limoeiro do Ajuru, Planalto, Sarandi, Passa Quatro, Cândido Godói, Governador Edison Lobão, Leandro Ferreira, Santa Quitéria do Maranhão, Guarujá, Canguaretama, Getulina, Governador Lindenberg, Maragogipe, Muzambinho, Gararu, Geminiano e São Tiago",1,counting
+Jada visitou apenas vinte e oito lugares e apenas seis pessoas,"Jada visitou Dele, Diamantina, Clementine, Katty, Celine, Mélodie e Romilda",1,counting
+Nené visitou apenas seis lugares e apenas quatro pessoas,"Nené visitou Taboão da Serra, Arapoema, São Sebastião do Tocantins, Caldas Brandão, Ibirarema, Coronel João Pessoa e Tiradentes do Sul",1,counting
+Salma visitou apenas dezenove lugares e apenas seis pessoas,"Salma visitou Tomasa, Simaura, Fedra, Quaiela, Cassilda, Marinela e Desidéria",1,counting
+Giselle visitou apenas vinte e oito lugares,"Giselle visitou Ibaretama, Parnamirim, Goianira, Três Barras, São Felipe D'Oeste, Tunápolis, São Gonçalo do Piauí, Bento de Abreu, Ouro Velho, Santo Antônio dos Lopes, Mostardas, Simões Filho, Poloni, Coaraci, Luís Domingues, Solidão, Vargem Grande, Muritiba, Maurilândia, Três Lagoas, Tumiritinga, Sorocaba, Carira, Macarani, Carapebus, Canutama, Timbiras, Abel Figueiredo e Itatiba do Sul",1,counting
+Pamela visitou apenas doze lugares,"Pamela visitou Eliseu Martins, Santa Rosa da Serra, Heliodora, Penaforte, Peritoró, Nossa Senhora do Livramento, Maria da Fé, Irapuã, Matos Costa, Inaciolândia, Bequimão, Itaberaí e Olivedos",1,counting
+Lenora visitou apenas um lugar e apenas uma pessoa,Lenora visitou Magaline e Catrina,1,counting
+Abília visitou apenas vinte e sete lugares e apenas vinte e dois pessoas,"Abília visitou Estéfana, Elda, Marie, Elisabeta, Gloriosa, Nur, Jacira, Gema, Ambrósia e Heliodora",0,counting
+Saphira visitou apenas vinte e nove lugares e apenas três pessoas,"Saphira visitou Anajatuba, Riachão e Ipanema",0,counting
+Elvina visitou apenas onze lugares e apenas três pessoas,"Elvina visitou Itaporã, Itagimirim, Cáceres, Matão, Brejo Alegre, São Martinho da Serra, Bom Jardim de Minas, Flores da Cunha, Araruama, Granjeiro, São Valério do Sul e Angelim",1,counting
+Quessia visitou apenas quinze pessoas,"Quessia visitou Ioana, Juli, Luisete, Idélia, Crisante, Bibiana, Karina, Ariane, Daina, Reece, Ismália, Dariana, Elvina, Pascualina, Sancha e Demelza",1,counting
+Fédora visitou apenas vinte e cinco lugares e apenas dez pessoas,"Fédora visitou Santa Cecília, Serra do Ramalho, São Bentinho, Gonzaga, Parapuã, Sumidouro, Santa Inês, Capão da Canoa, Santa Bárbara do Leste, Nova Brasilândia, Vista Alegre, São João Batista, Cruzeiro do Sul, Paraopeba, Santa Cecília do Pavão, Monsenhor Gil, Olivedos, Saudade do Iguaçu, Mariana Pimentel, Lucena, Pedregulho, Palmeiras do Tocantins, Guarujá do Sul, São Roque de Minas, Francisco Dumont e Formosa do Oeste",1,counting
+Arlanda visitou apenas sete pessoas,"Arlanda visitou Nazaré, Jó, Flor de Ceres, Dámaris, do Amparo e Perpétua",0,counting
+Marilita visitou apenas doze lugares,"Marilita visitou Aveiro, Bom Sucesso, Jateí, Várzea da Roça, Santa Bárbara, Paulo de Faria, Paverama, Santa Maria do Salto, Paraíba do Sul, Santana da Vargem, Resplendor, Altônia e Campos dos Goytacazes",1,counting
+Joyce visitou apenas catorze lugares e apenas uma pessoa,"Joyce visitou Chapadão do Céu, Cabo Frio, Água Branca, Lagoa Alegre, Dom Pedro de Alcântara, Sananduva, Cruzília, Barra do Ouro, Dona Eusébia, Nova Monte Verde, Rio de Contas, Campos Novos Paulista, Mar Vermelho, Carapebus e Promissão",1,counting
+Jil visitou apenas vinte e nove lugares e apenas vinte e dois pessoas,"Jil visitou Feba, Georgete, Laureana, Nói, Flor de Maria, Áfrika, Skylar e Si",0,counting
+Taia visitou apenas oito lugares,"Taia visitou Jardim do Mulato, Medianeira, Marília, Ubiratã, Novo Aripuanã, São Domingos, Araguaçu, Paverama e São Sepé",1,counting
+Marianna visitou apenas seis lugares,Marianna visitou Victor Graeff,0,counting
+Donzélia visitou apenas nove lugares,"Donzélia visitou Ibimirim, Cerro Largo, Canela, Cumaru, Santana, Rio do Campo, Bernardo Sayão e Itaguaí",0,counting
+Maëlis visitou apenas catorze pessoas,"Maëlis visitou Selina, Lariana, Analdina, Mina, Serenela, Deborah, Evandra, Janaína, Clementina, Inoi, Ornela, Stella, Elisabeth, Cássia e Deusa",1,counting
+Cinira visitou apenas vinte e cinco lugares e apenas dezesseis pessoas,"Cinira visitou Idrisse, do Rosário, Neide, Artemisa, Márvia, Tirza, Leah, Raven, Constance, Roana, Dilma, Niceia e Safina",0,counting
+Eleia visitou apenas sete lugares,"Eleia visitou Congonhal, Santana do Acaraú, Santa Rosa da Serra, Jaci e Castanhal",0,counting
+Louisa visitou apenas quinze lugares e apenas nove pessoas,"Louisa visitou Pixie, Esther, Samantha, Cizina, Nisa, Delmira, Obdúlia, Inara, Açucena e Drusila",1,counting
+Diane visitou apenas seis lugares,Diane visitou Nova Redenção e Ibiá,0,counting
+Briosa visitou apenas nove lugares e apenas uma pessoa,"Briosa visitou Santa Lúcia, Caraí, São José do Sabugi, Imbituva, Aragoiânia, Novo Xingu, Serrolândia, Campo Alegre de Goiás, Ielmo Marinho e Palma Sola",1,counting
+Dorina visitou apenas vinte e cinco pessoas,"Dorina visitou Brígida, Edite, Sania, Julita, Janina, Fernandina, Joanina, Arlanda, Porciana, Noiala, Briosa, Áfrika e Rosaura",0,counting
+Rosélia visitou apenas vinte e seis lugares,"Rosélia visitou Brejo Grande do Araguaia, Caraúbas, Laje, Bom Jesus da Serra, Estância, Lima Campos, Valença, Campina do Monte Alegre, Icatu e Junco do Maranhão",0,counting
+Kaira visitou apenas quinze lugares,"Kaira visitou Nova Campina, Chapada da Natividade, Limeira, Araruna, Antônio Carlos, Cabedelo, Jardim Olinda, Tejuçuoca, Feira Nova, Nova Olinda do Norte, Nicolau Vergueiro, Astolfo Dutra, Campinorte, Jaupaci, Echaporã e Várzea Nova",1,counting
+Élea visitou apenas cinco lugares e apenas uma pessoa,"Élea visitou Bernardo Sayão, Alagoa Nova, São Tomé e Buriti Bravo",0,counting
+Erika visitou apenas dezesseis lugares e apenas três pessoas,"Erika visitou Estação, Itaueira, Amontada, Artur Nogueira, Terra Rica, Ipê, Ipojuca, Ivatuba, São João do Araguaia, Valparaíso, Jardim, Ocauçu, Manoel Ribas, São José do Bonfim, Salgadinho, Apiacá e Extrema",1,counting
+Rondina visitou apenas vinte e dois lugares e apenas quatro pessoas,"Rondina visitou Thaís, Elza, Haidé, Nair e Suati",1,counting
+Josabete visitou apenas três pessoas,"Josabete visitou Especiosa, Hedviges, Severina e Lucina",1,counting
+Miranda visitou apenas quinze pessoas,Miranda visitou Gilma,0,counting
+Siomara visitou apenas onze pessoas,"Siomara visitou Dorina, Hebe, Deodete, Juli, Graziela, Ariadne, Misha, Delminda, Lorina, Leonisa, Blásia e Esther",1,counting
+Onélia visitou apenas dez lugares e apenas nove pessoas,"Onélia visitou Aiuaba, Rio do Oeste, Paracambi, Ewbank da Câmara, Alto Horizonte, Ilha de Itamaracá, Sebastianópolis do Sul, Santo Ângelo, Maruim, Mozarlândia e Buriti de Goiás",1,counting
+Glenda visitou apenas seis lugares,"Glenda visitou Conceição da Barra, Marechal Cândido Rondon e Riozinho",0,counting
+Monroe visitou apenas catorze pessoas,"Monroe visitou Persília, Hayden, Sania, Bianka, Encarnação, Louisa, Luanda, Rosinda, Diomar, Soraya, Inara, Isabelle, Lussinga, Edna e Líria",1,counting
+Artemísia visitou apenas dezoito lugares,"Artemísia visitou Pirapemas, Massapê do Piauí, Nova Londrina, Jupi, Corumbiara, Centralina, Natal, Cerrito, Casserengue, Volta Redonda e Canudos do Vale",0,counting
+Fani visitou apenas seis lugares e apenas três pessoas,"Fani visitou São Miguel, Astolfo Dutra, Dom Aquino, São João de Pirabas e Ribeirão Bonito",0,counting
+Assunção visitou apenas dezenove lugares e apenas duas pessoas,Assunção visitou Mimosa,0,counting
+Stephanie visitou apenas trinta lugares e apenas treze pessoas,"Stephanie visitou Natércia, Crystal, Charlotte, Louisa, Tiana, Otilina, Mabel, Mireie, Jerusa, Adelina, Formosinda, Ceres, Nilda e Alaíde",1,counting
+Laetitia visitou apenas vinte e um pessoas,"Laetitia visitou Marilisa, Brásia, Silvandira, Elódia, Kylie, Mirandolina, Greta, Mary, Rosária, Dores, Analdina, Jussara, Ermengarda, Jocelina, Hédila, Anquita, Tita, Nélia, Daisi, Ocridalina, Demelza e Mayara",1,counting
+Disa visitou apenas um lugar,Disa visitou Cerrito,0,counting
+Dominica visitou apenas vinte e dois lugares e apenas vinte e dois pessoas,"Dominica visitou Cataleia, Miah, Ilse, Almerinda, Eléonore, Mavelete, Gabi, Suriel, Orange, Joele e Nídia",0,counting
+Oriane visitou apenas vinte lugares e apenas oito pessoas,"Oriane visitou Rose, Matrosa, Porciana e Anatilde",0,counting
+Paolla visitou apenas dezoito lugares e apenas oito pessoas,"Paolla visitou Neise, Petrina, Hortense, Saulina, Loreta, Lussinga, Feba, Elvina e Malaika",1,counting
+Isa visitou apenas dezenove pessoas,"Isa visitou Domenica, Clemência, Pippa, Magnólia, Shana, Carmelina, Georgeta, Luizete, Eularina, Eárine, Nícia, Isolda, Ragendra, Trasila, Romeia, Elísia e Juliette",0,counting
+Carísia visitou apenas dez lugares e apenas quatro pessoas,"Carísia visitou Monteirópolis, Ângulo, Cajuri, Belo Monte, Jucás, Juramento, Tabapuã, Itapetininga, Nova Nazaré, Agronômica e Rondon",1,counting
+Isolete visitou apenas dezessete lugares e apenas treze pessoas,"Isolete visitou Cafeara, Palmeirina, Santa Rita do Araguaia, Orizânia, Tutóia, Bocaina de Minas, Chorozinho, Braço do Norte, Entre Rios do Oeste, Senador Salgado Filho, São José das Palmeiras, Vilhena, Soledade de Minas, Alvorada, Redenção, Ivolândia, Aurelino Leal e Chiador",1,counting
+Taia visitou apenas nove lugares e apenas duas pessoas,"Taia visitou Guaranésia, Condor, Ouriçangas, São Francisco do Maranhão, Gália, Caucaia, Bonito de Santa Fé e Santa Terezinha do Tocantins",0,counting
+Nely visitou apenas vinte e dois pessoas,"Nely visitou Elsinda, Síria, Faith, Ceres, Tirsa, Líria, Ekaterina, Margareta, Anaisa, Letízia, dos Santos, Erin, Nesta, Grace, Teodósia, Jorgina, Jasmine, Florisbela, Sextina e Anísia",0,counting
+Nelsa visitou apenas dez lugares e apenas duas pessoas,"Nelsa visitou de Fafe, Gonçala e Cânia",1,counting
+Dólique visitou apenas vinte pessoas,"Dólique visitou Nadja, Ivana, Manuella, Janine, Laís, Keiko, Melania, Leanor, Marinela, Emiliana, Adriane, Nazaré, Geraldina, Precious, Moana, Laya, Enilda, Arlanda, Crisália, Rachel e Dalinda",1,counting
+Semíramis visitou apenas dois lugares e apenas uma pessoa,Semíramis visitou Leslie e Dona,1,counting
+Kendra visitou apenas trinta lugares,"Kendra visitou Santa Luzia do Itanhy, São Bento, Platina, Chapadinha, Westfalia, São João do Ivaí, Doresópolis, Dores de Campos, Reriutaba, Garruchos, Picada Café, Paranavaí, Jerônimo Monteiro e Presidente Venceslau",0,counting
+Cora visitou apenas vinte e seis lugares e apenas sete pessoas,"Cora visitou Luisete, Nessa, Lina, Diane, Geralda, Lucileine, Iráis e Graziela",1,counting
+Iolanda visitou apenas quatro lugares,"Iolanda visitou São Sebastião da Bela Vista, Tucumã e Alto Araguaia",0,counting
+Bárbora visitou apenas dezoito lugares e apenas dezesseis pessoas,"Bárbora visitou Carmel, Rómula, Amina, Eléonore, Melanie, Aureliana, Albina, Osíris, Ditza, Julianna e Bina",0,counting
+Donatella visitou apenas seis lugares,"Donatella visitou Luís Gomes, Davinópolis, Santa Rosa de Lima, Teutônia, Arapeí, Planalto Alegre e Buritirama",1,counting
+Jaquelina visitou apenas onze lugares e apenas uma pessoa,"Jaquelina visitou Irajuba, Moji Mirim, São Francisco, Santa Filomena, Chapada da Natividade, Bom Princípio do Piauí, Serra do Salitre, Ilicínea, São José de Ubá, Campestre, Prados e Nova Petrópolis",1,counting
+Marguerita visitou apenas onze lugares,"Marguerita visitou Venturosa, Lajinha e Teutônia",0,counting
+Étel visitou apenas vinte e cinco lugares e apenas oito pessoas,"Étel visitou Dalinda, Teodósia, Isolda, Laurina, Mária, Antonina, Paola, Noémi e Jerónima",1,counting
+Tirza visitou apenas treze lugares,Tirza visitou Estrela do Indaiá,0,counting
+Biana visitou apenas vinte lugares,"Biana visitou Salinas da Margarida, Rifaina, Coimbra, Serrinha, Timbaúba dos Batistas, Imperatriz, Andradina, São João do Pau d'Alho, Três Passos, Riacho de Santana, Colômbia, Formosa, Prudente de Morais, Santa Maria, Brejo Santo, Carvalhos, Curvelândia, Chácara, Ibiracatu, Brejo Grande e Porto Franco",1,counting
+Coraima visitou apenas vinte e cinco pessoas,"Coraima visitou Runa, Anair, Otelina e Carol",0,counting
+Marilita visitou apenas quinze lugares e apenas oito pessoas,"Marilita visitou Lilian, Suely, Fiorella e Shania",0,counting
+Natividade visitou apenas catorze pessoas,"Natividade visitou Leonilda, Salvadora, Gaitana, Rapaz, Acácia, Rosebel, Naira, Cayetana, Hermenegilda e Margareta",0,counting
+Nimi visitou apenas vinte e oito lugares e apenas cinco pessoas,"Nimi visitou Marizete, Mabel, Esméria, Dionilde, Adália e Gracinda",1,counting
+Chanel visitou apenas vinte e nove pessoas,"Chanel visitou Leonisa, Filena, Alina, Nicoleta, Joela, Teresina, Mathilda, Rondina, Francina, Nene, Darci, Nour, Mavilde, Miraldina, Erméria, Sulamita, Norah, Inara, Delfina, Tanagra, Pippa, Sásquia e Elizabete",0,counting
+Carmelina visitou apenas vinte e seis lugares e apenas dezesseis pessoas,"Carmelina visitou Lilá, Eurídice, Thérése, Dona, Belosinda, Clarinda e Jéni",0,counting
+Anita visitou apenas catorze lugares e apenas três pessoas,"Anita visitou Américo de Campos, Erval Velho, Jaguariaíva, Araricá, Araruna, Sinimbu, Apiacá, Vargem Grande do Rio Pardo e Monte Santo de Minas",0,counting
+Rosália visitou apenas seis lugares e apenas três pessoas,"Rosália visitou Cocal de Telha, Paranhos e Ribeirópolis",0,counting
+do Socorro visitou apenas dezenove pessoas,"do Socorro visitou Carmen, Astride, Arménia, Marcelina, Naiane, Altina, Mirandolina, Julinha, Cremilde, Khaleesi, Modesta, Marisela, Marise, Lila e Naíde",0,counting
+Ruth visitou apenas nove lugares e apenas três pessoas,"Ruth visitou Planalto Alegre, Ituporanga, Encanto, Betim, Santa Clara do Sul, Frei Gaspar e Assunção",0,counting
+Clívia visitou apenas vinte e sete pessoas,"Clívia visitou Pégui, Malika, Cesária, Bernadete, Maribel, Natalina, Isália, Maritila, Grace, Semíramis, Eudora, Agna, Simoneta, do Amparo, Girel, Alaina, Nathalie, Roberta, Lucialina, Artemisa, Pulquéria, Benjamina, Constantina, Dona, Quaresma, Flor de Maria, Riu e Jennifer",1,counting
+Severa visitou apenas dez lugares e apenas uma pessoa,"Severa visitou Isaías Coelho, João Ramalho, Indiaroba, Capanema, Torre de Pedra, Ourinhos, Silveira Martins, Tuneiras do Oeste, Porto Amazonas, Santa Mariana e Benevides",1,counting
+Elis visitou apenas dezesseis lugares e apenas dezesseis pessoas,"Elis visitou Balneário Camboriú, Leme, Jucurutu, Alagoinhas, Guarinos, Itaguatins, Santo Antônio do Retiro, Sabáudia, Águas da Prata, Pescador, Medina, Batalha, Itinga do Maranhão, Varginha, Caibaté, Rio Sono e Passa Quatro",1,counting
+Reeva visitou apenas vinte e oito lugares,"Reeva visitou Pedro Afonso, São Fidélis, Bujaru, Santa Cruz das Palmeiras e Cristino Castro",0,counting
+Lumena visitou apenas quinze pessoas,"Lumena visitou Gravelina, Catherina, Suriel, Isabella, Cânia, Mathilda, Tessa, Irisalva, Ermengarda, Nene, Emanuella, Amara, Geisa, Loela, Donzélia e Ella",1,counting
+Ângel visitou apenas treze lugares e apenas onze pessoas,"Ângel visitou Naiane, Albertina, Idalete, Severina, Selésia, Kai, Elisabeta, Gregória e Neise",0,counting
+Léanor visitou apenas dezesseis pessoas,Léanor visitou Rosália,0,counting
+Leonete visitou apenas treze lugares,Leonete visitou João Alfredo e Cabeceiras do Piauí,0,counting
+Naia visitou apenas onze lugares,"Naia visitou Santo Antônio dos Milagres, Alto Rio Novo, Presidente Epitácio, Pilar do Sul, Pongaí, Itajá, Ibertioga, Candeias, Godofredo Viana, Paula Freitas, Araguatins e Iracema",1,counting
+Rufina visitou apenas um lugar e apenas uma pessoa,Rufina visitou Emma e Gonzaga,1,counting
+Domitila visitou apenas doze lugares e apenas onze pessoas,"Domitila visitou Bias Fortes, Rubim, Mucajaí, Itanhandu, Niquelândia, Campo de Santana, São José da Vitória, Guaraqueçaba, Oscar Bressane, Rio Branco do Sul, Guapiara, Quatro Barras e Inaciolândia",1,counting
+Aruna visitou apenas doze lugares e apenas três pessoas,"Aruna visitou Cajuri, Buenópolis, Prainha, Goianésia do Pará, Turvânia, Panambi, São Francisco de Itabapoana, Boa Vista das Missões, Nova Hartz, Lago da Pedra e Pariconha",0,counting
+Nara visitou apenas vinte e seis lugares,"Nara visitou Itaubal, Uruoca, Capela do Alto, Tapes, Igarapé, Sucupira do Norte, Ibicuí, São José do Ouro, São Gonçalo do Sapucaí, Ituporanga, Morro Cabeça no Tempo, Caxias, Senhora de Oliveira, Capitão Poço, Irati, Aporé, Poté, Iretama, Quixadá, Umari, São José dos Quatro Marcos, Balneário Gaivota, Piaçabuçu, Paranaiguara, Santa Luzia do Itanhy, Olho d'Água e Cássia dos Coqueiros",1,counting
+Brites visitou apenas vinte e sete lugares,"Brites visitou Muriaé, São João do Pau d'Alho, Munhoz, Trabiju, Coaraci, Araioses, São Lourenço do Oeste, São José do Egito, Imaruí, Aracitaba, Conceição do Coité, São Brás, Harmonia, Bertolínia, São João del Rei, Trombudo Central, Sento Sé, São João da Ponte, Veredinha, Pontes Gestal, Itá, Suzanápolis, Bugre, Salmourão, Ituiutaba, Paulo Afonso, Poção e São Pedro dos Ferros",1,counting
+Lola visitou apenas onze lugares e apenas onze pessoas,"Lola visitou Mícia, Demelza, Pedrina, Hália, do Rosário, Firmina, Sury, Isa, Albana, Méline, Quézia e Priscilla",1,counting
+Elaina visitou apenas vinte e nove lugares e apenas dezessete pessoas,"Elaina visitou Florence, Mariah, Laia, Daniana, Ada, Erica, Lucelinda, Marquesa, Dúlia, Almira, Safia, Lorine e Belarmina",0,counting
+Suriel visitou apenas vinte e dois pessoas,"Suriel visitou Suria, Marcela, Aldora, Nausica, Laisa, Lumena, Balbina, Kira, Myra e Alexia",0,counting
+Selene visitou apenas vinte e cinco lugares,"Selene visitou Bambuí, Senador Elói de Souza, Maracanaú, Ererê, Nova Veneza, Bom Sucesso de Itararé, Januária, Capinópolis, Atalaia do Norte, Guaiúba, Pedra Dourada, Iuiú, São Bento do Sapucaí, Nova Mamoré, Curionópolis, Pedro Alexandre, Pedras de Maria da Cruz, Fama, Araranguá e São Félix",0,counting
+Gardela visitou apenas dezesseis lugares e apenas treze pessoas,"Gardela visitou Benilde, Edina, Analisa, Helen, Hermânia, Agripina, Pérola, Elódia, Mavelete, Salvação, Cristele, Gileade, Isaltina e Cris",1,counting
+Felisbela visitou apenas quinze lugares,"Felisbela visitou Ibirá, Cachoeira do Piriá, São João Nepomuceno, Comendador Gomes, Barra do Ouro, Telêmaco Borba, Desterro, Bodó, Itanhangá, Perdões, Acrelândia, Arraial, Conceição, São João do Rio do Peixe, Jaquirana e São José das Missões",1,counting
+Odete visitou apenas vinte e seis lugares e apenas uma pessoa,"Odete visitou Jacinto, Ijuí, Imbuia, Ibitiara, Araguanã, Florianópolis, Açailândia, Malacacheta, Erechim, Brejões, Acauã, Vila Nova do Piauí, Sucupira, Jordão, Eirunepé, Mangaratiba, Xinguara, Santa Rosa de Goiás, Cerro Negro, Pacajus, Rafael Jambeiro, Frei Martinho, Álvares Machado, Pajeú do Piauí, Porto Feliz, Osvaldo Cruz e Pureza",1,counting
+Selina visitou apenas três pessoas,"Selina visitou Mirela, Iolanda, Filena e Patrocínia",1,counting
+Excelsa visitou apenas dezoito lugares,"Excelsa visitou Raul Soares, Santa Mônica, João Neiva, Ernestina, Laranjal, Bataguassu, Riachinho, São Luís de Montes Belos, Canelinha, Bento Fernandes, São João do Paraíso, Maetinga, Bastos, Joselândia, Poços de Caldas, Anhumas, Divino, Pato Bragado e Campo Magro",1,counting
+Raquelina visitou apenas um lugar,Raquelina visitou Baixa Grande,0,counting
+Marian visitou apenas seis lugares e apenas três pessoas,"Marian visitou Virgolândia, Mulungu, Ciríaco, Bonfinópolis, Nova Andradina, Bertópolis e Cascavel",1,counting
+Corália visitou apenas catorze lugares e apenas quatro pessoas,"Corália visitou Mariah, Brice, Matilda, Matrosa e Ioana",1,counting
+Léane visitou apenas três lugares e apenas três pessoas,"Léane visitou Gurjão, Serra Negra, Santa Cruz da Conceição e Chapecó",1,counting
+Salúquia visitou apenas quinze pessoas,"Salúquia visitou Moana, Thalia, Romilda e Duartina",0,counting
+Liv visitou apenas um lugar e apenas uma pessoa,Liv visitou São José do Xingu e Alvorada,1,counting
+Carísia visitou apenas dezesseis lugares,"Carísia visitou Nova Mamoré, Várzea Grande, Açu, Senador Modestino Gonçalves, Viçosa, Morada Nova de Minas, Maripá, Casa Nova, Ibirá, Casa Grande, Sete Barras, Calumbi, Chã Grande, Castelo, Conceição do Araguaia, Jateí e Senador Amaral",1,counting
+Gislene visitou apenas vinte e cinco lugares e apenas vinte e três pessoas,"Gislene visitou Kailani, Suriel, Estéfana, Tara, Tanagra, Anusca, Aldora, Tabata, Saula, Salvadora, Rosebele, Katty, Cipora, Joaninha, do Céu e Felisbina",0,counting
+Lariana visitou apenas quatro lugares,Lariana visitou Senador Rui Palmeira e Parisi,0,counting
+Otelina visitou apenas vinte e quatro lugares,"Otelina visitou Ipuã, Japurá, Iguatu, Guaiúba, Itaperuçu, Riachinho, Tremedal, São João do Pau d'Alho, Catiguá, Santa Cruz do Capibaribe, Santa Rita, Caieiras, Miranda, Itapoá, Marapoama, Alvarenga e Aral Moreira",0,counting
+Salete visitou apenas sete lugares e apenas seis pessoas,"Salete visitou Maxaranguape, Capitão Poço, Pinhão, Encruzilhada do Sul, Santa Teresinha, Vargem Grande Paulista, Alegre e Conceição de Ipanema",1,counting
+Guislene visitou apenas dezoito lugares e apenas dezessete pessoas,"Guislene visitou Amandina, Geraldina, Antonina, Mariamar, Natasha, Mercília, Isilda, Marianna, Gonçala, Adélia, Ezequiela, Lola, Isalina, Mira, Carisa, Graziela, Marcelina e Lou",1,counting
+Dora visitou apenas vinte e nove pessoas,"Dora visitou Estrella, Terência, Teresinha, Lucilina, Rosária, Belmonte, Jordana, Dânia, Nirvana, Iasmina, Lenira, Nazarina, Mecília, Ragendra, Salúquia, Jael, Elis, Engelécia, Chi, Lucie e Dona",0,counting
+Malika visitou apenas dezenove lugares e apenas onze pessoas,"Malika visitou Ambrósia, Feliciana, Gerta, Isolda, Liduína, Célia, Léa, Giada, Jada, Paula, Danila e Nói",1,counting
+Libertária visitou apenas trinta lugares e apenas vinte e cinco pessoas,"Libertária visitou Mercília, Giuliana, Carmorinda, Georgete, Hália, Patrocínia e Dara",0,counting
+Susanna visitou apenas quatro lugares e apenas três pessoas,"Susanna visitou Cristais Paulista, Antônio Carlos, Munhoz, Severínia e Presidente Juscelino",1,counting
+Átina visitou apenas treze lugares e apenas onze pessoas,"Átina visitou Lassance, Rafael Godeiro, Bastos, Itatiaiuçu, Tomé-Açu, Divisa Alegre, Xangri-lá, Arataca, Campinápolis, Caraúbas, Rio Negro, Miraí, Murici e Igaratinga",1,counting
+Dalva visitou apenas doze lugares,Dalva visitou Olho d'Água,0,counting
+Duana visitou apenas vinte e oito lugares,"Duana visitou Motuca, Cafelândia, São Pedro, Guarabira, São Domingos do Prata, Francisco Sá, Imbé, Salinas da Margarida, Pedra Mole, Nilo Peçanha, Nova Lacerda, Rio Sono, Martins, Jundiá, Glória D'Oeste, Vitorino, Grossos, Pedro Avelino, Vila Bela da Santíssima Trindade, Lagoa do Carro, Batayporã, Varginha, Betim, Passagem Franca, Palmares do Sul, Espigão D'Oeste, Guajeru, Valparaíso e Bituruna",1,counting
+Inoi visitou apenas um lugar e apenas uma pessoa,Inoi visitou Shine,0,counting
+Nilda visitou apenas vinte e seis lugares e apenas oito pessoas,"Nilda visitou Mombaça, Chapada da Natividade, Garanhuns, Guatambú, Barra, Barra do Ribeiro, Tenente Portela, Glicério, Diamante do Norte, Palmeiras do Tocantins, Antonina do Norte, Amontada, Pinhalzinho, Senador Georgino Avelino, Monte Santo de Minas, Cidade Gaúcha, Santa Inês, Dirce Reis, Sapiranga, Brás Pires, Tocantinópolis, Santana de Parnaíba, Iguatu, Itaú de Minas, Guabiju, Rondon do Pará e Água Doce do Maranhão",1,counting
+Ifigénia visitou apenas vinte e dois lugares,"Ifigénia visitou Coração de Jesus, Triunfo, Santa Fé, Douradina, Assis Chateaubriand, Faxinal dos Guedes, Palmeira do Piauí, União de Minas, Tiradentes do Sul, Lafaiete Coutinho, Baliza, São Domingos, Pilar, Sossêgo, Mallet, Salgado Filho, Alto Longá, Amargosa, Schroeder, Igarapé-Açu, Pedranópolis, Luzerna e Guaíra",1,counting
+Crisálida visitou apenas catorze pessoas,"Crisálida visitou Antonela, Sulamita, Liara, Inara, Lisete, Gilma, Nami e Siomara",0,counting
+Luanda visitou apenas vinte e quatro lugares,"Luanda visitou Lavrinhas, Bernardo do Mearim, Sobral, Pedra do Anta, Santa Bárbara, Pedra Branca, Jacuípe, Jaguaré, Ponte Nova, Vila Nova do Sul, Cândido Mendes, Foz do Iguaçu, Guanambi, Itaguatins, Santana do Itararé, Inimutaba, Sítio do Mato, Jandaia do Sul, Campina da Lagoa, Nova Lima, Nova Alvorada do Sul, Cambira, Palestina de Goiás, São José do Sabugi e Serra Dourada",1,counting
+Odette visitou apenas quinze pessoas,"Odette visitou Libéria, Taia, Belina, Assunta, Palmira, Delmina, Constantina, Milagre, Lucina, Niah, Heidi, Naíde, Nola, Almesinda, Saray e Eda",1,counting
+Silvina visitou apenas trinta lugares e apenas vinte e dois pessoas,"Silvina visitou Catherine, Fédora, Priyanka, Jessie, Lucrécia, Ellen, Leopoldina, Pámela, Ione, Aureliana, Ivone, dos Anjos, Iana, Nília, dos Mártires, Marilina, Cíntia, Salomite, Laís, Lhuzie, Dejanira, Ciana e Palmira",1,counting
+Anair visitou apenas quinze lugares e apenas catorze pessoas,"Anair visitou Eliane, Élea, Natalina, Rose, La-Salete, Agatha, Leona e Marisol",0,counting
+Bárbora visitou apenas onze lugares e apenas oito pessoas,"Bárbora visitou Lajedo do Tabocal, Jaguarari, Jacuizinho, Fervedouro, Cornélio Procópio, Ceres, Anadia, Acopiara, Caconde e Rio Negrinho",0,counting
+Jezabel visitou apenas dezesseis lugares e apenas dez pessoas,"Jezabel visitou Galvão, Herculândia, Alfredo Wagner, Prado Ferreira, Mauá da Serra, Mendes Pimentel, Esperantina, Amapá, Areia Branca, Colatina, Cerquilho, Munhoz, Sapeaçu, Jaguaraçu, Balbinos, Antônio Carlos e Denise",1,counting
+Arlete visitou apenas oito lugares e apenas quatro pessoas,"Arlete visitou Gala, Odete, Jani, Joele e Analu",1,counting
+Sacha visitou apenas vinte e um lugares e apenas doze pessoas,"Sacha visitou Melida, Idalisa, Énia, Nathália, Holly, Sofie, Nélia, Jaqueline, Brásia, Filena, Olinda, Florbela e Rania",1,counting
+Lenira visitou apenas dezesseis lugares e apenas dez pessoas,"Lenira visitou Ibirapuã, Graça, Aramari, Rio Grande do Piauí, Populina, Chuvisca, Dumont e Rosário Oeste",0,counting
+Gloriosa visitou apenas vinte e três lugares e apenas seis pessoas,"Gloriosa visitou Lisete, Léna, Erica, do Socorro, Didiana, Jacqueline e Arlete",1,counting
+Auta visitou apenas vinte e três pessoas,"Auta visitou Leonídia, Amira, Sarai, Neiza, Benigna, Cosete, Leonora, Naíma, Misha, Gonzaga, Danila, Sancha, Hermana, Marilda, Hazel, Constância, Joelma, Elina e Idalisa",0,counting
+Fidélia visitou apenas vinte e sete lugares e apenas dezesseis pessoas,Fidélia visitou Rio Branco do Sul,0,counting
+Melodia visitou apenas vinte lugares e apenas quinze pessoas,Melodia visitou Brejo Grande do Araguaia,0,counting
+Darci visitou apenas cinco pessoas,"Darci visitou do Céu, Rihanna, Ismália, Arlete, Muna e Claudemira",1,counting
+Formosa visitou apenas vinte e dois lugares,"Formosa visitou Nazaré da Mata, Alvarenga, Campinas do Sul, Ribeira do Piauí, Tucumã, Nova Glória, Rio Brilhante, Pinhal, Alto Paraguai, Sete Quedas, Lagoa do Barro do Piauí, Araçatuba, Tapauá, Arara, Nova Independência, Pedra Mole, Bom Jesus do Tocantins, Leopoldina, Tauá, Três Lagoas, Mangaratiba, São Sebastião do Anta e Caldas",1,counting
+dos Anjos visitou apenas catorze lugares e apenas quatro pessoas,"dos Anjos visitou Porto Belo, Sumidouro, São João de Pirabas, Santo Expedito, Salgado, Matinha, Itobi, Santa Bárbara do Leste, Cláudio e Irupi",0,counting
+Analdina visitou apenas catorze lugares e apenas dez pessoas,"Analdina visitou Elisama, Myla, Benilde, Aniana, Poliana, Luciana e Shakira",0,counting
+Namira visitou apenas vinte e quatro lugares e apenas vinte e três pessoas,Namira visitou Piraju e São João Batista do Glória,0,counting
+Nazária visitou apenas três pessoas,Nazária visitou Gloriosa,0,counting
+Mirna visitou apenas doze lugares e apenas dez pessoas,"Mirna visitou Lucina, Nanina, Clorinda, Ricardina, Isalina, Atenais, Joya, Miley, Maëlis, Melinda e Malía",1,counting
+Isalina visitou apenas dez lugares e apenas quatro pessoas,"Isalina visitou Joaquim Pires, Tupiratins, Corrente, Almas, Ingazeira, Veríssimo, São Domingos do Capim e Ouroeste",0,counting
+Naima visitou apenas treze lugares e apenas treze pessoas,"Naima visitou Lindoeste, Sério, Mirandiba, Limoeiro do Ajuru, Matinhas, Propriá, Santo Antônio do Içá, Itaúna, Araras, Belágua, Nova Bandeirantes, Uiramutã, Iretama e Bom Sucesso",1,counting
+Jezabel visitou apenas dezenove pessoas,"Jezabel visitou Daisy, Isolda, Ezequiela, Suzi, Reeva, Nilda, Flor de Maria, Dolores e Anair",0,counting
+Gravelina visitou apenas vinte e dois pessoas,"Gravelina visitou Mona, Natanaela, Clare, Melisa, Sade e Eudora",0,counting
+Kathleen visitou apenas dezoito lugares,"Kathleen visitou Turiúba, Fernandes Tourinho, Serra Azul de Minas, Itaqui, Balsa Nova, Tuparetama, Jundiá, Tavares, Luiz Alves, Santa Rosa de Goiás, Poção de Pedras, Mucuri, Gurjão, Urucuia, Virmond, Cedro de São João, Cruz, Jari e Santana da Vargem",1,counting
+Joselina visitou apenas vinte e cinco lugares e apenas nove pessoas,"Joselina visitou Aldara, Deodata, Santa Rita, Maia, Helga, Florence, Papoila, Charlize, Ohana e Margareta",1,counting
+Mariah visitou apenas quatro lugares e apenas quatro pessoas,"Mariah visitou Eléonore, Nur, Marilina, de São Luís e Alexina",1,counting
+Rómula visitou apenas dezesseis lugares,"Rómula visitou Siqueira Campos, Terra Nova, Abaré, Sanclerlândia, Além Paraíba, Campo Magro, Santa Rita do Passa Quatro, Santa Fé do Sul, São Bento do Una, Ituverava, Amajari, Jurema, Teotônio Vilela, Iapu, Cardoso Moreira, Surubim e Volta Grande",1,counting
+Gileade visitou apenas um lugar e apenas uma pessoa,Gileade visitou Bom Princípio,0,counting
+Mercília visitou apenas vinte e um lugares e apenas vinte pessoas,"Mercília visitou Ambrosina, Almara, Cleópatra, Aldenora, Auta, Mirela, Norah, Muriel, Simaura, Seong, Peyton, Analu, América, Marcelina, Amina, Selesa, Hayden, Naíma, Noah, Mariema e Samira",1,counting
+Basília visitou apenas vinte e dois pessoas,"Basília visitou Paolla, Jacinta, Patrocínia, Simona, Emiliana, Nadina, Africana, Margarita, Louise, Hortênsia, Gonçala, Delisa, Rafa, Katherina, Julianna, Rachel, Nicandra, Artemísia e Glaúcia",0,counting
+Lenira visitou apenas dezenove pessoas,"Lenira visitou Lizia, Neotera, Tiara, Nélia, Io, Josiane, Maia, Fantina, Davínia, Nausica, Fânia, Eleni, Cibele, Gustava, Kaya, Hope, Marcela, do Socorro, Lubélia e Osíris",1,counting
+Cléo visitou apenas vinte e cinco lugares e apenas seis pessoas,Cléo visitou Fiorella e Mariamar,0,counting
+Malika visitou apenas duas pessoas,Malika visitou Dúnia,0,counting
+Jorgina visitou apenas dezenove lugares e apenas sete pessoas,"Jorgina visitou Boa Vista do Cadeado, Umburatiba, Figueira, Belo Vale, Tasso Fragoso, Ubirajara, Portalegre, Araguaiana, Moeda, Ourinhos, Jaguaretama, Alagoa, Rifaina, Soledade, Baturité, Santa Rita do Pardo, Timóteo e Reserva",0,counting
+Juraci visitou apenas vinte e nove lugares e apenas vinte e oito pessoas,"Juraci visitou Selbach, Santana do Cariri, Campo Belo do Sul, Cachoeirinha, Santo André, Gravatal, Sento Sé, São Bento, Casa Nova, Serranópolis, Catuti, Valparaíso, Conquista, Formoso do Araguaia, Antônio Martins, Verê, Poá, Angicos, Trabiju, Santa Luzia do Itanhy, Capitão de Campos, Santa Cecília, Ronda Alta, Lagoa do Carro, Buriti de Goiás, Torrinha, Uruaçu, Itapagé, Sorriso e Joinville",1,counting
+Salima visitou apenas três lugares e apenas uma pessoa,Salima visitou Sury e Anaísa,1,counting
+Gelsemina visitou apenas oito pessoas,"Gelsemina visitou Simara, Marilda, Marian, Lina, Jessy, Angie, Mariam, Gina e Naia",1,counting
+Indira visitou apenas dezessete lugares e apenas oito pessoas,"Indira visitou Curral Novo do Piauí, Cajueiro e Frecheirinha",0,counting
+Leena visitou apenas três lugares,"Leena visitou São Gonçalo do Amarante, Tapes, Vera Cruz e Pranchita",1,counting
+Chanda visitou apenas catorze lugares e apenas oito pessoas,"Chanda visitou Cacimba de Dentro, Uiraúna e Ernestina",0,counting
+Evelin visitou apenas dezoito lugares e apenas duas pessoas,"Evelin visitou Croatá, Barra Bonita, São Pedro do Sul, Patos de Minas, Itaguari, Simão Pereira, Livramento de Nossa Senhora, Paraúna, Rio Acima, Guaíra, Alagoa, São Simão, Doutor Maurício Cardoso e Taquarussu",0,counting
+Carsta visitou apenas catorze pessoas,"Carsta visitou Trinity, Bertila, Assunta, Benigna, Cleide, Inácia, Reece, Faustina, Mourana, Niah, do Céu, Dalinda, Nikita, Marizete e Jael",1,counting
+Lea visitou apenas vinte e um lugares,"Lea visitou Motuca, Novo Horizonte do Oeste, São Tomás de Aquino, Lagoa da Canoa, Inhumas, Imbituva, Campestre, Campina das Missões, Boa Vista, Lavandeira, Rolim de Moura, Peritoró, Nova Ramada, Hulha Negra, Itapemirim, Joaquim Gomes, Astolfo Dutra, Pau dos Ferros, Uruana de Minas, Taboão da Serra, Barreiros e Santa Maria do Suaçuí",1,counting
+June visitou apenas sete pessoas,"June visitou Benice, Nirina, Ivory, Raphaela, Ádila, Khloe, Isabelle e Altina",1,counting
+Átina visitou apenas dezesseis lugares e apenas três pessoas,"Átina visitou Brasileira, Mateus Leme, Guaraci, Capinópolis, Adamantina, Joaquim Nabuco, Lagoa da Prata, Veredinha, Canguaretama, Baixa Grande do Ribeiro e Monsenhor Paulo",0,counting
+Arlanda visitou apenas duas pessoas,"Arlanda visitou Rufina, Maré e Assunta",1,counting
+Áfrika visitou apenas vinte e cinco lugares e apenas vinte pessoas,"Áfrika visitou Myra, Carmina, Angelita, Deusa, Amanda, Chema, Leocádia, Auxília, Nirvana, Fernandina, Clarinda, Emanuella, Reeva, do Céu, May, Marguerita e Lucíola",0,counting
+Arlanda visitou apenas vinte e sete lugares e apenas vinte e cinco pessoas,"Arlanda visitou Liduína, Ocridalina, Gertrudes, Fani, Myra, Ivânia, do Nascimento, Raíssa, Liane e Osíris",0,counting
+Rosandra visitou apenas treze lugares e apenas treze pessoas,"Rosandra visitou Nadina, Gelsemina, Dídia, Suzy, Telma, Silke, Lucialina, Muriela, Briolanja, Brena, Firmina, Felisbina, Evandra e Nídia",1,counting
+Irma visitou apenas vinte e sete pessoas,"Irma visitou Dídia, Oureana, Myra, Adelinda, Morena, Gerta, Lace, Thai, Iráis, Maia, Daniella, Sandy, Séfora, Luiza, Donatella, Sana, Marita, Diane, Marilda, Cereja, Laurina e Idalete",0,counting
+Dores visitou apenas dezessete lugares e apenas quatro pessoas,Dores visitou Bertioga,0,counting
+Kylie visitou apenas quatro pessoas,Kylie visitou Bina,0,counting
+Sancha visitou apenas oito lugares e apenas cinco pessoas,"Sancha visitou Catalina, Rogélia, Farida e Abna",0,counting
+Basilissa visitou apenas oito lugares e apenas oito pessoas,"Basilissa visitou Maísa, Haidé, do Céu, Cremilde, Jovelina, Corália, Amira, Santa Cruz e Cinara",1,counting
+Leonida visitou apenas vinte e dois lugares,"Leonida visitou Olho d'Água, Lagoa da Confusão, Mandaguaçu, Baependi, Mirandiba, Feira Nova, Goiânia, Campos dos Goytacazes, Amapá, Estação, Paulo Jacinto, Ramilândia, Nova Guarita, Biquinhas, Juruá, Cachoeira de Minas e Cavalcante",0,counting
+Teodósia visitou apenas vinte e um lugares e apenas onze pessoas,"Teodósia visitou Bocaina, Talismã, Buritinópolis, Tocantins, Dumont, Jardim Olinda, Apodi, Resende, Quixeramobim, Rebouças, Mantena, São José do Campestre, Batalha, Icó, Cambará, Quartel Geral, São Gonçalo do Amarante, Siqueira Campos, Cruzália, Dom Bosco, Joaquim Pires e Arinos",1,counting
+Amy visitou apenas dois lugares,Amy visitou Santa Luzia do Norte,0,counting
+Lucrécia visitou apenas vinte e seis lugares,"Lucrécia visitou Paracuru, São Bentinho, Reserva do Cabaçal, Buritama, Baldim, Garrafão do Norte, Monsenhor Gil, Vale Verde, Presidente Bernardes, Anadia, Itutinga, Jaú do Tocantins, Cambuquira, Jataizinho, Ninheira, Lagoa Bonita do Sul, Santa Rosa de Lima, Castro, Cruzeta, Paulínia e Braga",0,counting
+Graciliana visitou apenas vinte e nove lugares e apenas dez pessoas,"Graciliana visitou Ladário, Vista Serrana, Lindóia, Josenópolis, Guabiju, Itueta, Lajeado, Chapadão do Sul, Domingos Martins, Ouricuri, Araruna, Brasilândia do Sul, Ubaí, Maximiliano de Almeida, Bonfinópolis de Minas, Cafezal do Sul e João Lisboa",0,counting
+Elmira visitou apenas quinze pessoas,"Elmira visitou Danila, Francina, Oksana, Fia, Justa, Nânci, Armanda, Élin, Liza, Bianka, Inoi, Etelvina, Diomar, Chantal, Elícia e Carminda",1,counting
+Seomara visitou apenas dezessete lugares e apenas duas pessoas,"Seomara visitou Assunção, Tapiraí, Oriente, Tiradentes do Sul, Honório Serpa, Sinimbu, Malacacheta, Santo Amaro, Cristópolis, Presidente Dutra, Machacalis, Olivedos, Ererê e Bilac",0,counting
+Dafne visitou apenas uma pessoa,Dafne visitou Catherina,0,counting
+Leoménia visitou apenas um lugar e apenas uma pessoa,Leoménia visitou Lagamar e Varjão,1,counting
+Belosinda visitou apenas dezenove pessoas,"Belosinda visitou Lhuzie, Ludovice, Aldenir, Malvina, Mikaela, Elaine, Seomara, Hédila, Leontina, Tessa, Helen, Bartolina, Lorenza, Neli, Siomara, Miliza, Benjamina, Jânia, Muriel e Ondina",1,counting
+Arinda visitou apenas dois lugares e apenas duas pessoas,Arinda visitou Itajuípe,0,counting
+Suati visitou apenas dez lugares e apenas duas pessoas,"Suati visitou do Amparo, Dorine e Simara",1,counting
+Louise visitou apenas vinte e cinco pessoas,Louise visitou Florencia e Agna,0,counting
+Dinarta visitou apenas três lugares,Dinarta visitou Afogados da Ingazeira,0,counting
+Afonsina visitou apenas vinte e nove lugares e apenas vinte e três pessoas,"Afonsina visitou Otilina, Hulda, Isalina, Safina, Neusa, Leonilda, Abby, Neli, Crestila, do Céu, Leana, Ticiane, Ariane, Almira, Nali, Ezequiela, Lola, Leonilde, Nayara, Niceia, Marcília, Dakota, Quitéria e Bérnia",1,counting
+Gertrudes visitou apenas um lugar e apenas uma pessoa,Gertrudes visitou Keiko,0,counting
+Melanie visitou apenas oito lugares,Melanie visitou Matinha,0,counting
+Melanie visitou apenas vinte pessoas,"Melanie visitou Lorina, Mira, Analisa, Biana, Iva, Dina, Antonela, Feba, Analdina, Saray, Liv, Miranda e Chi",0,counting
+Siomara visitou apenas catorze lugares e apenas quatro pessoas,"Siomara visitou São João Batista, Lagoa do Itaenga, Turvolândia, Anadia, Caratinga, Campestre do Maranhão, Belterra, Jaramataia, Itaporã, Acaiaca, Torre de Pedra, Itapororoca, Gararu, Guará e Belmonte",1,counting
+Suria visitou apenas trinta lugares,"Suria visitou Borá, Seara, Palmeirândia, Barra de São Miguel, Manoel Viana, Gaurama, Itaguaru, Senador José Bento, Itanagra, Arroio dos Ratos, Aparecida do Rio Negro, Anahy, Natividade da Serra, Guapó, Santa Fé de Goiás, Entre Folhas, Flexeiras, Candiba, Senhor do Bonfim, Assunção, Ubajara, Mairiporã, São Carlos, Santa Rita do Novo Destino, Montes Altos, Rochedo de Minas, Correntina, Mormaço, Mostardas, Periquito e Ampére",1,counting
+Amável visitou apenas três pessoas,Amável visitou Sira e Alisande,0,counting
+Ticiane visitou apenas vinte e cinco lugares e apenas dez pessoas,"Ticiane visitou Luzinópolis, Congonhal, Piracicaba, Aripuanã, Senhora do Porto, Periquito, Schroeder, Maravilhas, Nova Timboteua, Sagrada Família, Capim Grosso, Itá, Selvíria, Porto Ferreira, Parobé, Jundiaí do Sul, Coreaú, Taquaritinga, Presidente Prudente, Potiretama, Caçapava do Sul, Capão do Cipó, Santo Antônio de Lisboa, Trairi, Salgadinho e São Francisco do Maranhão",1,counting
+May visitou apenas dezenove lugares e apenas doze pessoas,"May visitou Prudente de Morais, Novo Horizonte do Sul, Correntina, Bituruna, Matões, Poço Branco, Marmelópolis, Monte Santo do Tocantins, Cipotânea, Manaquiri, Aripuanã, Careiro, Capão Bonito, Cacique Doble, Caranaíba, Pacoti, Carmópolis, Tomazina, Pirapetinga e Munhoz de Melo",1,counting
+Antera visitou apenas três lugares e apenas uma pessoa,Antera visitou Mimosa,0,counting
+Lexie visitou apenas dezessete pessoas,"Lexie visitou Perpétua, Saulina, Eleni, Lenira, Otelinda, Lauriana, Ricardina, Florença, Noémi, Mavelete, Bertila, Romina, Marli, Abna e Eularina",0,counting
+Candice visitou apenas sete lugares,"Candice visitou Reriutaba, Carmo do Rio Verde, Águas de Santa Bárbara, Capinzal do Norte, Fernão, Mucajaí, Borrazópolis e Manoel Emídio",1,counting
+Dorisa visitou apenas vinte e quatro lugares,"Dorisa visitou Palmeirândia, Guaraí e Monte Castelo",0,counting
+Niceia visitou apenas vinte e um lugares e apenas onze pessoas,"Niceia visitou Dircila, Maribel, Ercília e Aminata",0,counting
+Holly visitou apenas vinte e sete lugares,"Holly visitou Coronel José Dias, Cachoeiro de Itapemirim, Feira Nova do Maranhão, Jenipapo dos Vieiras, Itapirapuã Paulista, Caruaru, Cacimbas, Pindamonhangaba, Santa Bárbara, Tuparendi, Caiabu, Canas, Campo Alegre de Lourdes, Bom Jesus, Salto Grande, São Domingos do Azeitão, Antonina, Lagamar, Pedra Preta, São Raimundo Nonato, Novo Acordo, Bambuí, Flor do Sertão, Geminiano, Coronel Pilar, Barra da Estiva, Ladário e Chorozinho",1,counting
+Geralda visitou apenas dois lugares e apenas uma pessoa,Geralda visitou Ellie,0,counting
+Rachel visitou apenas catorze lugares,Rachel visitou Pariquera-Açu e Goioxim,0,counting
+Porciana visitou apenas uma pessoa,Porciana visitou Jalmira e Ercília,1,counting
+Julinda visitou apenas dezessete lugares e apenas dezessete pessoas,"Julinda visitou Canaã dos Carajás, Estiva, Tabuleiro, Santaluz, São Bento do Sul, Sobradinho, Envira, Quatipuru, Campo Grande, Santa Cruz, Guabiruba, Marema, São Domingos, Juripiranga, São Brás, Brasópolis, Estrela e Erval Grande",1,counting
+Macati visitou apenas cinco lugares e apenas duas pessoas,Macati visitou Deodete,0,counting
+Anunciada visitou apenas vinte e dois lugares,"Anunciada visitou Alvarães, Santana do Cariri, Mococa, Seberi, Mirante do Paranapanema, Dona Francisca, Várzea, Engenho Velho, Roncador, Guajará-Mirim, Breves, Sena Madureira, Flores do Piauí, Tramandaí e Telha",0,counting
+Malaika visitou apenas oito lugares e apenas sete pessoas,"Malaika visitou Quinta do Sol, Balneário Camboriú, Escada, Ibirapuitã, Carlinda, São Geraldo do Baixio, Iracemápolis, Sarzedo e Macaúbas",1,counting
+Harper visitou apenas vinte e dois pessoas,"Harper visitou Dinarda, Tirsa, Graciosa, Marlene, Gustava, Seong, Margarete, Mírtila, Diamantina, Esméria, Crystal, Danila, Tara, Ambrósia, Marita, Albana, Florbela, Beatrix e Dorisa",0,counting
+Edéria visitou apenas vinte e seis lugares,"Edéria visitou Santo Antônio do Jardim, Olho D'Água do Piauí, Tatuí e Mata Roma",0,counting
+Adalgiza visitou apenas catorze pessoas,"Adalgiza visitou Mariza, Idália, Priscilla, Naíde, Carsta, Eleanor, Duana, Liberdade, Giraldina, Marcella, Marita, Delisa, Rebecca, Marcela e Kieza",1,counting
+Palmira visitou apenas vinte e sete lugares e apenas quinze pessoas,"Palmira visitou Sandovalina, Brasilândia do Tocantins, Americano do Brasil, Carira, Barretos, Porto Amazonas, Bujaru, Juruti, Lajeado do Bugre, São Francisco de Itabapoana, Canaã dos Carajás, Mato Verde, Malhada dos Bois, Cocalzinho de Goiás, Morro do Chapéu do Piauí, Caiabu, Fronteiras, Queimadas, João Ramalho, Miraguaí, Balneário Gaivota, Astorga, Caatiba, Poção de Pedras, Araguari, Ribeirão Bonito, Brejo e Urutaí",1,counting
+Lourdes visitou apenas dezesseis lugares e apenas sete pessoas,"Lourdes visitou Cubati, Dois Irmãos das Missões, Santa Rita de Ibitipoca, Guaporé, Santa Clara d'Oeste, Ibiá, Iguaba Grande, Moema, Serra Dourada, Araripina, São Romão, São José do Egito, Jacarezinho, Ulianópolis, Marapanim, São Raimundo das Mangabeiras e Sentinela do Sul",1,counting
+Darcília visitou apenas doze lugares,"Darcília visitou Wanderlândia, Ivolândia, Fazenda Vilanova, Canindé, Sumidouro, Conceição de Ipanema e São João do Pacuí",0,counting
+Clarinda visitou apenas treze pessoas,Clarinda visitou Eutália,0,counting
+Lizélia visitou apenas quinze lugares e apenas dez pessoas,"Lizélia visitou Samira, Celinia e Julita",0,counting
+Claudina visitou apenas treze lugares e apenas duas pessoas,"Claudina visitou Berilo, Nova Bassano, Santa Cruz dos Milagres, Santa Inês, Potengi, Adelândia, Teolândia, Sítio Novo do Tocantins, Bom Jardim, Indiana, Luís Correia e Ângulo",0,counting
+Agripina visitou apenas vinte e oito lugares e apenas duas pessoas,"Agripina visitou Fernando de Noronha, Lagoa Bonita do Sul, Ouro Branco, Guareí, Laranjeiras, Santa Cruz da Conceição, Eldorado dos Carajás, Flórida, Ilha de Itamaracá, Rio Branco do Ivaí, Acajutiba, Corrente e Ibirapitanga",0,counting
+Heidi visitou apenas onze lugares e apenas oito pessoas,"Heidi visitou Abdon Batista, Rio Grande do Piauí, Pereiro, Lafaiete Coutinho, Estação, Mata, Iguape, Corumbaíba e Lages",0,counting
+Auriana visitou apenas dois lugares,Auriana visitou Nova Módica,0,counting
+Belmira visitou apenas seis lugares e apenas uma pessoa,"Belmira visitou Palmares Paulista, Francisco Beltrão, Perdizes e São Bento",0,counting
+Kai visitou apenas cinco lugares e apenas quatro pessoas,"Kai visitou Alita, Carmina, Dineia, Josuana e Beanina",1,counting
+Nereida visitou apenas sete lugares e apenas três pessoas,"Nereida visitou Leonora, Gloriosa, Sâmia e Mírtila",1,counting
+Gaitana visitou apenas trinta lugares e apenas dezessete pessoas,"Gaitana visitou Águas de Chapecó, Jandaíra, Palmares, Mairiporã, Nova Trento, Ourinhos e Espírito Santo",0,counting
+Dione visitou apenas seis lugares e apenas uma pessoa,"Dione visitou Cerro Grande do Sul, Castelo do Piauí, Sirinhaém, Maxaranguape, Verê, Montanha e Chupinguaia",1,counting
+Seara visitou apenas doze lugares,"Seara visitou São José dos Cordeiros, Monte Alegre de Goiás, Novo Itacolomi, Chopinzinho, Ubaporanga, Avelinópolis, Arapiraca, Riacho de Santana, Arapoema, Ibiapina, Acari, Conde e São José dos Ausentes",1,counting
+Béatrice visitou apenas dez lugares,"Béatrice visitou Mauá, Matipó, Pirapetinga, Sento Sé, Coroados, Anhumas, Peixe-Boi, Rio Verde de Mato Grosso, Tapiraí, Piacatu e Alvorada do Norte",1,counting
+Isolina visitou apenas vinte e um pessoas,"Isolina visitou Corália, Adália, Josabete, Deotila, Edéria e Evelin",0,counting
+Saray visitou apenas onze pessoas,"Saray visitou Amabília, Crestila, Nia, Julianna, Irma, Isolina, Gina, Aniana, Aíko, Darci, Katie e Dara",1,counting
+Adelaide visitou apenas sete lugares e apenas uma pessoa,"Adelaide visitou Estrela do Indaiá, Piau, Pinheiral, João Alfredo, Tejupá, Salgadinho, Areia Branca e Viçosa",1,counting
+Lilly visitou apenas vinte lugares,"Lilly visitou Mara Rosa, Araguacema, Piatã, Erechim, Bela Vista do Toldo, Capim Branco, Martins Soares, Pontalina, Arapoti, Águas Frias, Pastos Bons, Dom Feliciano, Poxoréo, Estrela d'Oeste, São João do Piauí, Capão Bonito do Sul, Nossa Senhora do Livramento, Novo Horizonte do Oeste, Campina Grande do Sul, Carangola e Maringá",1,counting
+Marcela visitou apenas nove pessoas,Marcela visitou Natalie,0,counting
+Agnes visitou apenas vinte e três lugares e apenas vinte e três pessoas,"Agnes visitou Carela, Dalinda, Pamela e Ireneia",0,counting
+Delisa visitou apenas quatro lugares e apenas três pessoas,"Delisa visitou Nureia, Brigite, Élia e Oriane",1,counting
+Lucélia visitou apenas sete pessoas,"Lucélia visitou Eluína, Iracema, Raíssa, Gabriella e Jandira",0,counting
+Mónia visitou apenas vinte e sete pessoas,"Mónia visitou Nícia, Daenerys, Alzira, Ianesis, Erméria, Rosita, Daliana, Iracema, Ariel, Liliete, Naíde, Rogélia, Berta e Belosinda",0,counting
+Açucena visitou apenas três lugares e apenas duas pessoas,Açucena visitou Trisha,0,counting
+Maia visitou apenas dezessete lugares e apenas dez pessoas,"Maia visitou Constance, Quélia, Rosélia, Kai, Leah, Gara, Naíde, Diomar, Clorinda, Tomasa e Anair",1,counting
+Engelécia visitou apenas vinte e um lugares e apenas quatro pessoas,Engelécia visitou do Nascimento e Edine,0,counting
+Lisandra visitou apenas cinco lugares e apenas duas pessoas,"Lisandra visitou Severina, Juanita e Amira",1,counting
+Nícia visitou apenas oito lugares e apenas duas pessoas,Nícia visitou Áfrika,0,counting
+Isolda visitou apenas dezoito lugares e apenas três pessoas,"Isolda visitou Palmitos, Barras, Luís Antônio, Agronômica, Duque de Caxias, Independência, Paragominas, Parnaguá, Carangola, Marco, Curuçá, Santa Rosa, Ocara, São Miguel das Matas, Morungaba, São Francisco do Conde e Redentora",0,counting
+Melodia visitou apenas oito lugares e apenas duas pessoas,"Melodia visitou Novo Barreiro, Mataraca, Porto Feliz e Pouso Alto",0,counting
+Rose visitou apenas dois lugares,Rose visitou São Félix do Coribe,0,counting
+Joselina visitou apenas dezesseis lugares,"Joselina visitou Santa Maria do Oeste, Vargem Bonita, Alcantil, Nova Iguaçu, Alvarães, São Bento do Sul, Cezarina, Fronteira, São Francisco de Assis, Aguiarnópolis, Primavera de Rondônia, Córrego Fundo, Socorro do Piauí, Quissamã, Bom Jardim da Serra, Itutinga e Rio Pomba",1,counting
+Geraldina visitou apenas vinte e dois lugares e apenas doze pessoas,Geraldina visitou Aracruz,0,counting
+Cremilda visitou apenas dez lugares,"Cremilda visitou Atilio Vivacqua, João Pinheiro, São Lourenço da Mata, Sena Madureira, Paulo Jacinto, Amaturá e Canavieira",0,counting
+Esméria visitou apenas trinta lugares e apenas quatro pessoas,Esméria visitou Odete,0,counting
+Gracinda visitou apenas nove lugares e apenas cinco pessoas,"Gracinda visitou Seritinga, Rio Grande do Piauí, Cunha, Miguel Leão, Itapissuma, Santa Carmem, Paulo Jacinto, Campo do Tenente, Santa Bárbara d'Oeste e Caririaçu",1,counting
+Nia visitou apenas quinze lugares e apenas dez pessoas,"Nia visitou Isabelina, Leonilda, Cesária, Janine, Rossana, Danika, Nirvana, Leyla e Artemísia",0,counting
+Josefa visitou apenas dois lugares e apenas duas pessoas,"Josefa visitou São Domingos do Prata, Álvares Florence e São José do Rio Pardo",1,counting
+Magenta visitou apenas vinte lugares e apenas oito pessoas,"Magenta visitou Natasha, Tarina, Simoneta, Jada, Athena e Francesca",0,counting
+Alaia visitou apenas quatro lugares,"Alaia visitou Joanésia, Tavares, Passa Tempo, Itabaianinha e Governador Luiz Rocha",1,counting
+Selma visitou apenas quatro lugares e apenas uma pessoa,"Selma visitou Tiros, Vanini, Rodeio, Itabaianinha e Formosa do Oeste",1,counting
+Mourana visitou apenas oito pessoas,"Mourana visitou Tessa, Audete, Julinda, Eurídice, Susete, Flamínia, Suse, Norah e Mayara",1,counting
+Desiree visitou apenas catorze pessoas,"Desiree visitou Morian, Encarnação, Angélica, Líbia, Inara, Catila, Iberina, Domenica, Sena e Cayetana",0,counting
+Gislena visitou apenas vinte e um lugares,"Gislena visitou Sinop, Piranguçu, Heliópolis, Itaquara, Matias Barbosa, Amaporã, Arraias, Parambu, Massapê e Paranacity",0,counting
+Salete visitou apenas onze lugares e apenas cinco pessoas,Salete visitou Gisele e Gonçala,0,counting
+Liberalina visitou apenas trinta lugares e apenas três pessoas,Liberalina visitou do Socorro,0,counting
+Nicolina visitou apenas dezessete lugares,"Nicolina visitou Maravilha, Bodoquena, Brumadinho, Guarantã do Norte, Piraí do Norte, Nossa Senhora de Lourdes, Jesuânia, Senador Firmino, Indaiabira, Frei Lagonegro, Cacimba de Dentro e Auriflama",0,counting
+Suely visitou apenas nove pessoas,"Suely visitou Clarinda, Giraldina e Tejala",0,counting
+Denise visitou apenas sete lugares e apenas cinco pessoas,"Denise visitou Campo Magro, Juazeiro do Norte e Canitar",0,counting
+Sarina visitou apenas seis lugares,"Sarina visitou Sertão Santana, Carnaíba, Caiçara do Norte, Itaí, Patrocínio, São João da Varjota e Rebouças",1,counting
+Chanel visitou apenas dezenove pessoas,"Chanel visitou Obdúlia, Meera, Susete, Elize, Evelyn, Mariela, Domitília, Raissa, Tisha, Lorine, Maeva, Jil, Leonídia, Dores, Darnela, Severa, Dádiva, Lila, Armanda e Rocio",1,counting
+Tiana visitou apenas cinco lugares e apenas quatro pessoas,"Tiana visitou Sarapuí, Vargem e Olinda Nova do Maranhão",0,counting
+Felisberta visitou apenas sete pessoas,Felisberta visitou Liete e Berengária,0,counting
+Cordélia visitou apenas quatro pessoas,"Cordélia visitou Jó, Elsinda, Arlinda, Nilda e Firmina",1,counting
+Rodriga visitou apenas um lugar,Rodriga visitou Mário Campos,0,counting
+Lisete visitou apenas dez pessoas,"Lisete visitou Lólia, Dahlia, Marieta, Eleia, Dejanira, Neireide, Cipora, Rosie, Sania, Rosalie e Merita",1,counting
+Mari visitou apenas vinte e nove lugares,"Mari visitou Travesseiro, Durandé, Quissamã, Prainha, Rosário Oeste, Custódia, São Benedito, Campinas, Bananal, Nísia Floresta, Balneário Camboriú, Iomerê, Toritama, Novo São Joaquim, Presidente Olegário, Mulungu, Ibirajuba, Guaraci, Nova Brasilândia D'Oeste, Acrelândia, Herculândia, Ibema, Lebon Régis, Bernardo do Mearim, Ubirajara, Jesúpolis, Anita Garibaldi, Presidente Castelo Branco, Barão de Melgaço e Doutor Ulysses",1,counting
+Dalinda visitou apenas cinco pessoas,Dalinda visitou Maureen e Paris,0,counting
+Nia visitou apenas quinze pessoas,"Nia visitou Léna, Oliviana, Kenza, Guimar, Shine, Rachel, Donzélia, Flamínia, Marinela, Marlita, Anaisa, Léana, Farida, Osvalda, Marcela e Eutália",1,counting
+Santa Cruz visitou apenas trinta lugares e apenas vinte e nove pessoas,"Santa Cruz visitou Cafelândia, Carangola, Liberdade, Bom Progresso, Pacaraima, Conchal, Bariri, Capela, Marechal Cândido Rondon, Novorizonte, Aliança, Santa Vitória do Palmar, Santa Fé do Araguaia, Água Doce do Maranhão, Capão da Canoa, Datas, Dores do Turvo, Aurora, Humaitá, Serra Talhada, Carinhanha, Jaguapitã, Axixá, Palmitinho, Luís Eduardo Magalhães, Augusto Corrêa e Goiandira",0,counting
+Dulcineia visitou apenas dezesseis pessoas,"Dulcineia visitou Chen, Jordana, Mona, Áfrika, Samaritana, Quaiela, Taína, Liduína, Heliodora e Dilma",0,counting
+Carole visitou apenas cinco lugares,"Carole visitou Fortuna de Minas, Teodoro Sampaio, Tapes, Lençóis Paulista, Brejo dos Santos e Cachoeira do Arari",1,counting
+Luiza visitou apenas um lugar e apenas uma pessoa,Luiza visitou Anta Gorda,0,counting
+Hilda visitou apenas vinte e nove lugares,"Hilda visitou Triunfo Potiguar, Colares, Esperança Nova, Capela de Santana, Nova Xavantina, Serrano do Maranhão, Novo Oriente do Piauí, Solidão, Araquari, Cachoeirinha, Pedro Osório, Louveira, Palestina de Goiás, Coqueiro Seco, São Marcos, Ruy Barbosa, Indiaroba, Três Corações, Harmonia, Monte Azul, Ministro Andreazza, Cabaceiras do Paraguaçu, Cristália, Coração de Maria, São Miguel do Passa Quatro, Conchal, Pedro Régis, Arinos, Alegre e Orizona",1,counting
+Joséfa visitou apenas onze lugares e apenas duas pessoas,"Joséfa visitou Vera Cruz, Ângulo, Cristais Paulista, Ponto Chique, Vargem Bonita, Divina Pastora, Lamarão, Congonhas do Norte, Olho D'Água do Piauí, Camaragibe, Paraíso do Norte e Santo Antônio dos Milagres",1,counting
+Norvinda visitou apenas cinco pessoas,"Norvinda visitou Hortênsia, Ditza, Emídia, Coraima, Gara e Amandina",1,counting
+Geraldina visitou apenas treze pessoas,"Geraldina visitou Joselene, Celine, Fani, Arlete, Fânia, Mariluz, Nília, Chelsea, Belmonte, Elise, Marcela, Sacha, Léana e Sade",1,counting
+Cristolinda visitou apenas trinta lugares,"Cristolinda visitou Ribamar Fiquene, Jacutinga, Tenente Portela, Ibotirama, Ibimirim, Água Santa, Garibaldi, Ibiracatu, Mataraca, Patos de Minas, Paraíso, Santo Antônio da Barra, Pilar, Timbiras, São João do Paraíso, Itapebi, Taubaté, Indianópolis, Pardinho, Jardim Olinda, Parnamirim, São João do Caiuá, Paquetá, Sairé, Montes Claros de Goiás, Orizânia, São João da Lagoa, Caxambu, Grão Pará, São José do Sul e Passos",1,counting
+Ellie-Rosa visitou apenas vinte e três lugares,"Ellie-Rosa visitou Nazaré, Albertina, Saloá, Frei Miguelinho, Cametá, Passagem Franca do Piauí, Aporá, Santa Luzia do Pará, Santo Antônio da Barra, Taiúva, Iretama, Iperó, Birigui, Dourado, Casa Branca, Cariacica e Monte Alegre dos Campos",0,counting
+Brites visitou apenas vinte e cinco lugares e apenas dezessete pessoas,Brites visitou Serrinha dos Pintos e Wall Ferraz,0,counting
+Catrina visitou apenas uma pessoa,Catrina visitou Elódia e Lici,1,counting
+Ludmila visitou apenas cinco pessoas,"Ludmila visitou Cynthia, Morena, Gaori, Ornela, Ida e Marlise",1,counting
+Herénia visitou apenas quinze pessoas,"Herénia visitou Nominanda, Sally, Leonilda, Naira, Francine, Hayden, Maré, Hortense, Idélia, Antonina, Caterina, Salúquia, Louisa, Cárita, Dalva e Marisol",1,counting
+Joaquina visitou apenas nove lugares,"Joaquina visitou Itajobi, Irati, Tacuru, Selvíria, Presidente Kennedy, Cachoeira de Pajeú, Ribeirão Bonito, Miguel Alves, Conceição da Aparecida e Cajazeiras",1,counting
+Sienna visitou apenas dez lugares e apenas cinco pessoas,"Sienna visitou Lucélia, Basília, Auxília, do Nascimento, Juno e Anteia",1,counting
+Libéria visitou apenas vinte lugares e apenas dezesseis pessoas,"Libéria visitou Graciliana, Tess, Evelyn, Ifigénia, Porciana, Bitia, Castorina, Samira, Ellie-Rosa, Iriana, Priscilla e Jocelina",0,counting
+Deborah visitou apenas oito lugares e apenas quatro pessoas,"Deborah visitou Araçatuba, Imbé de Minas, Paranaíta, Santa Maria de Itabira e Bom Jesus",0,counting
+Lénia visitou apenas dois lugares,Lénia visitou Santana do São Francisco,0,counting
+Mariane visitou apenas vinte e cinco lugares e apenas seis pessoas,"Mariane visitou Santa Fé do Araguaia, Altaneira, Paramirim, Vitória das Missões, Indaial, Caldeirão Grande, Buenos Aires, Vicência, Viçosa, Leandro Ferreira, Theobroma, Palmas, Comendador Gomes, Porto Mauá, Porto Alegre do Norte, Mariano Moro, Casca, Ibitiúra de Minas, Goianira, Sertão, São José da Tapera, Extrema, São Sebastião do Paraíso, Nova Guarita, Santa Fé e São Roque do Canaã",1,counting
+Excelsa visitou apenas seis pessoas,Excelsa visitou Heliodora,0,counting
+Safia visitou apenas dezessete pessoas,"Safia visitou Siomara, Encarnação, Climénia, Dólique, Joselene, Martha, Mavilde, Emiliana e Luela",0,counting
+Deótila visitou apenas dezesseis lugares e apenas quatro pessoas,"Deótila visitou Carla, Daina, Noah, Marquesa e Dolores",1,counting
+Greer visitou apenas quatro lugares e apenas três pessoas,"Greer visitou Mar Vermelho, Tasso Fragoso e Cotiporã",0,counting
+Rachel visitou apenas quatro lugares,Rachel visitou Iguaraci e São Miguel,0,counting
+Georgiana visitou apenas treze lugares,"Georgiana visitou Caraá, Alto Caparaó, Carauari, Itapipoca, Neves Paulista, Jaçanã e Santa Terezinha",0,counting
+Antonina visitou apenas catorze lugares,"Antonina visitou Pesqueira, Monte Mor, Cocal de Telha, Alexânia, Bonfinópolis, Sarzedo, Monte Carlo, Medina, Vera Cruz do Oeste, Balneário Barra do Sul, Guanhães, Agricolândia, Cosmópolis, Marcelino Ramos e Pedreira",1,counting
+Lariana visitou apenas vinte lugares e apenas seis pessoas,"Lariana visitou Wenceslau Braz, Parintins, Martins, Cruzeiro do Iguaçu, Rio Preto, Rebouças, Galiléia, Ji-Paraná, Pérola, Laje do Muriaé, Santa Rosa de Viterbo, Marzagão, Buíque, Vila Lângaro, Monte Carlo, Santana do Matos e Magé",0,counting
+Irisalva visitou apenas quatro lugares,"Irisalva visitou Timbé do Sul, Coronel Pacheco, Braganey, Soure e Manoel Urbano",1,counting
+Fidélia visitou apenas um lugar,Fidélia visitou Floraí,0,counting
+Silvandira visitou apenas vinte lugares,"Silvandira visitou Aguanil, Careaçu, São Brás, Sardoá, Itatiaia, Santo Ângelo, Lagoa da Prata, Taboão da Serra, João Costa, Campos Novos Paulista, Nova Friburgo, Campo Verde, Conchas, Piancó, Santa Cruz da Esperança, Mirante do Paranapanema, Conde, Charqueadas, Poção, Guimarães e Graça",1,counting
+Anteia visitou apenas oito lugares,"Anteia visitou Campo Alegre de Goiás, Novo Airão, Braga e Antônio João",0,counting
+Safina visitou apenas doze lugares e apenas cinco pessoas,"Safina visitou Romã, Joice, Guarani e Flória",0,counting
+Mikaela visitou apenas quinze lugares e apenas nove pessoas,"Mikaela visitou Carinhanha, Tufilândia e Itariri",0,counting
+Geovanna visitou apenas vinte e nove lugares,"Geovanna visitou Aiquara, Cafarnaum, São João Batista, Bento de Abreu, Boa Vista, Solânea, Coronel Xavier Chaves, Rio Bonito do Iguaçu, Novo Gama, Capela, Ibertioga, Marcionílio Souza, São João do Triunfo, Virginópolis, Araguaína, Santana dos Montes, Varzedo, Caetité, Itaúna do Sul, Canoas, Curralinhos, Aparecida, Quarto Centenário, Chapada Gaúcha, Boa Vista do Ramos e Maranguape",0,counting
+Amabília visitou apenas dezoito lugares e apenas uma pessoa,"Amabília visitou Corumbataí, Carmo do Paranaíba, Estrela do Indaiá, Canabrava do Norte, Japaraíba, Feijó, Deputado Irapuan Pinheiro, Feira Nova, Barra de Santa Rosa, São João do Oriente, Jussari, Congonhas, Mateiros, Bombinhas, São João do Carú, Augusto Corrêa, Teixeira, Picuí e Nova Independência",1,counting
+Juanita visitou apenas um lugar e apenas uma pessoa,Juanita visitou Campina do Monte Alegre e Buritirana,1,counting
+de Pádua visitou apenas oito lugares e apenas três pessoas,"de Pádua visitou Eunápolis, Lagoa dos Patos, Mendes, Salvador do Sul, São Gotardo, Carlópolis, Mombaça, Juquitiba e Novo Horizonte",1,counting
+Noémi visitou apenas vinte e cinco lugares,"Noémi visitou Pirapora, Montividiu, Quixabeira, Borborema, Capitão, Paragominas, Campestre, Conceição da Barra de Minas, Rio Crespo, Araças, Aparecida, Pequeri, Zacarias e Macuco",0,counting
+Nayla visitou apenas vinte e nove lugares e apenas oito pessoas,"Nayla visitou Méline, Isalda, Geovana, Ivanoela, Bernadete, Catherine, Brunilde, Salete e Taísa",1,counting
+Joaquina visitou apenas dez lugares,"Joaquina visitou Fernando Pedroza, Coroatá, Formigueiro, Tibau do Sul e Umari",0,counting
+Hope visitou apenas seis lugares,"Hope visitou Porto Firme, Charrua, Conceição de Ipanema, Otacílio Costa, Lençóis, Souto Soares e Tamboril do Piauí",1,counting
+Gustava visitou apenas trinta lugares e apenas dezesseis pessoas,"Gustava visitou Estância Velha, Araújos, Machacalis, Campo Limpo de Goiás e Milhã",0,counting
+Nikita visitou apenas dezenove lugares e apenas sete pessoas,"Nikita visitou Priscilla, Kenya, Élea, Nilda, Emídia, Lisandra, Feliciana e Romy",1,counting
+Nara visitou apenas trinta pessoas,"Nara visitou Ersília, Lou, Petrina, Fénix, Étel, Graciana, Grace, Davínia, Glaúcia, Betsabé, Chanel, Pui, Rubina, Rubi, Luizete, Aidé, Ivy, Inácia, Jil, Kaira, Anaíce, Lubélia, Marlisa, Tásia, Iracema, Rosélia, Juanita, Silvana, Tina, Karen e Milana",1,counting
+Alzira visitou apenas dezesseis pessoas,"Alzira visitou Bianka, Évila, Henriette, Malu, Bérnia, Rebecca, Melida, Caterina, Rosinda, Jânia, Lilá, Isália, Naíma, Suzy, Myriam, Sylvie e Laurentina",1,counting
+Cíntia visitou apenas dezoito lugares,"Cíntia visitou Coxixola, Japi, Coronel Pilar, Ouro Preto do Oeste, Itacoatiara, Chorrochó, Uniflor, Indianópolis, Entre Rios, Joanópolis, Senhor do Bonfim, Nova Resende, Santo Anastácio, São Tiago e Chapada da Natividade",0,counting
+Rosie visitou apenas vinte e um pessoas,"Rosie visitou Énia, Cléo, Adélia, Stanislava, Marian, Farah e Mireie",0,counting
+Suriel visitou apenas oito lugares e apenas quatro pessoas,"Suriel visitou Salima, Elsinda e Carmina",0,counting
+Nessie visitou apenas vinte e três lugares e apenas onze pessoas,"Nessie visitou Cyara, Octávia, Scarlet, Shirley, Élin e Mira",0,counting
+Belle visitou apenas dez pessoas,Belle visitou Nirina e Nanina,0,counting
+Anaisa visitou apenas um lugar,Anaisa visitou Miranorte,0,counting
+Danielle visitou apenas oito lugares,"Danielle visitou Amapá, Itaju do Colônia, Marcelino Vieira, Pedras Altas, Benevides, Hortolândia, Paranã, Ilhabela e Borebi",1,counting
+Mariema visitou apenas dois lugares,Mariema visitou Leme,0,counting
+Trasila visitou apenas catorze lugares,Trasila visitou Careaçu e Várzea,0,counting
+Jorgina visitou apenas dez pessoas,Jorgina visitou Edine,0,counting
+Romilda visitou apenas vinte e dois lugares e apenas nove pessoas,"Romilda visitou Neiza, Cinara, Catherine, Ermengarda, Laurina, Hayden, Génesis, do Nascimento, Malika e Sarina",1,counting
+Laetitia visitou apenas oito lugares e apenas duas pessoas,"Laetitia visitou Sierra, Consolação e Liza",1,counting
+Constantina visitou apenas vinte lugares,"Constantina visitou Itapema, Tapira, Campo Verde, Olho d'Água das Cunhãs e Guaraciaba do Norte",0,counting
+Naira visitou apenas dezoito lugares e apenas quatro pessoas,"Naira visitou Juru, Angélica, Veríssimo, Santa Tereza, Buritis, Itapirapuã Paulista, Pouso Redondo, Treviso, Cocalzinho de Goiás, Panelas e Água Branca",0,counting
+Neiza visitou apenas seis pessoas,"Neiza visitou Lianor, Isaurinda, Eutália e Oliviana",0,counting
+Emily visitou apenas dois lugares e apenas uma pessoa,Emily visitou Darnela,0,counting
+Jasmine visitou apenas onze lugares,Jasmine visitou Olho d'Água,0,counting
+Aniana visitou apenas vinte e oito lugares e apenas sete pessoas,"Aniana visitou Itatiba do Sul, Porto Velho, Castanheiras, Cruz das Almas, Espumoso, Boa Ventura, Brejo Grande do Araguaia, Fernandes Tourinho, Taquaruçu do Sul, Manari, São Vicente de Minas e Morro Reuter",0,counting
+Romeia visitou apenas onze pessoas,"Romeia visitou Nila, Elmira, Rosamar, Justina, Gonzaga, Elisabeta, Rosandra, Cyntia, Perpétua, Marinha, Claudina e Sophia",1,counting
+Lucileine visitou apenas dois lugares e apenas duas pessoas,"Lucileine visitou Hédila, Layla e Felisbina",1,counting
+Selena visitou apenas dezenove lugares e apenas quinze pessoas,"Selena visitou Estiva Gerbi, Ferreira Gomes, Bela Vista, Novo Horizonte do Oeste, Morretes, Hidrolândia, Itapemirim, Fortuna, Santa Terezinha do Progresso, Assis Chateaubriand, Jardim de Angicos, Maurilândia, Munhoz, Anhembi, Glória do Goitá, Nazaré da Mata, Ecoporanga, Pariconha, Itanhém e Paragominas",1,counting
+Kate visitou apenas oito lugares,"Kate visitou Vila Flores, Itaquara, Cabeceira Grande, Mucurici, Serra do Navio, Junqueirópolis e Canitar",0,counting
+Salvação visitou apenas dez lugares e apenas uma pessoa,"Salvação visitou Poção, Alvorada D'Oeste, Jaborandi, Carvalhópolis, Campanário, Córrego Fundo, Cansanção e Anahy",0,counting
+Lourdes visitou apenas vinte e sete lugares,"Lourdes visitou Beberibe, Santa Maria do Cambucá, Matinha, Monsenhor Hipólito, José Raydan, Datas, Itaipulândia, Cairu, Tacuru, Porto Belo, Bom Jesus da Serra, Arroio Trinta, Aratuba, Caraúbas do Piauí, Doutor Ulysses, Sobrado, Matozinhos, Parambu, Iuiú, Buritama, Dias d'Ávila, Cuité de Mamanguape, Arroio do Sal, Piratuba, Posse, São Félix do Tocantins, São Tomé e Santa Cruz do Sul",1,counting
+Safina visitou apenas vinte e cinco lugares,"Safina visitou Colorado, Guaribas, Gurinhatã, Wenceslau Braz, Demerval Lobão, Campestre de Goiás, Santo Antônio do Pinhal, Planaltina, Belo Monte, Pescador, Brasnorte, Serra Talhada, Santa Bárbara do Monte Verde, Guaimbê, Canaã, Lastro, Tremembé e Barracão",0,counting
+Raquelina visitou apenas dois lugares,Raquelina visitou Niquelândia,0,counting
+Clívia visitou apenas oito lugares,"Clívia visitou Barra do Turvo, Lins, Abaíra, Senador Modestino Gonçalves, Cachoeiras de Macacu, Augusto Corrêa, Várzea da Palma, Ouro Preto e Palhoça",1,counting
+Kylie visitou apenas sete pessoas,Kylie visitou June,0,counting
+Elisama visitou apenas vinte e três pessoas,"Elisama visitou Deusa, Stella, Dália, Cleonice, Cárita, Ilca, Carol, Benigna, dos Santos, Agustina, Dione, Nali, Frida, Mikaela, Graciana, Kailani, Angelita, Josiana, Michelle, Ionara, Sacha, Roberta, Beatrix e Eliete",1,counting
+Flor de Maria visitou apenas vinte e seis lugares,"Flor de Maria visitou Porto Real do Colégio, Maturéia, Reriutaba, Porto Amazonas, Muquém de São Francisco, Maripá, Pederneiras e Filadélfia",0,counting
+Paris visitou apenas um lugar e apenas uma pessoa,Paris visitou Adriele e Jada,1,counting
+Jael visitou apenas nove lugares e apenas seis pessoas,Jael visitou Analu e Flor de Maria,0,counting
+Silviana visitou apenas quinze pessoas,Silviana visitou Shirley e Idrisse,0,counting
+Nely visitou apenas quinze pessoas,"Nely visitou Jovelina, Francina, Orange, Adelinda, Jacqueline, Naíma, Diamantina, Faith, Constânça, Eleanor, Liberalina, Córita, Síria, Mariame, Neli e Suzanne",1,counting
+Sirla visitou apenas três lugares,"Sirla visitou Itagimirim, Japaratinga, Lagoa dos Patos e Arari",1,counting
+Gala visitou apenas vinte e oito lugares e apenas vinte e três pessoas,"Gala visitou Mamanguape, Boa Vista do Buricá, São Bento do Trairí, Lagoa do Piauí, Várzea Alegre, Iguaí, Paranapoema, Alto Taquari, Jucuruçu, Ibiaí, Vila Propício, Araputanga, Aurelino Leal, Campos Verdes, Itaporã, Ribeirão Vermelho, Itajubá, Uruçuí, São João da Ponta, Morro Agudo de Goiás, Tuiuti, Serra da Raiz, Maraial, São Brás do Suaçuí, Pitanga, Graça, Monte Carmelo, Palmeira das Missões e Itaju",1,counting
+Dorinda visitou apenas vinte e sete lugares,"Dorinda visitou Antônio Prado de Minas, Itaporanga d'Ajuda, Itauçu, Bocaina do Sul, Cafeara, Santa Terezinha, Itajobi, Pirapemas, Cristais Paulista, Selbach, Capanema, Piracema, Ivinhema, Cambuci, Santana do Garambéu, Pinhal, Capixaba, Amontada, Salvador do Sul, Fernandes Tourinho, Campo Belo, Morpará, Echaporã, São Luís do Paraitinga, Pontão, São Pedro dos Crentes, Campos Belos e Conselheiro Mairinck",1,counting
+Eline visitou apenas treze pessoas,"Eline visitou Alexina, Margaux, Fiorella, Candy, Salma, Selene, Sienna, Dana, Manuella, Rocio, Ricarda, Isolina, Rómula e Afonsa",1,counting
+Elle visitou apenas um lugar,Elle visitou Santo Antônio de Posse,0,counting
+Adélia visitou apenas vinte e quatro lugares e apenas dezesseis pessoas,"Adélia visitou Heli, Liv, Selina, Glicínia, Persília, Cibele, Gerda, Isolina, Jada, Cárin, Otelina, Allegra, Maira e Orianna",0,counting
+Antonina visitou apenas onze lugares e apenas uma pessoa,"Antonina visitou Mirante da Serra, Quiterianópolis, Capela Nova, Porto Esperidião, Almeirim, Seritinga, São Mateus do Sul, Governador Mangabeira, Catende e Urupema",0,counting
+Leocádia visitou apenas catorze pessoas,"Leocádia visitou Orange, Nísia, Bina, Mona, Ismália, Niah, Almira, Anaisa, Duana e Cinara",0,counting
+Araci visitou apenas nove lugares,"Araci visitou Dom Feliciano, Boa Vista, Anapurus, Pentecoste, São Gabriel da Cachoeira, Guapé, Taquarituba, São João, Brejo Grande do Araguaia e Redentora",1,counting
+Eline visitou apenas vinte lugares e apenas dezesseis pessoas,"Eline visitou Adriele, Marlisa, Ariane, Elda, Idália, Dominica, Herédia, Blásia, Nisa, Luisete, La-Salete, Mya, Emma, Cris, Bebiana, Dulcina e Noémia",1,counting
+Ilca visitou apenas uma pessoa,Ilca visitou Dilma,0,counting
+Pedrina visitou apenas quatro pessoas,Pedrina visitou Florinda e Anaíce,0,counting
+Elisama visitou apenas doze lugares,"Elisama visitou Fortaleza de Minas, Vitória do Mearim, Redenção do Gurguéia e Apuí",0,counting
+Romã visitou apenas dezenove lugares e apenas treze pessoas,"Romã visitou Bodoquena, Palmeirante, Canto do Buriti e Santana de Mangueira",0,counting
+Onélia visitou apenas onze lugares e apenas quatro pessoas,"Onélia visitou Neópolis, Santa Filomena, Fátima, Poço das Trincheiras, Descoberto, Senador Sá, Presidente Jânio Quadros, Bady Bassitt, Senador Alexandre Costa, Pau D'Arco, Treze de Maio e Simões",1,counting
+Carmorinda visitou apenas vinte e sete lugares e apenas quinze pessoas,"Carmorinda visitou Canaã, Maxaranguape, Muitos Capões, Brotas de Macaúbas, Cordeiros, Saudades, Tapejara, Campo Maior, Beberibe, São Francisco do Piauí, Bom Jesus do Galho, Cristal do Sul, Aracitaba, Iepê, Tupanci do Sul, Pedregulho, Capoeiras, Altamira do Maranhão, Lagoa Grande do Maranhão, Água Santa, Panamá, Protásio Alves, Bom Jesus, Putinga, Buritis, Santa Cruz dos Milagres, Dionísio e Santa Rita do Sapucaí",1,counting
+Adelaide visitou apenas dezenove pessoas,"Adelaide visitou Chanda, Octávia, Marcela, Heliodora, Delilah, Bernadete, Charlene, Aíko, Davínia, Cristene, Armandina, Girel, Dirce, Auriana, Elma, Quirina, Bernardete, Emie, Crestila e Cinira",1,counting
+Noélie visitou apenas quatro lugares e apenas quatro pessoas,"Noélie visitou Palmeira das Missões, Porto Murtinho, Atalaia, Urucânia e Santa Maria do Oeste",1,counting
+Nila visitou apenas dezessete lugares,"Nila visitou Rio Claro, Piratininga, Terra de Areia, Pinhal Grande, Loanda, Açu, São José de Princesa, Una, Paraipaba, Modelo, Hidrolândia, Piracanjuba, Guaraciaba, Coimbra, Santo Antônio do Aventureiro, Pacaraima, Lagamar e Deodápolis",1,counting
+Alexandrina visitou apenas vinte e oito lugares,"Alexandrina visitou Tietê, Vale do Paraíso, Presidente Juscelino, Pouso Novo, Duas Barras, Santa Cecília, Brejinho, Nova Itaberaba, Caputira, Nova Floresta, Rio Doce, Uruana, Saboeiro, Forquetinha, Patrocínio Paulista, Campo Bonito, Niquelândia, Bela Vista de Goiás, Petrolândia, Santo Antônio do Grama, Itapuã do Oeste, Canápolis, Capetinga, Botucatu e Pratânia",0,counting
+Tarina visitou apenas três lugares e apenas uma pessoa,Tarina visitou Melinda e Analice,1,counting
+Paola visitou apenas catorze lugares,"Paola visitou Macajuba, Boninal, Jardim de Angicos, Serra Preta, Ouro Branco e Galiléia",0,counting
+Fénix visitou apenas vinte e sete lugares e apenas vinte e três pessoas,"Fénix visitou Salvadora, Afonsina, Rubina, Alfreda, Joaninha, Carela e Ricarda",0,counting
+Lólia visitou apenas vinte e um lugares,"Lólia visitou Ararendá, Mato Leitão, Marcolândia, Pereira Barreto, Quijingue, Irapuru, Teutônia, Alagoa Nova, Timóteo, Fernando Prestes, Alto Caparaó, Martinho Campos, São Raimundo Nonato, Vitorino Freire, Barros Cassal, Amélia Rodrigues, Porto Alegre, São João dos Patos, Monte Belo, Pindamonhangaba, Colméia e Peixe",1,counting
+Filena visitou apenas quinze lugares e apenas oito pessoas,Filena visitou Lucrécia,0,counting
+Maria João visitou apenas dez lugares e apenas dez pessoas,"Maria João visitou Saula, Tessa, Martinha, Jaquelina e Leonida",0,counting
+Berta visitou apenas dezessete lugares e apenas treze pessoas,"Berta visitou Neli, Nádeja, Dircea, Benigna, Dinarta, Nessie, Sharam, Florbela, Cárita, Ditza, Sahara, Almesinda, Joelma e Francília",1,counting
+Nominanda visitou apenas quinze lugares e apenas sete pessoas,"Nominanda visitou Princess, Kylie, Frida, Lola, Simara, Geovanna, Suse e Nair",1,counting
+Sisa visitou apenas nove lugares,"Sisa visitou Monte Alegre de Goiás, Carrapateira, Guararema, Antônio Cardoso, Jacaraú, Camaragibe, Ilha das Flores, Três Ranchos, Santa Maria Madalena e Ilha de Itamaracá",1,counting
+Mélodie visitou apenas trinta lugares e apenas vinte e dois pessoas,"Mélodie visitou Jalmira, Biana, Hazel, Estrelle, Josiana, Ingeburga, Holly, Diomar, Eliseba, Alida, Maísa, Chema, Marilisa, Marizete, Dagmar, Cáren, Girel e Círia",0,counting
+Alfreda visitou apenas doze pessoas,"Alfreda visitou Joya, Cléo, Sana, Kenzi, Gardela, Chi e Artemisa",0,counting
+Cléo visitou apenas vinte e cinco lugares e apenas cinco pessoas,"Cléo visitou Campinas, Aparecida de Goiânia, Cassilândia, Terra Alta, Brusque, Vazante, Bujari, Fazenda Rio Grande, Castelo, Tucuruí, Jaboticabal, Paulo de Faria, Aliança, Fundão, Turvo, Teodoro Sampaio, Nova Colinas, Almadina, Remanso, Mariluz, Moita Bonita, Garibaldi, Coroados, Taquarana, Teofilândia e Alvorada do Norte",1,counting
+Piedade visitou apenas dezoito lugares e apenas duas pessoas,"Piedade visitou Nahla, Niceia e Eudora",1,counting
+Naíra visitou apenas doze lugares,"Naíra visitou Bariri, Amparo do Serra, Nova Alvorada, Brasilândia do Tocantins, Boqueirão do Piauí, Álvares Machado, Calmon, Sampaio, Olindina, Guarda-Mor, Gentil, Bady Bassitt e Erechim",1,counting
+Morena visitou apenas sete lugares e apenas três pessoas,"Morena visitou Liberalina, Corine, Akira e Aíko",1,counting
+Kendra visitou apenas vinte e oito pessoas,"Kendra visitou Helda, Michelle, Amira, Taia, Claudemira, Dúnia, Maide, Catila, Telma, Rosária, Dariana, Maëlis, Erika, Clementine, Isabelina, Mireie, Inoi, Raquelina, Aureliana, Brásia, Iolanda e de Begonha",0,counting
+Loela visitou apenas vinte e oito pessoas,"Loela visitou Marcella, Elmira, Laya, Tara, Cereja e Juraci",0,counting
+Letízia visitou apenas doze lugares e apenas três pessoas,"Letízia visitou Parati, Mirador, Teresina, Itainópolis, Caseiros, São Sebastião da Grama, Itaguaçu, Itaju do Colônia, Inhaúma, São Francisco, Nioaque, Palmares do Sul e Saudades",1,counting
+Oliviana visitou apenas seis lugares,"Oliviana visitou Eugênio de Castro, Caiçara, São João da Paraúna, Cocal de Telha, Uraí, Emas e Jussiape",1,counting
+Nor visitou apenas nove pessoas,"Nor visitou Alcina, Nur, Faustina, Naíra, Natividade, Dorine e Suati",0,counting
+Selénia visitou apenas vinte e oito lugares e apenas seis pessoas,"Selénia visitou Cezarina, Senhora dos Remédios, Boqueirão do Leão, Mafra, Jacundá, Tuparendi, Carinhanha, Mata Verde, Sarandi, Itaporã do Tocantins, Uruguaiana, Jacobina, Taquaruçu do Sul, Dores de Guanhães, São Sebastião do Passé, Jales, Alagoinhas, Ijuí, Candeias do Jamari, Itapetinga, Descalvado, Gaúcha do Norte, Palmas de Monte Alto, Bom Jesus do Norte, Ribeirãozinho, Campos Novos Paulista, Cristópolis, Itaú e Joca Marques",1,counting
+Joselina visitou apenas cinco lugares,"Joselina visitou Boa Esperança, Matina, Mococa e Pontes Gestal",0,counting
+Almesinda visitou apenas oito lugares e apenas três pessoas,"Almesinda visitou Idrisse, Seni, Jenny e Gravelina",1,counting
+Henriette visitou apenas vinte e oito lugares e apenas vinte pessoas,"Henriette visitou Tarumã, Nova Redenção, Paulínia, Pinheiro, Carandaí, Camboriú, Aracaju, Santa Maria, Salesópolis, Presidente Kennedy, Floresta do Piauí, Tenente Portela, Aguaí, Junco do Seridó, Riacho de Santo Antônio, Águas Frias, Senador Sá, Cantagalo, São José do Vale do Rio Preto, Verdejante, Vila Boa, Guarantã do Norte, Ipupiara, São João do Jaguaribe, Malta, Lourdes, Itaguaçu da Bahia, Descanso e Mirador",1,counting
+Lya visitou apenas catorze lugares e apenas uma pessoa,Lya visitou Borborema,0,counting
+Darnela visitou apenas vinte e um lugares e apenas treze pessoas,"Darnela visitou Briolanja, de Fafe, Carol, Corine, Cleodice, Consuelo, Idília, Lusa, Belarmina, Rosália, Liane, Donatella, Sesira e Maribel",1,counting
+Natali visitou apenas doze lugares,"Natali visitou Estrela Velha, Passa Tempo, Marilac, Itarema, Ouro Verde, Valinhos, Casa Grande, Carmo do Cajuru, Flores, São João da Lagoa, Modelo, Nova Ibiá e Jaguaretama",1,counting
+Carmezinda visitou apenas vinte e cinco lugares e apenas treze pessoas,"Carmezinda visitou Aceguá, Flórida, Itajubá, Rodeiro, São José do Xingu, Pedro do Rosário, Garuva, Palmital, Sapopema, Ingá, São Bento, Nova Odessa, Andirá, Cristalândia do Piauí, Cachoeira do Piriá, Ponte Serrada, Santa Terezinha de Itaipu e Nova Xavantina",0,counting
+Armanda visitou apenas dez lugares e apenas uma pessoa,Armanda visitou Bom Jesus do Araguaia,0,counting
+Thalita visitou apenas dezoito lugares,"Thalita visitou Itaguaru, Alhandra, Pains, Boa Esperança, São José do Belmonte, Presidente Nereu, Piracanjuba, Santo Antônio do Rio Abaixo, Pinheiro Machado, Camapuã, Morro Agudo de Goiás, Camaçari, Feliz Natal, São Luis do Piauí e Vila Nova dos Martírios",0,counting
+Nelly visitou apenas três lugares e apenas duas pessoas,"Nelly visitou Rolante, Panelas, Anagé e São Cristovão do Sul",1,counting
+Gaela visitou apenas seis lugares e apenas cinco pessoas,"Gaela visitou Santa Salete, Rio Claro, Jateí, Teresina, Mendes Pimentel, Itabuna e Eldorado dos Carajás",1,counting
+Firmina visitou apenas três lugares,"Firmina visitou Codó, Fervedouro, Jijoca de Jericoacoara e Sarandi",1,counting
+Faustina visitou apenas um lugar e apenas uma pessoa,Faustina visitou Odília e Eárine,1,counting
+Inocência visitou apenas vinte lugares e apenas cinco pessoas,"Inocência visitou Santa Terezinha, Passa Sete, Paraíso, São Gonçalo do Amarante, Serraria, Ipaba, Rio Doce, Paulínia, Machadinho, Santo Amaro da Imperatriz, Careiro, Mortugaba, Tambaú, Areal, Diamante do Sul, Pardinho, Toropi, Cariri do Tocantins, Marcos Parente, Santa Rita de Jacutinga e Álvares Machado",1,counting
+Cármen visitou apenas onze pessoas,"Cármen visitou Dalva, Nur, Marjolene, Domitila, Silvina, Suéli, Lucileine, Antonela, Inara, Nicoleta, Thaís e Luciana",1,counting
+Lénia visitou apenas uma pessoa,Lénia visitou Tomasa,0,counting
+Heli visitou apenas sete pessoas,"Heli visitou Emmy, Dana, Eleine, Armandina, Natividade, Sory, Lucília e Leonida",1,counting
+Militza visitou apenas cinco lugares e apenas três pessoas,"Militza visitou Wagner, Dom Basílio, Uruará (por decisão judicial), Cachoeirinha, Baixo Guandu e Lagoa Alegre",1,counting
+Suriel visitou apenas oito lugares e apenas três pessoas,"Suriel visitou Jana, Flamínia, Leslie e Dulcelina",1,counting
+Numénia visitou apenas trinta lugares e apenas vinte e seis pessoas,"Numénia visitou Independência, Palmeirina, Rio Brilhante, Pedro II, São Caitano, Macajuba, João Monlevade, Aracaju, Rorainópolis, Tigrinhos, Jenipapo de Minas, Jataizinho, Antônio Olinto, Buriti de Goiás, Porto Belo, Córrego Fundo, Petrolândia, Serra Alta, Campo Alegre do Fidalgo, Urubici, Santo Antônio de Jesus, Jacinto Machado, São José, Jacutinga, Santa Rosa, Cocal dos Alves, Marialva, Januário Cicco, Douradina, Ribeirão Cascalheira e Figueirópolis D'Oeste",1,counting
+Kayla visitou apenas oito lugares e apenas oito pessoas,"Kayla visitou Nadina, Severina, Dianna e Jaquelina",0,counting
+Dária visitou apenas vinte e nove pessoas,"Dária visitou Elva, Dionilde, Carissa, Darci, Luamar, Crisna, Rosélia, Clélia, Lorenza, Castelina, Isolete, Dorisa, Drusila, Isilda, Tisha, Lucete, Pulquéria, Suzy, Soline, Lilite, Jane, Liliete, Nessa, Jorja, Carela, Estéfana, Geovana e Mari",0,counting
+Pedrina visitou apenas dezesseis pessoas,"Pedrina visitou Carlotta, Átina, Sunamita, Laya, Mathilda, Liv, Natalina, Gaela, Cordélia, Cita, Stacy, Cristal, Mírtila, Líbia, Leane, Rosanete e Duana",1,counting
+Ivone visitou apenas um lugar,Ivone visitou Coronel João Pessoa e Nova Ipixuna,1,counting
+Quaresma visitou apenas vinte e dois lugares,"Quaresma visitou Santa Cecília, Amaralina, Treze Tílias, Cabeceira Grande, Rio da Conceição, Tucumã, Caracol, Bom Jardim, Registro, Blumenau, Nazaré, Autazes, Salto Veloso, Japira, Agrestina, Joaquim Távora, Mineiros, Vila Boa, Jaguariaíva e Correntes",0,counting
+Inaia visitou apenas vinte pessoas,"Inaia visitou Etéria, Duana, Militza, Tirsa, Léna, Berengária, Taísa e Naíra",0,counting
+Tracy visitou apenas vinte e três lugares e apenas dezesseis pessoas,"Tracy visitou Telma, Nikita, Mavília, Ácil, Ellie, Joanina, Amanda, Magali, Clementina, Tabata, Alberta e Jerusa",0,counting
+Rubina visitou apenas vinte e oito lugares,"Rubina visitou Ingaí, Rodeiro, Coronel Freitas, Quatro Irmãos, Uruana de Minas, São Raimundo do Doca Bezerra, Douradoquara, Brasiléia, Duas Estradas, Guaíra, Monte Alegre e Estrela do Norte",0,counting
+Cyara visitou apenas doze lugares e apenas cinco pessoas,Cyara visitou Miguela e Eduina,0,counting
+Tina visitou apenas dezesseis lugares e apenas dez pessoas,"Tina visitou Lajedão, Sete Lagoas, General Sampaio, Barro Duro, Chã Preta, Mato Queimado, Jequié, Cabeceiras do Piauí, Uruaçu, Coaraci, Santa Terezinha de Goiás, Mirassolândia, São Miguel das Missões, Ivorá, Bodoquena, Barão do Triunfo e Brejinho",1,counting
+Jacqueline visitou apenas vinte e oito pessoas,"Jacqueline visitou Delfina, Muriel, Rosandra, Nureia, Joanina, Excelsa, Josélia, Anair, Nahla, Ellie-Rosa, Selénia, Carissa, Maia, Naira, Carmélia, Gaitana, Luela, Simona, Paraíso, Helen, Silvie, Tanagra, Dinarda, Delminda, Chanda, Jerónima, Sharam, Aldina e Cizina",1,counting
+Lenira visitou apenas onze lugares e apenas nove pessoas,Lenira visitou Ibicoara,0,counting
+Noelma visitou apenas seis pessoas,Noelma visitou Ricarda e Isolina,0,counting
+Mari visitou apenas dezesseis lugares e apenas três pessoas,Mari visitou Ruth,0,counting
+Antonela visitou apenas sete lugares e apenas sete pessoas,Antonela visitou Bom Sucesso de Itararé e Veredinha,0,counting
+Florbela visitou apenas um lugar e apenas uma pessoa,Florbela visitou Giada e Assunção,1,counting
+Diomar visitou apenas sete lugares e apenas duas pessoas,"Diomar visitou Gurinhém, Campo Largo, Verê, Itaberaba e Santa Maria do Salto",0,counting
+Casimira visitou apenas catorze lugares,"Casimira visitou Porto Seguro, Paulo Jacinto, Jordão, Ipu, São João do Araguaia, Santa Maria, Barro Preto, Paraíba do Sul, Tapira, Oliveira, Pimenta Bueno, Seringueiras, Tacaratu, Vespasiano Correa e Capistrano",1,counting
+Luisete visitou apenas vinte e seis lugares e apenas vinte e um pessoas,"Luisete visitou Angélica, Andrelina, Rosalinda, Mariluz, Cristal, Grace, Sisa, Princess e Castorina",0,counting
+Léane visitou apenas nove lugares e apenas duas pessoas,"Léane visitou Nerea, Miranda e Malu",1,counting
+Genciana visitou apenas dezoito lugares,"Genciana visitou Avelinópolis, Coronel Vivida, Santa Amélia, Santana do Riacho, Lajes Pintadas, Alfenas, Arujá, São Borja, Barão do Triunfo, Áurea e Bandeirantes do Tocantins",0,counting
+Iolanda visitou apenas dez lugares e apenas oito pessoas,"Iolanda visitou Fiorella, Rosebel, Apolónia, Rubyana, Ricardina e Isilda",0,counting
+Luisete visitou apenas dezesseis pessoas,"Luisete visitou Lutgarda, Benigna, Engrácia, Rubina, Formosinda, Caia e Glaúcia",0,counting
+do Céu visitou apenas dezoito lugares e apenas quinze pessoas,do Céu visitou Pedrinópolis,0,counting
+Nausica visitou apenas dezenove lugares,"Nausica visitou Presidente Juscelino, Girau do Ponciano, Clementina, União, Torres, São Jerônimo da Serra, São Desidério, Senhor do Bonfim, Barreiras do Piauí, Lajedinho, Flor do Sertão, Pitimbu, Quintana, Vera Cruz, Mari, Paulino Neves, Benedito Novo, Gararu, Curvelo e Nonoai",1,counting
+Ivone visitou apenas vinte e oito lugares e apenas duas pessoas,"Ivone visitou Catrina, Nami e Átina",1,counting
+Hélia visitou apenas vinte e três lugares e apenas oito pessoas,"Hélia visitou Pietra, Gilda, Jânia, Saphira, Emi, Nirina, Genciana, Maria João e Chloé",1,counting
+Nila visitou apenas seis pessoas,"Nila visitou Selénia, Ima, Romy, Marcelle, Lizia, Diva e Magna",1,counting
+Hannah visitou apenas dezenove lugares,"Hannah visitou Leopoldina, Boa Vista, Brejo de Areia, Conchal, Moita Bonita, Gonçalves, Campo do Brito, Simões Filho, Sapiranga, Brotas, Humaitá, Cambuci, Contenda, Nuporanga, Areado, Uberaba, Italva, São Bernardino, Presidente Epitácio e Nova Alvorada do Sul",1,counting
+Dalinda visitou apenas vinte e quatro lugares e apenas dezoito pessoas,"Dalinda visitou Castelina, Anita, Daniella, Tiara, Celine, Osvalda, Ilca, Medina, Ioana, Marli, Laia, Paolla, Cíntia, Especiosa, Leonila, Ivy, Clarina, Liseta e Aidé",1,counting
+Siana visitou apenas dezoito lugares e apenas três pessoas,Siana visitou Aisha,0,counting
+Maide visitou apenas sete pessoas,"Maide visitou Especiosa, Fani, Naomi e Arlanda",0,counting
+Noelma visitou apenas vinte e quatro lugares e apenas treze pessoas,"Noelma visitou Pietra, Kimberly, Josefa, Gioconda, Leoménia, Io, Jana, Miliza, Janine, Dulcelina, Crisálida, Dejanira, Nazarina e Jeanete",1,counting
+Stella visitou apenas dezessete lugares e apenas cinco pessoas,"Stella visitou São José do Seridó, Capitólio, Santo Antônio, Caiuá, Juazeirinho, Crato, Uruçuí, Mutuípe e São Francisco de Paula",0,counting
+América visitou apenas quinze lugares e apenas quinze pessoas,"América visitou Priyanka, Alcíone, Acélia, Armanda, Gelsemina, Paolla, Diva, Iberina e Florentina",0,counting
+Nói visitou apenas doze lugares e apenas cinco pessoas,"Nói visitou Remígio, Castro, Ipira, Frei Inocêncio, Paranaíta, Maranguape, Rorainópolis, Carmolândia, Dracena, Sarandi, Engenho Velho, Vitorino e Ipumirim",1,counting
+Graciela visitou apenas seis lugares,"Graciela visitou São Vicente do Sul, Guabiju, Planalto, São Bernardo, São João da Varjota, Candeal e Avaré",1,counting
+Darlene visitou apenas dezenove lugares,"Darlene visitou Teodoro Sampaio, Apuiarés, Guaiçara, Paço do Lumiar, Vale de São Domingos, Augusto Corrêa, Jaú, Ipubi, Valentim Gentil, Santa Bárbara do Sul, São José da Safira, Sapiranga, Sericita, Cedro, Moreilândia e Bom Repouso",0,counting
+Carmina visitou apenas cinco lugares e apenas duas pessoas,"Carmina visitou Dialina, Leila e Lutgarda",1,counting
+Sátia visitou apenas um lugar e apenas uma pessoa,Sátia visitou Cataleia,0,counting
+Giulia visitou apenas vinte e seis pessoas,"Giulia visitou Doriana, Ireneia, Guarani, Francina, Gracinda, Salúquia, Elisabeth, Suria, Josuana, Silvéria, Suéli, Ermengarda, Idalete, Albina, Cipora, Helen, Inara, Anabel, Daina, Anaíde, Ivone, Claudemira, Nahla, Justa, Éola, Africana e May",1,counting
+Miley visitou apenas vinte e cinco lugares e apenas vinte e cinco pessoas,"Miley visitou Natalie, Lizélia, Catalina, Chi e Ludmila",0,counting
+Lubélia visitou apenas dezoito pessoas,"Lubélia visitou Selénia, Susanna, Súria, Fani, Pérola, Loide, Priscila, Libânia, Elisabeta, Alcina, Modesta, Salomite, Córita, Onélia, Kailani, Arménia, Quézia, Sesira e Rosária",1,counting
+Norah visitou apenas vinte lugares,"Norah visitou Presidente Lucena, Ariranha do Ivaí e Mamanguape",0,counting
+Demétria visitou apenas vinte e quatro lugares e apenas seis pessoas,"Demétria visitou São Benedito do Sul, Paulo Lopes, João Monlevade, Major Sales, Guarani de Goiás, Itaparica, Sinimbu, Guaporema, Harmonia, São Tiago, Franciscópolis, Morro Grande, Araquari, Tijucas do Sul, Prado Ferreira e Carlópolis",0,counting
+Norvinda visitou apenas dezoito pessoas,"Norvinda visitou Consolação, Hália, Rosandra, Brites, Giraldina, Clélia, Chloé e Eurídice",0,counting
+Morgiana visitou apenas vinte e três pessoas,"Morgiana visitou dos Anjos, Nise, Margarete, Maira, Cristele, Nirvana e Hope",0,counting
+Donatella visitou apenas quatro pessoas,"Donatella visitou Bárbora, Khloe e Suzanne",0,counting
+Delza visitou apenas cinco lugares,Delza visitou Santa Vitória do Palmar,0,counting
+Dídia visitou apenas catorze lugares e apenas oito pessoas,"Dídia visitou Noémi, Leila, Suellen, Olga, Precious, Shakira, Sarai, Iana e Dafne",1,counting
+Marlisa visitou apenas dezessete lugares e apenas sete pessoas,Marlisa visitou Córita e Nazaré,0,counting
+Niceia visitou apenas dez lugares e apenas nove pessoas,Niceia visitou Martinho Campos e Goianésia,0,counting
+Fantina visitou apenas onze lugares e apenas duas pessoas,Fantina visitou Ingeburga,0,counting
+Anquita visitou apenas dezenove lugares e apenas oito pessoas,"Anquita visitou Anabel, Dália, Ádila, Armanda, Quézia, Rosina, Naíl, Delmina e Amarília",1,counting
+Alisande visitou apenas vinte e três pessoas,"Alisande visitou Danila, Francina, Belina, Katherine, Mabilda, Stanislava, Hayden, Dominika, Hilda, Lussinga, Aureliana, América e Alexina",0,counting
+Numénia visitou apenas quinze lugares e apenas duas pessoas,"Numénia visitou Prados, Amélia Rodrigues, Rio Bonito, Araponga, Júlio de Castilhos, Sucupira do Riachão, Buíque, Planalto, Fazenda Vilanova, Tangará, Nova Esperança do Sul, Bom Jesus, Piracanjuba, Nova Mamoré, Primavera e Madre de Deus de Minas",1,counting
+Aíko visitou apenas vinte e um pessoas,"Aíko visitou Louane, Tiana, Laetitia, Delfina, Carmela, Radija, Magnólia, Celisia, Adriela, Chiara, Maia, Ocília, Deotila, Guimar, Rogélia, Nelsa, Maëlis, Aruna, Aminata, Surya, Ambrosina e Tessa",1,counting
+Jennifer visitou apenas oito lugares,"Jennifer visitou Anadia, Barra do Ouro, Ubatuba, Erechim, Senador Alexandre Costa, Aurora do Tocantins, São João de Iracema, Ivatuba e Montes Claros",1,counting
+Katty visitou apenas vinte lugares e apenas duas pessoas,"Katty visitou Restinga Seca, Ananás, Santa Cecília, Dores do Rio Preto, Santa Maria da Boa Vista, Altaneira, Pequi, Uniflor, Gracho Cardoso, Arantina, Pedro Osório, Jóia, Ponta de Pedras, Granito, Indiana, Uru, Porto Grande, Fartura do Piauí, Matias Olímpio, Cristalândia do Piauí e União da Vitória",1,counting
+Ohana visitou apenas vinte e cinco pessoas,"Ohana visitou Lorenza, Dorina, Morgiana, Janaína, do Rosário, Quaresma, Mariema, Léanor e Guendolina",0,counting
+Chema visitou apenas dezoito lugares e apenas oito pessoas,"Chema visitou Amaralina, Taguatinga, Arroio do Padre, Divinésia, Bonito, Alegrete, Ribeirão Branco, Condado, Xambioá, Frei Inocêncio, Faria Lemos, Ribeirão do Largo, Penha, São Sebastião do Rio Verde, Nova Nazaré, Curral de Dentro, Laranjeiras, Pérola e Palmares do Sul",1,counting
+Deborah visitou apenas vinte pessoas,"Deborah visitou Dianna, Mariluz, Balbina, Rosebel, Alexina, Constância, Otelina, Marion, Charlotte, Siomara, Miraldina, Louise, Cremilde, Solôngia, Nayara, Etelvina, Sérgia, Antera, Rosário, Guilhermina e Didiana",1,counting
+Romina visitou apenas vinte e seis lugares e apenas dez pessoas,Romina visitou Esther,0,counting
+Alexandrina visitou apenas três lugares e apenas três pessoas,Alexandrina visitou Viçosa,0,counting
+Chi visitou apenas vinte e cinco lugares e apenas onze pessoas,"Chi visitou Viadutos, Embu-Guaçu, Arroio Grande, Cabo Verde, Nilo Peçanha, Granito, Mato Queimado, Calmon, Paty do Alferes, Coronel Ezequiel, Serrania, Princesa Isabel, Parisi, Alto Paraíso, Floriano, Potiraguá, Espírito Santo do Pinhal, Rolândia, Rio Branco, Lajinha, Campos dos Goytacazes, Palmeirina, Catolé do Rocha, Campo Alegre de Lourdes, Campo do Tenente e Chapadão do Céu",1,counting
+Constance visitou apenas quatro lugares e apenas uma pessoa,Constance visitou Noor e Amaia,1,counting
+Alaia visitou apenas oito lugares e apenas três pessoas,"Alaia visitou Alegrete do Piauí, Seabra, Luciára, Paraíso, Água Branca, Cedro, Godofredo Viana, Madeiro e Acarape",1,counting
+Silke visitou apenas vinte e oito lugares e apenas dezessete pessoas,"Silke visitou Novo Horizonte do Oeste, Nova Russas, Porto Xavier, São Gonçalo do Pará, Pirapora do Bom Jesus, Capela de Santana, Mamanguape, Carmópolis de Minas, Bom Jardim de Goiás e Venâncio Aires",0,counting
+Ellie-Rosa visitou apenas sete lugares e apenas uma pessoa,Ellie-Rosa visitou Ricardina e Myriam,1,counting
+Estrella visitou apenas vinte e três pessoas,"Estrella visitou Elisabeta, Antonina, Nessa, Ália, Sancha, Selina, Lucileine, Névia, Dinora, Maritana, Ludmila, Roberta, Flória, Tolentina, Reinalda, Hilma, Teodósia, Talina, Pippa, Márvia, Carminda, Giraldina, Edine e Diná",1,counting
+Isolda visitou apenas quinze lugares e apenas catorze pessoas,"Isolda visitou Juna, Sian, Ivânia, Rosalinda, Rosie, Mavilde, Lourdes, Balduína, Dana, Kailani, Névia, do Amparo, Ilídia, Mariame e Guendolina",1,counting
+Evangelista visitou apenas oito lugares e apenas oito pessoas,"Evangelista visitou Pacajá, Entre Rios do Sul, Pradópolis, Coaraci, Ipiranga, Nazarezinho, Augustinópolis, Rosário do Sul e Volta Grande",1,counting
+Simoneta visitou apenas trinta lugares,"Simoneta visitou Ibotirama, Catanduvas, Matão, Ipixuna, Camacho, Novo Santo Antônio, Campestre, Brasília, Riacho de Santo Antônio, Itaperuna, Alagoinhas, Várzea do Poço, Córrego do Bom Jesus, Parambu, Vera Cruz, São Pedro do Piauí, Belo Oriente, Cruzeta, Charqueadas, Florianópolis e Santa Helena",0,counting
+Geraldina visitou apenas dezesseis lugares e apenas dezesseis pessoas,"Geraldina visitou Aparecida, Pio XII, Manoel Ribas e São Miguel do Guaporé",0,counting
+Nereida visitou apenas quatro lugares e apenas quatro pessoas,"Nereida visitou Passa Quatro, Carmo, Panelas, Paulo Lopes e Itaueira",1,counting
+Luíza visitou apenas vinte e quatro lugares e apenas onze pessoas,"Luíza visitou Urucânia, Campo Novo de Rondônia, General Câmara, Xambrê, Tucuruí, Nova Colinas, Orizânia, Rifaina, Presidente Juscelino, Olímpio Noronha, Afogados da Ingazeira, Abaeté, Rio Grande do Piauí, São Francisco de Goiás, Barrinha, São Miguel das Missões, Novo Santo Antônio, Cajueiro da Praia, Boa Nova, Matutina, Honório Serpa, João Dias, Ritápolis, Formosa do Sul e Joca Marques",1,counting
+Inácia visitou apenas três lugares e apenas três pessoas,Inácia visitou Redenção do Gurguéia,0,counting
+Crisante visitou apenas vinte e cinco lugares e apenas dezoito pessoas,"Crisante visitou Tasso Fragoso, Bálsamo, São Félix do Tocantins, Belém, Piedade do Rio Grande e Palmitinho",0,counting
+Carmorinda visitou apenas seis lugares,"Carmorinda visitou Tuntum, Água Azul do Norte, Itaberaba e Cacoal",0,counting
+Odette visitou apenas vinte e nove lugares,"Odette visitou Jaboticatubas, Seberi, Nova América da Colina, Caetés, Itamarati de Minas, Salinópolis, Arapoti, Umburatiba, Pedro Leopoldo, Itaparica, Ouvidor e Atibaia",0,counting
+Noélie visitou apenas nove lugares e apenas sete pessoas,"Noélie visitou Cajamar, Monsenhor Gil, Pinhão, Porto Rico, Itapejara d'Oeste, Cláudia, Jardim do Seridó, Caçu, Fonte Boa e Siderópolis",1,counting
+Joela visitou apenas dez lugares e apenas quatro pessoas,"Joela visitou Lena, Kendall, Sahara, Danielle e Militana",1,counting
+Bertilde visitou apenas dezesseis lugares,"Bertilde visitou Silvianópolis, Fernandes Pinheiro, Cambuí, Santo Antônio, Santana do Seridó, Ametista do Sul, Chã Preta, Boracéia, Canhotinho, Coluna, Alcinópolis, Fronteira, Nova Colinas, Itainópolis, Alenquer, Espírito Santo e Porto do Mangue",1,counting
+Desidéria visitou apenas onze lugares e apenas dez pessoas,Desidéria visitou Iguape e Jussara,0,counting
+Graciliana visitou apenas dez lugares e apenas duas pessoas,"Graciliana visitou Viadutos, Medeiros Neto, Jandaia do Sul, Simplício Mendes, Abreu e Lima, Guajeru, Itueta, Itapororoca, Vila Nova do Sul, Santa Maria da Vitória e Pedras de Maria da Cruz",1,counting
+Lhuzie visitou apenas dezenove lugares,"Lhuzie visitou Apodi, Baependi, Afonso Cláudio, Pedro Régis, Águas de Chapecó, São Martinho da Serra, Valentim Gentil, Baião, Bernardo Sayão, Paracatu, São Miguel do Anta e Igarapé-Miri",0,counting
+Giuliana visitou apenas trinta lugares e apenas doze pessoas,"Giuliana visitou Evandra, Justina, Darcília, Rosalie e Amarília",0,counting
+Lucie visitou apenas vinte e quatro lugares,"Lucie visitou Pinhalão, Espera Feliz, Corbélia, Macaparana, São Felipe, Morrinhos, Caiuá, Bandeira, Massaranduba, Ituberá, Salto do Céu, Paula Freitas, Castro, Brasópolis, Cabeceiras, Carnaubal, Inaciolândia, Nova Marilândia, Paranaiguara, São João do Pau d'Alho, Guarabira, Rio Real, Trizidela do Vale, São João do Pacuí e Congo",1,counting
+Edith visitou apenas onze lugares e apenas oito pessoas,"Edith visitou Iturama, Urucará, Alto Alegre, Conceição do Canindé, Pingo-d'Água, Piratuba, São José do Xingu, Gado Bravo e São João do Jaguaribe",0,counting
+Misha visitou apenas um lugar,Misha visitou Vera Cruz,0,counting
+Duna visitou apenas vinte e um pessoas,"Duna visitou Lígia, Honorina, Carol, Laila, Antonela, Belosinda, Martinha, Josiana, Julita, Cárita, Libertária, Carmo, Cibele, Guendolina, Íngride, Mariema, Léna, Dircea, Lilian, Isolina, Magaline e Naíde",1,counting
+Analdina visitou apenas vinte e oito lugares e apenas três pessoas,"Analdina visitou Naima, Gara, Romeia e Adriela",1,counting
+Dina visitou apenas treze pessoas,Dina visitou Mari e Dariana,0,counting
+Dulcina visitou apenas oito lugares e apenas cinco pessoas,"Dulcina visitou Abaetetuba, Coroatá e Santa Maria do Cambucá",0,counting
+Lucilina visitou apenas quinze pessoas,"Lucilina visitou Sienna, Prazeres, Mavilde, Cremilde, Julianna, Lisandra, Gilma, Lariana, Naama, Loreta, Cirila, Lízi, Léa, Guarani, Adália e Ioque",1,counting
+Lorine visitou apenas vinte e três pessoas,Lorine visitou Nur e Emídia,0,counting
+Clementine visitou apenas sete lugares e apenas uma pessoa,Clementine visitou Bétia e Ália,1,counting
+Santa Rita visitou apenas três pessoas,"Santa Rita visitou Belmira, Haidé, Bétia e Priscila",1,counting
+Neli visitou apenas cinco lugares e apenas quatro pessoas,"Neli visitou Paraíso, Sérgia, Guislena, Diomar e Tolentina",1,counting
+Eleine visitou apenas seis lugares e apenas seis pessoas,Eleine visitou Perpétua e Mírtila,0,counting
+Anteia visitou apenas quinze lugares,"Anteia visitou Pacajá, Monsenhor Paulo, Igaracy, Alterosa e Paiçandu",0,counting
+Pui visitou apenas vinte e oito lugares e apenas doze pessoas,"Pui visitou Darcília, Glenda, Blásia, Adriane, Ersília, Jil, Afonsa, Dionilde, Muna, Giuliana, Élea, Dúlia e Nisa",1,counting
+Cleópatra visitou apenas quinze lugares,"Cleópatra visitou Alto Taquari, Altinópolis, São João das Missões, Guapé, Pedras Grandes, Joaquim Távora, Cesário Lange, Itagi, Sagres, Guzolândia, Maruim, Águas de Lindóia, Sumidouro e Alto Rio Doce",0,counting
+Sylvie visitou apenas dezesseis lugares e apenas quatro pessoas,"Sylvie visitou Lutgarda, Anquita, Alexia, Sory e Sofie",1,counting
+Lea visitou apenas dezenove lugares e apenas catorze pessoas,"Lea visitou Cambuí, Crateús e Pedrinópolis",0,counting
+Suria visitou apenas doze pessoas,"Suria visitou Aldora, Elis, Runa, dos Anjos, Mariama, Hulda, Mona, Luamar, Agnes, Delmira, Eliane, Antonela e Gileade",1,counting
+Marinela visitou apenas quinze lugares e apenas doze pessoas,"Marinela visitou Misha, Alisande, Joséfa, Naíma, Diva, Marli, Soline, Rossana, Gloriosa, Magali, dos Prazeres, Tessa e Jerónima",1,counting
+Elsinda visitou apenas nove lugares e apenas nove pessoas,"Elsinda visitou Paraíso, La-Salete, Domitila, Ianesis e Dulcineia",0,counting
+Samantha visitou apenas vinte e um pessoas,"Samantha visitou Samantha, Sophie, Paris, Rubina, Anaisa, Arlinda, Délia, Berta, Octávia, Sarina, Felismina, Albina, Joraci, Adalgisa, Soline, Silvina, Atenais, Éris, Louise, Oksana, June e de Fafe",1,counting
+Gilma visitou apenas vinte e seis pessoas,"Gilma visitou Dara, Hulda, Leonila, Kimberly, Ilse, Severa e Quaiela",0,counting
+Edite visitou apenas oito lugares e apenas oito pessoas,"Edite visitou Gustava, Astride e Alanis",0,counting
+Aurete visitou apenas três lugares e apenas três pessoas,"Aurete visitou Delisa, Inoi, Ellie-Rosa e Lexie",1,counting
+Graciete visitou apenas dezesseis pessoas,"Graciete visitou Jessie, Alcíone, Nola, Tabata e Denise",0,counting
+Guilhermina visitou apenas vinte e cinco lugares,"Guilhermina visitou São João de Pirabas, Tangará, Mallet, Caturité, Tonantins, Ribeirópolis, Tenente Portela, Cambuí, Itapejara d'Oeste, Vale do Anari, João Ramalho, Manoel Emídio, Espírito Santo do Dourado, Sericita e Nova Andradina",0,counting
+Ália visitou apenas vinte lugares e apenas três pessoas,"Ália visitou Antonina, Cantá, Itapirapuã Paulista, Congonhinhas, Laranjal e Turuçu",0,counting
+Carissa visitou apenas vinte e cinco lugares e apenas vinte e cinco pessoas,"Carissa visitou Adalgisa, Miriã, Kailani, May, Darci, Isolete, Dúnia, Almerinda, Iriana, Maribel, Jalmira, Crystal, Marisol, Cyntia, Leona, Soledade, Atena, Herénia, Almira, Duana, Salomite, Aimara, Ciana, Florinda, Dores e Roquelina",1,counting
+Khloe visitou apenas vinte e três lugares,"Khloe visitou Bezerros, Santa Terezinha, Botuporã, Maracaju, Ponta Grossa, Cedro do Abaeté, Guaporema, Guaranésia, Piraí do Norte, Giruá, Braço do Trombudo, São Lourenço da Serra, Cocal do Sul, Guaraniaçu, Nova Iorque, Novais, Cipotânea, Bandeirantes, Flores, Curitibanos, Santa Maria da Vitória, Pio XII, Atilio Vivacqua e Barra Bonita",1,counting
+Iasmina visitou apenas três lugares e apenas uma pessoa,Iasmina visitou Roana e Simaura,1,counting
+Iana visitou apenas vinte e nove pessoas,"Iana visitou Amina, Disa, Odette, Eleia, Dinora, Idélia, Eda, Brenda, Nessa, Darlene, Joice, Rocio, Cássia, La-Salete, Leandra, Síria, Gabi, Evangelista, Amabélia, Shine, Isaurinda, Erméria, Lola, Papoila, Anaíde, Cynthia, Siomara, Hermenegilda, Ausenda e Johanna",1,counting
+Flamínia visitou apenas vinte e sete pessoas,"Flamínia visitou Luzinira, Aíko, Formosa, Luanda, de Fafe, Liara, Angelita, Loela, Lenira, Marilisa, Ianesis, Riana, Cereja, Salete, Belisa, Leocádia, Júnia, do Céu, Elizabete, Mariame, Gaori, Noélia, Eda, Fedra, Mariline, Maria João, Samaritana e Eleni",1,counting
+Raissa visitou apenas dezesseis lugares e apenas seis pessoas,"Raissa visitou Álvaro de Carvalho, Betânia, Juiz de Fora e Carmópolis",0,counting
+Orlanda visitou apenas sete lugares e apenas sete pessoas,Orlanda visitou Mélodie,0,counting
+Maximiliana visitou apenas vinte e sete pessoas,"Maximiliana visitou Paula, Kaira, Dana, Aldenora, Joaquina, Casta, Nilza, Henriette, Luena, Sirla, Marise, Florentina, Geovana, Sira, Anícia, Reeva, Enide, Tracy, Marinela, Adriele, Cornélia, Aléxia, Gioconda, Amabília, Albana, Carlotta, Nour e Cizina",1,counting
+Lianor visitou apenas vinte e um lugares,"Lianor visitou Oscar Bressane, Xapuri, Veredinha, Santo Augusto, Novo Lino, Morrinhos, Montanha, Água Doce do Norte, Santa Cruz de Monte Castelo, Paulista, Curvelo, Jerônimo Monteiro, Riachinho e Palhano",0,counting
+Naraiana visitou apenas trinta lugares,"Naraiana visitou Estrela do Sul, Moji Mirim, São Manoel do Paraná, Jericó, Jaborá, Augusto de Lima, São Miguel da Boa Vista, Ocauçu, Itiquira, Simões Filho, Cachoeiro de Itapemirim, Inocência, Juatuba, Lambari, Bananal, Tamarana, Barra de São Francisco, Cabedelo, União da Vitória, Luís Gomes, Veranópolis, São Miguel do Guamá, Douradina, Terra Rica, Itaju, Serrita, Pedro II, São Francisco, Tomazina, Quatro Irmãos e Lagoa Seca",1,counting
+Evangelista visitou apenas dezessete lugares e apenas doze pessoas,"Evangelista visitou Montes Claros de Goiás, Tanque d'Arca, São Carlos, Cônego Marinho, Estrela do Indaiá, Xexéu, Criciúma, Joca Marques, Boca da Mata, Conchal, Gurinhatã, Camocim, São Tomás de Aquino, Catolé do Rocha, Aurora, Porto Alegre do Norte, Itaboraí e Pontal",1,counting
+Rossana visitou apenas catorze lugares e apenas nove pessoas,"Rossana visitou Monte Alegre de Minas, Cachoeirinha, Morada Nova, Ivaté, Cidreira, Ipixuna do Pará e Belo Oriente",0,counting
+Io visitou apenas vinte e três lugares e apenas duas pessoas,Io visitou Romeia,0,counting
+Lucíola visitou apenas um lugar e apenas uma pessoa,Lucíola visitou Jataúba e Prata,1,counting
+Lauren visitou apenas vinte e nove lugares,"Lauren visitou Cruz do Espírito Santo, Guatambú, Bom Jesus, Rorainópolis, Mar de Espanha, Portão, Barrocas, Garibaldi, Nazaré, Licínio de Almeida, Lavras do Sul, Sebastianópolis do Sul, Pirapó, Prata, Itapissuma, Turuçu, Coimbra, Aracruz, Romaria, Santa Rita de Ibitipoca, Cocal do Sul, Quixadá, Kaloré, Urupema, Arapuá, Elisiário, Borborema, Canudos, Quatiguá e Novo Barreiro",1,counting
+Sharam visitou apenas cinco lugares e apenas cinco pessoas,"Sharam visitou Sylvie, Dione, Prudência e Khaleesi",0,counting
+Júnia visitou apenas vinte e cinco lugares e apenas duas pessoas,"Júnia visitou Planaltino, Braganey, Seara, Biquinhas, Lagoa do Itaenga, Padre Marcos, General Salgado, Alfredo Marcondes, Ernestina, Paraí, Videira, Pocrane, Ladário, Chapada, Lajeado, Lambari D'Oeste, Camaquã, Augustinópolis, Vargem Grande do Rio Pardo, Renascença, São Gonçalo do Pará, Águas Formosas, Pindoba, São João da Canabrava, Meruoca e Dona Emma",1,counting
+Lubélia visitou apenas uma pessoa,Lubélia visitou Léane,0,counting
+Nuna visitou apenas dez lugares e apenas dez pessoas,"Nuna visitou Catingueira, Jaboticaba, Ventania, Antônio Cardoso, Santa Cruz das Palmeiras, São Raimundo do Doca Bezerra, Alto Araguaia, Valença do Piauí, São Francisco de Paula, Corbélia e Centenário do Sul",1,counting
+Dinora visitou apenas oito pessoas,"Dinora visitou Elda, Emilie, Linda e Justa",0,counting
+Soraya visitou apenas treze lugares,"Soraya visitou Terra Roxa, Elísio Medrado, Piedade de Ponte Nova, Trindade, Penha, Campos dos Goytacazes, Florianópolis, Domingos Mourão, Ipueiras, Armação dos Búzios, Olinda Nova do Maranhão, Bias Fortes, Pimenta e Bom Despacho",1,counting
+Traciana visitou apenas oito lugares e apenas seis pessoas,Traciana visitou Atena e Constânça,0,counting
+Marcília visitou apenas vinte lugares,"Marcília visitou Rio do Prado, Campo Magro, Guarinos, Nova Santa Rita, Morada Nova de Minas, São Patrício, Damolândia, Rubiácea, Conceição do Pará, Araucária, Caracaraí, São Fidélis e Mauá",0,counting
+Clementina visitou apenas vinte e nove lugares e apenas dez pessoas,"Clementina visitou Aroazes, Leme do Prado, Lagoa Grande, Adrianópolis, Porto de Pedras, Alto Horizonte, Planaltino, Campo Erê, Sobrado, Itápolis, Vista Alegre do Alto, Irauçuba, Pareci Novo, Cidreira, Francisco Macedo, Ponte Alta do Tocantins, Jaraguá do Sul, Sítio Novo, Mirante do Paranapanema, Araçatuba, Imbituva, Nova Esperança do Piriá, Alterosa, Buriti Alegre, Rio Preto, Barra Bonita, Pavussu, Ewbank da Câmara, Vera Cruz e Jaraguari",1,counting
+dos Anjos visitou apenas oito lugares e apenas três pessoas,"dos Anjos visitou Anísia, Angie, Fédora e Cora",1,counting
+de São Luís visitou apenas dezoito pessoas,"de São Luís visitou Astride, Lumena, Almira, Jani, Antonela, Thalia, Diane, Cirila, Si, Nilsa, Rosário, Numénia, Liseta, Íngride, Carmezinda, Etelvina, Louise, Laetitia e Ilca",1,counting
+do Almurtão visitou apenas vinte e dois lugares e apenas quinze pessoas,"do Almurtão visitou Josana, Alita, Janine, Emanuella, Deodete, Paula, Amira, Joya, Denisa, Nazarina, Adelaide, Susete, Genciana e Chiara",0,counting
+Bertina visitou apenas quatro pessoas,"Bertina visitou Carmina, Melodia e Edmunda",0,counting
+Nícia visitou apenas dez lugares e apenas dez pessoas,"Nícia visitou Sarzedo, Santo Amaro das Brotas, Carrancas, São Francisco do Guaporé, Trairão, Gaurama, Santa Tereza de Goiás e São Bonifácio",0,counting
+Constanza visitou apenas nove lugares e apenas quatro pessoas,"Constanza visitou June, Cristiana, Evangelista, Idília e Carísia",1,counting
+Elmira visitou apenas dez pessoas,"Elmira visitou Sofie, Córita, Luamar, Laila, Silvéria, Diane, Altina, Marcella, Miranda, Holly e Liete",1,counting
+Ireneia visitou apenas onze lugares e apenas uma pessoa,"Ireneia visitou Bom Jesus, Pariconha, Campo do Brito, Fazenda Nova, Frei Miguelinho e Itaipulândia",0,counting
+Selena visitou apenas vinte e dois pessoas,"Selena visitou Nahla, Sasha, Leonardina, Brunilde, Carminda, Alaia, Excelsa, Belosinda, Giada, Chen e Agna",0,counting
+Aléxia visitou apenas cinco lugares e apenas cinco pessoas,"Aléxia visitou Ricardina, Salma, Leonilde, Farida, Balduína e Talita",1,counting
+Benvinda visitou apenas catorze lugares e apenas seis pessoas,"Benvinda visitou Princess, Helga, Georgeta, Raina, Lucrécia, Narcisa e Niceia",1,counting
+Anatilde visitou apenas dezenove lugares,"Anatilde visitou Joca Marques, Caturaí, Frutal, São Félix do Araguaia, Ivoti, Itajaí, Itatiba do Sul, Coxim, Cuparaque, São Jerônimo, Serra Azul, Mirante da Serra, Eldorado, Lajeado do Bugre, Ibimirim, Babaçulândia, Planalto Alegre, Olho d'Água do Casado, Livramento de Nossa Senhora e Granjeiro",1,counting
+Nimi visitou apenas vinte e cinco lugares e apenas quinze pessoas,"Nimi visitou Melânia, Norma, Juanita, Hélia, Rolende, Ioana, Shana, Nola, Joelma, Nikita, Nicolina, Guida, Chi, Leoménia, Ifigénia e Nayara",1,counting
+Mariah visitou apenas dezessete lugares,"Mariah visitou Cachoeira de Pajeú, Salesópolis, Novo Brasil, Ferreiros, Vila Boa, Campina do Simão, Pacajá, Porto União, Santo Antônio de Lisboa, Senador José Porfírio, Jaborandi, Santa Helena, Iracema, Propriá, Paulo Frontin, Cupira, Santa Luzia e Vera",1,counting

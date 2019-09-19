@@ -1,0 +1,484 @@
+text,pred,label
+two women are speaking to each other one sitting and facing away while the other is standing in a white office the women are speaking to each other,1,0
+a large african american man sitting on a camping chair the large black man is relaxing in the chair and waiting for a steak,1,0
+a man and a woman walk at a flea market the couple are shopping for deals,1,0
+family gathered together in a house enjoying each other company a family is enjoying a night at home,1,0
+a dog catching a fr ##is ##bee an animal is making contact with a toy,1,0
+a man reads the paper in a bar with green lighting the man is inside,1,0
+four small children playing in the courtyard of a large building made out of clay or sand four children who live in a large building are in the courtyard playing,1,0
+a man is watching as a woman is reading a piece of paper a person watches someone,1,0
+a man in a coat with a briefcase walks down a street next to the bus lane a sad man in a coat with a briefcase walks down a street next to the bus lane,1,0
+a person is surfing a big wave a person is surfing,1,0
+one man wearing a blue jacket is kicking another man wearing a red jacket two men are fighting outside a bar,1,0
+a dark ##hair ##ed lady with a big smile is wearing a bright red scarf there is a happy lady with colorful clothing,1,0
+a woman in a gray sweatshirt is sitting on the floor with her small dog that is wrapped in a blanket the woman is wearing jeans,1,0
+a man jumping a dirt ramp on a b ##mx bike a man jumps his bike,1,0
+an engineer with a blue jacket and cap wears purple gloves while looking up the engineer had purple gloves,1,0
+a young woman is about to descend the stairs into a metro station a young lady is outside the train station,1,0
+a roof ##er in a gray sweatshirt and orange hat walks on a unfinished roof at a lakeside home the roof ##er is putting on shin ##gles,1,0
+a female softball player wearing blue and red crouch ##es in the in ##field waiting for the next play a player is waiting,1,0
+a group of people including one man carrying a silver trip ##od stand in front of a large building featuring numerous columns people are standing,1,0
+two men are boxing in fighting arena two men are boxing,1,0
+a girl with black pants on is lowering a camera onto the running track a camera is being lowered onto a running track by a girl in black pants and yellow t shirt,1,0
+a boy on a bicycle in mid ##air a boy is falling off his bike,1,0
+two men one in a red shirt and one in a white shirt are on a boat in the beautiful blue ##gree ##n water two men are out boating,1,0
+a bald black man wearing safety glasses and a long ##sle ##eve ##d black shirt is using a pick and hammer to sc ##ul ##pt a sizable rock into art a black man with no hair is making a sc ##ult ##pur ##e with a pick and a hammer,1,0
+man in traditional costume holding small guitar with a silver bike behind him a man is holding a musical instrument,1,0
+a woman wearing a red hat and red banda ##nna followed by a man in a red banda ##nna the people are wearing banda ##nas,1,0
+a man is giving a presentation the man is a farmer,1,0
+a female dancer wearing all white dancing while a photographer wearing all white takes her picture a girl dancing and photographer take a photo,1,0
+an older women looking off into the distance with three older women walking towards her from behind 4 older woman are walking,1,0
+many people sit some stand outside of a large brick building people are protesting outside of an abortion clinic,1,0
+the man is wearing an orange and black polo shirt and is kneeling with his lunch box in one hand while holding a banana in his other hand a man is eating lunch,1,0
+a child doing gymnastics a child is doing gymnastics,1,0
+a white ##cl ##ad soccer player is attempting to intercept a soccer ball that is quickly approaching the goal box a soccer player gets the interception,1,0
+red ##hair ##ed female answers questions while sitting at a table for craft ##zine the pr rep fielded questions during the interview,1,0
+one man wearing a blue shirt standing on the back of a truck in a market the man is standing on a truck,1,0
+man sitting on a bench reading a book a man is doing something outside,1,0
+a woman wearing a black ts ##hir ##t and green cap ##ri pants walks in front of a giant clock it is noon,1,0
+a man sits behind a decorated table inside a room with fabrics draped down the walls man sitting near table in a fabric ##dra ##ped room,1,0
+three soccer players two in orange one in yellow running for the ball on a soccer field there are some players chasing a ball,1,0
+four people stand in front of trees four people outdoor,1,0
+people are waiting in line to board a double decker bus german tourists are waiting in line to board a bus,1,0
+a young blond boy is eating cake with a spoon a little boy is eating cake,1,0
+a woman with a bag is sitting amongst three people who are reading books the woman is sitting,1,0
+the man in white is playing basketball against the man in blue the team wearing white is winning the game,1,0
+a woman in a low cut blue shirt is in a crowded room that looks smoke ##y someone is in a bar,1,0
+a young female standing on the deck of a boat starring at her cell ##phone while riding on the water a girl checks her phone on a boat,1,0
+a boy in a green shirt surrounded by toys and another boy wearing a blue shirt with penguins to his left two boys are surrounded by toys,1,0
+a female guitarist is playing on stage a woman is playing her instrument,1,0
+a person rides a motor ##bi ##ke on a dirt path surrounded by trees the bike is black,1,0
+a little boy playing with two rubber chickens the boy is outdoors,1,0
+a couple is sitting down smiling with the woman linking arms with the man a couple is sitting down and smiling at each other,1,0
+i am squat ##ting on a dock looking into a lake i am near a lake,1,0
+a blond woman wearing a pearl bracelet is about to kiss a man wearing a white shirt a man and woman are on a date,1,0
+a cement worker is working on a new sidewalk outside of a clothing store a cement worker is working on a new sidewalk,1,0
+a small boy wearing a blue shirt plays in the kidd ##ie pool boy cooling off during the summer,1,0
+a ball ##erina standing on the toes of one food with one arm up in the air and one leg lifted behind her the ball ##erina ##s leg is lifted behind her,1,0
+a woman and a young girl are eating side by side a mother and her daughter eating sandwiches together,1,0
+a group of girls in black and white spotted skirts cross a street a group of girls are walking to school,1,0
+four children are wearing blue hats with colored stream ##ers four kids are wearing birthday party hats,1,0
+a person stands between two giant statues that look like faces a human is standing between two large objects,1,0
+a man wearing a check ##ered shirt cream suit and tennis shoes sits on a bench the guy is on the bench waiting for his wife,1,0
+a young blond child wearing a black shirt and white shorts looks at the sky with a bridge and water in the background a child looks at birds in the sky outside of of a bridge,1,0
+person in yellow ts ##hir ##t is sleeping a person is nap ##ping,1,0
+a young woman with a black hat and red and black jacket swings on a red ##oran ##ge ball attached to a blue rope the photo is taking place in a gym,1,0
+mom and little boy having fun eating by the lake two humans enjoying the outside,1,0
+a woman walking down the street a woman is walking to work,1,0
+two girls pose along a tree ##lined path and blow kisses towards the camera two girls are taking pictures outside,1,0
+a woman is walking with a full shopping cart away from a trader joe ##s a woman is walking away from trader joe ##s with a full shopping cart,1,0
+a group of people and a dog sitting on the steps a group of people are sitting with a dog,1,0
+cheer ##leader ##s pose for the camera they are at a photo shoot,1,0
+a brown ##hair ##ed woman in a blue shirt wearing a bi ##b number from a marathon holds a gold trophy and poses with a blond woman in a black dress a woman has a blue shirt,1,0
+a young man blew up balloons to craft into animals for the seven excited children that looked on the children watch the man make dogs and gi ##raf ##fe ##s out of balloons,1,0
+a woman crosses the street with a baby in her arms a woman crosses the street carrying her baby,1,0
+a young man wearing a hood ##ie pants and athletic shoes is sitting on a red lounge chair and watching hide ##f tv man sitting in a red chair flipping through tv channels,1,0
+a dog is walking down steps a large dog is walking down the front steps,1,0
+a woman wearing an elaborate array of feathers in her hair a bea ##d necklace a medallion and an aqua brown and olive ##gree ##n dress and looks off to her left smiling slightly a woman looks to her left,1,0
+a group of young people performing on a stage a group of people are singing and dancing on stage for people,1,0
+two kids in blue wet ##suit ##s surf two children surf in the ocean,1,0
+a woman happy about something a woman is happy that her husband is home from work,1,0
+two men and a fr ##is ##bee two men playing with a fr ##is ##bee,1,0
+a group of kids play on a colorful structure a group of kids are playing in the city park,1,0
+a dark ##hair ##ed man wearing a black and white ts ##hir ##t eats in a park surrounded by people a man is eating,1,0
+a group of young people pose for a picture in a field they are taking a class photo,1,0
+a youth skate ##boards by a mural of a griffin wielding a flaming sword a youth skate ##boards by a mural that has been van ##dal ##ised,1,0
+a man in green pants and blue shirt pushing a cart there is a man wearing cloth ##s,1,0
+a jug ##gler wearing a plaid ki ##lt and a green shirt jug ##gling a person jug ##gles in a ki ##lt,1,0
+a woman wearing a red helmet is holding a rope and smiling a woman is trying to lass ##o a cow that escaped,1,0
+a middle ##aged woman with red ##hair a white shirt and a silver bea ##ded necklace is holding a yellow cell ##phone against her ear while talking she was calling her husband on her cell ##phone,1,0
+a man in a white shirt and baseball hat is pushing a cart carrying several bags on a street a man is walking outside,1,0
+a worker is doing a job on sc ##af ##folding a tall human working,1,0
+a little girl in a pink dress crying a young girl is crying for more attention,1,0
+an engineer with a blue jacket and cap wears purple gloves while looking up the engineer heard a noise,1,0
+a large man is sitting in front of a fountain statue while talking on a phone the man is talking to someone,1,0
+the young man is sitting on a couch smoking a cigarette a young man smoking a cigarette,1,0
+an elderly women is sitting in a chair on one side of a room with a group of musicians including a cell ##ist and guitar player and on the other side of the room a group of people are sitting on chairs she is over 80 years old,1,0
+a girl is swinging rather high on a swing with blue ropes with lots of trees in the background a girl is swinging rather high on a swing with light blue ropes,1,0
+a man dressed only in a towel is in a sa ##una an old man dressed only in a yellow towel is sweating in a sa ##una,1,0
+two individuals dressed up like animals are posing for the camera two young boys dressed like cows are posing,1,0
+a gentleman standing on steps getting his picture taken by a girl wearing a dress a man on the steps is being photographed by a girl,1,0
+a man with a cigarette sits on the st ##oop a man sits and smoke ##s outside,1,0
+a man painting a sign onto his food cart a man is working on a cart,1,0
+a worker is preparing fish to be sold at a market a person is slicing up a fish to sell,1,0
+a drunk looking woman is hugging a drunk looking man a drunk looking couple embracing,1,0
+a man in a hard hat looks intimidated he is working in a potentially dangerous field that requires a hard hat,1,0
+an older man holding a sign for tattoos sol ##ici ##ting business on the street the man works with a tattoo business,1,0
+a little girl on a piece of playground equipment a kid is doing a thing,1,0
+a tractor decorated as a float for a parade a tractor drives down the parade route,1,0
+a group of people look at fresh let ##tu ##ce in at the local street market people viewing produce at a market,1,0
+a train conductor in cover ##all ##s is standing in the door of the trail a train conductor is standing in a door,1,0
+two women are relaxing in a hot tub a couple of women are in the hot tub,1,0
+the guitarist performs a rocking solo the musician is performing his favorite song,1,0
+a young male is running while playing tennis against another person a man moves while playing a game,1,0
+people are coming down a mo ##vable staircase built through a tunnel which has three of those staircase ##s people are descending in a tunnel,1,0
+a girl and a boy hugging on a bridge boyfriend and girlfriend hugging each other,1,0
+men work on a city street the men are working,1,0
+pretty spring trees are shown with a man standing with his hands on his hips and a large tree trunk in the front of the picture a person surrounded by spring trees,1,0
+two men cooking one stirring a pot while making a funny face while the other points at him some men are hungry,1,0
+a young boy learns how to ride a horse the ginger ##hair ##ed kid holds the pony ##s reins,1,0
+a woman wearing a yellow jacket ski ##s down a snowy hill a woman is outside,1,0
+artists install a new exhibit in a gallery people put up new art at the towns local gallery,1,0
+a man wearing a red vest is walking past a black and green fence the man wearing the vest is walking down the street,1,0
+blond boy in striped shirt on the swing set a boy is on the swing set,1,0
+a group of ladies sit around a black table in front of a brick wall with a building in the background the ladies are friends,1,0
+a crowd of people shopping at a street market in an urban area with buildings and a statue in background the crowd of people are shopping at a street market that sells fruits,1,0
+a woman in a burgundy coat exits trader joe ##s with a cart full of groceries a woman outside,1,0
+a male with sunglasses is poking at a tree with a pole a tall human poking,1,0
+a middle ##aged woman with red ##hair a white shirt and a silver bea ##ded necklace is holding a yellow cell ##phone against her ear while talking the woman was talking on the phone,1,0
+a stop ##light displaying two bicycle symbols a left ##turn ##ing green arrow and a red forward signal stands in the fore ##ground while a man in a white hat and blue shirt bikes along a red path this man is an athlete,1,0
+a man is tossing a knife in the air while another man stands nearby a man prepares to show off his knife ##wi ##eld ##ing skills,1,0
+a basketball player in a red uniform is trying to make a basket but is being blocked by the opposing team a basketball player is playing basketball,1,0
+the young man is sitting on a couch smoking a cigarette a young man smoking a cigar,1,0
+a man drops something reaching for it while a woman in a beige blaze ##r discusses an important topic a man reaches for a cell ##phone while his companion tells him about her life,1,0
+a man who wears glasses a blue shirt and a chicago white sox cap holds a young boy who also wears a blue shirt the man the baseball is taking his son to a baseball game today,1,0
+a man falling off a bull as the animal jumps into the air an animal jumps as a male falls,1,0
+three fire ##fighter come out of subway station three firefighters putting out a fire inside of a subway station,1,0
+a man wearing blue pants a white helmet and a greens ##trip ##ed shirt is shown on ski ##s in mid ##air against a blue sky with a single puff ##y cloud the sky is blue with a single puff ##y cloud,1,0
+a young male wearing a blue hat turned backwards and slightly sideways with a cigarette in his mouth a man is wearing a hat,1,0
+the man in the black shirt is skate ##boarding on the front steps of the building a person with a dark top is outside doing something active,1,0
+a woman working long hours a woman is working,1,0
+a woman holding a newborn baby woman holds her new baby,1,0
+cars and people are outside of hotel carmel people get out of cars for the party at hotel carmel,1,0
+a bald ##ing heavy ##set man and a dog are resting beside an ornate monument featuring a greenish statue of a man and a woman there are both people and animals in this picture,1,0
+people dresses in business clothing are walking by while one man with a tie on is standing still and talking on his cellular phone the people are dressed in business clothing,1,0
+a mountainous photo is complete with a blue sky there is a photo of mt everest,1,0
+a motor ##ist gets some air over a rough hill a motor ##ist is riding his bike in a competition,1,0
+woman smiling while holding a book and yellow paper star the woman holding book and yellow paper star with smiling,1,0
+a white male in and office setting wearing a gray dress shirt and black dress pants with black dress shoes is jump ro ##ping and smiling the man works in the office,1,0
+two men are wearing caps are looking at the ground with surprised expressions on their faces two men are shocked by what they see,1,0
+a young woman sit ##ing on a park bench in the sun the young woman is enjoying the sun,1,0
+four men wearing orange vest ##s are putting in a steel beam on the ground humans in orange,1,0
+some cars and many tents are set up at the foot of a mountain cars and tents are at the foot of the mountain,1,0
+a man stands with his arms out inside a large green piece of equipment he is trying to get it working again,1,0
+two men reno ##vate a brick wall outside two men are laying bricks,1,0
+a soccer player wearing a red uniform walks off the field after a game near a parking lot there is a field with a parking lot,1,0
+black and yellow teams are trying to get the basketball in the goal two teams are playing a sport,1,0
+a woman in a red shirt looks at a map while with a view of a river and several boats in the background a woman in red is out camping near water,1,0
+a girl playing a violin along with a group of people a group of people are playing in a symphony,1,0
+a group of chinese people sitting and laying down together on what appears to be a front porch the chinese people on the porch are family members,1,0
+a man in a red shirt is being filmed by another man on a sports field with a huge audience of people watching and cheering the audience is cheering because of the celebrity,1,0
+two white dogs fighting with each other the two dogs hate each other,1,0
+three dogs run through the grass while wearing colored shirts three small dogs run through the grass during the day,1,0
+here is a picture of people getting drunk at a house party some people are holding beers in the picture,1,0
+people are standing next to a chain link fence the people are at a school,1,0
+a crowd watching a duo in blue dance on a stage a crowd is watching people dance,1,0
+a man in a suit with a purple striped tie talking to a lady wearing sunglasses a man is chatting with a lady,1,0
+a female softball player in a black and red uniform with a red batting helmet is holding her bat waiting for the pitch a tall person in a uniform,1,0
+a man looks mysterious in a blue shirt and a red truck for a company called wil ##bert a man approaches a woman ##s house on business,1,0
+a woman carries a small unhappy child in a busy street scene woman carrying a child,1,0
+a mother sha ##ding her baby with an umbrella as she and her partner climb the stairs a woman protects her child from the sun as they walk to an upper level of a building,1,0
+a group of three men and two woman sitting at a table that has food drinks and a game on it some people are sit ##ted,1,0
+a boy looks out the window at another boy who is spraying the window with water the boy is looking at another boy,1,0
+a woman wearing bike shorts and a skirt is riding a bike and carrying a shoulder bag a woman on a bike,1,0
+bruce springsteen with one arm outstretched is singing in the spotlight in a dark concert hall bruce springsteen is gay,1,0
+two white dogs fighting with each other the two dogs are having a brawl,1,0
+a little girl standing in the middle of a street cleared for an on ##coming parade a small girl is in the parade for the marching band,1,0
+a lady wearing a blue dress and earrings is sitting at a table with a napkin in her hand and her elbow on the table the female is waiting for her order,1,0
+dark ##hair ##ed man wearing a watch and oven mit ##t about to cook some meat in the kitchen a man is going to surprise his wife with dinner,1,0
+two boys in a canoe in front of a larger boat with a storm coming in two boys in a boat,1,0
+four men are sitting in front of two large windows one man is playing a guitar one is playing the bon ##go drums and two are sitting back without instruments the four men sitting in front of the two windows belong to a band,1,0
+bruce springsteen with one arm outstretched is singing in the spotlight in a dark concert hall bruce springsteen is a singer,1,0
+an asian young woman wearing a white shirt and black pants is holding a pink purse the woman has a white shirt on,1,0
+two men in hard hats saw ##ing a plank of wood two workers cutting down a board to make it fit in a housing project,1,0
+two guys sit on opposite sides of a strange billboard two guys sit on the side of a billboard,1,0
+two men stand in the road it almost appears to be some sort of movie set on a sunny day in california tall people standing,1,0
+two hu ##ssar ##s sit perched on horses dressed in extravagant ceremonial wear each holding a sabre in their right hand reigns to the horse in their left two people are on some animals,1,0
+a man gets a skate ##board up on a big rock the guy is on a rock with a skate ##board,1,0
+several adults look on while a young girl plays in a ball pit a young girl is having fun,1,0
+a dark ##hair ##ed man wearing a black and white ts ##hir ##t eats in a park surrounded by people a man takes his lunch break in the park,1,0
+a man partly draped in a green and orange flag rests his arms on two others while standing in a crowd a man rests on his friends after a championship fight,1,0
+a woman in jeans and a woman in shorts are pet ##ting a baby kangaroo two woman are pet ##ting a animal,1,0
+a young boy in red leaping into sand at a playground a child is playing in the sand,1,0
+several men at a bar watch a sports game on the television there are men drinking beer at a sports bar,1,0
+the man white purple and white polka ##dot ##ted shirts is eating and looking to his right while the woman behind him has a confused look on her face a person is consuming food,1,0
+five women with red and black halt ##er tops and red and black mini ##ski ##rts wearing red and white shoes five sisters wearing red and black attire are getting ready to take a family portrait,1,0
+two children are looking through a telescope on a city street and the boy is using a step ladder to see through the eye ##glass two children are testing out their new telescope and seeing what they can see on the street,1,0
+a white and a black dog fighting in a fence ##d in room the dogs are fighting,1,0
+a patient is being worked on by doctors and nurses someone is at the doctor,1,0
+two fans are cheering at a sporting event two men are cheering on the new york yankees,1,0
+a family smiling on the couch a family is sitting on a couch watching tv,1,0
+a close ##up of an older man with glasses speaking an older man is talking,1,0
+a group of children in african clothing some humans in green clothing,1,0
+one female and two male musicians holding musical equipment there is one female,1,0
+a young woman wearing a yellow shirt and off ##w ##hit ##e shorts is reading a book while sitting on a park bench a woman reading a book while she sits on a bench waiting for the bus,1,0
+a statue at a museum that no seems to be looking at there is a statue that not many people seem to be interested in,1,0
+a car is loaded with items on the top the car has stuff on top,1,0
+sports team members practice and relax on a basketball court team members were practicing on a basketball court while large crowd watched,1,0
+a gray rally car is being driven by two adult males while a large white container is tied down on top of the roof two men are in a car,1,0
+a child buried in the sand the child has sand on him or her,1,0
+two boys inside a fence jump in the air while holding a basketball two boys jump with excitement,1,0
+an african person standing in a wheat field a person standing in a wheat field,1,0
+a woman with a blond ponytail and a white hat is riding a white horse inside a fence with a horned cow the woman is riding a horse,1,0
+a person dressed in white and black winter clothing leaps a narrow water ##fi ##lled ditch from one frost ##co ##vered field to another where a female dressed in black coat and pants await ##s the female awaiting the man leaping is his sister,1,0
+a male with sunglasses is poking at a tree with a pole a human poking,1,0
+a guy in glasses is biting into a pink marsh ##mal ##low chick while somebody else is puck ##ering their lips out wanting a bite a guy bites into a freshly opened marsh ##mal ##low chick,1,0
+the fire ##men and women wearing blue gloves have finished working on a person who is lying on ground bandage ##d and draped in a blue blanket the firefighters have finished a job,1,0
+a group of people standing in a restaurant there are people in a restaurant,1,0
+a boy is riding down the road between two cows a boy rides a horse by two cows,1,0
+a young girl is mid jump while performing a dance routine a young girl is dancing,1,0
+one woman with jeans gray shirt and sandals with girl in all pink watching a white ball float in mid ##air the shirt is gray,1,0
+a baby getting a bath in the kitchen sink a baby is getting a bath,1,0
+a girl bounce ##s in a bounce house a girl is bouncing around at a friend birthday party,1,0
+a band playing on stage in a club a rock band is playing at the 930 club,1,0
+a man is making a phone call a man is calling his wife,1,0
+at an outdoor event on a large table several workers form an assembly line in which they prepare food with many squeeze bottles and di ##sp ##ense ##rs visible and a woman wearing plastic gloves in the fore ##ground workers preparing for a cater ##ed event with several con ##diment ##s lining the food table,1,0
+two women wearing apron ##s and hair ##nets look at each other while they reach into metal can ##ister ##s two women are running a kitchen,1,0
+a smiling girl slides down a purple slide feet first a girl goes down a slide,1,0
+people protesting age discrimination in an organized street rally people are rally ##ing,1,0
+six dogs swimming in a river six dogs swim across the river,1,0
+a man holding a picture of a small dog is painting a small dog in near life size on a white canvas a man holding a picture of a small dog is painting a small dog in near life size on a white canvas,1,0
+a person is squat ##ting down near bucket ##s holding something in one hand there is more than one bucket,1,0
+several women wearing dresses dance in the forest there are several women,1,0
+two women sitting at a table with their hands together two sisters are hugging after not seeing each other in ages,1,0
+two women are sitting at a table one is holding a baby and another child is playing on the floor there are two women and two children,1,0
+a man and woman in formal attire are standing in a high grass meadow posing for the photographer and she has two of her fingers up on one hand behind his head a couple are having their wedding picture taken,1,0
+a older man with gray hair wearing a gray suit next to a green and yellow taxi a taxi driver with gray hair next to a green and yellow taxi,1,0
+a man in a white shirt taking a picture the man is a photographer,1,0
+a man is swimming with a little girl wearing a pink life jacket in an indoor pool a man is teaching his granddaughter to swim,1,0
+a person taking pictures of a young brunette girl a young model has her first photos ##hoot,1,0
+a girl in a blue shirt hugging a girl also in a blue shirt someone made one of the girls cry,1,0
+a worker shovel ##ing dirt into a wheel ##bar ##row a worker uses a shovel,1,0
+two men are shirt ##less on the beach on a beautiful day two men are shirt ##less,1,0
+fire ##men stand outside of their fire ##tr ##uck with all its lights on people stand outside of their fire ##tr ##uck with all its lights on,1,0
+a large number of people wearing only white and red are walking on a street a large number of men walking down the street in red and white,1,0
+a drummer wearing a plaid shirt jeans and a purple had bangs his drum a drummer playing on drums,1,0
+these people are in uniform at a lacrosse type game there are people at a lacrosse game,1,0
+children are playing outside in a fountain some children throw stones into a fountain,1,0
+man with an orange banda ##nna is playing the flute person with an orange banda ##nna is playing the flute,1,0
+a smiling man and a baby girl posing for photo a photo is being taken of a man and a baby girl,1,0
+the boys are playing with lego ##s boys are playing,1,0
+two girls wearing hats are running through snow drift ##s outside two white girls running,1,0
+a young boy in suspend ##ers the boys suspend ##ers are blue,1,0
+two dogs in a grassy field two dogs are outside,1,0
+two children play in the snow by the side of the road kids are enjoying the cold weather,1,0
+a todd ##ler is intrigued by a toy lego set in a bookstore a kid is interested in a toy,1,0
+boy with red shorts getting soaked with water a boy is getting splashed,1,0
+an older man wearing a suit has his arms folded behind his back and looking in a store window gentleman window shops,1,0
+men are playing rugby while covered in mud it rained recently,1,0
+a woman in a black leather shirt trench ##coat and black leather calf ##hi ##gh boots and carrying a colorful bag with a shoulder strap faces away from the camera with a yellow post visible just in front of her some stars are walking past the papa ##raz ##zi ##s and getting into an awards building,1,0
+two people climb a rock over ##hang ##ing water two kids are climbing the rock,1,0
+little girl with very curly hair drinking her cup of juice a girl with curly hair is drinking through a straw,1,0
+a dog catching a fr ##is ##bee a puppy has leapt into the air to grab a fr ##is ##bee,1,0
+a man in a plaid shirt looking through a telescope lens a man is looking through a telescope,1,0
+a large crowd is gathered outside and one woman is yelling a woman yells while a groups of people gathers,1,0
+man walking down a brick sidewalk in a business suit reading a paper and smoking a cigar with a woman wearing sunglasses walking behind him to his left the man and woman are married,1,0
+three children in a black dog ken ##nel kids are in a cage,1,0
+the col ##lie is standing outdoors on a sandy area the col ##lie is at a beach,1,0
+a woman wearing a gray jacket and visibly laughing is seated next to a woman who is wearing a dark blue sweater and is smirk ##ing the two women are amused,1,0
+an older man si ##ft ##s water through his fingers as a young todd ##ler watches from inside the water a man is near a todd ##ler,1,0
+a young girl is playing a musical instrument and singing into a microphone a talented child sings into a mic and plays an instrument,1,0
+scientists frantically research ways to finally eliminate male bald ##ness a group of scientists are examining a bald man while shaking their heads,1,0
+person with umbrella observes flooded streets with cars in the water a person is outside,1,0
+a dog plays with a stuffed animal the dog is enjoying himself,1,0
+a young man blew up balloons to craft into animals for the seven excited children that looked on a man is twisting a balloon into the shape of a dog,1,0
+a man wearing a straw hat sitting in a chair holding the leash on a dog who is laying on the sidewalk next to him a man is holding the leash of a dog,1,0
+some children are playing soccer in front of a large wooden door the kids are playing soccer,1,0
+an asian lady is holding a cup and sitting in front of a table covered in different foods there is a table next to a lady,1,0
+three young men are playing soccer in the beach wearing shorts and beach attire while some people watch three young men are playing soccer in the beach wearing daisy duke shorts,1,0
+a woman holding a newborn baby woman holds baby,1,0
+a girl in a green coat walks down a rural road playing a flute the country road has a walker wearing green,1,0
+a woman in a red jacket walks down the street in the rain women dislike ##s rain but walks through it anyway,1,0
+a child in a red coat waves a hand in the air while lying in snow beside a red plastic sl ##ed a child is playing in the snow with his friends,1,0
+a young well ##dre ##ssed black man seated behind a drum set and smiling the man is an agent,1,0
+a man is on a skate ##board jumping from a short ledge onto the sidewalk the man is outdoors,1,0
+people hurrying to get to work in a busy city people rushing to get to work in a busy city cause they are late,1,0
+a girl wearing black is riding a giant un ##ic ##y ##cle on the beach the beach is cold,1,0
+construction workers use cables to hang from the sides of buildings construction workers are brave,1,0
+workers wearing orange vest ##s work on fence guys working outside,1,0
+a woman wearing a straw hat is sitting among a variety of different foods while holding a drink a woman is sitting near food,1,0
+people sitting in a dim restaurant eating people are in a restaurant celebrating an anniversary,1,0
+people mainly women and 2 referees are skating fiercely during a roller derby match fierce competition in the roller derby women ##s final match en ##su ##es,1,0
+a man on a skate ##board on steps in front glass doors of a brick building the man on the skate ##board is going to bounce off the glass doors,1,0
+a young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air a young boy is playing in the field because his mother kicked him out of the house,1,0
+a group of people are gathered on a sidewalk in front of a store nearby a littered street there is a group near a store,1,0
+a man playing an electric guitar on stage a man is performing for cash,1,0
+two uniformed women wearing jackets saying pol ##iti ##e on the back are looking at each other in front of a crowd the women are wearing clothes,1,0
+a man sitting on an elephant with a riding seat is talking to a female tourist a person riding a large animal,1,0
+an impoverished person wearing a torn brown shirt and no shoes is kneeling down along the banks of a trash in ##fest ##ed body of water a poor person in ta ##ttered clothes knee ##ls by the trash filled body of water,1,0
+three little kids on a swing set one is upside down one hanging from the top bar and on a swing three kids on a swing set,1,0
+a man cooking with fire in like 5 pots at the same time a man is cooking with a lot of pots,1,0
+a blond ##hair ##ed doctor and her african american assistant looking threw new medical manual ##s a doctor is looking at a book,1,0
+a young boy wearing a red shirt runs along a gravel road a boy is outdoors,1,0
+two dogs run together near the leaves two dogs are running,1,0
+two identical brown dogs side by side holding something white in both their mouths two twin pup ##s holding onto the same bone,1,0
+people are sitting on a bench in front of buildings some people are seated on a bench outside,1,0
+the backs of a woman and her dog as they walk away from the camera with the dog on a red leash and her in a green tank top a dog on a red leash walking away,1,0
+two women in black enjoying a lunch in a restaurant the restaurant is crowded,1,0
+a girl wearing black is riding a giant un ##ic ##y ##cle on the beach the girl has clothes on,1,0
+a man wearing a graduation cap a suit and an orange shaw ##l walks in front of city shops a man dressed really strangely is walking in front of some shops,1,0
+a lone bike rider na ##vi ##gating a rough terrain course through dirt with trees and grass in the background on a cloud free day somebody is riding a bike on the nature trail,1,0
+a cyclist dressed in black and white is pointing a cyclist dressed in black and white points,1,0
+a man with ski poles and a large camping backpack trek ##s through the snow a camp ##er with ski poles walks towards his campground,1,0
+person in a long red coat walking in front of a building a man in a coat takes a stroll outdoors,1,0
+the hockey players and referee are preparing for a face ##off the players and referee are getting ready to start the match,1,0
+this child is on the library steps the child is on the steps,1,0
+three men in hats and a woman in a red shirt examine the produce presented to them by the man in the blue shirt and white hat the group is going to buy something,1,0
+a man wearing a red shirt with the number 54 hits a baseball while a catcher prepares to catch the ball a baseball game is going on in a park,1,0
+a golden dog passes a blue ball to another golden dog on the beach the dogs are friends,1,0
+a group of runners are running towards two identical skyscraper ##s the runners are running towards the large buildings,1,0
+a photographer is using a trip ##od to take a picture of a sunset the photographer is a professional,1,0
+a young man standing on one foot in colorful bowling shoes after throwing the ball a person in a black shirt is standing on one foot,1,0
+kid holding handles on two wheeled object the kid is riding a bike,1,0
+a young woman is wearing a paper crown at an outdoor event the woman is at a party,1,0
+a man in a black tank top wearing a red plaid hat a man in a hat,1,0
+a dog jumps over a pile of wood a dog can jump,1,0
+man and woman rowing on surf ##boards third rower in distance couple go out for their first surfing session as a couple,1,0
+people checking out a car with all its doors open in a parking lot in the city a car door has not been shut,1,0
+a boy wearing a helmet is jumping his skate ##board a boy is jumping his skate ##board while his friends watch,1,0
+two dogs are playing catch in a field the two dogs are outside,1,0
+a man wearing a welding mask working on a duct the man is kneeling down,1,0
+an older man is kneeling and talking to a group of younger children all in soccer uniforms a coach teaches his kids,1,0
+a group is walking between two giant rock formations a group is hiking,1,0
+a blond woman sits on a park bench while wearing a brown tank top and olive green shorts a blonde woman sits on a bench,1,0
+a person doing a trick on a snow ##board a snow ##board ##er is performing tricks,1,0
+a man surf ##s on a medium sized wave while holding a paddle that seems to steer him in the direction he wants to go an extreme kay ##aker steer ##s the treacherous waters,1,0
+a man wearing blue jeans and a peach shirt is arguing with a woman with long gray hair a red skirt and tan shirt a small man wearing blue jeans and a peach shirt is arguing with a woman,1,0
+people sitting on stool ##s looking outside people look outside,1,0
+three performers are on the stage floor in black lace costumes the performers are performing in a cabaret,1,0
+first lady laura bush at podium in front of seated audience at the white house conference on global literacy laura bush gets ready to address a heated issue,1,0
+two individuals use a photo ki ##os ##k the people are together,1,0
+two skate ##board ##ers one wearing a black ts ##hir ##t and the other wearing a white ts ##hir ##t race each other two skate ##board ##ers race,1,0
+a girl in a hat steer ##s her electric wheelchair a girl in a wheelchair,1,0
+a lady in a green and black jacket and blue pants taking a photos of a horse a woman takes photos of a horse,1,0
+the women is photograph ##ing statues outdoors on a sunny day women photograph ##ing statues for a magazine,1,0
+a man in an apron smiles as he poke ##s a fry ##ing don ##ut with a little metal stick the man is in the kitchen of a restaurant,1,0
+the backs of a woman and her dog as they walk away from the camera with the dog on a red leash and her in a green tank top a dog on a red leash getting ready to go to the beach,1,0
+a hockey player in blue and red guarding the goal a hockey goal ##ie earn ##s his keep,1,0
+two young girls one wearing a pink jacket and the other in a dark ##color ##ed jacket are playing in the snow and having a snow ##ball fight in a clearing outside of a wooded area two girls are playing and having a fight on the snow,1,0
+several bride ##s wearing white dresses are holding red roses they are sisters,1,0
+a child in an orange outfit stands holding flowers a kid is wearing colorful clothing,1,0
+a woman in a white br ##idal dress and ruby red shoes carrying a white umbrella stands atop a platform while handing a bro ##chu ##re to a middle ##aged female pass ##er ##by the woman is handing out information,1,0
+two little boys wearing athletic jerseys are washing their hands in a public restroom the boys had uncle ##an hands,1,0
+a person in a green robe sits on a couch with a blanket a man sits on a couch,1,0
+there are two boats full of people in a river one is stopped and the other is moving one of the boats ran out of gas,1,0
+two men shining peoples shoes two men shining shoes in the plaza,1,0
+an asian young woman wearing a white shirt and black pants is holding a pink purse the woman is in her 20s,1,0
+a blond woman is looking at a camera that a brunette woman is holding in front of a wall with several pieces of art on it a woman is helping her friend take a picture,1,0
+two young boys are playing in a fountain in a city plaza kids are splash ##ing around in a fountain,1,0
+two people in coats kiss on the side of a road a recently engaged couple embrace on the street,1,0
+a female child in a white long ##sle ##eve ##d shirt is kneeling on a couch laughing as her hair is sticking up a child laughs at her mothers joke on a couch,1,0
+a young couple both wearing white shirts and blue jeans standing in a light misty rain a couple hang out on the beach,1,0
+a man has wrecked his racing bike in the dirt with five spectators behind a rope a man has damaged something,1,0
+a person sitting on a rock beside a waterfall a person is near water,1,0
+two men one in a blue shirt and one in a green shirt analyze a piece of paper in the middle of a workshop area the cow ##or ##kers are discussing a work related paper in their shop,1,0
+a man in a boom lift bucket we ##ld ##s a man is working,1,0
+an african ##ame ##rica ##n male youth is riding a green bicycle while other people are looking at pictures on a board a boy is riding to the store to get some candy,1,0
+this is when daddy taught her how to ride her sc ##oot ##er daddy taught her,1,0
+a man in bright shirt carrying a fallen branch there is one man in this picture and he is outside,1,0
+man sits at the doorway of barber shop the man is a barber,1,0
+many children play in the water the children are at camp,1,0
+two shirt ##less men jumping over a street rail probably practicing new dance moves two men without shirts are jumping in the street,1,0
+a statue at a museum that no seems to be looking at the statue is offensive and people are mad that it is on display,1,0
+a moving truck with a ramp still attached a moving truck ready to move more belongings,1,0
+a guy on roller ##bla ##des sliding across a rail the roll ##der ##bla ##der is using the rail,1,0
+the man in the sailor suit is holding literature a man is sitting in his sailor suit,1,0
+two boys in a canoe in front of a larger boat with a storm coming in boys trying to escape an incoming storm,1,0
+a boy wearing jean shorts and a black and blue shirt reading a book sits on a rolling device up against a wall that says book fair while other people stand around a boy is wearing clothes,1,0
+a young girl wearing a red shirt and cap smiling and holding a small toy is standing in front of a group of children playing behind her the girl is smiling because she is having fun,1,0
+a bearded man with a backpack on his back holding a trip ##od in front of a rocky creek and bridge the man was taking pictures of nature,1,0
+a black ##hair ##ed woman with her hair in a high bun is having her head shaved by another woman a person with hair,1,0
+two young teenage girls hiking through the snow on a cold winter day two girls with blonde hair are hiking,1,0
+a teen is standing in a field and is in the ups ##wing position after hitting a golf ball the teenager has just made a hole ##ino ##ne while playing golf,1,0
+a man is holding an accordion while leaning against a brown fence that overlook ##s some water an accordion player leans against his fence,1,0
+one young boy in a yellow long ##sle ##eve ##d shirt and jeans sitting down with five adults in front of him one operating a video camera someone recording a young boy as he auditions for a part in a movie,1,0
+soldiers are holding guns and peeking around a building soldiers are packing heat near a building,1,0
+a woman is taking a picture of a girl on a sc ##oot ##er the woman is the girls mom,1,0
+a woman is posing in a meadow next to an old truck a woman is getting her maternity pictures taken,1,0
+city ##sca ##pe with four men on bikes serving as the focal point of picture bike rental as low as 999 an hour,1,0
+a gentleman standing on steps getting his picture taken by a girl wearing a dress the woman is taking the mans photo for a magazine,1,0
+two little girls wearing pink hanging on a tube two girls playing on a tube,1,0
+there is a large group of people standing together mostly wearing canada symbols there is a large group,1,0
+two men in conversation while sitting at a bar two men in conversation,1,0
+a man wearing a yellow motorcycle jacket on a motorcycle in mid ##air with a man watching in the background a man pre ##forms tricks on a motorcycle,1,0
+two men and two women in jackets walk down a large city street there are people outside,1,0
+a young girl poses with a trophy in the park a girl poses with her spelling bee trophy,1,0
+a woman in a white hi ##ja ##b dig ##s into the ground the lady dig ##s into the ground for gold,1,0
+a band playing on stage in a club musicians are playing their instruments at a venue,1,0
+the coaching official and football player are talking in front a crowd and other team members people talking,1,0
+a young boy gets his photo taken with mr and mrs clause a young boy gets his photo taken,1,0
+a person rides a motor ##bi ##ke on a dirt path surrounded by trees the person is outdoors,1,0
+a young woman is ordering from a red food truck a young lady is ordering food,1,0
+a man playing a piano the mans hands are on the keys of a piano,1,0
+a man is giving a presentation a man gives presentation,1,0
+a little boy is getting is birthday cake and is blowing out the candles making a wish,1,0
+a man in a blue shirt is performing a skate ##boarding trick near st ##ia ##rs while two other men watch a person in a shirt,1,0
+a woman carrying a large package on her head walks in front of a building plastered with portuguese posters advertising a concert a woman walks outdoors,1,0
+expert snow ##board is trying a new trick the person is snow ##boarding,1,0
+a woman wearing a red coat stands on a wood floor in front of several paintings while two girls sit on the floor at her feet woman views paintings with two girls at her feet,1,0
+four kids pose on a stage several children are posing on a stage,1,0
+a man is sitting on the floor and is surrounded by pictures a man sitting on the floor with pictures around him,1,0
+a mata ##dor in white and gold clothing and pink sock is getting hit by a raging bull the angry bull is attacking the mata ##dor and quite right ##ly so,1,0
+along a paved walkway outdoors a person in a black wind ##breaker takes a photo of a multi ##piece fish statue while a small white dog looks on a person takes a photo,1,0
+a woman with red ##hair and large tattoo is sitting in a chair outside there ##s a lady with ginger hair,1,0
+two little boys are standing in a kitchen they are going to get something to eat,1,0
+a young man wearing a white shirt prepares hot ##dog ##s on a small grill a young man is grill ##ing hot ##dog ##s for a memorial day party,1,0
+a person is walking a bicycle down a city street the bike has a flat tire,1,0
+people jump over a mountain cr ##eva ##sse on a rope some people look visually afraid to jump,1,0
+three men play musical instruments three people with guitars,1,0
+a man is riding a bike along a dirt trail the man is riding a dirt bike,1,0
+the black woman is laying out literature a black woman is handling printed material,1,0
+a group of people building ginger ##bread houses a group of school ##child ##ren are working on a ginger ##bread house neighborhood for class,1,0
+a man with a beer in his hand listen ##s to a woman talk a man has a beer with him,1,0
+men sitting on the side of a brick road men are talking on the side of the road,1,0
+a group of people are camping out on some rocks people are outdoors,1,0
+there are children playing in the snow and one of them is making a snow ##ball children play in the snow,1,0
+a group of female athletes are huddled together and excited they are about to plan a score,1,0
+man in robe making designs on dirt ground an artist preparing some sketches in the dirt,1,0
+a man in a blue jogging suit is running on the sidewalk in front of a painting the man is sweating from his run,1,0
+3 girls chatting and laughing on the stairwell a group of girls are having fun,1,0
+an officer in a black uniform and hat stands to the left of a large structure with other officers in the background a group of officers are standing,1,0
+a young man is playing a blue guitar a musician practices on his guitar briefly before a concert,1,0
+boy in red and black shirt walks through grass the boy is walking,1,0
+the tattooed basketball player is about to dun ##k the ball the person is playing basketball,1,0
+a man in a blue shirt and a woman in a pink skirt sit around other people in the background there is a group of people at a music festival,1,0
+the man in the black wet ##suit is walking out of the water a person is walking out of water,1,0
+women are working and digging in a field women are digging,1,0
+an older white woman makes cup ##cake ##s in her kitchen an old woman is in a kitchen,1,0
+a man and a woman are holding hands on the shore of a lake a couple on vacation,1,0
+the player in the white dr ##ib ##bles the ball while the player in the orange tries to stop him the player in white and the player in orange are participating in a pickup game of basketball at the gym,1,0
+the man in colorful shorts is barefoot the man has shorts but no shoes,1,0
+a man lying on the grass on a rugby field holding a rugby ball a many sleeping with his rugby ball,1,0
+three young women perform a dance in a crowded hall three young women are performing in front of a big audience,1,0
+a female within the fore ##ground is heading towards a large white colored pillar that is apart of a large building with people are lo ##iter ##ing or waiting on the steps of said building there are several people outside of a building,1,0
+two dogs run across the woods the dogs are running after an animal,1,0
+a skier is throwing up snow as he ski ##s off pi ##ste a professional skier ski ##s down a mountain,1,0
+three adults are working in a garden near a fence in the yard they are planting flowers,1,0
+three men dressed in suits and ties clasp ##s their raised hands while standing in front of corporate logos three men are dressed in suits,1,0
+a snow ##board ##er with a maroon coat sails through the air the snow ##board ##er has never tried this jump before,1,0
+a small qu ##aint town all lit up during the holiday season there are lights in the town,1,0
+a person dressed in white and black winter clothing leaps a narrow water ##fi ##lled ditch from one frost ##co ##vered field to another where a female dressed in black coat and pants await ##s the man in white and black is leaping,1,0
+two college football players battle it out outdoors on the field during game day where one is the quarterback trying to throw the ball and the other player is in action about to sack the quarterback two teams from rival colleges are in the fourth quarter of a game,1,0
+man in leather jacket and scarf sits on purple cushion at a party a person is sitting,1,0
+three teenagers wearing ts ##hir ##t run down the beach with several other people in the background someone is being chased on a beach,1,0
+three military officials are battling a fire my a building there is a fire being fought,1,0
+police are setting up a barr ##ica ##de due to a fire people in uniform are working near a fire,1,0
+a man examines a bike during a yard sale a man is at a yard sale,1,0
+a boy in a blue jacket rides a skate ##board down the street a blue jacket ##ed boy is skating down the street,1,0
+a man wearing a brown hood ##ie is shopping for snacks the man is wearing brown,1,0
+a vietnamese woman wearing a gray top carries large clear bags of groceries using a stick to balance everything on her shoulder a tall person carrying stuff,1,0
+a woman in a yellow shirt is carrying two full red grocery bags a lady has her arms full,1,0
+a crowd of people at a county fair watch three men ag ##itate a large bull a fair is filled with crowds of adults and children,1,0
+two men in workers gear and colorful hard hats standing on board what appears to be a large ship next to some very large machinery two men in workers gear are on a large ship with machinery,1,0
+children at day ##care playing on rings and poles one parent standing and holding her child and one teacher is sitting on the bench watching the others play children are playing,1,0
+bicycles are litter ##ing the road as boy pull door a boy tries to open the door to his apartment near where other apartment dwellers park their bicycles,1,0
+a young man holding a microphone and singing a man is performing a song,1,0
+a younger man dressed in tribal attire a young man wears clothing,1,0
+a woman in black reviews a message as she walks to work the woman in black has a job,1,0
+a black man wearing a red belt and a white man wearing a blue belt are pictured in the act of practicing martial arts inside a building with a woman looking on in the background the men are novice ##s at martial arts,1,0
+a worker peers out from atop a building under construction a person is atop of a building,1,0
+a group of people in black outfits drinking beer people drink beer at the pub,1,0
+a man in a red shirt is sitting on top of a rocky mountain a man sitting on top of a mountain,1,0
+a blond woman in a white shirt demonstrates her talents to a crowd a woman performs for the crowd,1,0
+an suv traveling through mud suv travelling through mud,1,0
+three pup ##pies are in the tub being sprayed with water by a person three pup ##pies are in the tub being sprayed with water by the vet,1,0
+a small child wearing a helmet is in a baby carrier that is on the floor the child is wearing a helmet because it is going on a bike ride with its mother soon,1,0
+a choir of youths are singing a choir of kids are singing,1,0
+two men and a fr ##is ##bee two men with a toy,1,0
+men playing basketball the guy with the ball is attempting a lay ##up men are playing basketball as one guy wins the game by attempting a lay ##up,1,0
+the man is performing a trick on a motorcycle high in the air a man is showing off for his friends,1,0
+a man dances with a woman in a white egyptian costume a man dances with a woman in costume,1,0
+two girls in bathing suits are in water two girls practicing swimming in a pool,1,0
+bearded black dressed male performer is displaying his skill by swinging a fire line in each hand in arcs a sides ##how man in a black costume is performing a trick with fire for the audience,1,0
+a person with a purple shirt is painting an image of a woman on a white wall a woman paints a portrait of her best friend,1,0
+a boy in a gray and yellow jacket is raising his hand in front of others sitting around him a boy is raising ##in his hand to answer a question in his class,1,0

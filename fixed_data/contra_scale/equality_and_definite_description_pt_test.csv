@@ -1,0 +1,1001 @@
+sentence1,sentence2,label,label_form
+"Abby é a pessoa que visitou todo lugar, Abby visitou Brigite",Abby não visitou Barra do Guarita,1,definite_description
+"Climénia é a pessoa que visitou todo lugar, Climénia visitou Ernestina",Climénia não visitou Novo Horizonte do Sul,1,definite_description
+"Janaína é a pessoa que visitou todo mundo, Janaína visitou do Rosário",do Rosário não visitou Thai,0,definite_description
+"Melodia visitou Jada, Jada é a pessoa que visitou todo lugar",Jada não visitou Massaranduba,1,definite_description
+"Bertina visitou Belisa, Belisa é a pessoa que visitou todo mundo",Belisa não visitou Giraldina,1,definite_description
+"Raísa é a pessoa que visitou todo lugar, Cibele visitou Raísa",Cibele não visitou São Joaquim da Barra,0,definite_description
+"Giselda é a pessoa que visitou todo mundo, Giselda visitou Lusa",Giselda não visitou Melinda,1,definite_description
+"Drusila é a pessoa que visitou todo lugar, Carminda visitou Drusila",Carminda não visitou Cocalinho,0,definite_description
+"Gabrielle é a pessoa que visitou todo mundo, Gabrielle visitou de São Luís",Gabrielle não visitou Ianesis,1,definite_description
+"Hortense visitou Gregória, Gregória é a pessoa que visitou todo lugar",Gregória não visitou Divisópolis,1,definite_description
+"Gaori é a pessoa que visitou todo mundo, Eárine visitou Gaori",Gaori não visitou Elza,1,definite_description
+"Amabélia é a pessoa que visitou todo lugar, Leya visitou Amabélia",Amabélia não visitou Camamu,1,definite_description
+"Martinha visitou Marli, Martinha é a pessoa que visitou todo mundo",Marli não visitou Ancha,0,definite_description
+"Santa Cruz é a pessoa que visitou todo mundo, Santa Cruz visitou Margaret",Santa Cruz não visitou Olga,1,definite_description
+"Gala é a pessoa que visitou todo mundo, Rhianna visitou Gala",Rhianna não visitou Paraíso,0,definite_description
+"Kylie é a pessoa que visitou todo lugar, Kylie visitou Nubiana",Nubiana não visitou São Sebastião do Tocantins,0,definite_description
+"Naiane é a pessoa que visitou todo mundo, Luizete visitou Naiane",Luizete não visitou Kendra,0,definite_description
+"Tayná visitou Kate, Tayná é a pessoa que visitou todo mundo",Kate não visitou Carmela,0,definite_description
+"Catherine é a pessoa que visitou todo lugar, Catherine visitou Kenzi",Kenzi não visitou Caçapava do Sul,0,definite_description
+"Naida é a pessoa que visitou todo mundo, Naida visitou Aminata",Naida não visitou Soline,1,definite_description
+"Petrina é a pessoa que visitou todo mundo, Rocio visitou Petrina",Rocio não visitou Alida,0,definite_description
+"Carmélia é a pessoa que visitou todo mundo, Carmélia visitou Lucrécia",Carmélia não visitou Adalgiza,1,definite_description
+"Julinha é a pessoa que visitou todo mundo, Idélia visitou Julinha",Julinha não visitou Amorzinda,1,definite_description
+"Matrosa é a pessoa que visitou todo mundo, Matrosa visitou Marinha",Marinha não visitou Jezabel,0,definite_description
+"Cita visitou Beatrix, Cita é a pessoa que visitou todo lugar",Cita não visitou Dona Inês,1,definite_description
+"Elda é a pessoa que visitou todo lugar, Elda visitou Maíra",Maíra não visitou Pinheiral,0,definite_description
+"Aneide é a pessoa que visitou todo lugar, Dilsa visitou Aneide",Dilsa não visitou Caetés,0,definite_description
+"Quézia visitou Iasmina, Quézia é a pessoa que visitou todo mundo",Iasmina não visitou Margareta,0,definite_description
+"Bitia é a pessoa que visitou todo lugar, Bitia visitou Evelyn",Evelyn não visitou Canudos,0,definite_description
+"Sáli é a pessoa que visitou todo mundo, Sáli visitou Leonida",Leonida não visitou Marianne,0,definite_description
+"Dalva visitou Sian, Dalva é a pessoa que visitou todo mundo",Sian não visitou Romeia,0,definite_description
+"Jewel é a pessoa que visitou todo lugar, Edna visitou Jewel",Jewel não visitou Serra da Saudade,1,definite_description
+"Natércia visitou Perpétua, Perpétua é a pessoa que visitou todo lugar",Perpétua não visitou Rio do Fogo,1,definite_description
+"Nimi visitou Tessa, Tessa é a pessoa que visitou todo lugar",Nimi não visitou Tuiuti,0,definite_description
+"Inaia visitou Ivone, Ivone é a pessoa que visitou todo lugar",Ivone não visitou São Gabriel,1,definite_description
+"Rubi é a pessoa que visitou todo mundo, Mária visitou Rubi",Rubi não visitou Ianesis,1,definite_description
+"Eliseba visitou Nísia, Nísia é a pessoa que visitou todo lugar",Eliseba não visitou Alto Paraguai,0,definite_description
+"Afonsa visitou Nânci, Afonsa é a pessoa que visitou todo mundo",Afonsa não visitou Idélia,1,definite_description
+"Darlene é a pessoa que visitou todo lugar, Darlene visitou Gina",Gina não visitou Ponto Belo,0,definite_description
+"Selina é a pessoa que visitou todo mundo, Doroteia visitou Selina",Selina não visitou Juliette,1,definite_description
+"Magaline visitou Assunção, Assunção é a pessoa que visitou todo mundo",Magaline não visitou Josy,0,definite_description
+"Marian visitou Hazel, Hazel é a pessoa que visitou todo lugar",Hazel não visitou Frutal,1,definite_description
+"Oana visitou Cármen, Cármen é a pessoa que visitou todo lugar",Cármen não visitou Itambé,1,definite_description
+"Rania visitou Hortênsia, Hortênsia é a pessoa que visitou todo lugar",Rania não visitou Paripueira,0,definite_description
+"Iasmina é a pessoa que visitou todo mundo, Thaís visitou Iasmina",Thaís não visitou Joele,0,definite_description
+"Joselina visitou Maribel, Maribel é a pessoa que visitou todo mundo",Maribel não visitou Giselle,1,definite_description
+"Cris visitou Heidi, Heidi é a pessoa que visitou todo mundo",Cris não visitou Sory,0,definite_description
+"Lucélia é a pessoa que visitou todo lugar, Noémia visitou Lucélia",Noémia não visitou Baía da Traição,0,definite_description
+"Gislene visitou Tessa, Gislene é a pessoa que visitou todo mundo",Tessa não visitou Eleonora,0,definite_description
+"Dúnia visitou Dakota, Dakota é a pessoa que visitou todo mundo",Dúnia não visitou Nelma,0,definite_description
+"Gabrielle é a pessoa que visitou todo mundo, Ornela visitou Gabrielle",Gabrielle não visitou Roena,1,definite_description
+"Deméter visitou Ecaterina, Deméter é a pessoa que visitou todo mundo",Deméter não visitou Papoila,1,definite_description
+"Benvinda visitou Liseta, Benvinda é a pessoa que visitou todo mundo",Liseta não visitou Desidéria,0,definite_description
+"Tara é a pessoa que visitou todo mundo, Brenda visitou Tara",Brenda não visitou Aniana,0,definite_description
+"Clarina é a pessoa que visitou todo lugar, Clarina visitou Fiorella",Fiorella não visitou Ivaí,0,definite_description
+"Enide é a pessoa que visitou todo lugar, Enide visitou Felisbela",Enide não visitou Capivari de Baixo,1,definite_description
+"Polina é a pessoa que visitou todo lugar, Polina visitou Antonina",Antonina não visitou Caridade do Piauí,0,definite_description
+"Hilda é a pessoa que visitou todo lugar, Milene visitou Hilda",Milene não visitou Espumoso,0,definite_description
+"Torpécia visitou Elisete, Torpécia é a pessoa que visitou todo mundo",Torpécia não visitou dos Prazeres,1,definite_description
+"Graciliana é a pessoa que visitou todo mundo, Julita visitou Graciliana",Graciliana não visitou Tanagra,1,definite_description
+"Simaura visitou Agnes, Agnes é a pessoa que visitou todo mundo",Simaura não visitou Talina,0,definite_description
+"Chanda é a pessoa que visitou todo mundo, Chanda visitou Corália",Chanda não visitou Luciana,1,definite_description
+"Anaíce é a pessoa que visitou todo mundo, Anaíce visitou Priscila",Priscila não visitou Ilundi,0,definite_description
+"Carísia visitou Darnela, Carísia é a pessoa que visitou todo mundo",Darnela não visitou Eularina,0,definite_description
+"Isaltina é a pessoa que visitou todo mundo, Isaltina visitou Bernarda",Bernarda não visitou Hulda,0,definite_description
+"Casta visitou Leonna, Leonna é a pessoa que visitou todo mundo",Leonna não visitou Mary,1,definite_description
+"Lisandra é a pessoa que visitou todo lugar, Lisandra visitou Ella",Ella não visitou Rio Doce,0,definite_description
+"Marlita visitou Fiorella, Marlita é a pessoa que visitou todo mundo",Marlita não visitou Maritana,1,definite_description
+"Ivete visitou Constance, Ivete é a pessoa que visitou todo mundo",Ivete não visitou Dinamene,1,definite_description
+"Gioconda visitou Lisete, Lisete é a pessoa que visitou todo mundo",Gioconda não visitou Benice,0,definite_description
+"Evangelina visitou Dorisa, Dorisa é a pessoa que visitou todo mundo",Evangelina não visitou Domitila,0,definite_description
+"Dânia é a pessoa que visitou todo lugar, Raquelina visitou Dânia",Raquelina não visitou Presidente Lucena,0,definite_description
+"Suzana visitou Cataleia, Suzana é a pessoa que visitou todo lugar",Suzana não visitou Três Coroas,1,definite_description
+"Soline é a pessoa que visitou todo lugar, Soline visitou Sirla",Sirla não visitou Taquarituba,0,definite_description
+"Paola visitou Cora, Cora é a pessoa que visitou todo lugar",Paola não visitou Rancho Alegre,0,definite_description
+"Suellen visitou Clésia, Suellen é a pessoa que visitou todo lugar",Suellen não visitou Santa Rosa de Lima,1,definite_description
+"Cárita é a pessoa que visitou todo lugar, Selésia visitou Cárita",Cárita não visitou Nova Rosalândia,1,definite_description
+"Noémia visitou Sátia, Sátia é a pessoa que visitou todo mundo",Noémia não visitou Anair,0,definite_description
+"Erin é a pessoa que visitou todo lugar, Erin visitou Mabel",Erin não visitou Arco-Íris,1,definite_description
+"Sylvie é a pessoa que visitou todo mundo, Sylvie visitou Natali",Natali não visitou Hedviges,0,definite_description
+"Bebiana visitou do Amparo, do Amparo é a pessoa que visitou todo mundo",Bebiana não visitou Obdúlia,0,definite_description
+"Dara visitou Cleide, Dara é a pessoa que visitou todo mundo",Dara não visitou Lenira,1,definite_description
+"Naíma visitou Ivana, Ivana é a pessoa que visitou todo lugar",Ivana não visitou Lagoa Santa,1,definite_description
+"Magna é a pessoa que visitou todo lugar, Magna visitou Léna",Léna não visitou Irineópolis,0,definite_description
+"Ocília é a pessoa que visitou todo mundo, Ocília visitou Salma",Ocília não visitou Briosa,1,definite_description
+"Laia visitou Hannah, Hannah é a pessoa que visitou todo lugar",Laia não visitou Bom Jesus,0,definite_description
+"Clarinda é a pessoa que visitou todo lugar, Clarinda visitou Donatila",Clarinda não visitou Bujaru,1,definite_description
+"Alcíone é a pessoa que visitou todo lugar, Darci visitou Alcíone",Darci não visitou Taboleiro Grande,0,definite_description
+"Nel é a pessoa que visitou todo mundo, Nel visitou Patrocínia",Patrocínia não visitou América,0,definite_description
+"Isaltina visitou Susi, Isaltina é a pessoa que visitou todo mundo",Susi não visitou Leolina,0,definite_description
+"Mari visitou Ariadne, Ariadne é a pessoa que visitou todo lugar",Mari não visitou Ceres,0,definite_description
+"Aisha visitou Rodriga, Aisha é a pessoa que visitou todo lugar",Rodriga não visitou Eldorado dos Carajás,0,definite_description
+"Tiara é a pessoa que visitou todo mundo, Tiara visitou Almesinda",Almesinda não visitou Brizida,0,definite_description
+"Germana é a pessoa que visitou todo mundo, Germana visitou Edine",Germana não visitou Dakota,1,definite_description
+"Artemisa visitou Sibila, Artemisa é a pessoa que visitou todo mundo",Sibila não visitou Suéli,0,definite_description
+"Suse é a pessoa que visitou todo mundo, Suse visitou Mayara",Mayara não visitou Formosa,0,definite_description
+"Léonie visitou Fiorella, Léonie é a pessoa que visitou todo mundo",Léonie não visitou Marizete,1,definite_description
+"Dana visitou da Cruz, da Cruz é a pessoa que visitou todo mundo",Dana não visitou Tejala,0,definite_description
+"Melânia visitou Miley, Miley é a pessoa que visitou todo mundo",Miley não visitou Cesária,1,definite_description
+"Carmelita é a pessoa que visitou todo lugar, Salúquia visitou Carmelita",Salúquia não visitou Riolândia,0,definite_description
+"Lucileine visitou Elisabeta, Lucileine é a pessoa que visitou todo lugar",Lucileine não visitou Ajuricaba,1,definite_description
+"Celsa é a pessoa que visitou todo lugar, Aliça visitou Celsa",Aliça não visitou Ibatiba,0,definite_description
+"Aidé é a pessoa que visitou todo lugar, Maira visitou Aidé",Maira não visitou São João do Tigre,0,definite_description
+"Elsinda é a pessoa que visitou todo lugar, Elsinda visitou Fedra",Elsinda não visitou Palestina do Pará,1,definite_description
+"Elsinda é a pessoa que visitou todo lugar, Mirela visitou Elsinda",Mirela não visitou Touros,0,definite_description
+"Beatrix é a pessoa que visitou todo mundo, Regina visitou Beatrix",Regina não visitou Gáil,0,definite_description
+"Linete visitou Laureana, Laureana é a pessoa que visitou todo mundo",Linete não visitou Gertrudes,0,definite_description
+"Juna visitou Raphaella, Juna é a pessoa que visitou todo mundo",Juna não visitou Nathalie,1,definite_description
+"Noah é a pessoa que visitou todo lugar, Noah visitou Leonardina",Leonardina não visitou Utinga,0,definite_description
+"Denisa é a pessoa que visitou todo mundo, Denisa visitou Claudina",Denisa não visitou Selénia,1,definite_description
+"Jamília visitou Marsília, Marsília é a pessoa que visitou todo mundo",Jamília não visitou Marli,0,definite_description
+"Sierra visitou Cataleia, Cataleia é a pessoa que visitou todo lugar",Sierra não visitou Monte Alegre de Goiás,0,definite_description
+"Jennifer é a pessoa que visitou todo mundo, Ilca visitou Jennifer",Ilca não visitou Emilie,0,definite_description
+"Mary é a pessoa que visitou todo lugar, Dahlia visitou Mary",Dahlia não visitou Nossa Senhora Aparecida,0,definite_description
+"Dorine visitou Nel, Nel é a pessoa que visitou todo mundo",Nel não visitou Constanza,1,definite_description
+"Delza visitou Malaika, Delza é a pessoa que visitou todo lugar",Malaika não visitou Cordislândia,0,definite_description
+"Lilly é a pessoa que visitou todo mundo, Lilly visitou Luela",Luela não visitou Sacha,0,definite_description
+"Rosebele é a pessoa que visitou todo lugar, Rosebele visitou Nícia",Nícia não visitou Miguelópolis,0,definite_description
+"Estrella é a pessoa que visitou todo lugar, Martinha visitou Estrella",Estrella não visitou Braúnas,1,definite_description
+"Melodia é a pessoa que visitou todo mundo, Brizida visitou Melodia",Melodia não visitou de Begonha,1,definite_description
+"Mariluz visitou Tiara, Mariluz é a pessoa que visitou todo mundo",Tiara não visitou Suely,0,definite_description
+"Acácia visitou Thaís, Thaís é a pessoa que visitou todo lugar",Acácia não visitou Matupá,0,definite_description
+"Emiliana visitou Naíra, Naíra é a pessoa que visitou todo lugar",Naíra não visitou Juazeiro do Norte,1,definite_description
+"Duna é a pessoa que visitou todo mundo, Neotera visitou Duna",Duna não visitou Emma,1,definite_description
+"Akira visitou Danika, Danika é a pessoa que visitou todo mundo",Akira não visitou Shakira,0,definite_description
+"Clícia é a pessoa que visitou todo mundo, Cristal visitou Clícia",Cristal não visitou Mírtila,0,definite_description
+"Sierra é a pessoa que visitou todo mundo, Sierra visitou Dulcina",Sierra não visitou Denise,1,definite_description
+"Sirla é a pessoa que visitou todo mundo, Numénia visitou Sirla",Numénia não visitou Martinha,0,definite_description
+"Almerinda visitou Fédora, Fédora é a pessoa que visitou todo mundo",Fédora não visitou Jânia,1,definite_description
+"Soline é a pessoa que visitou todo mundo, Auriana visitou Soline",Soline não visitou Sofie,1,definite_description
+"Étel visitou Louise, Louise é a pessoa que visitou todo lugar",Étel não visitou Fortaleza do Tabocão,0,definite_description
+"Rosaura visitou Cristele, Cristele é a pessoa que visitou todo lugar",Cristele não visitou São Francisco do Brejão,1,definite_description
+"Lenora é a pessoa que visitou todo lugar, Lenora visitou Deliana",Lenora não visitou Ipaussu,1,definite_description
+"Magaline é a pessoa que visitou todo lugar, Cleia visitou Magaline",Cleia não visitou Senador Sá,0,definite_description
+"Simona é a pessoa que visitou todo lugar, Simona visitou Arménia",Simona não visitou Nantes,1,definite_description
+"Marli é a pessoa que visitou todo mundo, Marli visitou Hulda",Marli não visitou Ilídia,1,definite_description
+"Salvação visitou Melida, Salvação é a pessoa que visitou todo lugar",Salvação não visitou Conselheiro Lafaiete,1,definite_description
+"Cita é a pessoa que visitou todo lugar, Siana visitou Cita",Siana não visitou Mogi das Cruzes,0,definite_description
+"Traciana visitou Alisande, Alisande é a pessoa que visitou todo mundo",Traciana não visitou Gisele,0,definite_description
+"Lucília é a pessoa que visitou todo lugar, Quitéria visitou Lucília",Lucília não visitou Augusto Pestana,1,definite_description
+"Amara é a pessoa que visitou todo mundo, Amara visitou Laurina",Amara não visitou Suellen,1,definite_description
+"Susete é a pessoa que visitou todo lugar, Susete visitou Leane",Susete não visitou Cantanhede,1,definite_description
+"Giselda é a pessoa que visitou todo lugar, Giselda visitou Savannah",Savannah não visitou Aurilândia,0,definite_description
+"Eduina é a pessoa que visitou todo lugar, Jil visitou Eduina",Eduina não visitou Andradas,1,definite_description
+"Giselle é a pessoa que visitou todo lugar, Nathália visitou Giselle",Giselle não visitou Carangola,1,definite_description
+"Eleia visitou Keiko, Keiko é a pessoa que visitou todo lugar",Keiko não visitou Luís Domingues,1,definite_description
+"Ticiane é a pessoa que visitou todo lugar, Elle visitou Ticiane",Elle não visitou São Marcos,0,definite_description
+"Lily visitou Josselina, Lily é a pessoa que visitou todo mundo",Josselina não visitou Artemisa,0,definite_description
+"Nara é a pessoa que visitou todo lugar, Leoménia visitou Nara",Leoménia não visitou Lagoa Grande,0,definite_description
+"Laila é a pessoa que visitou todo lugar, Laila visitou Dele",Laila não visitou Serra Branca,1,definite_description
+"Dilma visitou Joselina, Dilma é a pessoa que visitou todo mundo",Joselina não visitou Mirandolina,0,definite_description
+"Elaina visitou Elaine, Elaine é a pessoa que visitou todo mundo",Elaina não visitou Andreína,0,definite_description
+"Adália visitou Daenerys, Daenerys é a pessoa que visitou todo lugar",Daenerys não visitou Igaracy,1,definite_description
+"Biana visitou Elina, Biana é a pessoa que visitou todo mundo",Elina não visitou Si,0,definite_description
+"Nikita é a pessoa que visitou todo mundo, Meera visitou Nikita",Meera não visitou Ingeburga,0,definite_description
+"Maide visitou Tayná, Tayná é a pessoa que visitou todo lugar",Tayná não visitou Riozinho,1,definite_description
+"Nessa é a pessoa que visitou todo lugar, Nessa visitou Darci",Darci não visitou Mariana Pimentel,0,definite_description
+"Sesira visitou Karen, Karen é a pessoa que visitou todo lugar",Karen não visitou Francinópolis,1,definite_description
+"Adelinda visitou Sury, Sury é a pessoa que visitou todo mundo",Sury não visitou Tina,1,definite_description
+"Quésia é a pessoa que visitou todo mundo, Crisanta visitou Quésia",Crisanta não visitou Etel,0,definite_description
+"Militza visitou Candy, Militza é a pessoa que visitou todo lugar",Militza não visitou Alambari,1,definite_description
+"Neiza é a pessoa que visitou todo mundo, Monroe visitou Neiza",Monroe não visitou Benice,0,definite_description
+"Jennifer visitou Jordana, Jennifer é a pessoa que visitou todo lugar",Jennifer não visitou Nova Prata do Iguaçu,1,definite_description
+"Maximiliana visitou Bebiana, Maximiliana é a pessoa que visitou todo mundo",Bebiana não visitou Gonçala,0,definite_description
+"Leia visitou Luela, Luela é a pessoa que visitou todo mundo",Leia não visitou Carmen,0,definite_description
+"Tiffany é a pessoa que visitou todo lugar, Kira visitou Tiffany",Tiffany não visitou Jundiaí,1,definite_description
+"Eleonora é a pessoa que visitou todo lugar, Eleonora visitou Firmina",Eleonora não visitou Guaraqueçaba,1,definite_description
+"Samantha visitou Corina, Samantha é a pessoa que visitou todo mundo",Corina não visitou Genésia,0,definite_description
+"Cinira é a pessoa que visitou todo lugar, Cinira visitou Léana",Léana não visitou Ibatiba,0,definite_description
+"Hilária é a pessoa que visitou todo mundo, Ocília visitou Hilária",Hilária não visitou Lélia,1,definite_description
+"Davina é a pessoa que visitou todo lugar, Ermengarda visitou Davina",Ermengarda não visitou Pederneiras,0,definite_description
+"Joanina visitou Aldenir, Aldenir é a pessoa que visitou todo lugar",Aldenir não visitou Carazinho,1,definite_description
+"Sandrina visitou Darnela, Sandrina é a pessoa que visitou todo mundo",Sandrina não visitou Lucina,1,definite_description
+"Ricarda é a pessoa que visitou todo mundo, Ricarda visitou Gelsemina",Ricarda não visitou Marlene,1,definite_description
+"Silvie é a pessoa que visitou todo lugar, Silvie visitou Mirela",Silvie não visitou Damianópolis,1,definite_description
+"Otilina visitou Cizina, Otilina é a pessoa que visitou todo mundo",Otilina não visitou Delilah,1,definite_description
+"Raíssa visitou Acélia, Acélia é a pessoa que visitou todo mundo",Raíssa não visitou Gerta,0,definite_description
+"Brígida visitou Sophia, Sophia é a pessoa que visitou todo mundo",Sophia não visitou Denise,1,definite_description
+"Crisante é a pessoa que visitou todo lugar, Crisante visitou Mécia",Crisante não visitou Avanhandava,1,definite_description
+"Amaia é a pessoa que visitou todo mundo, Clare visitou Amaia",Clare não visitou Albana,0,definite_description
+"Acácia visitou Carmelita, Carmelita é a pessoa que visitou todo mundo",Acácia não visitou Kira,0,definite_description
+"Kailani é a pessoa que visitou todo mundo, Nói visitou Kailani",Kailani não visitou Merrita,1,definite_description
+"Odete é a pessoa que visitou todo mundo, Odete visitou Anita",Anita não visitou Jocelina,0,definite_description
+"Melinda visitou Carisa, Melinda é a pessoa que visitou todo mundo",Carisa não visitou Sahara,0,definite_description
+"Etel visitou Nila, Nila é a pessoa que visitou todo mundo",Etel não visitou Neide,0,definite_description
+"Mourana visitou Anita, Anita é a pessoa que visitou todo lugar",Mourana não visitou Messias,0,definite_description
+"Nadine é a pessoa que visitou todo mundo, Pascualina visitou Nadine",Nadine não visitou Romina,1,definite_description
+"Diara é a pessoa que visitou todo lugar, Diara visitou Benigna",Diara não visitou Bacabeira,1,definite_description
+"Bárbora é a pessoa que visitou todo mundo, Bárbora visitou Sáli",Bárbora não visitou Oksana,1,definite_description
+"Jovelina visitou Diamantina, Jovelina é a pessoa que visitou todo mundo",Jovelina não visitou Luisete,1,definite_description
+"Mariane visitou Tiara, Tiara é a pessoa que visitou todo mundo",Mariane não visitou Octávia,0,definite_description
+"Teodósia é a pessoa que visitou todo lugar, Teodósia visitou Rosanete",Rosanete não visitou Guaimbê,0,definite_description
+"Dulcina visitou Mathilde, Dulcina é a pessoa que visitou todo mundo",Dulcina não visitou Rhianna,1,definite_description
+"Helda visitou Hilária, Helda é a pessoa que visitou todo lugar",Helda não visitou Alvorada,1,definite_description
+"Jada visitou do Nascimento, Jada é a pessoa que visitou todo mundo",do Nascimento não visitou de Pádua,0,definite_description
+"Ruth é a pessoa que visitou todo mundo, Ruth visitou Léa",Ruth não visitou Líbia,1,definite_description
+"Noiala visitou Dânia, Dânia é a pessoa que visitou todo mundo",Dânia não visitou Hilma,1,definite_description
+"Nessy visitou Preciosa, Preciosa é a pessoa que visitou todo mundo",Preciosa não visitou Guimar,1,definite_description
+"Samira é a pessoa que visitou todo mundo, Samira visitou Cíntia",Samira não visitou Ione,1,definite_description
+"Étel é a pessoa que visitou todo mundo, Étel visitou Pégui",Étel não visitou Juvita,1,definite_description
+"Josabete visitou Rómula, Josabete é a pessoa que visitou todo lugar",Rómula não visitou Santana do Paraíso,0,definite_description
+"Savannah é a pessoa que visitou todo mundo, Ália visitou Savannah",Ália não visitou Raphaella,0,definite_description
+"Oana é a pessoa que visitou todo mundo, Mélodie visitou Oana",Mélodie não visitou Tina,0,definite_description
+"Mirandolina visitou Nessie, Mirandolina é a pessoa que visitou todo mundo",Nessie não visitou Fedra,0,definite_description
+"Naama é a pessoa que visitou todo lugar, Naama visitou Norvinda",Naama não visitou Valentim Gentil,1,definite_description
+"Silvéria é a pessoa que visitou todo lugar, Lusa visitou Silvéria",Silvéria não visitou Barra da Estiva,1,definite_description
+"Dona é a pessoa que visitou todo lugar, Hortense visitou Dona",Hortense não visitou Piracicaba,0,definite_description
+"Deborah visitou Lucilina, Deborah é a pessoa que visitou todo mundo",Lucilina não visitou Lucélia,0,definite_description
+"Maeva visitou Marisela, Marisela é a pessoa que visitou todo mundo",Maeva não visitou Faustina,0,definite_description
+"Lais visitou Évila, Lais é a pessoa que visitou todo lugar",Lais não visitou Fernão,1,definite_description
+"Clementina visitou Agustina, Agustina é a pessoa que visitou todo mundo",Agustina não visitou Íngride,1,definite_description
+"Anita visitou Doroteia, Anita é a pessoa que visitou todo lugar",Doroteia não visitou Colinas do Sul,0,definite_description
+"Naama visitou Clare, Naama é a pessoa que visitou todo mundo",Naama não visitou Isalda,1,definite_description
+"Délia é a pessoa que visitou todo lugar, Délia visitou Prazeres",Prazeres não visitou Botuverá,0,definite_description
+"Iráis é a pessoa que visitou todo lugar, Iráis visitou Bianka",Iráis não visitou Caracol,1,definite_description
+"Tara visitou Macati, Tara é a pessoa que visitou todo lugar",Tara não visitou Minas Novas,1,definite_description
+"Leoménia é a pessoa que visitou todo lugar, Leoménia visitou Cataleia",Leoménia não visitou Quadra,1,definite_description
+"Cesária é a pessoa que visitou todo mundo, Cesária visitou Catila",Catila não visitou Nila,0,definite_description
+"Paola é a pessoa que visitou todo lugar, Paola visitou Chi",Chi não visitou Gado Bravo,0,definite_description
+"Naíra visitou Hedviges, Hedviges é a pessoa que visitou todo mundo",Hedviges não visitou Cora,1,definite_description
+"Jitendra é a pessoa que visitou todo mundo, Elisabeth visitou Jitendra",Elisabeth não visitou Líria,0,definite_description
+"Fedra visitou Nicoleta, Fedra é a pessoa que visitou todo lugar",Nicoleta não visitou São João do Soter,0,definite_description
+"Nádeja é a pessoa que visitou todo lugar, Myriam visitou Nádeja",Nádeja não visitou Deodápolis,1,definite_description
+"Cleide é a pessoa que visitou todo mundo, Marisela visitou Cleide",Marisela não visitou Líbia,0,definite_description
+"Adriele é a pessoa que visitou todo lugar, Daina visitou Adriele",Daina não visitou Vigia,0,definite_description
+"Almesinda é a pessoa que visitou todo mundo, Almesinda visitou Neireide",Almesinda não visitou Ida,1,definite_description
+"Briolanja é a pessoa que visitou todo lugar, Briolanja visitou Chema",Chema não visitou Itabi,0,definite_description
+"Gerda visitou Anair, Gerda é a pessoa que visitou todo mundo",Gerda não visitou Constanza,1,definite_description
+"Rocio é a pessoa que visitou todo mundo, Rocio visitou Donzília",Rocio não visitou Helga,1,definite_description
+"Cárin visitou Crystal, Crystal é a pessoa que visitou todo mundo",Cárin não visitou Malu,0,definite_description
+"Melanie visitou Almerinda, Melanie é a pessoa que visitou todo lugar",Almerinda não visitou Barra do Turvo,0,definite_description
+"Letízia visitou Constância, Constância é a pessoa que visitou todo lugar",Letízia não visitou Queluz,0,definite_description
+"Ohana é a pessoa que visitou todo mundo, Elisete visitou Ohana",Elisete não visitou Taíssa,0,definite_description
+"Raven visitou Auriana, Auriana é a pessoa que visitou todo lugar",Raven não visitou General Salgado,0,definite_description
+"Adelinda visitou Emily, Emily é a pessoa que visitou todo lugar",Adelinda não visitou Tarrafas,0,definite_description
+"Corália é a pessoa que visitou todo lugar, Constanza visitou Corália",Corália não visitou Hugo Napoleão,1,definite_description
+"Florisa é a pessoa que visitou todo lugar, Kieza visitou Florisa",Kieza não visitou Umburanas,0,definite_description
+"Eunice visitou Constanza, Eunice é a pessoa que visitou todo mundo",Constanza não visitou Aurete,0,definite_description
+"Lacey é a pessoa que visitou todo mundo, Lacey visitou Etéria",Etéria não visitou Florbela,0,definite_description
+"Névia é a pessoa que visitou todo mundo, Névia visitou Laurinda",Névia não visitou Benvinda,1,definite_description
+"Denise é a pessoa que visitou todo mundo, Gala visitou Denise",Denise não visitou Décia,1,definite_description
+"Eudora visitou Lily, Eudora é a pessoa que visitou todo mundo",Lily não visitou Nessie,0,definite_description
+"Gaori é a pessoa que visitou todo lugar, Florinda visitou Gaori",Gaori não visitou Piracanjuba,1,definite_description
+"Odete é a pessoa que visitou todo lugar, Angie visitou Odete",Odete não visitou Palmares,1,definite_description
+"Carol visitou Jacinta, Jacinta é a pessoa que visitou todo mundo",Jacinta não visitou Cipora,1,definite_description
+"Tanagra é a pessoa que visitou todo mundo, Tanagra visitou Hermenegilda",Tanagra não visitou Roana,1,definite_description
+"Clarissa é a pessoa que visitou todo lugar, Clarissa visitou Leane",Clarissa não visitou Tapiraí,1,definite_description
+"Stacy visitou Tiana, Tiana é a pessoa que visitou todo mundo",Stacy não visitou Roana,0,definite_description
+"Melanie visitou Lucelinda, Melanie é a pessoa que visitou todo lugar",Melanie não visitou Zabelê,1,definite_description
+"Célia visitou Jesus, Célia é a pessoa que visitou todo mundo",Jesus não visitou Cármen,0,definite_description
+"Suéli visitou Marcelina, Suéli é a pessoa que visitou todo lugar",Marcelina não visitou Luiziana,0,definite_description
+"Marcília visitou Lisandra, Marcília é a pessoa que visitou todo mundo",Marcília não visitou Artemísia,1,definite_description
+"Sade é a pessoa que visitou todo mundo, Sade visitou do Rosário",Sade não visitou do Nascimento,1,definite_description
+"Seni é a pessoa que visitou todo lugar, Saulina visitou Seni",Seni não visitou Cerro Largo,1,definite_description
+"Militana é a pessoa que visitou todo mundo, Auriana visitou Militana",Militana não visitou Blásia,1,definite_description
+"Miley visitou Nazária, Miley é a pessoa que visitou todo mundo",Miley não visitou Roberta,1,definite_description
+"Aníria é a pessoa que visitou todo mundo, Aníria visitou Neli",Aníria não visitou Isolina,1,definite_description
+"Constance visitou Ireneia, Ireneia é a pessoa que visitou todo mundo",Constance não visitou Cárita,0,definite_description
+"Assunção é a pessoa que visitou todo lugar, Assunção visitou Salvação",Assunção não visitou Bocaina de Minas,1,definite_description
+"Isalda é a pessoa que visitou todo mundo, Silvandira visitou Isalda",Silvandira não visitou Emmy,0,definite_description
+"Elle visitou Esther, Esther é a pessoa que visitou todo mundo",Esther não visitou Sacha,1,definite_description
+"Lou é a pessoa que visitou todo mundo, Ivory visitou Lou",Ivory não visitou Piedade,0,definite_description
+"Girel visitou Acélia, Girel é a pessoa que visitou todo lugar",Acélia não visitou Lagoa Santa,0,definite_description
+"Quélia visitou Dinarda, Dinarda é a pessoa que visitou todo mundo",Quélia não visitou Cinara,0,definite_description
+"Iana é a pessoa que visitou todo mundo, Iana visitou Anatilde",Iana não visitou Ercília,1,definite_description
+"Jéni é a pessoa que visitou todo lugar, Honorina visitou Jéni",Jéni não visitou Cícero Dantas,1,definite_description
+"Audete visitou Laia, Audete é a pessoa que visitou todo lugar",Laia não visitou Santa Clara do Sul,0,definite_description
+"Clarissa é a pessoa que visitou todo mundo, Clarissa visitou Seni",Seni não visitou Osvaldina,0,definite_description
+"Raqueline visitou Flor de Ceres, Raqueline é a pessoa que visitou todo lugar",Raqueline não visitou Tufilândia,1,definite_description
+"Erika é a pessoa que visitou todo lugar, Ekaterina visitou Erika",Erika não visitou Estrela do Norte,1,definite_description
+"Laia visitou Celine, Laia é a pessoa que visitou todo lugar",Celine não visitou Porto Acre,0,definite_description
+"Jasmine é a pessoa que visitou todo lugar, Jasmine visitou Maria João",Jasmine não visitou Aracatu,1,definite_description
+"Cleópatra é a pessoa que visitou todo lugar, Cleópatra visitou Daina",Daina não visitou Palmeiras de Goiás,0,definite_description
+"Marlita visitou Stella, Marlita é a pessoa que visitou todo lugar",Stella não visitou Novo Santo Antônio,0,definite_description
+"Esperança é a pessoa que visitou todo lugar, Aidé visitou Esperança",Esperança não visitou São Domingos do Norte,1,definite_description
+"Susi visitou Áfrika, Susi é a pessoa que visitou todo lugar",Áfrika não visitou Tejuçuoca,0,definite_description
+"Fara visitou Florence, Florence é a pessoa que visitou todo lugar",Fara não visitou Atibaia,0,definite_description
+"Muna é a pessoa que visitou todo lugar, Muna visitou Rosália",Muna não visitou Inhapim,1,definite_description
+"Idália é a pessoa que visitou todo mundo, Idália visitou Cidalina",Idália não visitou Eglantina,1,definite_description
+"Octávia é a pessoa que visitou todo mundo, Analisa visitou Octávia",Analisa não visitou Onófria,0,definite_description
+"Misha visitou Cânia, Misha é a pessoa que visitou todo lugar",Misha não visitou Curralinhos,1,definite_description
+"Tanagra é a pessoa que visitou todo lugar, Tanagra visitou Riu",Riu não visitou Valente,0,definite_description
+"Alexandrina visitou Romana, Romana é a pessoa que visitou todo lugar",Romana não visitou Santa Cruz da Baixa Verde,1,definite_description
+"Nelsa é a pessoa que visitou todo lugar, Octávia visitou Nelsa",Nelsa não visitou Viradouro,1,definite_description
+"Esther visitou Holly, Holly é a pessoa que visitou todo mundo",Esther não visitou Marlisa,0,definite_description
+"Romina é a pessoa que visitou todo mundo, Romina visitou Deméter",Romina não visitou Giselda,1,definite_description
+"Narcisa é a pessoa que visitou todo mundo, Narcisa visitou Elmira",Narcisa não visitou Ivânia,1,definite_description
+"Rufina é a pessoa que visitou todo lugar, Rufina visitou Corália",Corália não visitou Custódia,0,definite_description
+"Cleia visitou Rachel, Cleia é a pessoa que visitou todo lugar",Rachel não visitou Araçagi,0,definite_description
+"Dânia é a pessoa que visitou todo mundo, Dânia visitou Nelma",Nelma não visitou Ditza,0,definite_description
+"Darci é a pessoa que visitou todo lugar, Darci visitou Pui",Pui não visitou Paracatu,0,definite_description
+"Aniana é a pessoa que visitou todo mundo, Marianna visitou Aniana",Aniana não visitou Andreína,1,definite_description
+"Susanna é a pessoa que visitou todo mundo, Mona visitou Susanna",Mona não visitou Miquelina,0,definite_description
+"Nair é a pessoa que visitou todo lugar, Nair visitou Marcela",Marcela não visitou Parnaíba,0,definite_description
+"Aurete visitou Deborah, Deborah é a pessoa que visitou todo lugar",Deborah não visitou Pedralva,1,definite_description
+"Scarlet visitou Morian, Scarlet é a pessoa que visitou todo mundo",Morian não visitou Bertina,0,definite_description
+"Tisha visitou Gregória, Tisha é a pessoa que visitou todo mundo",Gregória não visitou Luizete,0,definite_description
+"Torpécia é a pessoa que visitou todo mundo, Torpécia visitou Círia",Círia não visitou Almerinda,0,definite_description
+"Rhianna é a pessoa que visitou todo mundo, Rhianna visitou Erméria",Rhianna não visitou Guida,1,definite_description
+"Gislene é a pessoa que visitou todo lugar, Jó visitou Gislene",Gislene não visitou Queluzito,1,definite_description
+"Nilza visitou Lorenza, Lorenza é a pessoa que visitou todo lugar",Lorenza não visitou Propriá,1,definite_description
+"Nara é a pessoa que visitou todo lugar, Nara visitou Estrelle",Nara não visitou Ipameri,1,definite_description
+"Maëlis é a pessoa que visitou todo mundo, Genciana visitou Maëlis",Maëlis não visitou Anaíde,1,definite_description
+"Gileade é a pessoa que visitou todo lugar, Gileade visitou Dorine",Gileade não visitou Mesquita,1,definite_description
+"Roquelina é a pessoa que visitou todo mundo, Roquelina visitou Myla",Roquelina não visitou Geovana,1,definite_description
+"Esménia é a pessoa que visitou todo mundo, Nice visitou Esménia",Nice não visitou Julie,0,definite_description
+"Rafa é a pessoa que visitou todo mundo, Rafa visitou Leonida",Leonida não visitou Belmira,0,definite_description
+"Marilita é a pessoa que visitou todo lugar, Marilita visitou Áfrika",Áfrika não visitou Pontes e Lacerda,0,definite_description
+"Kylie é a pessoa que visitou todo lugar, Kylie visitou Naly",Kylie não visitou Espumoso,1,definite_description
+"Lucileine é a pessoa que visitou todo mundo, Lucileine visitou Mira",Lucileine não visitou Lauren,1,definite_description
+"Belmira é a pessoa que visitou todo mundo, Belmira visitou Nara",Belmira não visitou Adriane,1,definite_description
+"Bertilde é a pessoa que visitou todo lugar, Bertilde visitou Bina",Bertilde não visitou Luzinópolis,1,definite_description
+"Aldara visitou Oscarina, Aldara é a pessoa que visitou todo mundo",Oscarina não visitou Raqueline,0,definite_description
+"Mónia é a pessoa que visitou todo mundo, Mónia visitou Semíramis",Semíramis não visitou Dulcineia,0,definite_description
+"Nureia visitou Desiree, Nureia é a pessoa que visitou todo mundo",Nureia não visitou Mya,1,definite_description
+"Modesta é a pessoa que visitou todo mundo, Modesta visitou Marquesa",Modesta não visitou Emanuella,1,definite_description
+"Demelza visitou Dionísia, Demelza é a pessoa que visitou todo lugar",Dionísia não visitou Tiros,0,definite_description
+"Arménia é a pessoa que visitou todo lugar, Arménia visitou Emmy",Emmy não visitou Muniz Freire,0,definite_description
+"Rosalinda é a pessoa que visitou todo lugar, Rosalinda visitou Ândria",Rosalinda não visitou Areia de Baraúnas,1,definite_description
+"Alexina é a pessoa que visitou todo mundo, Alexina visitou Taíssa",Alexina não visitou Jezabel,1,definite_description
+"Rosebele é a pessoa que visitou todo mundo, Rosebele visitou Ersília",Rosebele não visitou Chanda,1,definite_description
+"Anaisa é a pessoa que visitou todo mundo, Anaisa visitou Iráis",Iráis não visitou Rosélia,0,definite_description
+"Sandy é a pessoa que visitou todo mundo, Darcília visitou Sandy",Darcília não visitou Nói,0,definite_description
+"Jasmine é a pessoa que visitou todo lugar, Jasmine visitou Carmelita",Jasmine não visitou Ourinhos,1,definite_description
+"Silviana é a pessoa que visitou todo mundo, Silviana visitou Magenta",Silviana não visitou Rosanete,1,definite_description
+"Neli visitou Thalia, Neli é a pessoa que visitou todo lugar",Neli não visitou Rialma,1,definite_description
+"Cármina visitou Magnólia, Cármina é a pessoa que visitou todo mundo",Magnólia não visitou Jordana,0,definite_description
+"Maide visitou Miquelina, Miquelina é a pessoa que visitou todo lugar",Miquelina não visitou Araguatins,1,definite_description
+"Ludmila visitou Leandra, Leandra é a pessoa que visitou todo lugar",Leandra não visitou Araporã,1,definite_description
+"Geovanna visitou Riu, Riu é a pessoa que visitou todo mundo",Riu não visitou Modesta,1,definite_description
+"Ália visitou Desidéria, Ália é a pessoa que visitou todo mundo",Ália não visitou Roena,1,definite_description
+"Eliseba é a pessoa que visitou todo lugar, Severa visitou Eliseba",Eliseba não visitou Aurilândia,1,definite_description
+"Teolinda é a pessoa que visitou todo lugar, Teolinda visitou Caia",Caia não visitou Venâncio Aires,0,definite_description
+"Malu visitou Caroline, Malu é a pessoa que visitou todo lugar",Caroline não visitou Carbonita,0,definite_description
+"Josélia visitou Analdina, Analdina é a pessoa que visitou todo lugar",Analdina não visitou São José do Cedro,1,definite_description
+"Charlene é a pessoa que visitou todo lugar, Charlene visitou Magnólia",Magnólia não visitou Guapiaçu,0,definite_description
+"Florisbela visitou Maureen, Maureen é a pessoa que visitou todo lugar",Florisbela não visitou Itaituba,0,definite_description
+"Analice visitou Encarnação, Analice é a pessoa que visitou todo lugar",Analice não visitou Analândia,1,definite_description
+"Catila visitou Florisa, Florisa é a pessoa que visitou todo mundo",Catila não visitou Alida,0,definite_description
+"Martinha visitou Giulia, Giulia é a pessoa que visitou todo mundo",Martinha não visitou Surya,0,definite_description
+"Lourdes visitou Nor, Lourdes é a pessoa que visitou todo mundo",Lourdes não visitou Leire,1,definite_description
+"Dianna é a pessoa que visitou todo mundo, Dianna visitou Ilse",Dianna não visitou Cita,1,definite_description
+"Alaíde é a pessoa que visitou todo mundo, Cristele visitou Alaíde",Cristele não visitou Sana,0,definite_description
+"Daliana é a pessoa que visitou todo mundo, Daliana visitou Ercília",Daliana não visitou Átina,1,definite_description
+"Cinara visitou Isilda, Cinara é a pessoa que visitou todo mundo",Isilda não visitou Danielle,0,definite_description
+"Amabélia visitou Kimberly, Kimberly é a pessoa que visitou todo mundo",Amabélia não visitou Jia,0,definite_description
+"Lici visitou Elódia, Lici é a pessoa que visitou todo lugar",Elódia não visitou Poço das Antas,0,definite_description
+"Susete visitou Enide, Enide é a pessoa que visitou todo lugar",Susete não visitou Castelândia,0,definite_description
+"Natalie visitou Stacey, Stacey é a pessoa que visitou todo mundo",Natalie não visitou Jil,0,definite_description
+"Elvina é a pessoa que visitou todo mundo, Alexina visitou Elvina",Elvina não visitou Miguela,1,definite_description
+"Dineia visitou Darcília, Dineia é a pessoa que visitou todo lugar",Darcília não visitou Lupércio,0,definite_description
+"Balbina visitou Lubélia, Lubélia é a pessoa que visitou todo mundo",Balbina não visitou Nely,0,definite_description
+"Cleia é a pessoa que visitou todo mundo, Cleia visitou Pietra",Pietra não visitou Saga,0,definite_description
+"Corália é a pessoa que visitou todo lugar, Corália visitou Élin",Corália não visitou Jordão,1,definite_description
+"Noélie visitou Balduína, Noélie é a pessoa que visitou todo mundo",Balduína não visitou Círia,0,definite_description
+"Marinha é a pessoa que visitou todo lugar, Clementina visitou Marinha",Marinha não visitou Cametá,1,definite_description
+"Kate visitou Graciana, Kate é a pessoa que visitou todo mundo",Graciana não visitou Delfina,0,definite_description
+"Ilca é a pessoa que visitou todo mundo, Cordélia visitou Ilca",Cordélia não visitou Ioana,0,definite_description
+"Leonora é a pessoa que visitou todo mundo, Siomara visitou Leonora",Siomara não visitou Amabília,0,definite_description
+"Dália é a pessoa que visitou todo lugar, Helen visitou Dália",Helen não visitou Miguel Pereira,0,definite_description
+"Filena é a pessoa que visitou todo mundo, Filena visitou Adriele",Filena não visitou Brice,1,definite_description
+"Mariane visitou Geovana, Geovana é a pessoa que visitou todo lugar",Mariane não visitou Teodoro Sampaio,0,definite_description
+"Samira é a pessoa que visitou todo lugar, Mourana visitou Samira",Mourana não visitou São Brás do Suaçuí,0,definite_description
+"Loela é a pessoa que visitou todo lugar, Marianna visitou Loela",Loela não visitou Jeceaba,1,definite_description
+"Cordélia é a pessoa que visitou todo mundo, Angie visitou Cordélia",Angie não visitou Telma,0,definite_description
+"Huguete visitou Geralda, Huguete é a pessoa que visitou todo lugar",Geralda não visitou Granja,0,definite_description
+"Thai é a pessoa que visitou todo mundo, Thai visitou Andreína",Andreína não visitou Magenta,0,definite_description
+"Orianna visitou Madre de Deus, Madre de Deus é a pessoa que visitou todo lugar",Madre de Deus não visitou Apuí,1,definite_description
+"Leslie é a pessoa que visitou todo lugar, Ernestina visitou Leslie",Ernestina não visitou José de Freitas,0,definite_description
+"Io é a pessoa que visitou todo mundo, Io visitou Elísia",Io não visitou Nilsa,1,definite_description
+"Paula visitou Sesira, Sesira é a pessoa que visitou todo lugar",Paula não visitou Três Coroas,0,definite_description
+"Ermengarda é a pessoa que visitou todo lugar, Charlize visitou Ermengarda",Charlize não visitou Carlos Barbosa,0,definite_description
+"Rocio visitou Olinda, Rocio é a pessoa que visitou todo mundo",Olinda não visitou Dorisa,0,definite_description
+"Nadja é a pessoa que visitou todo mundo, Nadja visitou Trasila",Nadja não visitou Rosebele,1,definite_description
+"Lólia é a pessoa que visitou todo mundo, Blandina visitou Lólia",Lólia não visitou Jerusa,1,definite_description
+"Armanda é a pessoa que visitou todo lugar, Nance visitou Armanda",Armanda não visitou Quatá,1,definite_description
+"Lumena é a pessoa que visitou todo lugar, Lumena visitou Elódia",Elódia não visitou Carbonita,0,definite_description
+"Elodia é a pessoa que visitou todo mundo, Elodia visitou Dilsa",Elodia não visitou Maxine,1,definite_description
+"Skylar é a pessoa que visitou todo lugar, Skylar visitou Mourana",Mourana não visitou São Benedito,0,definite_description
+"Letízia visitou Roberta, Roberta é a pessoa que visitou todo lugar",Roberta não visitou Governador Dix-Sept Rosado,1,definite_description
+"Maria João visitou Fédora, Fédora é a pessoa que visitou todo lugar",Fédora não visitou Nova Granada,1,definite_description
+"Liete visitou Floriana, Liete é a pessoa que visitou todo lugar",Floriana não visitou São Francisco do Oeste,0,definite_description
+"Hazel é a pessoa que visitou todo lugar, Edith visitou Hazel",Edith não visitou Monte Formoso,0,definite_description
+"Magdalena é a pessoa que visitou todo lugar, Chiara visitou Magdalena",Chiara não visitou Salinas,0,definite_description
+"Quézia visitou Matrosa, Quézia é a pessoa que visitou todo lugar",Quézia não visitou Caiçara,1,definite_description
+"Nelsa é a pessoa que visitou todo mundo, Nelsa visitou Espírito Santo",Nelsa não visitou Mabilda,1,definite_description
+"Mariane é a pessoa que visitou todo mundo, Raquelina visitou Mariane",Raquelina não visitou Loredana,0,definite_description
+"Líria é a pessoa que visitou todo lugar, Meiline visitou Líria",Meiline não visitou Paraíso do Tocantins,0,definite_description
+"Cristal visitou Oriane, Cristal é a pessoa que visitou todo mundo",Cristal não visitou Ricarda,1,definite_description
+"Ohana é a pessoa que visitou todo lugar, Antonina visitou Ohana",Antonina não visitou Catolé do Rocha,0,definite_description
+"Roana é a pessoa que visitou todo lugar, Edma visitou Roana",Roana não visitou Paim Filho,1,definite_description
+"Luizete visitou Dianna, Dianna é a pessoa que visitou todo lugar",Luizete não visitou Jaboticaba,0,definite_description
+"Margaux visitou Martha, Martha é a pessoa que visitou todo mundo",Margaux não visitou Gara,0,definite_description
+"Amy é a pessoa que visitou todo mundo, Elis visitou Amy",Elis não visitou Salomite,0,definite_description
+"Celisia visitou Aureliana, Celisia é a pessoa que visitou todo lugar",Aureliana não visitou Lagoa da Confusão,0,definite_description
+"Juraci é a pessoa que visitou todo lugar, Juraci visitou Geisa",Geisa não visitou Quedas do Iguaçu,0,definite_description
+"Denisa visitou Encarnação, Encarnação é a pessoa que visitou todo lugar",Denisa não visitou São José do Piauí,0,definite_description
+"Angie é a pessoa que visitou todo lugar, Angie visitou Coraima",Coraima não visitou Inhumas,0,definite_description
+"Maxine é a pessoa que visitou todo lugar, Malu visitou Maxine",Malu não visitou São José da Bela Vista,0,definite_description
+"Giada visitou Grimanesa, Grimanesa é a pessoa que visitou todo mundo",Giada não visitou Perpétua,0,definite_description
+"Rosita é a pessoa que visitou todo mundo, Rosita visitou Dúnia",Dúnia não visitou Lisete,0,definite_description
+"Sana é a pessoa que visitou todo lugar, Azul visitou Sana",Sana não visitou Pimenta Bueno,1,definite_description
+"Marciana é a pessoa que visitou todo lugar, Marciana visitou Skylar",Marciana não visitou Brejo Grande do Araguaia,1,definite_description
+"Elaine é a pessoa que visitou todo lugar, Elaine visitou Aldenora",Elaine não visitou Araguaiana,1,definite_description
+"Delmina é a pessoa que visitou todo mundo, Brenda visitou Delmina",Brenda não visitou Diamantina,0,definite_description
+"Hilda é a pessoa que visitou todo lugar, Dores visitou Hilda",Dores não visitou Ivaiporã,0,definite_description
+"Honorina visitou Arménia, Honorina é a pessoa que visitou todo lugar",Honorina não visitou Piripiri,1,definite_description
+"Carela visitou Priscila, Carela é a pessoa que visitou todo mundo",Priscila não visitou Darcília,0,definite_description
+"Ella é a pessoa que visitou todo lugar, Ella visitou Cayetana",Cayetana não visitou Bayeux,0,definite_description
+"do Almurtão é a pessoa que visitou todo mundo, do Almurtão visitou do Livramento",do Almurtão não visitou Jia,1,definite_description
+"Ilse é a pessoa que visitou todo lugar, Gabriella visitou Ilse",Ilse não visitou Santa Maria Madalena,1,definite_description
+"Reeva visitou Nirina, Reeva é a pessoa que visitou todo lugar",Reeva não visitou Mesópolis,1,definite_description
+"Graciliana visitou Stella, Graciliana é a pessoa que visitou todo mundo",Graciliana não visitou Cármina,1,definite_description
+"Maria Leonor é a pessoa que visitou todo lugar, Dele visitou Maria Leonor",Maria Leonor não visitou Jurema,1,definite_description
+"Arlete é a pessoa que visitou todo mundo, Arlete visitou Miah",Miah não visitou Dária,0,definite_description
+"Katherina é a pessoa que visitou todo lugar, Palmira visitou Katherina",Palmira não visitou Ribeirão Cascalheira,0,definite_description
+"Armandina é a pessoa que visitou todo lugar, Kendra visitou Armandina",Armandina não visitou Caxingó,1,definite_description
+"Ditza visitou Alexis, Alexis é a pessoa que visitou todo lugar",Ditza não visitou São João do Manhuaçu,0,definite_description
+"Herénia visitou Noiala, Herénia é a pessoa que visitou todo mundo",Herénia não visitou Marilúcia,1,definite_description
+"Ornela é a pessoa que visitou todo mundo, Naomi visitou Ornela",Ornela não visitou Dúnia,1,definite_description
+"Herédia é a pessoa que visitou todo lugar, Lianor visitou Herédia",Lianor não visitou Propriá,0,definite_description
+"Grace é a pessoa que visitou todo lugar, Oscarina visitou Grace",Oscarina não visitou Gália,0,definite_description
+"Magna visitou Lisdália, Magna é a pessoa que visitou todo lugar",Magna não visitou São Miguel das Matas,1,definite_description
+"Patrícia é a pessoa que visitou todo mundo, Iana visitou Patrícia",Iana não visitou Rosália,0,definite_description
+"Lília visitou Claudine, Claudine é a pessoa que visitou todo lugar",Lília não visitou Governador Dix-Sept Rosado,0,definite_description
+"Bertila visitou da Agonia, da Agonia é a pessoa que visitou todo mundo",Bertila não visitou do Socorro,0,definite_description
+"Lace é a pessoa que visitou todo lugar, Natividade visitou Lace",Natividade não visitou Pérola d'Oeste,0,definite_description
+"Emídia visitou Nalini, Nalini é a pessoa que visitou todo lugar",Nalini não visitou Santa Tereza do Tocantins,1,definite_description
+"Loredana visitou Ilídia, Loredana é a pessoa que visitou todo mundo",Loredana não visitou Reece,1,definite_description
+"Dúlia visitou Faia, Dúlia é a pessoa que visitou todo lugar",Faia não visitou Santo Antônio do Jardim,0,definite_description
+"Dária é a pessoa que visitou todo lugar, Tereza visitou Dária",Dária não visitou Guaratinguetá,1,definite_description
+"Afra visitou Liliete, Afra é a pessoa que visitou todo mundo",Afra não visitou do Paraíso,1,definite_description
+"Crisanta é a pessoa que visitou todo lugar, Crisanta visitou Katherine",Crisanta não visitou Cezarina,1,definite_description
+"Josselina é a pessoa que visitou todo mundo, Josselina visitou Gala",Josselina não visitou Carmorinda,1,definite_description
+"Adélia visitou Mara, Adélia é a pessoa que visitou todo lugar",Adélia não visitou Lagoa da Prata,1,definite_description
+"Romilda visitou Flor de Maria, Romilda é a pessoa que visitou todo mundo",Flor de Maria não visitou Deótila,0,definite_description
+"Edmunda é a pessoa que visitou todo lugar, Nádeja visitou Edmunda",Nádeja não visitou Buritizeiro,0,definite_description
+"Casta visitou Girel, Girel é a pessoa que visitou todo mundo",Girel não visitou Suse,1,definite_description
+"Edite visitou Rogélia, Edite é a pessoa que visitou todo mundo",Edite não visitou Nour,1,definite_description
+"Taia é a pessoa que visitou todo lugar, Kayla visitou Taia",Kayla não visitou Mãe do Rio,0,definite_description
+"Tina é a pessoa que visitou todo lugar, Castorina visitou Tina",Tina não visitou Campo Limpo de Goiás,1,definite_description
+"Dária é a pessoa que visitou todo lugar, Eda visitou Dária",Dária não visitou Planalto da Serra,1,definite_description
+"Maré é a pessoa que visitou todo mundo, Obdúlia visitou Maré",Obdúlia não visitou Nicolina,0,definite_description
+"Ivana é a pessoa que visitou todo lugar, Raíssa visitou Ivana",Raíssa não visitou Vertente do Lério,0,definite_description
+"Dariana é a pessoa que visitou todo lugar, Preciosa visitou Dariana",Dariana não visitou Santana do Livramento,1,definite_description
+"Lucília é a pessoa que visitou todo lugar, Inga visitou Lucília",Lucília não visitou Seringueiras,1,definite_description
+"Délia é a pessoa que visitou todo mundo, Dinamene visitou Délia",Délia não visitou Cleópatra,1,definite_description
+"Leila visitou Norah, Norah é a pessoa que visitou todo lugar",Leila não visitou Paulo Frontin,0,definite_description
+"Elodia visitou Acácia, Acácia é a pessoa que visitou todo mundo",Elodia não visitou Janina,0,definite_description
+"Josete visitou Leonisa, Leonisa é a pessoa que visitou todo lugar",Leonisa não visitou Nova Mutum,1,definite_description
+"Thérése visitou Letízia, Letízia é a pessoa que visitou todo lugar",Letízia não visitou Matinha,1,definite_description
+"Ninfa visitou da Cruz, Ninfa é a pessoa que visitou todo lugar",Ninfa não visitou Caçapava,1,definite_description
+"Gertrudes visitou Thérése, Gertrudes é a pessoa que visitou todo lugar",Thérése não visitou Poço Branco,0,definite_description
+"Dialina visitou Melania, Dialina é a pessoa que visitou todo mundo",Dialina não visitou Gabrielle,1,definite_description
+"Gabrielle visitou Piedade, Gabrielle é a pessoa que visitou todo lugar",Piedade não visitou Barra Mansa,0,definite_description
+"Dália é a pessoa que visitou todo lugar, Ionara visitou Dália",Dália não visitou União da Vitória,1,definite_description
+"Dolores visitou Nirina, Dolores é a pessoa que visitou todo mundo",Dolores não visitou Nicoleta,1,definite_description
+"Claudina é a pessoa que visitou todo lugar, Claudina visitou Marie",Marie não visitou Tamboara,0,definite_description
+"Dária visitou Adriane, Dária é a pessoa que visitou todo mundo",Dária não visitou Aisha,1,definite_description
+"Regina é a pessoa que visitou todo lugar, Regina visitou Nalini",Nalini não visitou Ouro Verde,0,definite_description
+"Tiara é a pessoa que visitou todo lugar, Tiara visitou Eunice",Eunice não visitou Angra dos Reis,0,definite_description
+"Nazária é a pessoa que visitou todo lugar, Namira visitou Nazária",Namira não visitou Quatá,0,definite_description
+"Shana visitou Charlotte, Shana é a pessoa que visitou todo lugar",Charlotte não visitou Alcântaras,0,definite_description
+"Jamília é a pessoa que visitou todo lugar, Jamília visitou Joselene",Joselene não visitou São Pedro do Iguaçu,0,definite_description
+"Pámela visitou Alida, Alida é a pessoa que visitou todo mundo",Alida não visitou Karina,1,definite_description
+"Felisbela é a pessoa que visitou todo lugar, Clarina visitou Felisbela",Clarina não visitou Sarzedo,0,definite_description
+"Marcelina visitou Dídia, Dídia é a pessoa que visitou todo mundo",Marcelina não visitou Joela,0,definite_description
+"Carissa é a pessoa que visitou todo mundo, Reyna visitou Carissa",Reyna não visitou Olinda,0,definite_description
+"Florinda é a pessoa que visitou todo mundo, Florinda visitou Lumi",Lumi não visitou Mirella,0,definite_description
+"Rebecca é a pessoa que visitou todo mundo, Rebecca visitou Formosinda",Rebecca não visitou Acácia,1,definite_description
+"Margaux é a pessoa que visitou todo mundo, Cássia visitou Margaux",Cássia não visitou Marquesa,0,definite_description
+"Leonida é a pessoa que visitou todo mundo, Leonida visitou Daina",Daina não visitou Ilídia,0,definite_description
+"Delilah é a pessoa que visitou todo lugar, Sarai visitou Delilah",Delilah não visitou General Salgado,1,definite_description
+"Fantina visitou Bérnia, Bérnia é a pessoa que visitou todo lugar",Fantina não visitou Palmeirais,0,definite_description
+"Catila é a pessoa que visitou todo mundo, Juraci visitou Catila",Catila não visitou Betsabé,1,definite_description
+"Adriele visitou Oscarina, Oscarina é a pessoa que visitou todo mundo",Adriele não visitou Dúnia,0,definite_description
+"Carissa visitou Rebecca, Rebecca é a pessoa que visitou todo mundo",Rebecca não visitou Nathalie,1,definite_description
+"Orlanda é a pessoa que visitou todo lugar, Orlanda visitou Jandira",Orlanda não visitou Tenório,1,definite_description
+"Cipora visitou Libânia, Cipora é a pessoa que visitou todo mundo",Cipora não visitou Sulamita,1,definite_description
+"Quaiela visitou Fiorella, Fiorella é a pessoa que visitou todo mundo",Fiorella não visitou Salete,1,definite_description
+"Heda é a pessoa que visitou todo lugar, Heda visitou Cita",Heda não visitou Monte Alegre de Goiás,1,definite_description
+"Clementine visitou Margareta, Margareta é a pessoa que visitou todo mundo",Clementine não visitou Balduína,0,definite_description
+"Hosana visitou Diza, Diza é a pessoa que visitou todo mundo",Hosana não visitou Lilá,0,definite_description
+"Leyla visitou Jia, Jia é a pessoa que visitou todo lugar",Jia não visitou Cachoeira de Goiás,1,definite_description
+"Juvita visitou Mya, Juvita é a pessoa que visitou todo lugar",Juvita não visitou Santa Luzia,1,definite_description
+"Clementine é a pessoa que visitou todo mundo, Aíko visitou Clementine",Clementine não visitou Norah,1,definite_description
+"Estrelle é a pessoa que visitou todo mundo, Genciana visitou Estrelle",Estrelle não visitou Ambrosina,1,definite_description
+"Lólia visitou Mireie, Mireie é a pessoa que visitou todo mundo",Mireie não visitou Otilina,1,definite_description
+"Elana visitou Laya, Laya é a pessoa que visitou todo mundo",Laya não visitou Prudência,1,definite_description
+"Ismália visitou Nazarina, Nazarina é a pessoa que visitou todo lugar",Nazarina não visitou Paraíso do Norte,1,definite_description
+"Liv é a pessoa que visitou todo mundo, Liv visitou Assunção",Assunção não visitou Mariza,0,definite_description
+"Fédora é a pessoa que visitou todo mundo, Marcela visitou Fédora",Fédora não visitou Isabella,1,definite_description
+"Naiane visitou Josana, Naiane é a pessoa que visitou todo lugar",Josana não visitou Riqueza,0,definite_description
+"Irma é a pessoa que visitou todo lugar, Irma visitou Lauren",Lauren não visitou Sapucaia,0,definite_description
+"Miguela visitou Noémi, Miguela é a pessoa que visitou todo mundo",Miguela não visitou Luanda,1,definite_description
+"Lisdália visitou Beatrix, Lisdália é a pessoa que visitou todo mundo",Beatrix não visitou Juno,0,definite_description
+"Africana é a pessoa que visitou todo mundo, Agnes visitou Africana",Africana não visitou Farah,1,definite_description
+"Gilberta é a pessoa que visitou todo mundo, Gilberta visitou Floriana",Gilberta não visitou Artemísia,1,definite_description
+"Liv visitou Lexie, Lexie é a pessoa que visitou todo lugar",Liv não visitou Augusto Pestana,0,definite_description
+"Crisna visitou Bethany, Bethany é a pessoa que visitou todo mundo",Crisna não visitou Élin,0,definite_description
+"Alaina visitou Mari, Mari é a pessoa que visitou todo mundo",Alaina não visitou Brigite,0,definite_description
+"Liberdade é a pessoa que visitou todo lugar, Anaíce visitou Liberdade",Anaíce não visitou Harmonia,0,definite_description
+"Sandy é a pessoa que visitou todo lugar, Sandy visitou Mya",Sandy não visitou Anastácio,1,definite_description
+"Edéria visitou Dália, Dália é a pessoa que visitou todo lugar",Dália não visitou Sertaneja,1,definite_description
+"Moana visitou Dionilde, Dionilde é a pessoa que visitou todo lugar",Dionilde não visitou Cachoeirinha,1,definite_description
+"Delisa visitou Dores, Delisa é a pessoa que visitou todo lugar",Delisa não visitou Agricolândia,1,definite_description
+"Alexis visitou Brígida, Brígida é a pessoa que visitou todo lugar",Brígida não visitou Jacutinga,1,definite_description
+"Marisela visitou Liane, Liane é a pessoa que visitou todo mundo",Liane não visitou Neotera,1,definite_description
+"Diva é a pessoa que visitou todo mundo, Naira visitou Diva",Diva não visitou Auxília,1,definite_description
+"Emie visitou Ecaterina, Emie é a pessoa que visitou todo lugar",Emie não visitou Alta Floresta D'Oeste,1,definite_description
+"Nanci é a pessoa que visitou todo mundo, Isabelina visitou Nanci",Isabelina não visitou Santa Rita,0,definite_description
+"Mariane é a pessoa que visitou todo lugar, Anunciada visitou Mariane",Anunciada não visitou Milagres,0,definite_description
+"Oana visitou Tirza, Oana é a pessoa que visitou todo lugar",Oana não visitou Itupiranga,1,definite_description
+"Nuna é a pessoa que visitou todo mundo, Nuna visitou Lianor",Nuna não visitou Narcisa,1,definite_description
+"Sania visitou Maeva, Sania é a pessoa que visitou todo lugar",Sania não visitou Maria da Fé,1,definite_description
+"Jamília é a pessoa que visitou todo lugar, Jamília visitou Alina",Jamília não visitou Rio Negro,1,definite_description
+"Lilly visitou Noémi, Noémi é a pessoa que visitou todo lugar",Lilly não visitou Catas Altas,0,definite_description
+"Rebeka é a pessoa que visitou todo lugar, Rebeka visitou Severina",Severina não visitou Barrolândia,0,definite_description
+"Evandra visitou Sandrina, Sandrina é a pessoa que visitou todo mundo",Sandrina não visitou Sadiya,1,definite_description
+"Hédila visitou Floriana, Floriana é a pessoa que visitou todo mundo",Floriana não visitou Pérola,1,definite_description
+"Helen é a pessoa que visitou todo mundo, Ragendra visitou Helen",Helen não visitou Shakira,1,definite_description
+"Leanor visitou Lariana, Leanor é a pessoa que visitou todo mundo",Lariana não visitou Rosebele,0,definite_description
+"Aleixa é a pessoa que visitou todo lugar, Aleixa visitou Naíma",Aleixa não visitou Dores de Guanhães,1,definite_description
+"Teresina visitou Rosalinda, Rosalinda é a pessoa que visitou todo lugar",Rosalinda não visitou Aparecida,1,definite_description
+"Solôngia visitou Albertina, Solôngia é a pessoa que visitou todo mundo",Albertina não visitou Dolores,0,definite_description
+"Josuana é a pessoa que visitou todo mundo, Josuana visitou Anaíde",Anaíde não visitou Idália,0,definite_description
+"Ditza é a pessoa que visitou todo mundo, Caterina visitou Ditza",Caterina não visitou Preciosa,0,definite_description
+"Ricardina é a pessoa que visitou todo lugar, Hortense visitou Ricardina",Hortense não visitou Fortaleza de Minas,0,definite_description
+"Afonsa é a pessoa que visitou todo mundo, Ohana visitou Afonsa",Ohana não visitou Nadja,0,definite_description
+"Lubélia é a pessoa que visitou todo mundo, Libertária visitou Lubélia",Lubélia não visitou Chloé,1,definite_description
+"Maia visitou Lília, Lília é a pessoa que visitou todo mundo",Maia não visitou Mya,0,definite_description
+"Apolónia é a pessoa que visitou todo mundo, Apolónia visitou Letízia",Letízia não visitou Leolina,0,definite_description
+"Felisberta visitou Pámela, Felisberta é a pessoa que visitou todo mundo",Felisberta não visitou Keiko,1,definite_description
+"Matilda visitou Alaíde, Alaíde é a pessoa que visitou todo lugar",Alaíde não visitou Montes Altos,1,definite_description
+"Teresinha visitou Cesaltina, Cesaltina é a pessoa que visitou todo mundo",Cesaltina não visitou Letízia,1,definite_description
+"Anícia é a pessoa que visitou todo mundo, Anícia visitou Ragendra",Anícia não visitou Astride,1,definite_description
+"Jocelina visitou Misaela, Misaela é a pessoa que visitou todo mundo",Misaela não visitou Omara,1,definite_description
+"Otelina visitou Belosinda, Otelina é a pessoa que visitou todo lugar",Otelina não visitou Caiçara do Rio do Vento,1,definite_description
+"Nadine visitou Oureana, Oureana é a pessoa que visitou todo mundo",Oureana não visitou Léna,1,definite_description
+"Odete é a pessoa que visitou todo lugar, Odete visitou Cássia",Odete não visitou São Francisco de Paula,1,definite_description
+"Génesis é a pessoa que visitou todo mundo, Odília visitou Génesis",Génesis não visitou Surya,1,definite_description
+"Salvação visitou Dina, Salvação é a pessoa que visitou todo mundo",Salvação não visitou Nanci,1,definite_description
+"June é a pessoa que visitou todo lugar, June visitou Suzy",June não visitou Cataguases,1,definite_description
+"Kendra é a pessoa que visitou todo lugar, Kendra visitou Guislene",Kendra não visitou Campos Novos Paulista,1,definite_description
+"Deusa é a pessoa que visitou todo lugar, Deusa visitou Eléonore",Eléonore não visitou Colônia do Gurguéia,0,definite_description
+"Nahla visitou Catherina, Nahla é a pessoa que visitou todo lugar",Nahla não visitou São Sebastião do Tocantins,1,definite_description
+"Suzy é a pessoa que visitou todo mundo, Lauren visitou Suzy",Lauren não visitou Catherine,0,definite_description
+"Briolanja é a pessoa que visitou todo mundo, Dirce visitou Briolanja",Briolanja não visitou Graciete,1,definite_description
+"Círia visitou Nur, Nur é a pessoa que visitou todo mundo",Nur não visitou Gaori,1,definite_description
+"Emmy é a pessoa que visitou todo mundo, Sade visitou Emmy",Emmy não visitou Minerva,1,definite_description
+"Maximiliana visitou Nelma, Nelma é a pessoa que visitou todo mundo",Maximiliana não visitou Mari,0,definite_description
+"Inácia é a pessoa que visitou todo lugar, Belmira visitou Inácia",Belmira não visitou Belo Horizonte,0,definite_description
+"Calila visitou Leila, Leila é a pessoa que visitou todo mundo",Leila não visitou Eleia,1,definite_description
+"Gisele é a pessoa que visitou todo mundo, Gisele visitou Dólique",Gisele não visitou Leandra,1,definite_description
+"Aimara visitou Mícia, Mícia é a pessoa que visitou todo mundo",Aimara não visitou Joya,0,definite_description
+"Belosinda visitou Mimosa, Belosinda é a pessoa que visitou todo lugar",Belosinda não visitou Ubajara,1,definite_description
+"Shakira é a pessoa que visitou todo lugar, Shakira visitou Áfrika",Shakira não visitou Juína,1,definite_description
+"Marciana visitou Elma, Elma é a pessoa que visitou todo lugar",Marciana não visitou São Luiz,0,definite_description
+"Sisa visitou Gracinda, Gracinda é a pessoa que visitou todo mundo",Gracinda não visitou Alaina,1,definite_description
+"Ditza é a pessoa que visitou todo lugar, Tanagra visitou Ditza",Tanagra não visitou Sebastião Leal,0,definite_description
+"Cita é a pessoa que visitou todo mundo, Alida visitou Cita",Alida não visitou Johanna,0,definite_description
+"Honey visitou Nara, Honey é a pessoa que visitou todo mundo",Honey não visitou Orlanda,1,definite_description
+"Africana visitou Magdalena, Magdalena é a pessoa que visitou todo lugar",Magdalena não visitou Alambari,1,definite_description
+"Nânci é a pessoa que visitou todo mundo, Nânci visitou Alida",Alida não visitou Liliete,0,definite_description
+"Mariema é a pessoa que visitou todo mundo, Mariema visitou Kenza",Kenza não visitou Cesarina,0,definite_description
+"Crisante visitou Adriele, Adriele é a pessoa que visitou todo mundo",Crisante não visitou Gislena,0,definite_description
+"Genciana visitou Marguerita, Genciana é a pessoa que visitou todo mundo",Marguerita não visitou Nesta,0,definite_description
+"Eloise é a pessoa que visitou todo mundo, Eloise visitou Nayara",Eloise não visitou Luisete,1,definite_description
+"Sania visitou Naila, Naila é a pessoa que visitou todo mundo",Naila não visitou Marilda,1,definite_description
+"Silvina é a pessoa que visitou todo mundo, Romana visitou Silvina",Romana não visitou Leyla,0,definite_description
+"Katty visitou de Deus, de Deus é a pessoa que visitou todo mundo",Katty não visitou Noiala,0,definite_description
+"Angie visitou Benice, Angie é a pessoa que visitou todo lugar",Angie não visitou São João do Jaguaribe,1,definite_description
+"Sierra visitou Skylar, Sierra é a pessoa que visitou todo lugar",Sierra não visitou Piraí do Norte,1,definite_description
+"Leslie é a pessoa que visitou todo lugar, Florença visitou Leslie",Florença não visitou Santa Margarida do Sul,0,definite_description
+"Georgete é a pessoa que visitou todo lugar, Narcisa visitou Georgete",Georgete não visitou Quaraí,1,definite_description
+"Neide visitou Noah, Noah é a pessoa que visitou todo lugar",Noah não visitou Alto do Rodrigues,1,definite_description
+"Cirila é a pessoa que visitou todo mundo, Cirila visitou Sian",Cirila não visitou Eleonora,1,definite_description
+"Noélie é a pessoa que visitou todo lugar, Noélie visitou Maritila",Noélie não visitou Mulungu,1,definite_description
+"Nor visitou Lénia, Nor é a pessoa que visitou todo lugar",Nor não visitou Taboão da Serra,1,definite_description
+"Nikita é a pessoa que visitou todo mundo, Maëlis visitou Nikita",Nikita não visitou Beanina,1,definite_description
+"Gilma é a pessoa que visitou todo lugar, Márvia visitou Gilma",Gilma não visitou Coimbra,1,definite_description
+"Edine visitou Bebiana, Bebiana é a pessoa que visitou todo mundo",Edine não visitou Joaninha,0,definite_description
+"Doroteia é a pessoa que visitou todo lugar, Doroteia visitou Sally",Sally não visitou Flores da Cunha,0,definite_description
+"Thalita visitou Suellen, Suellen é a pessoa que visitou todo mundo",Suellen não visitou Analisa,1,definite_description
+"Petrina é a pessoa que visitou todo lugar, Cidalina visitou Petrina",Petrina não visitou Central,1,definite_description
+"Guilhermina é a pessoa que visitou todo lugar, Guilhermina visitou Claudiana",Claudiana não visitou Filadélfia,0,definite_description
+"Militza visitou Antera, Antera é a pessoa que visitou todo mundo",Militza não visitou Ivete,0,definite_description
+"Natacha é a pessoa que visitou todo lugar, Natacha visitou Keira",Natacha não visitou São Sebastião do Rio Preto,1,definite_description
+"Alita é a pessoa que visitou todo mundo, Alita visitou Naíra",Naíra não visitou Deméter,0,definite_description
+"Silvie é a pessoa que visitou todo lugar, Lianor visitou Silvie",Silvie não visitou Itu,1,definite_description
+"Rosalina visitou Jacqueline, Jacqueline é a pessoa que visitou todo lugar",Jacqueline não visitou Bom Jesus da Lapa,1,definite_description
+"Elis visitou Naíde, Elis é a pessoa que visitou todo mundo",Elis não visitou Eleanor,1,definite_description
+"Matrosa visitou Rubyana, Rubyana é a pessoa que visitou todo mundo",Matrosa não visitou Leopoldina,0,definite_description
+"Leonília visitou Maria Leonor, Leonília é a pessoa que visitou todo lugar",Maria Leonor não visitou Divinolândia,0,definite_description
+"Kaira é a pessoa que visitou todo mundo, Kaira visitou Cleodice",Kaira não visitou Dagmar,1,definite_description
+"Leocádia é a pessoa que visitou todo mundo, Leocádia visitou Kylie",Leocádia não visitou Aniana,1,definite_description
+"Raquelina visitou Lourdes, Raquelina é a pessoa que visitou todo mundo",Raquelina não visitou Mari,1,definite_description
+"Carisa visitou Susanna, Carisa é a pessoa que visitou todo lugar",Susanna não visitou Antas,0,definite_description
+"Irisalva é a pessoa que visitou todo mundo, Suzana visitou Irisalva",Suzana não visitou Gáil,0,definite_description
+"Benvinda é a pessoa que visitou todo lugar, Octávia visitou Benvinda",Octávia não visitou Venda Nova do Imigrante,0,definite_description
+"Hebe é a pessoa que visitou todo lugar, Hebe visitou Carísia",Carísia não visitou Carangola,0,definite_description
+"Dólique visitou Graciete, Graciete é a pessoa que visitou todo lugar",Graciete não visitou Santo Antônio do Retiro,1,definite_description
+"Alcina é a pessoa que visitou todo lugar, Alcina visitou Nirina",Nirina não visitou Cruzmaltina,0,definite_description
+"Alexandrina é a pessoa que visitou todo lugar, Alexandrina visitou Oureana",Alexandrina não visitou Curuçá,1,definite_description
+"Belarmina visitou Justina, Justina é a pessoa que visitou todo mundo",Justina não visitou Rosamar,1,definite_description
+"Castelina visitou Raina, Raina é a pessoa que visitou todo lugar",Raina não visitou Soledade de Minas,1,definite_description
+"Feba visitou de Pádua, Feba é a pessoa que visitou todo lugar",de Pádua não visitou Kaloré,0,definite_description
+"Diomar visitou Etel, Diomar é a pessoa que visitou todo lugar",Etel não visitou Holambra,0,definite_description
+"Marsília visitou Hermenegilda, Marsília é a pessoa que visitou todo mundo",Marsília não visitou Raina,1,definite_description
+"Apolónia é a pessoa que visitou todo lugar, Apolónia visitou Marlene",Apolónia não visitou Santo Antônio do Retiro,1,definite_description
+"Nília visitou Ariel, Nília é a pessoa que visitou todo mundo",Nília não visitou Anísia,1,definite_description
+"Naila é a pessoa que visitou todo lugar, Deodete visitou Naila",Naila não visitou Jundiá,1,definite_description
+"Keira é a pessoa que visitou todo lugar, Albertina visitou Keira",Keira não visitou Paratinga,1,definite_description
+"Jesus visitou Jasmine, Jasmine é a pessoa que visitou todo lugar",Jesus não visitou Campina do Simão,0,definite_description
+"Edina visitou Claudine, Edina é a pessoa que visitou todo lugar",Claudine não visitou Baixo Guandu,0,definite_description
+"Florinda é a pessoa que visitou todo mundo, Florinda visitou Raquelina",Raquelina não visitou Loela,0,definite_description
+"Nayara visitou Salma, Nayara é a pessoa que visitou todo mundo",Nayara não visitou Joela,1,definite_description
+"Adolfina visitou Isabella, Isabella é a pessoa que visitou todo lugar",Adolfina não visitou Adustina,0,definite_description
+"Nisa visitou Elize, Nisa é a pessoa que visitou todo lugar",Elize não visitou Guabiruba,0,definite_description
+"Elaina visitou Lace, Lace é a pessoa que visitou todo mundo",Elaina não visitou Guislena,0,definite_description
+"Terezinha visitou Jani, Terezinha é a pessoa que visitou todo lugar",Terezinha não visitou Cardoso,1,definite_description
+"Sory visitou Anaisa, Sory é a pessoa que visitou todo lugar",Anaisa não visitou Tomar do Geru,0,definite_description
+"Analu é a pessoa que visitou todo lugar, Ioana visitou Analu",Ioana não visitou São João da Varjota,0,definite_description
+"Angie visitou Jasmim, Jasmim é a pessoa que visitou todo mundo",Jasmim não visitou Rosanete,1,definite_description
+"Ruth é a pessoa que visitou todo lugar, Espírito Santo visitou Ruth",Ruth não visitou Álvaro de Carvalho,1,definite_description
+"Glaúcia é a pessoa que visitou todo mundo, Glaúcia visitou Armandina",Glaúcia não visitou Maria Leonor,1,definite_description
+"Heliodora é a pessoa que visitou todo lugar, Heliodora visitou Gerta",Heliodora não visitou Boa Nova,1,definite_description
+"Miah visitou Elina, Miah é a pessoa que visitou todo mundo",Miah não visitou Angelita,1,definite_description
+"Melodia visitou Celsa, Melodia é a pessoa que visitou todo lugar",Melodia não visitou São Roque de Minas,1,definite_description
+"Sunamita visitou Agustina, Sunamita é a pessoa que visitou todo lugar",Agustina não visitou Taquaraçu de Minas,0,definite_description
+"Iberina visitou Erica, Erica é a pessoa que visitou todo mundo",Erica não visitou Sérgia,1,definite_description
+"Saga é a pessoa que visitou todo mundo, Saga visitou Blandina",Saga não visitou Tayná,1,definite_description
+"Afonsa visitou Marcelle, Marcelle é a pessoa que visitou todo mundo",Afonsa não visitou Pietra,0,definite_description
+"Malu é a pessoa que visitou todo lugar, Malu visitou Carisa",Carisa não visitou Itapecuru Mirim,0,definite_description
+"Octávia é a pessoa que visitou todo lugar, Octávia visitou Namira",Octávia não visitou Cachoeira dos Índios,1,definite_description
+"Sophia é a pessoa que visitou todo mundo, Sophia visitou Laetitia",Laetitia não visitou Gustava,0,definite_description
+"Lusa visitou Sirla, Lusa é a pessoa que visitou todo lugar",Sirla não visitou Parobé,0,definite_description
+"Jewel visitou Carmen, Jewel é a pessoa que visitou todo lugar",Carmen não visitou Vila Velha,0,definite_description
+"Josiana é a pessoa que visitou todo lugar, Josiana visitou Heliodora",Josiana não visitou Buriti de Goiás,1,definite_description
+"Isa visitou Eleanor, Eleanor é a pessoa que visitou todo mundo",Isa não visitou da Agonia,0,definite_description
+"Ilca visitou Carmezinda, Ilca é a pessoa que visitou todo mundo",Carmezinda não visitou de Fafe,0,definite_description
+"Paris é a pessoa que visitou todo mundo, Paris visitou Cristolinda",Cristolinda não visitou Nicoleta,0,definite_description
+"Luara visitou Sássia, Luara é a pessoa que visitou todo lugar",Sássia não visitou Gramado dos Loureiros,0,definite_description
+"Orlandina visitou Caia, Orlandina é a pessoa que visitou todo lugar",Orlandina não visitou Cocalzinho de Goiás,1,definite_description
+"Carmen é a pessoa que visitou todo lugar, Seong visitou Carmen",Seong não visitou Cedro de São João,0,definite_description
+"Ellie é a pessoa que visitou todo mundo, Ellie visitou Clorinda",Clorinda não visitou Joanina,0,definite_description
+"Orianna visitou Cínara, Orianna é a pessoa que visitou todo lugar",Orianna não visitou Tietê,1,definite_description
+"Elisabeth visitou Marjolene, Elisabeth é a pessoa que visitou todo lugar",Marjolene não visitou Santo Antônio dos Milagres,0,definite_description
+"Myriam visitou Leana, Leana é a pessoa que visitou todo lugar",Myriam não visitou Corumbá de Goiás,0,definite_description
+"Taíssa visitou Celsa, Celsa é a pessoa que visitou todo mundo",Celsa não visitou Papoila,1,definite_description
+"Macati visitou Natasha, Natasha é a pessoa que visitou todo lugar",Macati não visitou Coremas,0,definite_description
+"Grace é a pessoa que visitou todo lugar, Grace visitou Juli",Juli não visitou Presidente Sarney,0,definite_description
+"Élin é a pessoa que visitou todo mundo, Raina visitou Élin",Élin não visitou Especiosa,1,definite_description
+"Jasmim visitou Louane, Louane é a pessoa que visitou todo lugar",Jasmim não visitou São João do Piauí,0,definite_description
+"Ceres visitou Marciana, Marciana é a pessoa que visitou todo mundo",Ceres não visitou Emma,0,definite_description
+"Juliette visitou Lace, Juliette é a pessoa que visitou todo mundo",Lace não visitou Quaresma,0,definite_description
+"Pulquéria é a pessoa que visitou todo mundo, Estéfana visitou Pulquéria",Estéfana não visitou Eda,0,definite_description
+"Luamar é a pessoa que visitou todo mundo, Giselda visitou Luamar",Giselda não visitou do Livramento,0,definite_description
+"Lola é a pessoa que visitou todo mundo, Joice visitou Lola",Lola não visitou Kate,1,definite_description
+"Aniana é a pessoa que visitou todo lugar, Alexis visitou Aniana",Alexis não visitou União da Vitória,0,definite_description
+"Dianna é a pessoa que visitou todo mundo, Dianna visitou Nalini",Nalini não visitou Arménia,0,definite_description
+"La-Salete é a pessoa que visitou todo mundo, La-Salete visitou Shania",Shania não visitou Idrisse,0,definite_description
+"Papoila visitou Cleópatra, Cleópatra é a pessoa que visitou todo mundo",Papoila não visitou Acácia,0,definite_description
+"Runa é a pessoa que visitou todo lugar, Runa visitou Duna",Duna não visitou Recursolândia,0,definite_description
+"Nayla é a pessoa que visitou todo lugar, Carmelina visitou Nayla",Nayla não visitou Doutor Pedrinho,1,definite_description
+"Miley visitou Alita, Miley é a pessoa que visitou todo mundo",Alita não visitou Encarnação,0,definite_description
+"Benice é a pessoa que visitou todo mundo, Sandy visitou Benice",Benice não visitou Lucialina,1,definite_description
+"Bibiana visitou de Deus, Bibiana é a pessoa que visitou todo lugar",de Deus não visitou Canápolis,0,definite_description
+"Maria Rita visitou Lourdes, Maria Rita é a pessoa que visitou todo lugar",Lourdes não visitou Leandro Ferreira,0,definite_description
+"Martinha é a pessoa que visitou todo mundo, Martinha visitou Rose",Martinha não visitou Margaret,1,definite_description
+"Suriel visitou Julianna, Suriel é a pessoa que visitou todo lugar",Julianna não visitou Itumirim,0,definite_description
+"Cíntia visitou Princess, Cíntia é a pessoa que visitou todo lugar",Cíntia não visitou Wenceslau Braz,1,definite_description
+"Angélica é a pessoa que visitou todo lugar, Acácia visitou Angélica",Angélica não visitou Barcelona,1,definite_description
+"Malvina é a pessoa que visitou todo lugar, Malvina visitou Georgete",Malvina não visitou Taparuba,1,definite_description
+"Encarnação é a pessoa que visitou todo mundo, Encarnação visitou Marilina",Marilina não visitou Pixie,0,definite_description
+"Skylar é a pessoa que visitou todo mundo, Norvinda visitou Skylar",Norvinda não visitou Lucete,0,definite_description
+"Lace é a pessoa que visitou todo lugar, Lace visitou Josabete",Josabete não visitou Balneário Piçarras,0,definite_description
+"Morgiana visitou Gileade, Gileade é a pessoa que visitou todo mundo",Gileade não visitou Tita,1,definite_description
+"Idália é a pessoa que visitou todo lugar, Idália visitou Osvaldina",Osvaldina não visitou Tefé,0,definite_description
+"Drusila visitou Evelyn, Drusila é a pessoa que visitou todo lugar",Drusila não visitou Capinzal do Norte,1,definite_description
+"Bitia visitou Talina, Talina é a pessoa que visitou todo lugar",Bitia não visitou Valinhos,0,definite_description
+"Quirina visitou Gilma, Quirina é a pessoa que visitou todo lugar",Quirina não visitou Piraúba,1,definite_description
+"Neusa visitou Libertária, Neusa é a pessoa que visitou todo mundo",Libertária não visitou Carla,0,definite_description
+"Telma é a pessoa que visitou todo lugar, Cleia visitou Telma",Telma não visitou Sobradinho,1,definite_description
+"Dana é a pessoa que visitou todo mundo, Francina visitou Dana",Francina não visitou Morgiana,0,definite_description
+"Kieza visitou Martha, Kieza é a pessoa que visitou todo lugar",Kieza não visitou Augustinópolis,1,definite_description
+"Minerva é a pessoa que visitou todo mundo, Minerva visitou Étel",Minerva não visitou Julie,1,definite_description
+"Agustina é a pessoa que visitou todo lugar, Abna visitou Agustina",Agustina não visitou Cerro Grande,1,definite_description
+"Madre de Deus visitou Arminda, Madre de Deus é a pessoa que visitou todo mundo",Arminda não visitou Luela,0,definite_description
+"Maeva é a pessoa que visitou todo mundo, Léanor visitou Maeva",Léanor não visitou Ida,0,definite_description
+"Cristal visitou Susanna, Cristal é a pessoa que visitou todo lugar",Cristal não visitou Pacatuba,1,definite_description
+"Danila é a pessoa que visitou todo mundo, Naíra visitou Danila",Naíra não visitou Margot,0,definite_description
+"Norah é a pessoa que visitou todo mundo, Norah visitou Heliodora",Norah não visitou Rosalie,1,definite_description
+"Abby visitou do Socorro, Abby é a pessoa que visitou todo mundo",Abby não visitou Eunice,1,definite_description
+"Antera é a pessoa que visitou todo lugar, Briolanja visitou Antera",Antera não visitou Santa Maria,1,definite_description
+"Kylie é a pessoa que visitou todo mundo, Kylie visitou Éris",Kylie não visitou Benice,1,definite_description
+"Sira é a pessoa que visitou todo lugar, Ondina visitou Sira",Sira não visitou Pinheiro Preto,1,definite_description
+"Engelécia visitou Catherina, Catherina é a pessoa que visitou todo lugar",Catherina não visitou Marilena,1,definite_description
+"Natércia visitou Natalina, Natércia é a pessoa que visitou todo lugar",Natalina não visitou Santana dos Garrotes,0,definite_description
+"Arménia é a pessoa que visitou todo lugar, Arménia visitou Nali",Arménia não visitou Raul Soares,1,definite_description
+"Anita visitou Lisana, Lisana é a pessoa que visitou todo lugar",Anita não visitou Paraibano,0,definite_description
+"Lilly visitou Daisy, Lilly é a pessoa que visitou todo lugar",Lilly não visitou Novo Oriente do Piauí,1,definite_description
+"Seni visitou Muriela, Seni é a pessoa que visitou todo lugar",Seni não visitou Guaíra,1,definite_description
+"Nené é a pessoa que visitou todo lugar, Nené visitou Assunção",Nené não visitou Anhembi,1,definite_description
+"Serenela visitou Tara, Serenela é a pessoa que visitou todo lugar",Serenela não visitou Caiabu,1,definite_description
+"Ilídia é a pessoa que visitou todo mundo, Paolla visitou Ilídia",Paolla não visitou Liv,0,definite_description
+"Cibele visitou Salma, Salma é a pessoa que visitou todo mundo",Salma não visitou Noélia,1,definite_description
+"Deusa visitou Chloé, Deusa é a pessoa que visitou todo lugar",Chloé não visitou Rio do Pires,0,definite_description
+"Macati visitou Dircila, Macati é a pessoa que visitou todo mundo",Dircila não visitou Ernestina,0,definite_description
+"Derocila é a pessoa que visitou todo mundo, Geovana visitou Derocila",Geovana não visitou Harper,0,definite_description
+"Santa Rita é a pessoa que visitou todo lugar, Santa Rita visitou Carsta",Santa Rita não visitou Érico Cardoso,1,definite_description
+"Gilberta é a pessoa que visitou todo lugar, Santa Rita visitou Gilberta",Gilberta não visitou Poá,1,definite_description
+"Leonida visitou Loela, Leonida é a pessoa que visitou todo lugar",Loela não visitou Santa Cruz,0,definite_description
+"Chiara é a pessoa que visitou todo mundo, Auriana visitou Chiara",Chiara não visitou Evelin,1,definite_description
+"Adriele visitou Delilah, Adriele é a pessoa que visitou todo mundo",Adriele não visitou Alida,1,definite_description
+"Daliana é a pessoa que visitou todo mundo, Daliana visitou Calila",Daliana não visitou Lucíola,1,definite_description
+"Nami visitou Iberina, Iberina é a pessoa que visitou todo mundo",Nami não visitou Neli,0,definite_description
+"Rondina visitou Miliza, Rondina é a pessoa que visitou todo mundo",Rondina não visitou Lízie,1,definite_description
+"Apolónia visitou Nelsa, Nelsa é a pessoa que visitou todo lugar",Apolónia não visitou Valentim Gentil,0,definite_description
+"Maxine visitou Abília, Maxine é a pessoa que visitou todo mundo",Maxine não visitou Malvina,1,definite_description
+"Kathleen visitou Moana, Moana é a pessoa que visitou todo lugar",Kathleen não visitou Tunas,0,definite_description
+"Albana visitou Ezequiela, Albana é a pessoa que visitou todo mundo",Albana não visitou Mavelete,1,definite_description
+"Lélia é a pessoa que visitou todo mundo, Rose visitou Lélia",Lélia não visitou Janaína,1,definite_description
+"Dídia visitou Naraiana, Dídia é a pessoa que visitou todo mundo",Dídia não visitou Dulcelina,1,definite_description
+"Chelsea visitou Celsa, Chelsea é a pessoa que visitou todo lugar",Celsa não visitou Nova Canaã do Norte,0,definite_description
+"Katherine é a pessoa que visitou todo lugar, Ilsa visitou Katherine",Katherine não visitou Jundiá,1,definite_description
+"Sacha é a pessoa que visitou todo mundo, Sacha visitou Cris",Sacha não visitou Magenta,1,definite_description
+"Rosélia visitou Sunamita, Sunamita é a pessoa que visitou todo lugar",Sunamita não visitou Lauro Muller,1,definite_description
+"Orlanda é a pessoa que visitou todo lugar, Orlanda visitou Susi",Orlanda não visitou Poço das Antas,1,definite_description
+"Tereza visitou Delilah, Delilah é a pessoa que visitou todo mundo",Delilah não visitou Emie,1,definite_description
+"Miquelina é a pessoa que visitou todo lugar, Miquelina visitou Ceres",Ceres não visitou Quatipuru,0,definite_description
+"Amabília é a pessoa que visitou todo mundo, Amabília visitou Lenira",Lenira não visitou Margaux,0,definite_description
+"Selésia visitou Nicolina, Selésia é a pessoa que visitou todo mundo",Selésia não visitou Suria,1,definite_description
+"Artemisa visitou Raissa, Raissa é a pessoa que visitou todo lugar",Raissa não visitou Itinga,1,definite_description
+"Ioque visitou Gileade, Ioque é a pessoa que visitou todo mundo",Gileade não visitou Jocelina,0,definite_description
+"Hilma é a pessoa que visitou todo lugar, Hosana visitou Hilma",Hosana não visitou Calçado,0,definite_description
+"Thaís é a pessoa que visitou todo lugar, Hortênsia visitou Thaís",Hortênsia não visitou Jandira,0,definite_description
+"Bérnia visitou Layla, Bérnia é a pessoa que visitou todo mundo",Layla não visitou Demétria,0,definite_description
+"Rogélia é a pessoa que visitou todo lugar, Rogélia visitou Natalina",Rogélia não visitou Casca,1,definite_description
+"Excelsa visitou Hope, Excelsa é a pessoa que visitou todo mundo",Excelsa não visitou Reeva,1,definite_description
+"Évila é a pessoa que visitou todo mundo, Raphaella visitou Évila",Évila não visitou Dara,1,definite_description
+"Quaiela é a pessoa que visitou todo mundo, Quaiela visitou Suzanne",Quaiela não visitou Isalina,1,definite_description
+"Nene visitou Sâmia, Nene é a pessoa que visitou todo mundo",Nene não visitou Quésia,1,definite_description
+"Elza é a pessoa que visitou todo lugar, Elza visitou Rosamar",Rosamar não visitou Branquinha,0,definite_description
+"Dalida é a pessoa que visitou todo lugar, Cremilde visitou Dalida",Dalida não visitou Uruçuca,1,definite_description
+"Cândida visitou Katia, Cândida é a pessoa que visitou todo lugar",Cândida não visitou Pinhalzinho,1,definite_description
+"Noá visitou Romeia, Noá é a pessoa que visitou todo mundo",Noá não visitou Neise,1,definite_description
+"Carmélia é a pessoa que visitou todo mundo, Paola visitou Carmélia",Carmélia não visitou Naima,1,definite_description
+"Cris visitou Morena, Morena é a pessoa que visitou todo lugar",Morena não visitou Sete Lagoas,1,definite_description
+"Benícia visitou Piedade, Benícia é a pessoa que visitou todo lugar",Piedade não visitou Campo Redondo,0,definite_description
+"Maide é a pessoa que visitou todo mundo, Maide visitou Raphaella",Maide não visitou Alexia,1,definite_description
+"Myriam é a pessoa que visitou todo mundo, Lidiana visitou Myriam",Lidiana não visitou Alexis,0,definite_description
+"Seara visitou Diná, Seara é a pessoa que visitou todo mundo",Seara não visitou Isolina,1,definite_description
+"Amarília é a pessoa que visitou todo mundo, Amarília visitou Adalgiza",Adalgiza não visitou Liberalina,0,definite_description
+"Stephanie é a pessoa que visitou todo lugar, Stephanie visitou Hortense",Stephanie não visitou Bady Bassitt,1,definite_description
+"Leonília é a pessoa que visitou todo lugar, Leonília visitou Lina",Lina não visitou Goiabeira,0,definite_description
+"Lina é a pessoa que visitou todo lugar, Lina visitou Bianka",Bianka não visitou Dom Basílio,0,definite_description
+"Anteia visitou Aurete, Anteia é a pessoa que visitou todo mundo",Anteia não visitou Olga,1,definite_description
+"Louisa visitou Nominanda, Louisa é a pessoa que visitou todo mundo",Louisa não visitou Nahla,1,definite_description
+"Joaquina é a pessoa que visitou todo mundo, Simona visitou Joaquina",Simona não visitou Silviana,0,definite_description
+"Reyna é a pessoa que visitou todo mundo, Reyna visitou Laisa",Reyna não visitou Anita,1,definite_description
+"Amina visitou Soline, Soline é a pessoa que visitou todo lugar",Amina não visitou Cavalcante,0,definite_description
+"Joaquina é a pessoa que visitou todo mundo, Pixie visitou Joaquina",Pixie não visitou Belosinda,0,definite_description
+"Hortênsia é a pessoa que visitou todo lugar, Elisete visitou Hortênsia",Elisete não visitou São Valério da Natividade,0,definite_description
+"Josefa é a pessoa que visitou todo mundo, Josefa visitou Nominanda",Nominanda não visitou Ioana,0,definite_description
+"Graciana visitou Sian, Graciana é a pessoa que visitou todo lugar",Graciana não visitou Laranjeiras do Sul,1,definite_description
+"Josselina é a pessoa que visitou todo mundo, Josselina visitou Africana",Africana não visitou Cora,0,definite_description
+"Névia visitou Mary, Névia é a pessoa que visitou todo mundo",Mary não visitou Ludmila,0,definite_description
+"Silviana é a pessoa que visitou todo lugar, Silviana visitou Eárine",Eárine não visitou Mairi,0,definite_description
+"Liliane é a pessoa que visitou todo lugar, Meiline visitou Liliane",Meiline não visitou Carmésia,0,definite_description
+"Ilundi visitou Elana, Elana é a pessoa que visitou todo mundo",Elana não visitou Leonília,1,definite_description
+"Carmorinda visitou Fidélia, Fidélia é a pessoa que visitou todo lugar",Carmorinda não visitou Forquetinha,0,definite_description
+"Rossana visitou Raquelina, Raquelina é a pessoa que visitou todo mundo",Rossana não visitou Nené,0,definite_description
+"Bethany visitou Jesus, Bethany é a pessoa que visitou todo lugar",Bethany não visitou Dracena,1,definite_description
+"Thalia visitou Lilly, Lilly é a pessoa que visitou todo mundo",Thalia não visitou Bianka,0,definite_description
+"Jalmira visitou Simara, Jalmira é a pessoa que visitou todo lugar",Simara não visitou Parazinho,0,definite_description
+"Esméria é a pessoa que visitou todo lugar, Quézia visitou Esméria",Quézia não visitou São José dos Quatro Marcos,0,definite_description
+"Laureana é a pessoa que visitou todo mundo, Karen visitou Laureana",Karen não visitou Jocelina,0,definite_description
+"Gerta visitou Angelita, Gerta é a pessoa que visitou todo mundo",Angelita não visitou Maeva,0,definite_description
+"Benice visitou Titânia, Benice é a pessoa que visitou todo mundo",Titânia não visitou Ioque,0,definite_description
+"Dulcídia é a pessoa que visitou todo lugar, Huguete visitou Dulcídia",Dulcídia não visitou São Jorge do Patrocínio,1,definite_description
+"Margaux visitou Quésia, Quésia é a pessoa que visitou todo mundo",Quésia não visitou Laisa,1,definite_description
+"Armandina é a pessoa que visitou todo mundo, Enilda visitou Armandina",Armandina não visitou Belosinda,1,definite_description
+"Martinha é a pessoa que visitou todo mundo, Erica visitou Martinha",Erica não visitou Jerusa,0,definite_description
+"Léane visitou Nicky, Léane é a pessoa que visitou todo lugar",Nicky não visitou Campos Verdes,0,definite_description
+"Francina é a pessoa que visitou todo mundo, Belosinda visitou Francina",Francina não visitou do Almurtão,1,definite_description
+"Natividade é a pessoa que visitou todo lugar, Miley visitou Natividade",Miley não visitou Natividade,0,definite_description
+"Mari é a pessoa que visitou todo lugar, Safina visitou Mari",Safina não visitou Araçuaí,0,definite_description
+"Josy visitou Elis, Josy é a pessoa que visitou todo lugar",Josy não visitou Belém de São Francisco,1,definite_description
+"Prudência é a pessoa que visitou todo lugar, Lucélia visitou Prudência",Prudência não visitou Campo do Meio,1,definite_description
+"Rondina é a pessoa que visitou todo lugar, Rondina visitou Celisia",Rondina não visitou Itaúba,1,definite_description
+"Lianor é a pessoa que visitou todo mundo, Clarinda visitou Lianor",Lianor não visitou Germana,1,definite_description
+"Azul visitou Soline, Soline é a pessoa que visitou todo lugar",Soline não visitou Poá,1,definite_description
+"Herédia é a pessoa que visitou todo lugar, Herédia visitou Nicolina",Herédia não visitou Itapeva,1,definite_description
+"Rondina visitou Crisna, Rondina é a pessoa que visitou todo lugar",Crisna não visitou Ipanema,0,definite_description
+"Nelly visitou Deliana, Nelly é a pessoa que visitou todo lugar",Nelly não visitou Cumari,1,definite_description
+"Afonsina é a pessoa que visitou todo mundo, Afonsina visitou Traciana",Afonsina não visitou Fénix,1,definite_description
+"Marilisa visitou Janina, Janina é a pessoa que visitou todo mundo",Janina não visitou Eárine,1,definite_description
+"Holly visitou Kendra, Holly é a pessoa que visitou todo mundo",Kendra não visitou Sharon,0,definite_description
+"Bina visitou Séfora, Séfora é a pessoa que visitou todo mundo",Bina não visitou Disa,0,definite_description
+"Holly visitou Amandina, Holly é a pessoa que visitou todo mundo",Amandina não visitou Kieza,0,definite_description
+"Sâmia visitou Emanuella, Sâmia é a pessoa que visitou todo lugar",Sâmia não visitou Aragoiânia,1,definite_description
+"Especiosa visitou Adriela, Adriela é a pessoa que visitou todo mundo",Adriela não visitou Genésia,1,definite_description
+"Anunciada é a pessoa que visitou todo lugar, Riu visitou Anunciada",Riu não visitou Cantanhede,0,definite_description
+"Mariah é a pessoa que visitou todo mundo, Mariah visitou Leonna",Mariah não visitou Riana,1,definite_description
+"Pamela é a pessoa que visitou todo lugar, Pamela visitou Luíza",Pamela não visitou Landri Sales,1,definite_description
+"Sylvie visitou Romy, Sylvie é a pessoa que visitou todo mundo",Sylvie não visitou Misaela,1,definite_description
+"Taína visitou Dircea, Dircea é a pessoa que visitou todo mundo",Taína não visitou Gaela,0,definite_description
+"Ioana é a pessoa que visitou todo lugar, Ioana visitou Marli",Marli não visitou Parati,0,definite_description
+"Dana visitou Marilisa, Marilisa é a pessoa que visitou todo mundo",Marilisa não visitou Minerva,1,definite_description
+"Teodósia visitou Dalida, Teodósia é a pessoa que visitou todo lugar",Teodósia não visitou Santo Antônio do Caiuá,1,definite_description
+"Diane visitou Rosamar, Diane é a pessoa que visitou todo mundo",Rosamar não visitou Surya,0,definite_description
+"Cassandra visitou Melinda, Melinda é a pessoa que visitou todo mundo",Cassandra não visitou Lariana,0,definite_description
+"Alfreda visitou Balduína, Balduína é a pessoa que visitou todo mundo",Alfreda não visitou Trisha,0,definite_description
+"Maxine é a pessoa que visitou todo lugar, Maxine visitou Sira",Sira não visitou Guapé,0,definite_description
+"Adelinda visitou Reinalda, Reinalda é a pessoa que visitou todo lugar",Reinalda não visitou Santana do Mundaú,1,definite_description
+"Lisdália visitou Belinda, Lisdália é a pessoa que visitou todo lugar",Lisdália não visitou Cristópolis,1,definite_description
+"Dária visitou Amanda, Amanda é a pessoa que visitou todo lugar",Amanda não visitou Iati,1,definite_description
+"Britney visitou Carminda, Britney é a pessoa que visitou todo mundo",Carminda não visitou Cleodice,0,definite_description
+"Juvita é a pessoa que visitou todo lugar, Marcelle visitou Juvita",Marcelle não visitou Madeiro,0,definite_description
+"Ragendra visitou Joya, Joya é a pessoa que visitou todo mundo",Joya não visitou Gracinda,1,definite_description
+"Ânia visitou Ceres, Ânia é a pessoa que visitou todo mundo",Ceres não visitou Josete,0,definite_description
+"Amabélia visitou Lilite, Lilite é a pessoa que visitou todo lugar",Amabélia não visitou Petrolina,0,definite_description
+"Hayden visitou Felisberta, Hayden é a pessoa que visitou todo lugar",Hayden não visitou Seberi,1,definite_description
+"Méline visitou Carmo, Méline é a pessoa que visitou todo mundo",Méline não visitou Simaura,1,definite_description
+"Maritana é a pessoa que visitou todo lugar, Maritana visitou Salomite",Salomite não visitou Varzelândia,0,definite_description
+"do Almurtão visitou Thalia, do Almurtão é a pessoa que visitou todo lugar",do Almurtão não visitou Nazarezinho,1,definite_description
+"Selma é a pessoa que visitou todo lugar, Selma visitou Rhianna",Rhianna não visitou Perolândia,0,definite_description
+"Salomite visitou Ludmila, Salomite é a pessoa que visitou todo lugar",Ludmila não visitou São Francisco,0,definite_description
+"Armandina é a pessoa que visitou todo lugar, Armandina visitou Diza",Armandina não visitou Aquidauana,1,definite_description
+"Cristele visitou Louise, Cristele é a pessoa que visitou todo lugar",Louise não visitou Marabá,0,definite_description
+"Lélia é a pessoa que visitou todo lugar, Lélia visitou Marion",Marion não visitou Abdon Batista,0,definite_description
+"Claudina visitou Elise, Claudina é a pessoa que visitou todo mundo",Claudina não visitou Jasmine,1,definite_description
+"Selene é a pessoa que visitou todo mundo, Selene visitou Naia",Selene não visitou Léonie,1,definite_description
+"Edmunda visitou Bia, Bia é a pessoa que visitou todo mundo",Bia não visitou Alexis,1,definite_description
+"Eleia visitou Silke, Silke é a pessoa que visitou todo lugar",Silke não visitou Jequeri,1,definite_description
+"Kaya é a pessoa que visitou todo mundo, Ticiane visitou Kaya",Ticiane não visitou Santa Cruz,0,definite_description
+"Fantina é a pessoa que visitou todo mundo, Fantina visitou Isaurinda",Fantina não visitou Graciana,1,definite_description
+"Lenora visitou Esther, Esther é a pessoa que visitou todo mundo",Lenora não visitou Romilda,0,definite_description
+"Leonilde é a pessoa que visitou todo mundo, Leonilde visitou Estrella",Estrella não visitou Nahla,0,definite_description
+"Formosinda é a pessoa que visitou todo mundo, Formosinda visitou Clemência",Clemência não visitou Dejanira,0,definite_description
+"Ocridalina é a pessoa que visitou todo mundo, Ocridalina visitou Carmelinda",Carmelinda não visitou Keira,0,definite_description
+"América visitou Priscila, América é a pessoa que visitou todo lugar",América não visitou Aruanã,1,definite_description
+"Berengária visitou Niéves, Berengária é a pessoa que visitou todo mundo",Berengária não visitou Odette,1,definite_description
+"Oliviana visitou Nené, Oliviana é a pessoa que visitou todo lugar",Nené não visitou Sales,0,definite_description
+"Dorine visitou Chema, Dorine é a pessoa que visitou todo mundo",Dorine não visitou Oksana,1,definite_description
+"de Pádua visitou Edéria, Edéria é a pessoa que visitou todo mundo",Edéria não visitou Romana,1,definite_description
+"Elísia visitou Giada, Giada é a pessoa que visitou todo mundo",Giada não visitou Deodata,1,definite_description
+"Ekaterina é a pessoa que visitou todo mundo, Ekaterina visitou Nise",Ekaterina não visitou Gerta,1,definite_description
+"Romeia é a pessoa que visitou todo lugar, Romeia visitou Anésia",Romeia não visitou Sebastião Laranjeiras,1,definite_description
+"Mariluz visitou Larisa, Larisa é a pessoa que visitou todo mundo",Mariluz não visitou Adriela,0,definite_description
+"Bertila visitou Cleonice, Cleonice é a pessoa que visitou todo lugar",Cleonice não visitou Pilão Arcado,1,definite_description
+"Lexie visitou Licínia, Lexie é a pessoa que visitou todo lugar",Lexie não visitou Belo Vale,1,definite_description
+"Katie visitou Cristele, Katie é a pessoa que visitou todo mundo",Cristele não visitou Milagre,0,definite_description
+"Diná visitou Raíssa, Diná é a pessoa que visitou todo mundo",Diná não visitou Marcella,1,definite_description
+"Seni é a pessoa que visitou todo lugar, Seni visitou Consuelo",Seni não visitou Belmonte,1,definite_description
+"Oriane visitou Dina, Dina é a pessoa que visitou todo lugar",Oriane não visitou Itaquiraí,0,definite_description
+"Marcelina visitou Acélia, Acélia é a pessoa que visitou todo mundo",Marcelina não visitou Dafne,0,definite_description
+"Hermana visitou Marlene, Hermana é a pessoa que visitou todo lugar",Hermana não visitou Terra Rica,1,definite_description
+"Lou é a pessoa que visitou todo mundo, Lou visitou Dagmar",Dagmar não visitou Pámela,0,definite_description
+"Sienna é a pessoa que visitou todo lugar, Sienna visitou Joselene",Sienna não visitou Ribeirão Pires,1,definite_description
+"Bertina visitou Nami, Bertina é a pessoa que visitou todo lugar",Bertina não visitou São Sebastião do Oeste,1,definite_description
+"Liliane é a pessoa que visitou todo mundo, Ivana visitou Liliane",Ivana não visitou Lucília,0,definite_description
+"Juraci é a pessoa que visitou todo lugar, Mavília visitou Juraci",Juraci não visitou Goiás,1,definite_description
+"Afonsina é a pessoa que visitou todo lugar, Afonsina visitou Kenza",Afonsina não visitou Tuneiras do Oeste,1,definite_description
+"Odete visitou Célia, Odete é a pessoa que visitou todo mundo",Célia não visitou Balduína,0,definite_description
+"Priscila visitou Liana, Liana é a pessoa que visitou todo lugar",Priscila não visitou Campo Alegre de Lourdes,0,definite_description
+"Sandrina é a pessoa que visitou todo lugar, Sandrina visitou Adalgisa",Adalgisa não visitou Tabuleiro do Norte,0,definite_description
+"Apolónia é a pessoa que visitou todo mundo, Apolónia visitou Johanna",Johanna não visitou Lidiana,0,definite_description
+"Juli é a pessoa que visitou todo mundo, Lacey visitou Juli",Juli não visitou Osíris,1,definite_description
+"Antera é a pessoa que visitou todo lugar, Antera visitou Africana",Antera não visitou Castanheiras,1,definite_description
+"Elvina visitou Rafa, Rafa é a pessoa que visitou todo lugar",Rafa não visitou Colíder,1,definite_description
+"Arménia é a pessoa que visitou todo mundo, Arménia visitou Hermana",Arménia não visitou Lurdes,1,definite_description
+"Lucileine é a pessoa que visitou todo lugar, Lucileine visitou Jil",Lucileine não visitou Álvaro de Carvalho,1,definite_description
+"Justa é a pessoa que visitou todo mundo, Justa visitou Rufina",Rufina não visitou Constânça,0,definite_description
+"Elmira é a pessoa que visitou todo mundo, Raísa visitou Elmira",Elmira não visitou Laetitia,1,definite_description
+"Dorine visitou Mavelete, Dorine é a pessoa que visitou todo mundo",Mavelete não visitou Belarmina,0,definite_description
+"Nércia é a pessoa que visitou todo lugar, Almerinda visitou Nércia",Almerinda não visitou Quarto Centenário,0,definite_description
+"Raíssa visitou Nídia, Nídia é a pessoa que visitou todo mundo",Nídia não visitou Antera,1,definite_description
+"Maria Leonor é a pessoa que visitou todo mundo, Maria Leonor visitou Auriana",Maria Leonor não visitou Carmela,1,definite_description
+"Especiosa é a pessoa que visitou todo lugar, Especiosa visitou do Livramento",do Livramento não visitou Canápolis,0,definite_description
+"Terência é a pessoa que visitou todo mundo, Terência visitou de Sales",Terência não visitou Dulcídia,1,definite_description
+"Filena é a pessoa que visitou todo mundo, Inaia visitou Filena",Inaia não visitou Sally,0,definite_description
+"Lizélia visitou Teresinha, Teresinha é a pessoa que visitou todo lugar",Teresinha não visitou Martinópolis,1,definite_description
+"Teodósia é a pessoa que visitou todo mundo, Teodósia visitou Elizabete",Teodósia não visitou Suriel,1,definite_description
+"Larisa é a pessoa que visitou todo mundo, Ciana visitou Larisa",Larisa não visitou Joraci,1,definite_description
+"Jenny visitou Nayla, Jenny é a pessoa que visitou todo mundo",Jenny não visitou Alberta,1,definite_description
+"Dele visitou Cristele, Cristele é a pessoa que visitou todo mundo",Dele não visitou Amara,0,definite_description
+"Ilsa é a pessoa que visitou todo mundo, Nazária visitou Ilsa",Ilsa não visitou Alexia,1,definite_description
+"Telma visitou Rosário, Rosário é a pessoa que visitou todo lugar",Telma não visitou Ibirá,0,definite_description
+"Faia visitou Sofie, Faia é a pessoa que visitou todo mundo",Faia não visitou Rebeka,1,definite_description
+"Rosinda visitou Ima, Rosinda é a pessoa que visitou todo lugar",Rosinda não visitou Quinze de Novembro,1,definite_description
+"Silviana visitou Leila, Leila é a pessoa que visitou todo mundo",Leila não visitou Lenira,1,definite_description
+"Otelina é a pessoa que visitou todo lugar, Otelina visitou Elva",Elva não visitou Lençóis,0,definite_description
+"Clementina visitou Isalda, Isalda é a pessoa que visitou todo mundo",Isalda não visitou Anícia,1,definite_description
+"Claudemira é a pessoa que visitou todo lugar, Rosebele visitou Claudemira",Rosebele não visitou Niterói,0,definite_description
+"Ionara visitou Joele, Ionara é a pessoa que visitou todo lugar",Ionara não visitou Santa Luzia,1,definite_description
+"Fani é a pessoa que visitou todo mundo, Fani visitou Desiree",Fani não visitou Lucie,1,definite_description
+"Auriana é a pessoa que visitou todo mundo, Anatilde visitou Auriana",Anatilde não visitou Léa,0,definite_description
+"Nola visitou Dionilde, Dionilde é a pessoa que visitou todo mundo",Nola não visitou Artemisa,0,definite_description
+"Angelita visitou Fani, Fani é a pessoa que visitou todo mundo",Fani não visitou Giselda,1,definite_description
+"Luela visitou Caterina, Luela é a pessoa que visitou todo lugar",Caterina não visitou Couto de Magalhães,0,definite_description
+"Hédila é a pessoa que visitou todo lugar, Hédila visitou da Agonia",da Agonia não visitou Pouso Alto,0,definite_description
+"Sian visitou Pégui, Pégui é a pessoa que visitou todo lugar",Sian não visitou Maravilha,0,definite_description
+"Nur visitou Guislene, Nur é a pessoa que visitou todo mundo",Guislene não visitou Silvandira,0,definite_description
+"Stella visitou Cris, Cris é a pessoa que visitou todo mundo",Stella não visitou Lou,0,definite_description
+"Nídia visitou Kathleen, Kathleen é a pessoa que visitou todo mundo",Nídia não visitou Loreta,0,definite_description
+"Ezequiela é a pessoa que visitou todo lugar, Ezequiela visitou Samantha",Samantha não visitou Garanhuns,0,definite_description
+"Silvana é a pessoa que visitou todo mundo, Silvana visitou Eglantina",Silvana não visitou Lexie,1,definite_description
+"Daina é a pessoa que visitou todo lugar, Daina visitou Deise",Daina não visitou Alpercata,1,definite_description
+"Carmel é a pessoa que visitou todo lugar, Kira visitou Carmel",Carmel não visitou Botucatu,1,definite_description
+"Alexina visitou Florisbela, Alexina é a pessoa que visitou todo lugar",Florisbela não visitou Bom Jesus do Norte,0,definite_description
+"Cirila visitou Khloe, Cirila é a pessoa que visitou todo mundo",Khloe não visitou Cármen,0,definite_description
+"Giraldina visitou Betsabé, Betsabé é a pessoa que visitou todo lugar",Betsabé não visitou Boa Vista,1,definite_description
+"Silke é a pessoa que visitou todo mundo, Kimberly visitou Silke",Silke não visitou Genciana,1,definite_description
+"Leire é a pessoa que visitou todo mundo, Maide visitou Leire",Maide não visitou Cristele,0,definite_description
+"Clícia é a pessoa que visitou todo lugar, Clícia visitou Corine",Corine não visitou Bom Jardim de Minas,0,definite_description
+"Esméria é a pessoa que visitou todo lugar, Esméria visitou Dirce",Esméria não visitou Catas Altas da Noruega,1,definite_description
+"Bebiana é a pessoa que visitou todo mundo, Graziela visitou Bebiana",Bebiana não visitou Nelsa,1,definite_description
+"Muna visitou Ariel, Ariel é a pessoa que visitou todo lugar",Ariel não visitou Maruim,1,definite_description
+"Liza é a pessoa que visitou todo mundo, Deodata visitou Liza",Deodata não visitou Brunilde,0,definite_description
+"Amaia é a pessoa que visitou todo lugar, Dominica visitou Amaia",Dominica não visitou Itabi,0,definite_description
+"Fidélia é a pessoa que visitou todo lugar, Simy visitou Fidélia",Simy não visitou Novo Santo Antônio,0,definite_description
+"Felisbela visitou Elise, Elise é a pessoa que visitou todo lugar",Felisbela não visitou Viçosa,0,definite_description
+"Marian visitou Salete, Salete é a pessoa que visitou todo lugar",Marian não visitou Água Branca,0,definite_description
+"Crisna é a pessoa que visitou todo lugar, Emie visitou Crisna",Crisna não visitou Itatim,1,definite_description
+"Léonie visitou Marie, Marie é a pessoa que visitou todo mundo",Léonie não visitou Ada,0,definite_description
+"Basilissa é a pessoa que visitou todo mundo, Rufina visitou Basilissa",Basilissa não visitou Nayla,1,definite_description
+"Trisha visitou Saulina, Trisha é a pessoa que visitou todo mundo",Saulina não visitou Diva,0,definite_description
+"Mona visitou Círia, Círia é a pessoa que visitou todo lugar",Mona não visitou Gurupá,0,definite_description
+"Miguela é a pessoa que visitou todo mundo, Miguela visitou Fani",Fani não visitou Marise,0,definite_description
+"Lianor é a pessoa que visitou todo lugar, Melida visitou Lianor",Melida não visitou Arinos,0,definite_description
+"Elizabete é a pessoa que visitou todo mundo, Bina visitou Elizabete",Elizabete não visitou Marita,1,definite_description
+"Sienna visitou Crisálida, Crisálida é a pessoa que visitou todo lugar",Sienna não visitou Andradas,0,definite_description
+"Catherina é a pessoa que visitou todo lugar, Bernardete visitou Catherina",Catherina não visitou Belford Roxo,1,definite_description
+"Quirina visitou dos Milagres, Quirina é a pessoa que visitou todo mundo",Quirina não visitou Levina,1,definite_description
+"Daenerys é a pessoa que visitou todo lugar, Daenerys visitou Luara",Daenerys não visitou Posse,1,definite_description
+"Stacy é a pessoa que visitou todo lugar, Cleonice visitou Stacy",Cleonice não visitou Turmalina,0,definite_description
+"La-Salete é a pessoa que visitou todo mundo, Joele visitou La-Salete",La-Salete não visitou Cesarina,1,definite_description
+"Rosalie é a pessoa que visitou todo mundo, Rosalie visitou Mary",Mary não visitou Odete,0,definite_description
+"Ândria é a pessoa que visitou todo lugar, Ândria visitou Adélia",Ândria não visitou Nova Timboteua,1,definite_description
+"Jacqueline visitou Tabata, Jacqueline é a pessoa que visitou todo lugar",Jacqueline não visitou Nova Laranjeiras,1,definite_description
+"Gisele visitou Odete, Gisele é a pessoa que visitou todo mundo",Odete não visitou Giuliana,0,definite_description
+"Cristele é a pessoa que visitou todo lugar, Cristele visitou Crisálida",Crisálida não visitou Palmeiras do Tocantins,0,definite_description
+"Nessa visitou Formosa, Nessa é a pessoa que visitou todo lugar",Nessa não visitou Planalto,1,definite_description
+"Diane é a pessoa que visitou todo mundo, Papoila visitou Diane",Diane não visitou Nayara,1,definite_description
+"Peyton é a pessoa que visitou todo lugar, Leya visitou Peyton",Leya não visitou Canavieira,0,definite_description
+"Lorenza visitou Feba, Lorenza é a pessoa que visitou todo mundo",Lorenza não visitou Aliana,1,definite_description
+"Júnia é a pessoa que visitou todo mundo, Júnia visitou Militana",Júnia não visitou Gabriella,1,definite_description
+"Alexis é a pessoa que visitou todo lugar, Alexis visitou Nanci",Nanci não visitou Governador Valadares,0,definite_description
+"Ivana visitou Tessa, Ivana é a pessoa que visitou todo mundo",Tessa não visitou Tiara,0,definite_description
+"Malía é a pessoa que visitou todo lugar, Naia visitou Malía",Naia não visitou Santa Rita do Novo Destino,0,definite_description
+"Carmo é a pessoa que visitou todo lugar, Carmo visitou Teolinda",Teolinda não visitou Serra da Raiz,0,definite_description
+"Kai é a pessoa que visitou todo lugar, Kai visitou Crisanta",Kai não visitou Segredo,1,definite_description
+"Marita visitou Gloriosa, Marita é a pessoa que visitou todo lugar",Marita não visitou Palestina de Goiás,1,definite_description
+"Niéves visitou Lucileine, Lucileine é a pessoa que visitou todo mundo",Lucileine não visitou Mariza,1,definite_description
+"Analdina visitou Ermengarda, Analdina é a pessoa que visitou todo lugar",Analdina não visitou Boa Nova,1,definite_description
+"Precília visitou Andreína, Andreína é a pessoa que visitou todo lugar",Andreína não visitou Diamante do Norte,1,definite_description
+"Mavilde visitou Arménia, Arménia é a pessoa que visitou todo mundo",Mavilde não visitou Maribel,0,definite_description
+"Biana visitou Girel, Girel é a pessoa que visitou todo lugar",Biana não visitou Demerval Lobão,0,definite_description
+"Josuana visitou Maísa, Maísa é a pessoa que visitou todo lugar",Josuana não visitou Terra Nova,0,definite_description
+"Dione é a pessoa que visitou todo mundo, Dione visitou Mona",Mona não visitou Norvinda,0,definite_description
+"Dilsa é a pessoa que visitou todo mundo, Dilsa visitou Dafne",Dafne não visitou Sextina,0,definite_description
+"Dulcina é a pessoa que visitou todo mundo, Dulcina visitou Lólia",Dulcina não visitou Leandra,1,definite_description
+"Idília é a pessoa que visitou todo lugar, Idília visitou Ilídia",Ilídia não visitou São Gonçalo do Pará,0,definite_description
+"Mirna visitou Guislene, Guislene é a pessoa que visitou todo mundo",Guislene não visitou Anteia,1,definite_description
+"Juna visitou Geovanna, Juna é a pessoa que visitou todo lugar",Geovanna não visitou Turilândia,0,definite_description
+"Cornélia é a pessoa que visitou todo lugar, Cornélia visitou Diomar",Cornélia não visitou Pindorama,1,definite_description
+"Cânia visitou Rossana, Rossana é a pessoa que visitou todo lugar",Rossana não visitou Araçuaí,1,definite_description
+"Marilita visitou Mabília, Marilita é a pessoa que visitou todo mundo",Mabília não visitou Lurdite,0,definite_description
+"Melida é a pessoa que visitou todo mundo, Saulina visitou Melida",Saulina não visitou Énia,0,definite_description
+"Denise é a pessoa que visitou todo lugar, Denise visitou Terezinha",Terezinha não visitou Santa Carmem,0,definite_description
+"Ellie visitou Igelcemina, Igelcemina é a pessoa que visitou todo lugar",Ellie não visitou Careiro da Várzea,0,definite_description
+"Iriana visitou Melodia, Melodia é a pessoa que visitou todo mundo",Melodia não visitou Jenny,1,definite_description
+"Engrácia visitou Agatha, Engrácia é a pessoa que visitou todo lugar",Engrácia não visitou Picos,1,definite_description
+"Rosandra é a pessoa que visitou todo mundo, Polina visitou Rosandra",Polina não visitou Maureen,0,definite_description
+"Seomara visitou Rosebele, Seomara é a pessoa que visitou todo mundo",Rosebele não visitou Nour,0,definite_description
+"Florisa visitou Cesarina, Florisa é a pessoa que visitou todo mundo",Florisa não visitou Libéria,1,definite_description
+"Dúnia é a pessoa que visitou todo lugar, Dúnia visitou Rubi",Rubi não visitou Itacurubi,0,definite_description
+"Traciana é a pessoa que visitou todo lugar, Olinda visitou Traciana",Olinda não visitou Ibirama,0,definite_description
+"Noor visitou Priscila, Noor é a pessoa que visitou todo lugar",Priscila não visitou Jordão,0,definite_description
+"Quessia é a pessoa que visitou todo mundo, Silvie visitou Quessia",Silvie não visitou Suzanne,0,definite_description
+"Haidé visitou Esménia, Haidé é a pessoa que visitou todo lugar",Haidé não visitou São João de Meriti,1,definite_description
+"de Deus visitou Dilsa, de Deus é a pessoa que visitou todo lugar",Dilsa não visitou Aripuanã,0,definite_description
+"Melisa visitou Mabília, Melisa é a pessoa que visitou todo lugar",Mabília não visitou Ibirapuã,0,definite_description
+"Idrisse visitou Oureana, Idrisse é a pessoa que visitou todo lugar",Oureana não visitou Agricolândia,0,definite_description
+"Mya é a pessoa que visitou todo lugar, Mya visitou Marilina",Mya não visitou Crixás do Tocantins,1,definite_description
+"Liberdade é a pessoa que visitou todo mundo, Liberdade visitou Nói",Liberdade não visitou Carmelinda,1,definite_description
+"Namira é a pessoa que visitou todo lugar, Namira visitou Nelsa",Nelsa não visitou Jaçanã,0,definite_description
+"Jacira é a pessoa que visitou todo mundo, Elva visitou Jacira",Elva não visitou de São Luís,0,definite_description
+"Libânia é a pessoa que visitou todo lugar, Jasmine visitou Libânia",Libânia não visitou Santana do Ipanema,1,definite_description
+"Nahla visitou Hilda, Hilda é a pessoa que visitou todo lugar",Nahla não visitou Paulo Afonso,0,definite_description
+"Amarília visitou Clorinda, Amarília é a pessoa que visitou todo lugar",Amarília não visitou Jaguapitã,1,definite_description
+"Elva é a pessoa que visitou todo mundo, Benigna visitou Elva",Benigna não visitou Natalina,0,definite_description
+"Naida é a pessoa que visitou todo mundo, Naida visitou Acélia",Acélia não visitou Quirina,0,definite_description
+"Arlinda visitou Casta, Casta é a pessoa que visitou todo mundo",Casta não visitou Rosalinda,1,definite_description
+"Sharon é a pessoa que visitou todo mundo, Sharon visitou Naila",Sharon não visitou Amabélia,1,definite_description
+"Nilsa visitou Florinda, Florinda é a pessoa que visitou todo lugar",Nilsa não visitou Cristalândia do Piauí,0,definite_description
+"Malu é a pessoa que visitou todo lugar, Malu visitou Neusa",Neusa não visitou Extremoz,0,definite_description
+"Benilde visitou Marita, Benilde é a pessoa que visitou todo lugar",Benilde não visitou Turilândia,1,definite_description

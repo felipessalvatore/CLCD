@@ -1,0 +1,3 @@
+acc =  0.520
+best_params =  {'epochs': 4, 'embedding_dim': 23, 'rnn_dim': 41, 'layers': 1, 'learning_rate': 0.009474529874121177, 'momentum': 0.028451784373327328, 'load_emb': None, 'bidirectional': False, 'freeze_emb': False, 'opt': 'sgd', 'drop': 0.004383714524042077, 'model': 'gru'}
+model path =  qnli_little_gru_BertBase/rnn_models/qnli_little_gru_BertBase_gru_embedding_None_epochs_4_layers_1_embedding_dim_23_rnn_dim_41_learning_rate_0p009_momentum_0p028_bi_False_freeze_emb_False_opt_sgd_drop_0p004.pkl
