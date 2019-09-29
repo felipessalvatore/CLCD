@@ -1,3 +1,0 @@
-acc =  0.706
-best_params =  {'epochs': 7, 'embedding_dim': 315, 'rnn_dim': 181, 'layers': 1, 'learning_rate': 0.09044017409760077, 'momentum': 0.21258256120294972, 'load_emb': None, 'bidirectional': False, 'freeze_emb': False, 'opt': 'sgd', 'drop': 0.37046639653138197, 'model': 'gru'}
-model path =  dialogue_nli_little_gru_BertLarge/rnn_models/dialogue_nli_little_gru_BertLarge_gru_embedding_None_epochs_7_layers_1_embedding_dim_315_rnn_dim_181_learning_rate_0p090_momentum_0p213_bi_False_freeze_emb_False_opt_sgd_drop_0p370.pkl
