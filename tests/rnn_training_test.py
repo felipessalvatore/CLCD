@@ -39,9 +39,9 @@ class TrainFunctionsTest(unittest.TestCase):
 
     @classmethod
     def setUp(cls):
-        cls.path_train = os.path.join("fixed_data",
+        cls.path_train = os.path.join("text_gen_output",
                                       "boolean1_train.csv")
-        cls.path_test = os.path.join("fixed_data",
+        cls.path_test = os.path.join("text_gen_output",
                                      "boolean1_test.csv")
         TEXT, LABEL, train, valid, test = get_data(cls.path_train,
                                                    cls.path_test)

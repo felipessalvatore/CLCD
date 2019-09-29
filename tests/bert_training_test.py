@@ -40,8 +40,8 @@ class BERTtrainer(unittest.TestCase):
         cls.num_labels_task = {"contraboolean": 2}
 
         cls.df_name = "boolean1_UNITTEST"
-        train_path = os.path.join("fixed_data", "boolean1_train.csv")
-        test_path = os.path.join("fixed_data", "boolean1_test.csv")
+        train_path = os.path.join("text_gen_output", "boolean1_train.csv")
+        test_path = os.path.join("text_gen_output", "boolean1_test.csv")
         df_train = pd.read_csv(train_path)
         simple_pre_process_text_df(df_train, key="sentence1")
         simple_pre_process_text_df(df_train, key="sentence2")

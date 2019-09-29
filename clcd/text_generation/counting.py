@@ -268,7 +268,7 @@ if __name__ == '__main__':
     # python clcd/text_generation/counting.py
 
     # english
-    create_csv(out_path="fixed_data/contra_scale/counting_train.csv",  # noqa
+    create_csv(out_path="text_gen_output/counting_train.csv",  # noqa
                size=10000,
                person_list=male_names,
                place_list=countries,
@@ -277,7 +277,7 @@ if __name__ == '__main__':
                positive_instances_list=positive_instances_list_en,
                negative_instances_list=negative_instances_list_en)  # noqa
 
-    create_csv(out_path="fixed_data/contra_scale/counting_test.csv",  # noqa
+    create_csv(out_path="text_gen_output/counting_test.csv",  # noqa
                size=1000,
                person_list=female_names,
                place_list=cities_and_states,
@@ -287,7 +287,7 @@ if __name__ == '__main__':
                negative_instances_list=negative_instances_list_en)  # noqa
 
     # portuguese
-    create_csv(out_path="fixed_data/contra_scale/counting_pt_train.csv",  # noqa
+    create_csv(out_path="text_gen_output/counting_pt_train.csv",  # noqa
                size=10000,
                person_list=male_names_pt,
                place_list=countries_pt,
@@ -296,7 +296,7 @@ if __name__ == '__main__':
                positive_instances_list=positive_instances_list_pt,
                negative_instances_list=negative_instances_list_pt)  # noqa
 
-    create_csv(out_path="fixed_data/contra_scale/counting_pt_test.csv",  # noqa
+    create_csv(out_path="text_gen_output/counting_pt_test.csv",  # noqa
                size=1000,
                person_list=female_names_pt,
                place_list=cities_pt,
