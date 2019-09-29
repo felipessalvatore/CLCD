@@ -1,6 +1,6 @@
-python clcl/text_generation/simple_negation.py
-python clcl/text_generation/boolean_coordination.py
-python clcl/text_generation/equality_and_definite_description.py
-python clcl/text_generation/quantifier.py
-python clcl/text_generation/comparative.py
-python clcl/text_generation/counting.py
+python clcd/text_generation/simple_negation.py
+python clcd/text_generation/boolean_coordination.py
+python clcd/text_generation/equality_and_definite_description.py
+python clcd/text_generation/quantifier.py
+python clcd/text_generation/comparative.py
+python clcd/text_generation/counting.py
