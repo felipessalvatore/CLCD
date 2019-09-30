@@ -28,6 +28,8 @@ $ bash gen.sh
 
 the result datasets will be stored in the folder `text_gen_output`.
 
+The list of all used templates is displayed in the file `templates.pdf`.
+
 
 ## Dataset
 
