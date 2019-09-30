@@ -60,7 +60,7 @@ def contradiction_instance_3(person_list,
                              Rt_eq_function=Rt_eq,
                              and_str="and"):
     """
-    T = {x > [x1, ....., xn], x >= y}
+    T = {x > [x1, ....., xn], y >= x}
 
     new = xi > y ----------- 1
     """
@@ -131,7 +131,7 @@ def non_contradiction_instance_3(person_list,
                                  Rt_eq_function=Rt_eq,
                                  and_str="and"):
     """
-    T = {x > [x1, ....., xn], x >= y}
+    T = {x > [x1, ....., xn], y >= x}
 
     new = y > xi ----------- 0
     """
