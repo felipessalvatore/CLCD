@@ -5,7 +5,7 @@
 
 ## Introduction
 
-In this is the repository you will find the data and the code for the experiments reported in the paper  [A logical-based corpus for cross-lingual evaluation](https://arxiv.org/abs/1905.05704).
+In this is repository you will find the data and the code for the experiments reported in the paper  [A logical-based corpus for cross-lingual evaluation](https://arxiv.org/abs/1905.05704).
 
 
 ## Install
